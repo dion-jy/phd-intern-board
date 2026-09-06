@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-05T05:12:42.770952+00:00",
+ "generated_at": "2026-09-06T05:27:20.059084+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 8982,
+ "scanned_jobs": 8967,
  "by_kind": {
   "tracked": 95,
-  "discovery": 113,
+  "discovery": 111,
   "blindspot": 182,
   "evergreen": 24
  },
- "total_listings": 414,
+ "total_listings": 412,
  "matched": 95,
  "off_board_file": 6,
  "evergreen": 24,
  "xposts": 7,
- "discover": 295,
+ "discover": 293,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 3006 live",
+   "Summer2027: 3016 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 3006 live"
+   "Summer2026: 3016 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 16186,
-  "active": 3005,
-  "phd": 594,
+  "total": 16122,
+  "active": 3015,
+  "phd": 595,
   "blindspot": 182,
-  "discovery": 155,
-  "dropped_tracked": 16,
-  "dropped_category": 240,
+  "discovery": 154,
+  "dropped_tracked": 17,
+  "dropped_category": 241,
   "dropped_excluded": 1,
-  "by_title": 16,
-  "discovery_after_title_filter": 113
+  "by_title": 17,
+  "discovery_after_title_filter": 111
  },
- "new": 14,
+ "new": 0,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -50,7 +50,7 @@
    "lab": "Scale AI",
    "ats": "greenhouse",
    "slug": "scaleai",
-   "postings": 216,
+   "postings": 215,
    "matched": 10,
    "evergreen": 0,
    "error": null
@@ -68,7 +68,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 595,
+   "postings": 593,
    "matched": 4,
    "evergreen": 1,
    "error": null
@@ -104,7 +104,7 @@
    "lab": "Perplexity",
    "ats": "ashby",
    "slug": "perplexity",
-   "postings": 111,
+   "postings": 112,
    "matched": 3,
    "evergreen": 0,
    "error": null
@@ -185,7 +185,7 @@
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 871,
+   "postings": 860,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -401,7 +401,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 778,
+   "postings": 779,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -410,7 +410,7 @@
    "lab": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "postings": 348,
+   "postings": 346,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -455,7 +455,7 @@
    "lab": "Graphcore",
    "ats": "greenhouse",
    "slug": "graphcore",
-   "postings": 190,
+   "postings": 191,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -473,7 +473,7 @@
    "lab": "Woven by Toyota",
    "ats": "lever",
    "slug": "woven-by-toyota",
-   "postings": 157,
+   "postings": 154,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -578,19 +578,19 @@
    "error": null
   },
   {
-   "lab": "DeepL",
+   "lab": "Suno",
    "ats": "ashby",
-   "slug": "deepl",
+   "slug": "suno",
    "postings": 65,
    "matched": 0,
    "evergreen": 0,
    "error": null
   },
   {
-   "lab": "Suno",
+   "lab": "DeepL",
    "ats": "ashby",
-   "slug": "suno",
-   "postings": 64,
+   "slug": "deepl",
+   "postings": 65,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -1049,8 +1049,8 @@
   "Spotify",
   "Agility Robotics",
   "Fireworks AI",
-  "DeepL",
   "Suno",
+  "DeepL",
   "Sarvam AI",
   "KRAFTON",
   "Synthesia",

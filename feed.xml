@@ -119,13 +119,6 @@
     <summary>Seattle, WA · Big tech · PhD</summary>
   </entry>
   <entry>
-    <title>Boston Scientific &#8212; Research Algorithm &amp; Data Science Intern - Interns/Graduates</title>
-    <link rel="alternate" href="https://bostonscientific.eightfold.ai/careers/job/563602813483110"/>
-    <id>urn:phd-intern-board:simplify:1660f3b8-719e-4c50-ab5b-b793e4f1da1f</id>
-    <updated>2026-09-02T06:24:26+00:00</updated>
-    <summary>Arden Hills, MN · Other · PhD</summary>
-  </entry>
-  <entry>
     <title>Tesla &#8212; Machine Learning Engineer Intern - Charging Data Modeling</title>
     <link rel="alternate" href="https://www.tesla.com/careers/search/job/281940"/>
     <id>urn:phd-intern-board:simplify:84d2832d-f2be-4040-a7c8-6624a43f50fc</id>
@@ -406,13 +399,6 @@
     <summary>China, Shanghai · Big tech</summary>
   </entry>
   <entry>
-    <title>Royal Bank of Canada &#8212; Business Analyst Intern - AI Innovation</title>
-    <link rel="alternate" href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977"/>
-    <id>urn:phd-intern-board:simplify:3f5ffb28-9dd8-40e6-ba6a-b7fc6052a43a</id>
-    <updated>2026-08-25T00:00:00+00:00</updated>
-    <summary>Toronto, ON, Canada · Other · PhD</summary>
-  </entry>
-  <entry>
     <title>Kodiak Robotics &#8212; AI/ML Intern - Artificial Intelligence/Machine Learning</title>
     <link rel="alternate" href="https://job-boards.greenhouse.io/kodiak/jobs/4377407009"/>
     <id>urn:phd-intern-board:simplify:21abe7e3-285d-4817-a48a-557228cb2228</id>
@@ -425,5 +411,19 @@
     <id>urn:phd-intern-board:simplify:ba733cd9-7086-4e38-bdec-d13b07b8b1d3</id>
     <updated>2026-08-24T20:02:57+00:00</updated>
     <summary>London, UK, Cambridge, UK, St Albans, UK · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Apple &#8212; GPU Intern</title>
+    <link rel="alternate" href="https://jobs.apple.com/en-us/details/200679652"/>
+    <id>urn:phd-intern-board:simplify:68eeb05f-c94a-49b3-950a-0e69b203c009</id>
+    <updated>2026-08-24T20:02:56+00:00</updated>
+    <summary>London, UK, Cambridge, UK, St Albans, UK · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Google &#8212; Software Engineer Intern</title>
+    <link rel="alternate" href="https://www.google.com/about/careers/applications/jobs/results/91436104816698054"/>
+    <id>urn:phd-intern-board:simplify:cd7682b8-7722-4a26-9813-42ece290a387</id>
+    <updated>2026-08-24T14:36:05+00:00</updated>
+    <summary>Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA · Frontier lab · PhD</summary>
   </entry>
 </feed>
