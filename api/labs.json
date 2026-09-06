@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-06T05:27:20.059084+00:00",
- "active": 110,
- "excluded": 28,
- "unresolved": 51,
+ "generated_at": "2026-09-06T11:20:44.771124+00:00",
+ "active": 109,
+ "excluded": 29,
+ "unresolved": 52,
  "labs": [
   {
    "name": "Anthropic",
@@ -26,13 +26,14 @@
   },
   {
    "name": "Google DeepMind",
-   "ats": "greenhouse",
-   "slug": "deepmind",
+   "ats": "none",
+   "slug": null,
    "tier": "frontier",
-   "verified_at": "2026-08-23",
-   "job_count": 10,
-   "active": true,
-   "domain": "deepmind.google"
+   "verified_at": "2026-09-06",
+   "job_count": 0,
+   "active": false,
+   "domain": "deepmind.google",
+   "note": "greenhouse/deepmind returned 404 \"Job board not found\" on 2026-09-06, having served 10 senior roles the day before; deepmind.google/about/careers now points at google.com/about/careers, Google's own system, which serves no job titles to a server request. Deactivated so the daily run stops erroring on it. The board had never carried a DeepMind internship anyway -- student researcher roles were always on Google careers, which is why the only one this project has ever seen came through @gabriberton's X post"
   },
   {
    "name": "xAI",

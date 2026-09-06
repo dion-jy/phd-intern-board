@@ -61,6 +61,25 @@ def post_id(url_or_id):
     raise ValueError("cannot find a post id in %r" % url_or_id)
 
 
+def _resolve(short):
+    """Follow a t.co to what it points at. Returns None rather than the shortener on
+    failure: a link labelled t.co/xxxx is worse than no link, since the label is the
+    only thing telling a reader where they are about to go."""
+    if not short:
+        return None
+    if "t.co/" not in short:
+        return short
+    try:
+        # Only network faults belong in here. The first version caught Exception and
+        # swallowed a NameError from a constant this module does not define, so every
+        # link silently came back empty and it read like t.co refusing us.
+        r = requests.head(short, headers=UA, timeout=20, allow_redirects=True)
+        final = r.url
+    except requests.RequestException:
+        return None
+    return final if final and "t.co/" not in final else None
+
+
 def fetch(url_or_id):
     pid = post_id(url_or_id)
     r = requests.get(ENDPOINT % pid, headers=UA, timeout=25)
@@ -70,6 +89,24 @@ def fetch(url_or_id):
     user = d.get("user") or {}
     links = [u.get("expanded_url") for u in (d.get("entities") or {}).get("urls", [])
              if u.get("expanded_url")]
+
+    # A post whose only link is the one X renders as a preview card carries nothing in
+    # entities.urls, so reading entities alone loses the destination entirely -- which
+    # is the whole point of an announcement post. The AMI Labs post and the MATS one
+    # both landed with an empty link list for this reason. The card URL is displayed by
+    # X below the text, so including it shows what the post shows rather than adding
+    # anything; it is resolved from the card's own vanity domain when present.
+    card = d.get("card") or {}
+    bind = card.get("binding_values") or {}
+    card_url = ((bind.get("website_url") or {}).get("string_value")
+                or (bind.get("card_url") or {}).get("string_value"))
+    if card_url:
+        dest = _resolve(card_url)
+        # Only the resolved destination is worth showing. A t.co would render as
+        # "t.co/o1lJ2bkc21", which tells a reader nothing, and posts that already
+        # expose the same link through entities would gain a duplicate of it.
+        if dest and dest not in links:
+            links.append(dest)
 
     # Show the post as written. The only trimming is display_text_range, which is
     # X's own marker for where the visible text ends (trailing media and quote-tweet
