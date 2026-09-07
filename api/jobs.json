@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-06T11:20:44.771124+00:00",
- "count": 95,
+ "generated_at": "2026-09-07T05:37:32.122019+00:00",
+ "count": 94,
  "jobs": [
   {
    "company": "NVIDIA",
@@ -1905,31 +1905,6 @@
    ]
   },
   {
-   "company": "Anthropic",
-   "tier": "frontier",
-   "ats": "greenhouse",
-   "domain": "anthropic.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Anthropic Fellows Program",
-   "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA; British Columbia, CA; Ontario, CA; Remote-Friendly US (Travel Required)",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
-   "posted_at": "2025-12-11T12:27:23-05:00",
-   "department": "AI Research & Engineering",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": false,
-   "job_id": "greenhouse:anthropic:5023394008",
-   "order": 382,
-   "regions": [
-    "UK",
-    "US",
-    "Remote"
-   ]
-  },
-  {
    "company": "Etched",
    "tier": "infra",
    "ats": "ashby",
@@ -1948,7 +1923,7 @@
    ],
    "phd": true,
    "job_id": "ashby:etched:6f23713f-5409-45b7-aae8-adb8710cdbc3",
-   "order": 383,
+   "order": 382,
    "regions": [
     "US"
    ]
@@ -1971,7 +1946,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:7417128",
-   "order": 384,
+   "order": 383,
    "regions": [
     "US"
    ]
@@ -1994,7 +1969,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:nuro:7351061",
-   "order": 385,
+   "order": 384,
    "regions": [
     "US"
    ]
@@ -2017,7 +1992,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4612329005",
-   "order": 386,
+   "order": 385,
    "regions": [
     "UK",
     "Remote"
@@ -2041,7 +2016,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4620719005",
-   "order": 387,
+   "order": 386,
    "regions": [
     "UK",
     "Remote"
@@ -2065,7 +2040,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4591782005",
-   "order": 391,
+   "order": 390,
    "regions": [
     "US",
     "Remote"
@@ -2089,7 +2064,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4574113005",
-   "order": 392,
+   "order": 391,
    "regions": [
     "US",
     "Remote"
@@ -2113,7 +2088,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4476000008",
-   "order": 394,
+   "order": 393,
    "regions": [
     "Canada"
    ]
@@ -2137,7 +2112,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:ce58d9fd-f22b-4336-80b5-ba1e8d764526",
-   "order": 395,
+   "order": 394,
    "regions": [
     "US"
    ]
@@ -2160,7 +2135,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4123863008",
-   "order": 397,
+   "order": 396,
    "regions": [
     "Canada",
     "Remote"
@@ -2185,7 +2160,7 @@
    ],
    "phd": false,
    "job_id": "ashby:physicalintelligence:f020ff1a-4b4c-4415-8434-2da5010a7076",
-   "order": 398,
+   "order": 397,
    "regions": [
     "US"
    ]
@@ -2208,7 +2183,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:databricks:7011263002",
-   "order": 402,
+   "order": 401,
    "regions": [
     "US"
    ]
@@ -2231,7 +2206,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:lgairesearch:4130830005",
-   "order": 404,
+   "order": 403,
    "regions": [
     "US"
    ]

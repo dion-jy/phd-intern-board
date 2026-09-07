@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-06T11:20:44.771124+00:00",
+ "generated_at": "2026-09-07T05:37:32.122019+00:00",
  "scanned_labs": 109,
- "scanned_jobs": 8969,
+ "scanned_jobs": 8980,
  "by_kind": {
-  "tracked": 95,
+  "tracked": 94,
   "discovery": 111,
   "blindspot": 182,
   "evergreen": 24
  },
- "total_listings": 412,
- "matched": 95,
+ "total_listings": 411,
+ "matched": 94,
  "off_board_file": 6,
  "evergreen": 24,
  "xposts": 8,
@@ -18,21 +18,21 @@
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 2995 live",
+   "Summer2027: 3024 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 2995 live"
+   "Summer2026: 3024 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 16118,
-  "active": 2994,
-  "phd": 589,
+  "total": 16040,
+  "active": 3023,
+  "phd": 595,
   "blindspot": 182,
-  "discovery": 153,
-  "dropped_tracked": 17,
-  "dropped_category": 236,
+  "discovery": 154,
+  "dropped_tracked": 16,
+  "dropped_category": 242,
   "dropped_excluded": 1,
-  "by_title": 17,
+  "by_title": 16,
   "discovery_after_title_filter": 111
  },
  "new": 0,
@@ -41,7 +41,7 @@
    "lab": "NVIDIA",
    "ats": "workday",
    "slug": "nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite",
-   "postings": 73,
+   "postings": 74,
    "matched": 32,
    "evergreen": 0,
    "error": null
@@ -65,21 +65,21 @@
    "error": null
   },
   {
-   "lab": "Anthropic",
-   "ats": "greenhouse",
-   "slug": "anthropic",
-   "postings": 593,
-   "matched": 4,
-   "evergreen": 1,
-   "error": null
-  },
-  {
    "lab": "Applied Intuition",
    "ats": "ashby",
    "slug": "applied",
    "postings": 281,
    "matched": 5,
    "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "Anthropic",
+   "ats": "greenhouse",
+   "slug": "anthropic",
+   "postings": 591,
+   "matched": 3,
+   "evergreen": 1,
    "error": null
   },
   {
@@ -164,6 +164,15 @@
    "error": null
   },
   {
+   "lab": "Sony (global)",
+   "ats": "workday",
+   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers",
+   "postings": 7,
+   "matched": 2,
+   "evergreen": 0,
+   "error": null
+  },
+  {
    "lab": "AMI Labs",
    "ats": "ashby",
    "slug": "ami",
@@ -173,19 +182,10 @@
    "error": null
   },
   {
-   "lab": "Sony (global)",
-   "ats": "workday",
-   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers",
-   "postings": 6,
-   "matched": 2,
-   "evergreen": 0,
-   "error": null
-  },
-  {
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 870,
+   "postings": 868,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -401,7 +401,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 779,
+   "postings": 782,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -410,7 +410,7 @@
    "lab": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "postings": 346,
+   "postings": 348,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -446,7 +446,7 @@
    "lab": "Sierra",
    "ats": "ashby",
    "slug": "sierra",
-   "postings": 207,
+   "postings": 212,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -527,7 +527,7 @@
    "lab": "LangChain",
    "ats": "ashby",
    "slug": "langchain",
-   "postings": 105,
+   "postings": 106,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -608,7 +608,7 @@
    "lab": "KRAFTON",
    "ats": "greenhouse",
    "slug": "krafton",
-   "postings": 60,
+   "postings": 62,
    "matched": 0,
    "evergreen": 0,
    "error": null
