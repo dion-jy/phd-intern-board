@@ -412,17 +412,17 @@ WORKDAY_TITLE = re.compile(
 
 
 
-WORKDAY_RETRIES = 3
+MANY_REQUEST_RETRIES = 3
 
 
-def _wd_request(method, url, **kw):
+def _retry_request(method, url, **kw):
     """Workday is read over roughly eighty requests per lab, where the other three
     readers make one. That changes the odds: on 2026-08-31 a single read timeout on
     one Adobe page took the entire lab out of that day's run. Retries absorb the
     blip. A failure that survives them still raises, so it lands in status.errors
     instead of the lab quietly reporting zero openings."""
     last = None
-    for attempt in range(WORKDAY_RETRIES):
+    for attempt in range(MANY_REQUEST_RETRIES):
         try:
             r = method(url, timeout=TIMEOUT, **kw)
             if r.status_code < 500:
@@ -430,7 +430,7 @@ def _wd_request(method, url, **kw):
             last = ValueError("http %d" % r.status_code)
         except requests.RequestException as exc:
             last = exc
-        if attempt < WORKDAY_RETRIES - 1:
+        if attempt < MANY_REQUEST_RETRIES - 1:
             time.sleep(1.5 * (attempt + 1))
     raise last
 
@@ -438,7 +438,7 @@ def _wd_request(method, url, **kw):
 def _workday_list(base, term):
     out, offset = [], 0
     for _ in range(WORKDAY_MAX_PAGES):
-        r = _wd_request(requests.post, base + "/jobs", headers=WD_HEADERS,
+        r = _retry_request(requests.post, base + "/jobs", headers=WD_HEADERS,
                         json={"appliedFacets": {}, "limit": WORKDAY_PAGE,
                               "offset": offset, "searchText": term})
         if r.status_code != 200:
@@ -465,7 +465,7 @@ def _workday_detail(base, lab, path):
     # A detail that will not load costs one listing, not the lab, so this one swallows
     # the failure where the listing pass deliberately does not.
     try:
-        r = _wd_request(requests.get, base + path, headers=WD_HEADERS)
+        r = _retry_request(requests.get, base + path, headers=WD_HEADERS)
     except Exception:
         return None
     if r.status_code != 200:
@@ -507,8 +507,83 @@ def fetch_workday(lab):
     return [r for r in rows if r]
 
 
+
+
+# --- Eightfold --------------------------------------------------------------
+# The fifth reader, and the one that reaches Microsoft Research. Microsoft was
+# recorded ats:none for weeks and the board carried five of its postings, all from
+# the aggregator and all North American or European -- while Research Intern roles
+# sat open in Singapore, Beijing, Hong Kong, Tokyo and Bangalore, unseen.
+#
+# Its search API refuses us outright ("Not authorized for PCSX", 403), so the board
+# cannot be queried. But the site publishes a sitemap of every posting, and the
+# slug in each URL carries the title and the location:
+#
+#     /job/1970393556978904-research-intern-singapore-singapore-singapore
+#
+# So enumeration is one cheap request and the filter runs on text already in hand;
+# only postings that survive it cost a detail call. Both paths are sanctioned by
+# their own robots.txt, which disallows everything except /careers and /api/apply.
+EIGHTFOLD_MAX_DETAIL = 120
+
+# Applied to the slug, which contains the title -- so this costs no requests.
+EIGHTFOLD_SLUG = re.compile(
+    r"intern|internship|residen|fellow|phd|postdoc|student|graduate", re.I)
+
+
+def _eightfold_pids(host):
+    r = _retry_request(requests.get, "https://%s/careers/sitemap.xml" % host, headers=UA)
+    if r.status_code != 200:
+        raise ValueError("sitemap http %d" % r.status_code)
+    out = []
+    for m in re.finditer(r"/job/(\d+)-([a-z0-9-]+)\?", r.text):
+        out.append((m.group(1), m.group(2)))
+    if not out:
+        raise ValueError("sitemap carried no job slugs")
+    return out
+
+
+def _eightfold_detail(host, domain, lab, pid):
+    url = "https://%s/api/apply/v2/jobs/%s?domain=%s" % (host, pid, domain)
+    try:
+        r = _retry_request(requests.get, url, headers=UA)
+    except Exception:
+        return None
+    if r.status_code != 200:
+        return None
+    try:
+        j = r.json()
+    except ValueError:
+        return None
+    if not j.get("name"):
+        return None
+    created = j.get("t_create")
+    return {
+        "job_id": "eightfold:%s:%s" % (domain, j.get("id") or pid),
+        "title": (j.get("name") or "").strip(),
+        "location": merge_locations(j.get("locations") or [], j.get("location")),
+        "url": j.get("canonicalPositionUrl") or "https://%s/careers/job/%s" % (host, pid),
+        "posted_at": (datetime.fromtimestamp(created, timezone.utc).isoformat()
+                      if isinstance(created, (int, float)) else None),
+        "desc": strip_html(j.get("job_description") or "")[:6000],
+        "department": j.get("business_unit") or j.get("department") or "",
+        "employment_type": None,
+        "commitment": None,
+    }
+
+
+def fetch_eightfold(lab):
+    host, domain = lab["slug"].split("/", 1)
+    pids = [p for p, slug in _eightfold_pids(host) if EIGHTFOLD_SLUG.search(slug)]
+    pids = pids[:EIGHTFOLD_MAX_DETAIL]
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        rows = list(pool.map(lambda p: _eightfold_detail(host, domain, lab, p), pids))
+    return [r for r in rows if r]
+
+
 FETCH = {"greenhouse": fetch_greenhouse, "ashby": fetch_ashby,
-         "lever": fetch_lever, "workday": fetch_workday}
+         "lever": fetch_lever, "workday": fetch_workday,
+         "eightfold": fetch_eightfold}
 
 
 def fetch_one(lab):

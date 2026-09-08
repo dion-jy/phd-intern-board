@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-07T05:37:32.122019+00:00",
- "active": 109,
+ "generated_at": "2026-09-08T03:42:46.525613+00:00",
+ "active": 110,
  "excluded": 29,
- "unresolved": 52,
+ "unresolved": 51,
  "labs": [
   {
    "name": "Anthropic",
@@ -858,13 +858,14 @@
   },
   {
    "name": "Microsoft / MSR",
-   "ats": "none",
-   "slug": null,
+   "ats": "eightfold",
+   "slug": "apply.careers.microsoft.com/microsoft.com",
    "tier": "bigtech",
-   "verified_at": "2026-08-23",
-   "job_count": 0,
-   "note": "own applicant system (careers.microsoft.com)",
-   "domain": "microsoft.com"
+   "verified_at": "2026-09-08",
+   "job_count": 2180,
+   "active": true,
+   "domain": "microsoft.com",
+   "note": "Eightfold. The search API answers 403 \"Not authorized for PCSX\", so the board cannot be queried -- but careers/sitemap.xml lists every posting and the slug carries the title and location, which makes enumeration one request. Their robots.txt disallows everything except /careers and /api/apply, both of which this uses. job_count is the sitemap size, not the intern count"
   },
   {
    "name": "Amazon / AWS AI",

@@ -14,6 +14,7 @@ exist. mistral-ai, together-ai, cohere and adept were all recorded as live board
 that way before this was caught.
 """
 import json
+import re
 import sys
 from concurrent.futures import ThreadPoolExecutor
 
@@ -108,8 +109,29 @@ def probe_workday(slug):
     return {"ok": True, "count": body.get("total", 0)}
 
 
+def probe_eightfold(slug):
+    """Eightfold, addressed as "host/domain". Existence is decided by the sitemap,
+    not the search API -- the latter answers 403 for a tenant that is perfectly
+    readable, so treating it as the liveness test would reject working boards."""
+    try:
+        host, domain = slug.split("/", 1)
+    except ValueError:
+        return {"ok": False, "reason": "slug must be host/domain"}
+    try:
+        r = requests.get("https://%s/careers/sitemap.xml" % host, headers=UA, timeout=TIMEOUT)
+    except Exception as exc:
+        return {"ok": False, "reason": "exc:%s" % type(exc).__name__}
+    if r.status_code != 200:
+        return {"ok": False, "reason": "http:%d" % r.status_code}
+    pids = re.findall(r"/job/(\d+)-", r.text)
+    if not pids:
+        return {"ok": False, "reason": "sitemap has no job slugs"}
+    return {"ok": True, "count": len(set(pids))}
+
+
 PROBES = {"greenhouse": probe_greenhouse, "ashby": probe_ashby,
-          "lever": probe_lever, "workday": probe_workday}
+          "lever": probe_lever, "workday": probe_workday,
+          "eightfold": probe_eightfold}
 
 
 def run(task):
