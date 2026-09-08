@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-08T03:42:46.525613+00:00",
+ "generated_at": "2026-09-08T05:33:37.204598+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9029,
+ "scanned_jobs": 9027,
  "by_kind": {
   "discovery": 112,
   "tracked": 111,
@@ -18,14 +18,14 @@
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 3084 live",
+   "Summer2027: 3081 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 3084 live"
+   "Summer2026: 3081 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
   "total": 16111,
-  "active": 3083,
+  "active": 3080,
   "phd": 604,
   "blindspot": 181,
   "discovery": 161,
@@ -35,7 +35,7 @@
   "by_title": 16,
   "discovery_after_title_filter": 112
  },
- "new": 18,
+ "new": 0,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -86,7 +86,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 588,
+   "postings": 587,
    "matched": 3,
    "evergreen": 1,
    "error": null
@@ -275,7 +275,7 @@
    "lab": "Reflection AI",
    "ats": "ashby",
    "slug": "reflectionai",
-   "postings": 50,
+   "postings": 49,
    "matched": 0,
    "evergreen": 1,
    "error": null

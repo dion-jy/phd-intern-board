@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T03:42:46.525613+00:00",
+ "generated_at": "2026-09-08T05:33:37.204598+00:00",
  "count": 293,
  "blindspot": 181,
  "discovery": 112,
@@ -7,14 +7,14 @@
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 3084 live",
+   "Summer2027: 3081 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 3084 live"
+   "Summer2026: 3081 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
   "total": 16111,
-  "active": 3083,
+  "active": 3080,
   "phd": 604,
   "blindspot": 181,
   "discovery": 161,
