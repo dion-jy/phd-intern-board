@@ -1,6 +1,350 @@
 {
- "generated_at": "2026-09-08T05:33:37.204598+00:00",
+ "generated_at": "2026-09-09T05:40:24.508470+00:00",
  "first_run": false,
- "count": 0,
- "jobs": []
+ "count": 10,
+ "jobs": [
+  {
+   "company": "Coinbase",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Machine Learning Engineer Intern",
+   "location": "SF",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=8175441",
+   "posted_at": "2026-09-09T01:20:57+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:8c38dae4-969d-4c95-83c5-685fd048d556",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Formlabs",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Software Intern",
+   "location": "Somerville, MA",
+   "url": "https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874",
+   "posted_at": "2026-09-08T22:09:43+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:ecf8ac0c-8122-406d-a618-0f8022b19ad8",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Apple",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "GPU Intern - Multiple Teams",
+   "location": "London, UK, Cambridge, UK, St Albans, UK",
+   "url": "https://jobs.apple.com/en-us/details/200682357",
+   "posted_at": "2026-09-08T14:10:50+00:00",
+   "department": "Hardware",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Fall 2026",
+    "Winter 2026",
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "domain": "apple.com",
+   "job_id": "simplify:4bcd5c66-dd7f-4827-9604-aaf0042ab85a",
+   "order": 2,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Capital One",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Applied Research Intern",
+   "location": "San Jose, CA, McLean, VA, NYC",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1",
+   "posted_at": "2026-09-08T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:d6cc7924-5545-46c3-8847-89f485a17231",
+   "order": 3,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Gilead Sciences",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI/ML Intern - IT",
+   "location": "Foster City, CA",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---CFO---IT_R0054789",
+   "posted_at": "2026-09-08T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "MBA",
+    "PharmD",
+    "PhD",
+    "JD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:681fb2ef-d759-47da-a70a-cc7baff032cf",
+   "order": 4,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Gilead Sciences",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Development Intern - CDS AI Research Center",
+   "location": "Foster City, CA",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625",
+   "posted_at": "2026-09-08T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "MBA",
+    "PhD",
+    "JD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:28a5db23-8ee4-4cee-951a-362454e82c50",
+   "order": 5,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Intact",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Scientist 1 Intern Co-op - Winter 2027",
+   "location": "Toronto, ON, Canada",
+   "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027--_R155113",
+   "posted_at": "2026-09-08T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:5a085a4f-363a-4411-aba0-a8054c506f33",
+   "order": 6,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Intact",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Scientist Intern Co-op",
+   "location": "Montreal, QC, Canada, Québec City, QC, Canada",
+   "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132",
+   "posted_at": "2026-09-08T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:03a833e4-7ed1-4c11-8ab3-0499130c5a20",
+   "order": 7,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Intact",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Scientist Intern Co-op - Winter 2027",
+   "location": "Vancouver, BC, Canada",
+   "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Vancouver-British-Columbia-CAN/Data-Scientist-I---4-Month-Co-op-Internship--Winter-2027-_R155129",
+   "posted_at": "2026-09-08T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:fbfafe1d-80fc-4e5c-a626-912f00c64fc9",
+   "order": 8,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Merck",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Computational Toxicology Intern - AI/ML Computational Toxicology",
+   "location": "West Point, PA",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
+   "posted_at": "2026-09-08T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:f52421f1-2b11-4885-a968-c3cc90b2857f",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  }
+ ]
 }
