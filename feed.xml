@@ -14,6 +14,27 @@
     <summary>SF · Other · PhD</summary>
   </entry>
   <entry>
+    <title>NVIDIA &#8212; Software Engineering Intern — Replay Tooling &amp; Test Automation, Autonomous Driving</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2022086</id>
+    <updated>2026-09-09T00:00:00+00:00</updated>
+    <summary>Germany, Munich · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>The Aerospace Corporation &#8212; Machine Learning Engineering Intern</title>
+    <link rel="alternate" href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432"/>
+    <id>urn:phd-intern-board:simplify:d4635072-e119-4baf-b36e-a727b1f20c52</id>
+    <updated>2026-09-09T00:00:00+00:00</updated>
+    <summary>Colorado Springs, CO, El Segundo, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Tokyo Electron &#8212; Software Engineer Intern - AI Research</title>
+    <link rel="alternate" href="https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531"/>
+    <id>urn:phd-intern-board:simplify:69b00435-ded2-4b2b-b17c-8301a26ab57e</id>
+    <updated>2026-09-09T00:00:00+00:00</updated>
+    <summary>San Jose, CA · Other · PhD</summary>
+  </entry>
+  <entry>
     <title>Formlabs &#8212; AI Software Intern</title>
     <link rel="alternate" href="https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874"/>
     <id>urn:phd-intern-board:simplify:ecf8ac0c-8122-406d-a618-0f8022b19ad8</id>
@@ -133,6 +154,13 @@
     <summary>Redmond, WA · Big tech · PhD</summary>
   </entry>
   <entry>
+    <title>Microsoft / MSR &#8212; Penetration Tester, SERPENT: Internship Opportunities</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393556988202"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393556988202</id>
+    <updated>2026-09-03T21:12:06+00:00</updated>
+    <summary>United States, Washington, Redmond · Big tech</summary>
+  </entry>
+  <entry>
     <title>X Development &#8212; PhD Resident - Multiple Teams</title>
     <link rel="alternate" href="https://x.company/careers/8771593002?gh_jid=8771593002"/>
     <id>urn:phd-intern-board:simplify:b5144d7a-4031-4237-8ae0-01a01c08e570</id>
@@ -159,13 +187,6 @@
     <id>urn:phd-intern-board:simplify:6d124577-37f3-43dc-9f09-4adaf82dbdae</id>
     <updated>2026-09-03T00:00:00+00:00</updated>
     <summary>Remote in USA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Corteva &#8212; Research and Development Intern - Computer and Data Science</title>
-    <link rel="alternate" href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W"/>
-    <id>urn:phd-intern-board:simplify:04fa737d-39fc-4d4c-a941-98752f72b8ec</id>
-    <updated>2026-09-03T00:00:00+00:00</updated>
-    <summary>Indianapolis, IN · Other · PhD</summary>
   </entry>
   <entry>
     <title>Micron Technology &#8212; AI Agentic Systems Engineer Intern</title>
@@ -404,26 +425,5 @@
     <id>urn:phd-intern-board:eightfold:microsoft.com:1970393556982928</id>
     <updated>2026-08-28T11:33:31+00:00</updated>
     <summary>United States, Washington, Redmond · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>AMI Labs &#8212; AMI Scientist/Interns - Geometry and 3D Vision</title>
-    <link rel="alternate" href="https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2"/>
-    <id>urn:phd-intern-board:ashby:ami:0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2</id>
-    <updated>2026-08-27T10:46:00.167+00:00</updated>
-    <summary>Paris, Singapore +2 more · Frontier lab</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393556982268"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393556982268</id>
-    <updated>2026-08-27T05:40:56+00:00</updated>
-    <summary>Hong Kong SAR, Hong Kong Island, Hong Kong · Big tech</summary>
-  </entry>
-  <entry>
-    <title>ABB &#8212; Physical AI Robotics Simulation Intern</title>
-    <link rel="alternate" href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1"/>
-    <id>urn:phd-intern-board:simplify:8e55e1d9-a6ba-4cf3-b2bd-186d0907c738</id>
-    <updated>2026-08-27T00:00:00+00:00</updated>
-    <summary>Milpitas, CA · Other · PhD</summary>
   </entry>
 </feed>
