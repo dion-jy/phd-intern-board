@@ -1,74 +1,18 @@
 {
- "generated_at": "2026-09-10T05:31:08.389291+00:00",
+ "generated_at": "2026-09-11T05:34:16.811915+00:00",
  "first_run": false,
- "count": 5,
+ "count": 15,
  "jobs": [
   {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Software Engineering Intern — Replay Tooling & Test Automation, Autonomous Driving",
-   "location": "Germany, Munich",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
-   "posted_at": "2026-09-09T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2022086",
-   "order": 1,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "The Aerospace Corporation",
+   "company": "Bedrock Robotics",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Machine Learning Engineering Intern",
-   "location": "Colorado Springs, CO, El Segundo, CA",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432",
-   "posted_at": "2026-09-09T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:d4635072-e119-4baf-b36e-a727b1f20c52",
-   "order": 2,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Tokyo Electron",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Software Engineer Intern - AI Research",
-   "location": "San Jose, CA",
-   "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
-   "posted_at": "2026-09-09T00:00:00+00:00",
+   "title": "Onboard Infrastructure Engineer Intern - ML Inference",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true",
+   "posted_at": "2026-09-10T22:33:51+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -87,45 +31,296 @@
     "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:69b00435-ded2-4b2b-b17c-8301a26ab57e",
+   "job_id": "simplify:7530c688-5657-4159-baad-6d34c53ff482",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Bedrock Robotics",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Behavior Machine Learning Engineer Intern - World Models",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true",
+   "posted_at": "2026-09-10T22:33:49+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:66b1fe7b-a6c1-4da5-a7f1-d4789239afce",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Inferact",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Inference Engineer Co-op",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/inferact/2b6032f9-12a5-4083-b5e6-4bec5376cbaa/application?embed=true",
+   "posted_at": "2026-09-10T22:29:10+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:98ea5788-0156-42e7-a01a-2e72217c974c",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI & Data Science Intern - Analytic Capabilities",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/60008?icims=1",
+   "posted_at": "2026-09-10T22:22:15+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
    "order": 3,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Penetration Tester, SERPENT: Internship Opportunities",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556988202",
-   "posted_at": "2026-09-03T21:12:06+00:00",
-   "department": "Cloud + AI",
-   "confidence": "medium",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Engineering/Science Intern - Tailored Autonomous Systems",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/59968?icims=1",
+   "posted_at": "2026-09-10T22:22:09+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
    "match": [
-    "body-research-role"
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
    ],
-   "phd": false,
-   "job_id": "eightfold:microsoft.com:1970393556988202",
-   "order": 21,
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:0c28ec70-1138-4464-8cfe-9732f94e0dbd",
+   "order": 4,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Toyota Research Institute",
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Postdoctoral Researcher Intern - Foundational AI: Theory and Architectures",
+   "location": "Cambridge, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991730",
+   "posted_at": "2026-09-10T22:20:49+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:4417e2fa-13a3-4601-ab35-e10e9459ca81",
+   "order": 5,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+   "location": "Mountain View, California; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
+   "posted_at": "2026-09-10T18:57:41-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8193295",
+   "order": 6,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Vehicle Intent and Prediction",
+   "location": "Mountain View, California; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8189848",
+   "posted_at": "2026-09-10T16:09:47-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8189848",
+   "order": 7,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Robotics Systems and Control Intern",
+   "location": "Cambridge, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724",
+   "posted_at": "2026-09-10T14:24:19+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:12081dae-1434-4294-84d6-903009f0c86b",
+   "order": 8,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Intel",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Robotics Research Intern - Post-Training",
-   "location": "Los Altos, CA",
-   "url": "https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0/apply",
-   "posted_at": "2026-08-17T22:09:17+00:00",
+   "title": "AI Software Engineer Intern - Artificial Intelligence",
+   "location": "Hillsboro, OR, Phoenix, AZ",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
+   "posted_at": "2026-09-10T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:708f11f6-e04e-4613-ab59-fb51bde3e253",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Marvell",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Ph.D. Intern - AI/ML & Design Automation",
+   "location": "Morrisville, NC, Austin, TX, Irvine, CA, Santa Clara, CA, Westlake Village, CA, Boise, ID, Burlington, VT, Chandler, AZ, Westborough, MA",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412",
+   "posted_at": "2026-09-10T00:00:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -139,13 +334,123 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Fall 2026"
+    "Winter 2026"
    ],
    "domain": "",
-   "job_id": "simplify:e5f8a85e-932c-4e67-b965-44c9946b5a23",
-   "order": 137,
+   "job_id": "simplify:9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
+   "order": 10,
    "regions": [
     "US"
+   ]
+  },
+  {
+   "company": "Procter & Gamble",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Science and Machine Learning PhD Intern",
+   "location": "Mason, OH",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Data-Science-and-Machine-Learning_R000158138",
+   "posted_at": "2026-09-10T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:40230ab3-ddc1-4540-b302-39c127c06640",
+   "order": 11,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Procter & Gamble",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Research and Development PhD Intern - Life Cycle Assessment - Data Science",
+   "location": "Mason, OH",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Cycle-Assessment--LCA--Data-Science_R000158787",
+   "posted_at": "2026-09-10T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:44c2aa20-8092-459f-8710-f180c50636b0",
+   "order": 12,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Cambridge Internship Program - Robotics Systems and Control",
+   "location": "",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724",
+   "posted_at": "2026-09-09T15:30:04+00:00",
+   "department": "Cloud + AI",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393556991724",
+   "order": 13,
+   "regions": [
+    "Unspecified"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Postdoctoral Researcher (Foundational AI: Theory and Architectures)",
+   "location": "United Kingdom, Cambridgeshire, Cambridge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991730",
+   "posted_at": "2026-09-09T15:24:21+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393556991730",
+   "order": 14,
+   "regions": [
+    "UK"
    ]
   }
  ]
