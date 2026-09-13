@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-12T05:20:16.187934+00:00",
+ "generated_at": "2026-09-13T05:36:41.972908+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9060,
+ "scanned_jobs": 9065,
  "by_kind": {
-  "discovery": 130,
-  "blindspot": 173,
-  "tracked": 105,
+  "discovery": 131,
+  "blindspot": 169,
+  "tracked": 103,
   "evergreen": 24
  },
- "total_listings": 432,
- "matched": 105,
+ "total_listings": 427,
+ "matched": 103,
  "off_board_file": 6,
  "evergreen": 24,
  "xposts": 8,
- "discover": 303,
+ "discover": 300,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 3763 live",
+   "Summer2027: 3722 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 3763 live"
+   "Summer2026: 3722 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 16685,
-  "active": 3762,
-  "phd": 714,
-  "blindspot": 173,
+  "total": 16602,
+  "active": 3721,
+  "phd": 704,
+  "blindspot": 169,
   "discovery": 195,
   "dropped_tracked": 19,
-  "dropped_category": 326,
+  "dropped_category": 320,
   "dropped_excluded": 1,
   "by_title": 16,
-  "discovery_after_title_filter": 130
+  "discovery_after_title_filter": 131
  },
- "new": 11,
+ "new": 2,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -50,8 +50,8 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 72,
-   "matched": 18,
+   "postings": 69,
+   "matched": 16,
    "evergreen": 0,
    "error": null
   },
@@ -86,7 +86,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 595,
+   "postings": 596,
    "matched": 3,
    "evergreen": 1,
    "error": null
@@ -194,7 +194,7 @@
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 888,
+   "postings": 892,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -230,7 +230,7 @@
    "lab": "Mercor",
    "ats": "ashby",
    "slug": "mercor",
-   "postings": 102,
+   "postings": 103,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -302,7 +302,7 @@
    "lab": "Physical Intelligence",
    "ats": "ashby",
    "slug": "physicalintelligence",
-   "postings": 34,
+   "postings": 35,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -527,7 +527,7 @@
    "lab": "LangChain",
    "ats": "ashby",
    "slug": "langchain",
-   "postings": 108,
+   "postings": 109,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -608,7 +608,7 @@
    "lab": "KRAFTON",
    "ats": "greenhouse",
    "slug": "krafton",
-   "postings": 62,
+   "postings": 63,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -653,7 +653,7 @@
    "lab": "Parloa",
    "ats": "greenhouse",
    "slug": "parloa",
-   "postings": 51,
+   "postings": 52,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -866,15 +866,6 @@
    "error": null
   },
   {
-   "lab": "PolyAI",
-   "ats": "greenhouse",
-   "slug": "polyai",
-   "postings": 7,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
    "lab": "Langfuse",
    "ats": "ashby",
    "slug": "langfuse",
@@ -897,6 +888,15 @@
    "ats": "ashby",
    "slug": "cradlebio",
    "postings": 6,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "PolyAI",
+   "ats": "greenhouse",
+   "slug": "polyai",
+   "postings": 5,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -1080,10 +1080,10 @@
   "OpenEvidence",
   "Stability AI",
   "Pinecone",
-  "PolyAI",
   "Langfuse",
   "Inflection AI",
   "Cradle",
+  "PolyAI",
   "deepset",
   "Sail Research",
   "Imbue",

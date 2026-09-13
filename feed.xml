@@ -105,6 +105,13 @@
     <summary>Laurel, MD · Other · PhD</summary>
   </entry>
   <entry>
+    <title>Johns Hopkins Applied Physics Laboratory &#8212; Engineering/Science Intern - Tailored Autonomous Systems</title>
+    <link rel="alternate" href="https://careers.jhuapl.edu/jobs/59968?icims=1"/>
+    <id>urn:phd-intern-board:simplify:0c28ec70-1138-4464-8cfe-9732f94e0dbd</id>
+    <updated>2026-09-10T22:22:09+00:00</updated>
+    <summary>Laurel, MD · Other · PhD</summary>
+  </entry>
+  <entry>
     <title>Microsoft &#8212; Postdoctoral Researcher Intern - Foundational AI: Theory and Architectures</title>
     <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393556991730"/>
     <id>urn:phd-intern-board:simplify:4417e2fa-13a3-4601-ab35-e10e9459ca81</id>
@@ -350,13 +357,6 @@
     <summary>Remote in USA · Other · PhD</summary>
   </entry>
   <entry>
-    <title>Microsoft / MSR &#8212; Applied Science: PhD Internship Opportunities - Multiple Locations</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393556986140"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393556986140</id>
-    <updated>2026-09-02T18:04:28+00:00</updated>
-    <summary>United States, Washington, Redmond, United States, California, Mountain View · Big tech · PhD</summary>
-  </entry>
-  <entry>
     <title>Microsoft / MSR &#8212; Data Science: AI Experiences PhD Internship Opportunities - Redmond</title>
     <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393556986137"/>
     <id>urn:phd-intern-board:eightfold:microsoft.com:1970393556986137</id>
@@ -392,13 +392,6 @@
     <summary>Palo Alto, CA · Big tech · PhD</summary>
   </entry>
   <entry>
-    <title>Microsoft &#8212; Data Scientist Intern</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393556982928"/>
-    <id>urn:phd-intern-board:simplify:8df7539c-d0c7-4783-8d10-a19510da93da</id>
-    <updated>2026-09-01T22:37:12+00:00</updated>
-    <summary>Redmond, WA · Big tech · PhD</summary>
-  </entry>
-  <entry>
     <title>University Health Network &#8212; Research Technical Assistant - AI and Multimodal Foundation Models</title>
     <link rel="alternate" href="https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000146744019"/>
     <id>urn:phd-intern-board:simplify:0c22eace-033a-461d-8d35-efddba759631</id>
@@ -425,5 +418,12 @@
     <id>urn:phd-intern-board:simplify:c9d7a6a4-c813-465b-a38f-7316e0ba7b4d</id>
     <updated>2026-09-01T04:54:31+00:00</updated>
     <summary>Remote in USA, Remote in Australia · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; Developer Technology Engineering Intern, HPC and AI - 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024509</id>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+    <summary>Taiwan, Taipei · Big tech · PhD</summary>
   </entry>
 </feed>

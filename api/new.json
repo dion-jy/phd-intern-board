@@ -1,150 +1,18 @@
 {
- "generated_at": "2026-09-12T05:20:16.187934+00:00",
+ "generated_at": "2026-09-13T05:36:41.972908+00:00",
  "first_run": false,
- "count": 11,
+ "count": 2,
  "jobs": [
   {
-   "company": "DiDi Global",
+   "company": "Johns Hopkins Applied Physics Laboratory",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Motion Planning Engineer Intern - PhD",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/didi/jobs/8198303",
-   "posted_at": "2026-09-12T01:33:52+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:b8b44917-e950-4ffd-96b3-06c801348283",
-   "order": 0,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Veeam Software",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Machine Learning Intern - AI",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101",
-   "posted_at": "2026-09-11T22:25:03+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:7b2cb969-df39-4029-8cdf-b12669432319",
-   "order": 1,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "AMD",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI Systems & GPU Performance Engineer Intern",
-   "location": "San Jose, CA, Santa Clara, CA",
-   "url": "https://careers.amd.com/jobs/92354?icims=1",
-   "posted_at": "2026-09-11T22:20:04+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027",
-    "Summer 2027",
-    "Fall 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:fd459609-149f-4f12-8894-a6124c4b7163",
-   "order": 2,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "AMD",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Machine Learning System Engineering Intern/Co-op",
-   "location": "San Jose, CA, Santa Clara, CA",
-   "url": "https://careers.amd.com/jobs/92342?icims=1",
-   "posted_at": "2026-09-11T22:20:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2027",
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:daf764cc-9f18-4c08-8bf4-fd6a95cb1638",
-   "order": 3,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Lyft",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Software Engineer Intern - Machine Learning",
-   "location": "Toronto, ON, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
-   "posted_at": "2026-09-11T22:08:28+00:00",
+   "title": "Engineering/Science Intern - Tailored Autonomous Systems",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/59968?icims=1",
+   "posted_at": "2026-09-10T22:22:09+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -163,157 +31,22 @@
     "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:81859a79-5a01-4005-8fa7-de6b7c14d4cf",
-   "order": 4,
-   "regions": [
-    "Canada"
-   ]
-  },
-  {
-   "company": "Lyft",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Data Science Intern - Algorithms",
-   "location": "SF",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
-   "posted_at": "2026-09-11T22:08:24+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:e6b8584d-74df-48c0-a475-8fe11a90c9a9",
-   "order": 5,
+   "job_id": "simplify:0c28ec70-1138-4464-8cfe-9732f94e0dbd",
+   "order": 14,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Lyft",
+   "company": "Nio",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Data Science Intern - Algorithms",
-   "location": "NYC",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
-   "posted_at": "2026-09-11T22:08:24+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:267a6347-2627-4027-b5a0-8fc2dce16acf",
-   "order": 6,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Lyft",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Data Science Intern - Algorithms",
-   "location": "Toronto, ON, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
-   "posted_at": "2026-09-11T22:08:23+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:c66b6cc2-a45f-46b5-b66a-8a96899a61ff",
-   "order": 7,
-   "regions": [
-    "Canada"
-   ]
-  },
-  {
-   "company": "Amgen",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Remote in USA",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
-   "posted_at": "2026-09-11T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "MBA",
-    "PharmD",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:97071ed7-a906-402b-b755-8a9a9f9968c7",
-   "order": 8,
-   "regions": [
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "Fidelity Investments",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Machine Learning Co-op - Graph Technology Team",
-   "location": "Boston, MA",
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135237",
-   "posted_at": "2026-09-11T00:00:00+00:00",
+   "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
+   "location": "San Jose, CA",
+   "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/AI-Robotics-Researcher-Intern--Dexterous-Manipulation-_R-000150",
+   "posted_at": "2026-07-04T12:40:09+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -331,33 +64,10 @@
     "Winter 2026"
    ],
    "domain": "",
-   "job_id": "simplify:ebf1ebb8-5b9b-4ef9-a965-ff8476d3418e",
-   "order": 9,
+   "job_id": "simplify:da434a40-5732-4900-855f-676aa5cd10e7",
+   "order": 258,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Cloud Solution Architect - Erada Internship",
-   "location": "Qatar, Ad-Daw?ah, Doha",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556942310",
-   "posted_at": "2026-07-22T12:12:10+00:00",
-   "department": "MCAPS - Regions",
-   "confidence": "medium",
-   "match": [
-    "body-research-role"
-   ],
-   "phd": false,
-   "job_id": "eightfold:microsoft.com:1970393556942310",
-   "order": 234,
-   "regions": [
-    "Other"
    ]
   }
  ]
