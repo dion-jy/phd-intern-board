@@ -1,18 +1,94 @@
 {
- "generated_at": "2026-09-13T05:36:41.972908+00:00",
+ "generated_at": "2026-09-14T05:41:57.960415+00:00",
  "first_run": false,
- "count": 2,
+ "count": 4,
  "jobs": [
   {
-   "company": "Johns Hopkins Applied Physics Laboratory",
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+   "posted_at": "2026-09-13T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024171",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "PhD Research Intern, Circuits - 2027",
+   "location": "US, CA, Santa Clara; US, NC, Durham",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174",
+   "posted_at": "2026-09-13T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024174",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+   "posted_at": "2026-09-13T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "nvidia.com",
+   "job_id": "simplify:13c20210-b9de-4f8c-93a7-96ce7766afc3",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Tencent",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Engineering/Science Intern - Tailored Autonomous Systems",
-   "location": "Laurel, MD",
-   "url": "https://careers.jhuapl.edu/jobs/59968?icims=1",
-   "posted_at": "2026-09-10T22:22:09+00:00",
+   "title": "Hunyuan Multimodal Algorithm Researcher Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
+   "posted_at": "2026-03-05T10:50:34+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -28,44 +104,11 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2027"
+    "Summer 2026"
    ],
    "domain": "",
-   "job_id": "simplify:0c28ec70-1138-4464-8cfe-9732f94e0dbd",
-   "order": 14,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nio",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
-   "location": "San Jose, CA",
-   "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/AI-Robotics-Researcher-Intern--Dexterous-Manipulation-_R-000150",
-   "posted_at": "2026-07-04T12:40:09+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:da434a40-5732-4900-855f-676aa5cd10e7",
-   "order": 258,
+   "job_id": "simplify:f682356d-55da-4f90-987d-77f140cc652d",
+   "order": 368,
    "regions": [
     "US"
    ]
