@@ -1,94 +1,18 @@
 {
- "generated_at": "2026-09-14T05:41:57.960415+00:00",
+ "generated_at": "2026-09-15T05:43:20.533627+00:00",
  "first_run": false,
- "count": 4,
+ "count": 19,
  "jobs": [
   {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
-   "posted_at": "2026-09-13T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024171",
-   "order": 0,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Circuits - 2027",
-   "location": "US, CA, Santa Clara; US, NC, Durham",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174",
-   "posted_at": "2026-09-13T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024174",
-   "order": 1,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
-   "posted_at": "2026-09-13T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:13c20210-b9de-4f8c-93a7-96ce7766afc3",
-   "order": 2,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Tencent",
+   "company": "X Development",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-   "location": "Palo Alto, CA",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
-   "posted_at": "2026-03-05T10:50:34+00:00",
+   "title": "AI Resident - Machine Learning / Software Engineering - Early Stage Project",
+   "location": "Mountain View, CA",
+   "url": "https://x.company/careers/8802900002?gh_jid=8802900002",
+   "posted_at": "2026-09-14T22:39:36+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -104,11 +28,536 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2026"
+    "Winter 2026"
    ],
    "domain": "",
-   "job_id": "simplify:f682356d-55da-4f90-987d-77f140cc652d",
-   "order": 368,
+   "job_id": "simplify:b78a3dc5-6152-4ada-8d16-092bb5750261",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Intuit",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Scientist Intern",
+   "location": "NYC, Mountain View, CA, Atlanta, GA, San Diego, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536",
+   "posted_at": "2026-09-14T21:08:08+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:fefe3900-bf9a-4fe1-8ede-259288aed3e1",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Intuit",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Research Intern",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776",
+   "posted_at": "2026-09-14T21:08:07+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:5dd56415-18be-4d9a-9af3-671669a58563",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Silicon Engineering Intern",
+   "location": "Madison, WI, Austin, TX, Sunnyvale, CA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/136529930677560006",
+   "posted_at": "2026-09-14T20:24:24+00:00",
+   "department": "Hardware",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:ec5c4c16-d094-43ba-bd78-5d3ad61ff729",
+   "order": 3,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "User Experience Engineer Intern - PhD - Summer 2027",
+   "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, Irvine, CA, San Bruno, CA, Redmond, WA, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214",
+   "posted_at": "2026-09-14T20:24:24+00:00",
+   "department": "Software",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:05b3642e-a1c8-4a0a-b252-24530e109900",
+   "order": 4,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Student Researcher",
+   "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Houston, TX, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, Raleigh, NC, San Bruno, CA, Durham, NC, Ann Arbor, MI, Chicago, IL, Goleta, CA, Pittsburgh, PA, Princeton, NJ, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA, Boulder, CO, Atlanta, GA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/134313315235963590",
+   "posted_at": "2026-09-14T20:24:22+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:9850b5dd-6e6b-4fb0-81b2-240f12f59dd7",
+   "order": 5,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Student Researcher - BS/MS",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614",
+   "posted_at": "2026-09-14T20:24:22+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:36eda7d6-d1c3-433b-a403-7b764e131176",
+   "order": 6,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Business Data Scientist Intern",
+   "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830",
+   "posted_at": "2026-09-14T20:24:21+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:747b784e-260a-408e-9aaa-b44aae10b4e9",
+   "order": 7,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Student Researcher - PhD",
+   "location": "Toronto, ON, Canada, Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/75043041429070534",
+   "posted_at": "2026-09-14T20:23:47+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:ad149766-cd57-45bf-a6e5-bb9090b1527a",
+   "order": 8,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Hardware Engineer Intern - PhD",
+   "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574",
+   "posted_at": "2026-09-14T20:23:45+00:00",
+   "department": "Hardware",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:0bd3b5e2-7522-4160-93d9-aa94c49da2cd",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Data Scientist Research Intern - PhD",
+   "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/89965613241246406",
+   "posted_at": "2026-09-14T20:23:39+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:0a3f57fc-708c-4b77-9a27-a3fcff485267",
+   "order": 10,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
+   "posted_at": "2026-09-14T15:03:20-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8197899",
+   "order": 11,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Mistral AI",
+   "tier": "frontier",
+   "ats": "ashby",
+   "domain": "mistral.ai",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+   "location": "Paris",
+   "url": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
+   "posted_at": "2026-09-14T09:15:24.530+00:00",
+   "department": "Solutions",
+   "confidence": "high",
+   "match": [
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "ashby:mistral.ai:fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
+   "order": 12,
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Applied Sciences INTERN",
+   "location": "India, Multiple Locations, Multiple Locations",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556997800",
+   "posted_at": "2026-09-14T07:17:42+00:00",
+   "department": "Windows and Devices Group",
+   "confidence": "medium",
+   "match": [
+    "body-research-role"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393556997800",
+   "order": 13,
+   "regions": [
+    "Asia"
+   ]
+  },
+  {
+   "company": "Johnson & Johnson",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Postdoctoral Scientist - AI/ML",
+   "location": "Cambridge, MA, Spring House, PA, Madrid, Spain",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Scientist---AI-ML_R-098519",
+   "posted_at": "2026-09-14T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:6380881f-a45a-4afd-9856-5388dbf633d9",
+   "order": 14,
+   "regions": [
+    "Europe",
+    "US"
+   ]
+  },
+  {
+   "company": "Johnson & Johnson",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
+   "location": "Santa Clara, CA",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1",
+   "posted_at": "2026-09-14T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
+   "order": 15,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Oshkosh",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Autonomy Engineering Intern - Summer 2027",
+   "location": "New Hudson, MI",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Autonomy-Intern---Summer-2027_R50320",
+   "posted_at": "2026-09-14T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:7f72ef87-208f-40f9-9375-4c3aa13839b1",
+   "order": 16,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Materials Science Engineering INTERN",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995577",
+   "posted_at": "2026-09-11T23:31:50+00:00",
+   "department": "Copilot, Agents, and Platform",
+   "confidence": "medium",
+   "match": [
+    "body-research-role"
+   ],
+   "phd": false,
+   "job_id": "eightfold:microsoft.com:1970393556995577",
+   "order": 21,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "AI Software Engineering Intern",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+   "posted_at": "2026-08-13T21:02:58+00:00",
+   "department": "AI Experiences",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "eightfold:microsoft.com:1970393556962891",
+   "order": 165,
    "regions": [
     "US"
    ]
