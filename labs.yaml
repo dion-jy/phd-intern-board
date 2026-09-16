@@ -281,11 +281,11 @@ labs:
   active: true
   domain: physicalintelligence.company
 - name: World Labs
-  ats: greenhouse
+  ats: ashby
   slug: worldlabs
   tier: startup
-  verified_at: '2026-08-23'
-  job_count: 9
+  verified_at: '2026-09-16'
+  job_count: 8
   active: true
   domain: worldlabs.ai
 - name: Pika

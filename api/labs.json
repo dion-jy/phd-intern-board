@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T05:43:20.533627+00:00",
+ "generated_at": "2026-09-16T02:49:35.597814+00:00",
  "active": 110,
  "excluded": 29,
  "unresolved": 51,
@@ -347,11 +347,11 @@
   },
   {
    "name": "World Labs",
-   "ats": "greenhouse",
+   "ats": "ashby",
    "slug": "worldlabs",
    "tier": "startup",
-   "verified_at": "2026-08-23",
-   "job_count": 9,
+   "verified_at": "2026-09-16",
+   "job_count": 8,
    "active": true,
    "domain": "worldlabs.ai"
   },
