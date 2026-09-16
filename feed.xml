@@ -5,7 +5,14 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-09-15T22:21:48+00:00</updated>
+  <updated>2026-09-16T00:00:00+00:00</updated>
+  <entry>
+    <title>NVIDIA &#8212; Silicon Software Engineer - System and AI (RDSS Intern)</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025538</id>
+    <updated>2026-09-16T00:00:00+00:00</updated>
+    <summary>Taiwan, Taipei, Taiwan, Hsinchu · Big tech</summary>
+  </entry>
   <entry>
     <title>Elire &#8212; AI Data Science Consulting Intern - Knowledge Graphs &amp; Enterprise Data</title>
     <link rel="alternate" href="https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&amp;nl=1&amp;fr=false"/>
@@ -418,12 +425,5 @@
     <id>urn:phd-intern-board:eightfold:microsoft.com:1970393556991730</id>
     <updated>2026-09-09T15:24:21+00:00</updated>
     <summary>United Kingdom, Cambridgeshire, Cambridge · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Coinbase &#8212; Machine Learning Engineer Intern</title>
-    <link rel="alternate" href="https://boards.greenhouse.io/embed/job_app?token=8175441"/>
-    <id>urn:phd-intern-board:simplify:8c38dae4-969d-4c95-83c5-685fd048d556</id>
-    <updated>2026-09-09T01:20:57+00:00</updated>
-    <summary>SF · Other · PhD</summary>
   </entry>
 </feed>

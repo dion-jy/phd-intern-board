@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-09-16T02:49:35.597814+00:00",
+ "generated_at": "2026-09-16T05:35:20.418261+00:00",
  "first_run": false,
- "count": 0,
- "jobs": []
+ "count": 1,
+ "jobs": [
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
+   "location": "Taiwan, Taipei; Taiwan, Hsinchu",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
+   "posted_at": "2026-09-16T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025538",
+   "order": 0,
+   "regions": [
+    "Asia"
+   ]
+  }
+ ]
 }
