@@ -1,8 +1,383 @@
 {
- "generated_at": "2026-09-16T05:35:20.418261+00:00",
+ "generated_at": "2026-09-17T05:40:42.198430+00:00",
  "first_run": false,
- "count": 1,
+ "count": 19,
  "jobs": [
+  {
+   "company": "Pacific Northwest National Laboratory",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "PhD Intern - Language Intelligence",
+   "location": "Richland, WA, United States",
+   "url": "https://careers.pnnl.gov/jobs/12149?icims=1",
+   "posted_at": "2026-09-17T01:06:47+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:e7a217eb-3b85-4467-a232-5b59910d153f",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Apple",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Module Test Instrumentation & Automation Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.apple.com/en-us/details/200684185",
+   "posted_at": "2026-09-17T01:04:05+00:00",
+   "department": "Hardware",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "apple.com",
+   "job_id": "simplify:b0b2555a-638d-48e8-b2ba-b9c70b079360",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Kitware",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Research Intern",
+   "location": "Clifton Park, NY",
+   "url": "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply",
+   "posted_at": "2026-09-16T22:18:36+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:c5ee8357-17ae-4b7a-92ed-187f1d3bdb76",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "AMD",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Model Optimization & Software Engineer Intern/Co-op",
+   "location": "San Jose, CA, Santa Clara, CA",
+   "url": "https://careers.amd.com/jobs/92522?icims=1",
+   "posted_at": "2026-09-16T22:16:57+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:18657dfc-cf96-4382-b7e9-95fdbede5696",
+   "order": 3,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "AMD",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Model Optimization & Software Engineer Intern/Co-op",
+   "location": "Austin, TX",
+   "url": "https://careers.amd.com/jobs/92526?icims=1",
+   "posted_at": "2026-09-16T22:16:57+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2027",
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:3a8e2760-1a1a-4d40-ab39-93714d09030d",
+   "order": 4,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "CoVar",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Machine Learning Intern",
+   "location": "Durham, NC",
+   "url": "https://job-boards.greenhouse.io/covar/jobs/5240360007",
+   "posted_at": "2026-09-16T22:15:14+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:c582b6e2-b69e-4277-a7e9-2871a23168c4",
+   "order": 5,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+   "location": "Mountain View, California, United States; San Francisco, California, United States; Mountain View (US-MTV-EMF680); San Francisco (US-SFO-MKT555)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+   "posted_at": "2026-09-16T16:08:32-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8197554",
+   "order": 6,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Gecko Robotics",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI/Machine Learning Engineer Intern",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true",
+   "posted_at": "2026-09-16T14:19:16+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:cdf19c98-c74e-4082-9b37-51fcaaae298d",
+   "order": 7,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+   "location": "Mountain View, California, United States; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
+   "posted_at": "2026-09-16T12:23:13-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8202025",
+   "order": 8,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "ByteDance",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Scientist Intern - Seed Responsible AI",
+   "location": "San Jose, CA",
+   "url": "https://jobs.bytedance.com/en/position/7685504461452577077/detail",
+   "posted_at": "2026-09-16T09:25:04+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2026"
+   ],
+   "domain": "bytedance.com",
+   "job_id": "simplify:82ef6fed-e7e8-4860-81dc-834f0cd0e99a",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI and Autonomous Systems Engineer Intern",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/60021?icims=1",
+   "posted_at": "2026-09-16T06:12:47+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:56083f58-d4ed-4ca0-8bd9-321b06f71acc",
+   "order": 10,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Ancestry",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Science Co-op - AI Document Understanding",
+   "location": "Remote in USA",
+   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+   "posted_at": "2026-09-16T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:2249cbfe-fec4-4532-8b07-dda5c7f600a6",
+   "order": 11,
+   "regions": [
+    "US",
+    "Remote"
+   ]
+  },
   {
    "company": "NVIDIA",
    "tier": "bigtech",
@@ -10,20 +385,172 @@
    "domain": "nvidia.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
-   "location": "Taiwan, Taipei; Taiwan, Hsinchu",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
+   "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
+   "location": "Canada, Toronto",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
+   "posted_at": "2026-09-16T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024997",
+   "order": 13,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Quantum and Chemistry Research Intern - Quantum and AI for Chemistry",
+   "location": "Toronto, ON, Canada",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
+   "posted_at": "2026-09-16T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "nvidia.com",
+   "job_id": "simplify:4491adcd-bda4-4c6d-89e8-f5df9b5a197a",
+   "order": 14,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving",
+   "location": "Germany, Munich",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
    "posted_at": "2026-09-16T00:00:00+00:00",
    "department": "",
    "confidence": "medium",
    "match": [
     "title-research"
    ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025538",
-   "order": 0,
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2022086",
+   "order": 16,
    "regions": [
-    "Asia"
+    "Europe"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Postdoctoral Researcher (Foundational AI: Intelligent Systems)",
+   "location": "United Kingdom, Cambridgeshire, Cambridge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556998409",
+   "posted_at": "2026-09-14T14:36:00+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393556998409",
+   "order": 40,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
+   "posted_at": "2026-09-02T18:04:28+00:00",
+   "department": "HR Group",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393556986140",
+   "order": 99,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Data Scientist Intern",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+   "posted_at": "2026-09-01T22:37:12+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:8df7539c-d0c7-4783-8d10-a19510da93da",
+   "order": 105,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Data Science: PhD Internship Opportunities - Redmond",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+   "posted_at": "2026-08-28T11:33:31+00:00",
+   "department": "AI Experiences",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393556982928",
+   "order": 129,
+   "regions": [
+    "US"
    ]
   }
  ]
