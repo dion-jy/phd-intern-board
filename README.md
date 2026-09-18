@@ -229,45 +229,6 @@ something actually changed.
 composes the briefing. Note the `first_run` flag: on a cold start every listing counts as new,
 and a briefing should suppress that case.
 
-## Ad slots
-
-The page has three in-feed slots and one left rail, and they are **off**. With
-`AD.client` empty the script returns before it touches the DOM: no rail, no
-slots, no ad script in the head, and no request to anyone -- the board looks and
-behaves exactly as it does without this code. To see the layout anyway, append
-`?ads=preview` to the URL; that draws the empty boxes and still calls nobody.
-
-To turn them on, edit the `AD` object in `index.html` (search for `AD.client`):
-
-```js
-client:   "ca-pub-0000000000000000",   // from the AdSense account
-railSlot: "1234567890",                // a display unit, 300x600
-feedSlot: "0987654321",                // an in-feed unit
-at: [6, 20, 40]                        // job cards before each in-feed slot
-```
-
-and add an `ads.txt` at the repo root with the line AdSense gives you:
-
-```
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
-```
-
-`at` counts **job cards**, not list positions -- with `[6, 20, 40]` a reader
-passes 6 cards, an ad, 14 more cards, an ad, and so on. It is a fixed short list
-rather than "every N" on purpose: the list runs past 450 rows and an ad every N
-would put dozens of them in a page whose whole appeal is that it scans quickly.
-
-One function, `mount()`, is the only place that knows this is AdSense; slot
-placement, count and redraw handling are independent of it, so switching network
-is a change to that function alone.
-
-The redraw handling is the part worth not breaking. `draw()` rewrites the list
-on every keystroke and every filter change. The slot elements are therefore
-created once, kept in `SLOTS`, and moved back into the rebuilt list -- never
-recreated, and `mount()` refuses to run twice on the same box. Recreating them
-would fire a fresh ad request per keystroke, which is both broken and against
-AdSense's policy.
-
 ## Rebasing onto a daily commit
 
 `index.html` mixes hand-written source with regions `build_site.py` rewrites (the
