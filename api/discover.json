@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-19T05:26:43.928969+00:00",
- "count": 336,
- "blindspot": 184,
+ "generated_at": "2026-09-20T05:39:15.189552+00:00",
+ "count": 335,
+ "blindspot": 183,
  "discovery": 152,
  "stats": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 4440 live",
+   "Summer2027: 4397 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 4440 live"
+   "Summer2026: 4397 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17098,
-  "active": 4439,
-  "phd": 798,
-  "blindspot": 184,
-  "discovery": 223,
+  "total": 16985,
+  "active": 4396,
+  "phd": 795,
+  "blindspot": 183,
+  "discovery": 222,
   "dropped_tracked": 38,
-  "dropped_category": 352,
+  "dropped_category": 351,
   "dropped_excluded": 1,
   "by_title": 17,
   "discovery_after_title_filter": 152
@@ -4939,36 +4939,6 @@
    ]
   },
   {
-   "company": "Microsoft",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Optoelectronics Device Engineer Intern",
-   "location": "Cambridge, UK",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962583",
-   "posted_at": "2026-08-14T22:09:44+00:00",
-   "department": "Hardware",
-   "confidence": "medium",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Fall 2026"
-   ],
-   "domain": "microsoft.com",
-   "job_id": "simplify:b2b93c28-353f-458c-83fe-cd14c4471ac5",
-   "order": 222,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
    "company": "TikTok",
    "tier": "bigtech",
    "ats": "simplify",
@@ -4993,7 +4963,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
-   "order": 224,
+   "order": 222,
    "regions": [
     "US"
    ]
@@ -5023,7 +4993,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:70115b81-b4c5-4a64-8a6c-5b644608f906",
-   "order": 225,
+   "order": 223,
    "regions": [
     "US"
    ]
@@ -5053,7 +5023,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:fab6a94b-bce1-404c-bb49-443ecf37e5e8",
-   "order": 226,
+   "order": 224,
    "regions": [
     "US"
    ]
@@ -5083,7 +5053,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:37258bf6-9a8c-4245-bc45-0fb8e73fecca",
-   "order": 227,
+   "order": 225,
    "regions": [
     "US"
    ]
@@ -5113,7 +5083,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
-   "order": 228,
+   "order": 226,
    "regions": [
     "US"
    ]
@@ -5143,7 +5113,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:baeedb05-7415-43b1-a352-ff0efdc23b6b",
-   "order": 229,
+   "order": 227,
    "regions": [
     "US"
    ]
@@ -5174,7 +5144,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
-   "order": 230,
+   "order": 228,
    "regions": [
     "US"
    ]
@@ -5205,7 +5175,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
-   "order": 231,
+   "order": 229,
    "regions": [
     "US"
    ]
@@ -5239,7 +5209,7 @@
    ],
    "domain": "",
    "job_id": "simplify:8d32ce9d-b2f0-4126-8727-69bbd17e3c2e",
-   "order": 233,
+   "order": 231,
    "regions": [
     "UK"
    ]
@@ -5273,7 +5243,7 @@
    ],
    "domain": "",
    "job_id": "simplify:9d04080d-0ad1-42fe-b047-599eef0c1fd7",
-   "order": 232,
+   "order": 230,
    "regions": [
     "UK",
     "Canada",
@@ -5312,7 +5282,7 @@
    ],
    "domain": "",
    "job_id": "simplify:31ab487e-bda7-4337-94b7-bda1786f13f2",
-   "order": 234,
+   "order": 232,
    "regions": [
     "Canada"
    ]
@@ -5342,7 +5312,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:768f4b89-5b54-45bb-9e39-72e0b86c8110",
-   "order": 235,
+   "order": 233,
    "regions": [
     "US"
    ]
@@ -5374,7 +5344,7 @@
    ],
    "domain": "",
    "job_id": "simplify:398433b0-f2f4-4367-80dd-7f56b0ee3d6b",
-   "order": 236,
+   "order": 234,
    "regions": [
     "US"
    ]
@@ -5404,7 +5374,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:d22b9a28-466e-4bdc-aa6e-bb61ca96a1e7",
-   "order": 237,
+   "order": 235,
    "regions": [
     "US"
    ]
@@ -5434,7 +5404,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:76291290-bef0-475b-8a78-7859ffb4fd99",
-   "order": 239,
+   "order": 237,
    "regions": [
     "US"
    ]
@@ -5464,7 +5434,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:023ddd9a-be5d-40ae-9e52-080a1b833c8e",
-   "order": 238,
+   "order": 236,
    "regions": [
     "US"
    ]
@@ -5494,7 +5464,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:93816b55-fc41-43b1-b058-ac47d00ba49b",
-   "order": 241,
+   "order": 239,
    "regions": [
     "US"
    ]
@@ -5524,7 +5494,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:a65116f6-aec6-435e-99a0-2a17b28b8a2e",
-   "order": 240,
+   "order": 238,
    "regions": [
     "US"
    ]
@@ -5554,7 +5524,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:4af25efe-2dc0-4ef6-bd62-34ad9f646360",
-   "order": 242,
+   "order": 240,
    "regions": [
     "US"
    ]
@@ -5584,7 +5554,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:6f26ea4e-9081-475e-a1fa-ab0a978643f5",
-   "order": 243,
+   "order": 241,
    "regions": [
     "US"
    ]
@@ -5614,7 +5584,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:50940dc5-4b2f-4f49-983e-f589769f3848",
-   "order": 244,
+   "order": 242,
    "regions": [
     "US"
    ]
@@ -5645,7 +5615,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01",
-   "order": 245,
+   "order": 243,
    "regions": [
     "US"
    ]
@@ -5675,7 +5645,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:cdf9395b-da0f-432f-9723-65b649252bd5",
-   "order": 246,
+   "order": 244,
    "regions": [
     "US"
    ]
@@ -5705,7 +5675,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:d9969d97-e4d1-467c-94b9-aeb9a75fda17",
-   "order": 247,
+   "order": 245,
    "regions": [
     "US"
    ]
@@ -5735,7 +5705,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:ee6577e4-306e-47ad-8c9e-bcbbd0b17ab1",
-   "order": 249,
+   "order": 247,
    "regions": [
     "US"
    ]
@@ -5765,7 +5735,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:5033a3e5-8ceb-4617-8848-e12baa6486b4",
-   "order": 248,
+   "order": 246,
    "regions": [
     "US"
    ]
@@ -5795,7 +5765,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:2c2db121-8cc0-42be-a379-525e93f06a6b",
-   "order": 250,
+   "order": 248,
    "regions": [
     "US"
    ]
@@ -5825,7 +5795,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:0391c602-59f2-4230-93cc-3619a0a86272",
-   "order": 251,
+   "order": 249,
    "regions": [
     "US"
    ]
@@ -5856,7 +5826,7 @@
    ],
    "domain": "qualcomm.com",
    "job_id": "simplify:d51738a7-c696-4490-8b3f-37c15f392347",
-   "order": 252,
+   "order": 250,
    "regions": [
     "US"
    ]
@@ -5886,7 +5856,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:87667d11-6adc-446a-9b2e-15e0dc0b761b",
-   "order": 253,
+   "order": 251,
    "regions": [
     "US"
    ]
@@ -5916,7 +5886,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:e6bcc44f-fd6b-462f-a897-a31abbb56be7",
-   "order": 254,
+   "order": 252,
    "regions": [
     "US"
    ]
@@ -5947,7 +5917,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:5b7f08a3-2a1a-4cc9-9c45-1c1354b90913",
-   "order": 255,
+   "order": 253,
    "regions": [
     "US"
    ]
@@ -5978,7 +5948,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:1077cb58-5992-4ad8-acb0-7980b9360baa",
-   "order": 256,
+   "order": 254,
    "regions": [
     "US"
    ]
@@ -6008,7 +5978,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:f2aef99d-5325-4d85-b025-b5d38d673a4a",
-   "order": 257,
+   "order": 255,
    "regions": [
     "US"
    ]
@@ -6041,7 +6011,7 @@
    ],
    "domain": "",
    "job_id": "simplify:479646d1-48e1-47d1-9c04-1e57036052b1",
-   "order": 258,
+   "order": 256,
    "regions": [
     "US"
    ]
@@ -6071,7 +6041,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:a355430e-bb97-47ee-9229-434cec3e3a6c",
-   "order": 259,
+   "order": 257,
    "regions": [
     "US"
    ]
@@ -6104,7 +6074,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:6c0be2d1-eac9-429a-b900-df719577d679",
-   "order": 260,
+   "order": 258,
    "regions": [
     "US"
    ]
@@ -6134,7 +6104,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:f3e5daf4-604e-43d1-9fbc-8dc1c33b4ec5",
-   "order": 261,
+   "order": 259,
    "regions": [
     "US"
    ]
@@ -6164,7 +6134,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:14e4b536-7764-4b98-b518-83d0feea8ec0",
-   "order": 262,
+   "order": 260,
    "regions": [
     "US"
    ]
@@ -6194,7 +6164,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:208a259f-86eb-4abe-9157-64f5a84a17ca",
-   "order": 263,
+   "order": 261,
    "regions": [
     "US"
    ]
@@ -6224,7 +6194,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:f51e897f-3776-452b-9c35-46c88e0185ae",
-   "order": 264,
+   "order": 262,
    "regions": [
     "US"
    ]
@@ -6256,7 +6226,7 @@
    ],
    "domain": "",
    "job_id": "simplify:cef354bd-2b12-4392-972a-2a70f24ca3c6",
-   "order": 265,
+   "order": 263,
    "regions": [
     "US"
    ]
@@ -6290,7 +6260,7 @@
    ],
    "domain": "",
    "job_id": "simplify:3d2ef8a9-a5da-4120-9c53-50ceec3023cd",
-   "order": 266,
+   "order": 264,
    "regions": [
     "US"
    ]
@@ -6322,7 +6292,7 @@
    ],
    "domain": "",
    "job_id": "simplify:a2304215-7eea-4897-b101-88b9172fcae0",
-   "order": 267,
+   "order": 265,
    "regions": [
     "US"
    ]
@@ -6353,7 +6323,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:14e4cecc-8df0-4784-b302-5fa8e96fae39",
-   "order": 268,
+   "order": 266,
    "regions": [
     "US"
    ]
@@ -6384,7 +6354,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:aa3ae48a-c50e-4ccf-ad24-b0dee7dbdabc",
-   "order": 269,
+   "order": 267,
    "regions": [
     "US"
    ]
@@ -6414,7 +6384,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:42c0c70a-f3aa-4aab-b737-a65c498589b7",
-   "order": 270,
+   "order": 268,
    "regions": [
     "US"
    ]
@@ -6444,7 +6414,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:04b480ff-ebb0-42e4-b8b2-91fc9a145fe2",
-   "order": 271,
+   "order": 269,
    "regions": [
     "US"
    ]
@@ -6474,7 +6444,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:09941b8a-df5a-4b38-83d0-d44aca79128c",
-   "order": 272,
+   "order": 270,
    "regions": [
     "US"
    ]
@@ -6504,7 +6474,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:254d1c36-2e43-4f3a-86fc-ec06b7e8a725",
-   "order": 273,
+   "order": 271,
    "regions": [
     "US"
    ]
@@ -6534,7 +6504,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:92df8e09-9c84-4019-9087-e8a497375754",
-   "order": 274,
+   "order": 272,
    "regions": [
     "US"
    ]
@@ -6564,7 +6534,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:b9b419b0-d028-4baf-bd91-fc550d093bae",
-   "order": 275,
+   "order": 273,
    "regions": [
     "US"
    ]
@@ -6594,7 +6564,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:f85329a1-e142-4cd0-addc-48436e7b29be",
-   "order": 276,
+   "order": 274,
    "regions": [
     "US"
    ]
@@ -6624,7 +6594,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:7125ebf4-f7ce-4863-8495-30a7f8d59f7d",
-   "order": 277,
+   "order": 275,
    "regions": [
     "US"
    ]
@@ -6654,7 +6624,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:e3086785-c94b-4a66-82a8-52a73cc4b994",
-   "order": 278,
+   "order": 276,
    "regions": [
     "US"
    ]
@@ -6684,7 +6654,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:aa8461e0-479c-42e8-b21c-4489e4881002",
-   "order": 283,
+   "order": 281,
    "regions": [
     "US"
    ]
@@ -6714,7 +6684,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:a0f6cef3-bbc6-4223-9b6a-33ff06368b58",
-   "order": 281,
+   "order": 279,
    "regions": [
     "US"
    ]
@@ -6744,7 +6714,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:ff726677-73d4-416f-9342-25617fee706e",
-   "order": 282,
+   "order": 280,
    "regions": [
     "US"
    ]
@@ -6774,7 +6744,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:c61645da-785b-4921-a413-a019a2fd8b4e",
-   "order": 280,
+   "order": 278,
    "regions": [
     "US"
    ]
@@ -6804,7 +6774,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:54936466-1738-4f96-99aa-7dca5c1c5fb1",
-   "order": 279,
+   "order": 277,
    "regions": [
     "US"
    ]
@@ -6834,7 +6804,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:f5390082-331a-4384-ba8f-6385c2291080",
-   "order": 284,
+   "order": 282,
    "regions": [
     "US"
    ]
@@ -6864,7 +6834,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:475c6e64-fc16-434f-a3fc-59634cda73e3",
-   "order": 285,
+   "order": 283,
    "regions": [
     "US"
    ]
@@ -6896,7 +6866,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:c03b7a2c-d1b6-4e44-bfc8-e638eeb45dac",
-   "order": 286,
+   "order": 284,
    "regions": [
     "US"
    ]
@@ -6926,7 +6896,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:7488c664-80c5-4270-8dba-8eeb45c1397a",
-   "order": 288,
+   "order": 286,
    "regions": [
     "US"
    ]
@@ -6956,7 +6926,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:df848f9e-ca3e-4ea9-ac5c-e1e9596730ba",
-   "order": 287,
+   "order": 285,
    "regions": [
     "US"
    ]
@@ -6987,7 +6957,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:ac3e3883-21b0-4ad1-8011-bf5060c01aab",
-   "order": 289,
+   "order": 287,
    "regions": [
     "US"
    ]
@@ -7017,7 +6987,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:0311ac29-d2ee-4cf9-ae1e-28a3abdb428c",
-   "order": 290,
+   "order": 288,
    "regions": [
     "US"
    ]
@@ -7047,7 +7017,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:b84f454b-25b1-4def-a3c5-0182400b2cc9",
-   "order": 291,
+   "order": 289,
    "regions": [
     "US"
    ]
@@ -7077,7 +7047,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:d7b543a2-bef9-431a-a9cb-81bf06aa067b",
-   "order": 292,
+   "order": 290,
    "regions": [
     "US"
    ]
@@ -7107,7 +7077,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:ddf32c68-191e-4c33-a7b3-7b2db5f7e5a1",
-   "order": 293,
+   "order": 291,
    "regions": [
     "US"
    ]
@@ -7141,7 +7111,7 @@
    ],
    "domain": "",
    "job_id": "simplify:48c4cfa3-389b-4a66-abd7-a1d6cb9708a5",
-   "order": 294,
+   "order": 292,
    "regions": [
     "Canada",
     "US",
@@ -7177,7 +7147,7 @@
    ],
    "domain": "",
    "job_id": "simplify:6bb2553b-f9bc-4c0b-ae90-ae4d6dabeeee",
-   "order": 295,
+   "order": 293,
    "regions": [
     "US"
    ]
@@ -7209,7 +7179,7 @@
    ],
    "domain": "",
    "job_id": "simplify:87ba0492-0ef9-4598-a85a-3c3824537920",
-   "order": 296,
+   "order": 294,
    "regions": [
     "US"
    ]
@@ -7243,7 +7213,7 @@
    ],
    "domain": "",
    "job_id": "simplify:24255193-3808-4715-852f-52963f5a98c1",
-   "order": 297,
+   "order": 295,
    "regions": [
     "US"
    ]
@@ -7275,7 +7245,7 @@
    ],
    "domain": "",
    "job_id": "simplify:d8dde7da-b9cd-456f-8810-481073996ee1",
-   "order": 300,
+   "order": 298,
    "regions": [
     "UK",
     "Europe"
@@ -7306,7 +7276,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
-   "order": 301,
+   "order": 299,
    "regions": [
     "US"
    ]
@@ -7336,7 +7306,7 @@
    ],
    "domain": "amazon.com",
    "job_id": "simplify:58856b41-819a-46fe-b1b3-cb5b18811424",
-   "order": 305,
+   "order": 303,
    "regions": [
     "US"
    ]
@@ -7369,7 +7339,7 @@
    ],
    "domain": "",
    "job_id": "simplify:ff38f8af-bafd-4a27-b65d-e65d625efe50",
-   "order": 306,
+   "order": 304,
    "regions": [
     "UK"
    ]
@@ -7403,7 +7373,7 @@
    ],
    "domain": "",
    "job_id": "simplify:78b03927-c204-476c-947a-99cb2714c3ee",
-   "order": 308,
+   "order": 306,
    "regions": [
     "UK"
    ]
@@ -7436,7 +7406,7 @@
    ],
    "domain": "",
    "job_id": "simplify:25b39cd6-8460-4aa3-be55-52865cb6c034",
-   "order": 309,
+   "order": 307,
    "regions": [
     "US"
    ]
@@ -7468,7 +7438,7 @@
    ],
    "domain": "",
    "job_id": "simplify:05ffbfcd-fa0b-4650-baa4-19048fcad9d7",
-   "order": 310,
+   "order": 308,
    "regions": [
     "US"
    ]
@@ -7501,7 +7471,7 @@
    ],
    "domain": "",
    "job_id": "simplify:e82820b4-2e75-4801-98c5-fd73b5bcc48f",
-   "order": 311,
+   "order": 309,
    "regions": [
     "Canada"
    ]
@@ -7535,7 +7505,7 @@
    ],
    "domain": "",
    "job_id": "simplify:6c0ab4e5-360b-4ac9-870b-63679e2b79d0",
-   "order": 312,
+   "order": 310,
    "regions": [
     "US"
    ]
@@ -7567,7 +7537,7 @@
    ],
    "domain": "",
    "job_id": "simplify:479c73d2-b816-4d2e-815c-e11f66aaaccc",
-   "order": 313,
+   "order": 311,
    "regions": [
     "US"
    ]
@@ -7600,7 +7570,7 @@
    ],
    "domain": "",
    "job_id": "simplify:4ec11476-287c-4a59-a61a-cc467a670557",
-   "order": 314,
+   "order": 312,
    "regions": [
     "US"
    ]
@@ -7632,7 +7602,7 @@
    ],
    "domain": "",
    "job_id": "simplify:5f76de18-3bc1-48e2-9d35-24e631bfd2a3",
-   "order": 315,
+   "order": 313,
    "regions": [
     "US"
    ]
@@ -7663,7 +7633,7 @@
    ],
    "domain": "deepmind.google",
    "job_id": "simplify:817799e0-f2c4-4c4c-8634-508da3e89b72",
-   "order": 316,
+   "order": 314,
    "regions": [
     "Canada"
    ]
@@ -7693,7 +7663,7 @@
    ],
    "domain": "deepmind.google",
    "job_id": "simplify:c88b6245-fb2b-4f6c-84c4-c9b786738681",
-   "order": 317,
+   "order": 315,
    "regions": [
     "Canada"
    ]
@@ -7726,7 +7696,7 @@
    ],
    "domain": "",
    "job_id": "simplify:7387a1fc-9d17-4ccb-9dac-9de2c1006f0a",
-   "order": 319,
+   "order": 317,
    "regions": [
     "US"
    ]
@@ -7759,7 +7729,7 @@
    ],
    "domain": "",
    "job_id": "simplify:3054c494-0389-49b7-bf3a-0da5d0c8dca1",
-   "order": 322,
+   "order": 320,
    "regions": [
     "Canada"
    ]
@@ -7791,7 +7761,7 @@
    ],
    "domain": "",
    "job_id": "simplify:a7c171b9-3bae-433c-ba6d-a3f97c7b2008",
-   "order": 323,
+   "order": 321,
    "regions": [
     "UK"
    ]
@@ -7824,7 +7794,7 @@
    ],
    "domain": "",
    "job_id": "simplify:1cf14ab5-bc9d-4842-9fb3-7f423c965a86",
-   "order": 326,
+   "order": 324,
    "regions": [
     "US",
     "Remote"
@@ -7855,7 +7825,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:27e838d9-3bc6-44ae-b34c-56a692f13965",
-   "order": 329,
+   "order": 327,
    "regions": [
     "US"
    ]
@@ -7885,7 +7855,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:fec6fb73-1803-46db-9cba-34474df3c382",
-   "order": 330,
+   "order": 328,
    "regions": [
     "US"
    ]
@@ -7918,6 +7888,39 @@
    ],
    "domain": "",
    "job_id": "simplify:7a155542-8f46-4f7b-8366-966fcea9c221",
+   "order": 329,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Nio",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
+   "location": "San Jose, CA",
+   "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/AI-Robotics-Researcher-Intern--Dexterous-Manipulation-_R-000150",
+   "posted_at": "2026-07-04T12:40:09+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:da434a40-5732-4900-855f-676aa5cd10e7",
    "order": 331,
    "regions": [
     "US"
@@ -7952,7 +7955,7 @@
    ],
    "domain": "",
    "job_id": "simplify:eb14174f-2e4d-4c27-90c6-67df2ddef557",
-   "order": 333,
+   "order": 332,
    "regions": [
     "US"
    ]
@@ -7985,7 +7988,7 @@
    ],
    "domain": "",
    "job_id": "simplify:1294efe4-9bb6-417c-83bc-7da76b87978c",
-   "order": 335,
+   "order": 334,
    "regions": [
     "US"
    ]
@@ -8018,7 +8021,7 @@
    ],
    "domain": "",
    "job_id": "simplify:5971e10c-96c8-4605-9fe5-6b3de66eb784",
-   "order": 336,
+   "order": 335,
    "regions": [
     "UK"
    ]
@@ -8051,7 +8054,7 @@
    ],
    "domain": "",
    "job_id": "simplify:a7beff09-b326-4679-a544-c614e04aa701",
-   "order": 337,
+   "order": 336,
    "regions": [
     "US"
    ]
@@ -8083,7 +8086,7 @@
    ],
    "domain": "",
    "job_id": "simplify:1d7827d1-14f5-4597-b49c-7b91bb07cb0c",
-   "order": 339,
+   "order": 338,
    "regions": [
     "US"
    ]
@@ -8115,6 +8118,38 @@
    ],
    "domain": "",
    "job_id": "simplify:e1fc4e73-902b-46f8-a226-2051c83aaee7",
+   "order": 339,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Citadel",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Machine Learning Researcher Intern - PhD",
+   "location": "Greenwich, CT, Houston, TX, Miami, FL, NYC",
+   "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
+   "posted_at": "2026-07-01T09:09:03+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Fall 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:9a900104-2a94-4f83-8db2-d908f008ed99",
    "order": 340,
    "regions": [
     "US"
@@ -10361,40 +10396,6 @@
    ]
   },
   {
-   "company": "Tencent",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-   "location": "Palo Alto, CA",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
-   "posted_at": "2026-03-05T10:50:34+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:f682356d-55da-4f90-987d-77f140cc652d",
-   "order": 433,
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "company": "Expedia Group",
    "tier": "other",
    "ats": "simplify",
@@ -10421,7 +10422,7 @@
    ],
    "domain": "",
    "job_id": "simplify:0065f072-c487-4769-b10d-6993af68f633",
-   "order": 434,
+   "order": 433,
    "regions": [
     "US"
    ]
@@ -10454,7 +10455,7 @@
    ],
    "domain": "",
    "job_id": "simplify:88d6275e-f9ce-4322-a25e-8665865b7db3",
-   "order": 435,
+   "order": 434,
    "regions": [
     "US"
    ]
@@ -10484,7 +10485,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:d55233d5-c04b-4722-b48b-b39c50e6b4c9",
-   "order": 438,
+   "order": 437,
    "regions": [
     "US"
    ]
@@ -10516,7 +10517,7 @@
    ],
    "domain": "",
    "job_id": "simplify:a39a86bb-991c-4915-982e-8a1388db3fd9",
-   "order": 446,
+   "order": 445,
    "regions": [
     "Europe",
     "US"
@@ -10549,7 +10550,7 @@
    ],
    "domain": "",
    "job_id": "simplify:24dbcbe0-d481-45c9-b53d-1484768ec672",
-   "order": 447,
+   "order": 446,
    "regions": [
     "US"
    ]
@@ -10579,7 +10580,7 @@
    ],
    "domain": "bytedance.com",
    "job_id": "simplify:5be21c8e-1326-4ca1-9b44-d4839ecb5574",
-   "order": 448,
+   "order": 447,
    "regions": [
     "US"
    ]
@@ -10612,7 +10613,7 @@
    ],
    "domain": "",
    "job_id": "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512",
-   "order": 451,
+   "order": 450,
    "regions": [
     "UK"
    ]
@@ -10645,41 +10646,9 @@
    ],
    "domain": "",
    "job_id": "simplify:128e7ee0-9110-45e1-992d-270f1fa2be3d",
-   "order": 452,
+   "order": 451,
    "regions": [
     "UK"
-   ]
-  },
-  {
-   "company": "Citadel",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Machine Learning Researcher – PhD Intern - US",
-   "location": "NYC",
-   "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
-   "posted_at": "2026-01-22T07:17:19+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:9a900104-2a94-4f83-8db2-d908f008ed99",
-   "order": 453,
-   "regions": [
-    "US"
    ]
   }
  ]

@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-19T05:26:43.928969+00:00",
+ "generated_at": "2026-09-20T05:39:15.189552+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9146,
+ "scanned_jobs": 9144,
  "by_kind": {
   "discovery": 152,
-  "tracked": 131,
-  "blindspot": 184,
+  "tracked": 130,
+  "blindspot": 183,
   "evergreen": 24
  },
- "total_listings": 491,
- "matched": 131,
+ "total_listings": 489,
+ "matched": 130,
  "off_board_file": 6,
  "evergreen": 24,
  "xposts": 9,
- "discover": 336,
+ "discover": 335,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 4440 live",
+   "Summer2027: 4397 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 4440 live"
+   "Summer2026: 4397 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17098,
-  "active": 4439,
-  "phd": 798,
-  "blindspot": 184,
-  "discovery": 223,
+  "total": 16985,
+  "active": 4396,
+  "phd": 795,
+  "blindspot": 183,
+  "discovery": 222,
   "dropped_tracked": 38,
-  "dropped_category": 352,
+  "dropped_category": 351,
   "dropped_excluded": 1,
   "by_title": 17,
   "discovery_after_title_filter": 152
  },
- "new": 17,
+ "new": 1,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -50,8 +50,8 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 84,
-   "matched": 16,
+   "postings": 78,
+   "matched": 15,
    "evergreen": 0,
    "error": null
   },
@@ -68,7 +68,7 @@
    "lab": "Scale AI",
    "ats": "greenhouse",
    "slug": "scaleai",
-   "postings": 224,
+   "postings": 223,
    "matched": 10,
    "evergreen": 0,
    "error": null
@@ -104,7 +104,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 609,
+   "postings": 611,
    "matched": 3,
    "evergreen": 1,
    "error": null
@@ -203,7 +203,7 @@
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 878,
+   "postings": 877,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -293,7 +293,7 @@
    "lab": "LG AI Research",
    "ats": "greenhouse",
    "slug": "lgairesearch",
-   "postings": 40,
+   "postings": 41,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -446,7 +446,7 @@
    "lab": "xAI",
    "ats": "greenhouse",
    "slug": "xai",
-   "postings": 264,
+   "postings": 265,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -650,19 +650,19 @@
    "error": null
   },
   {
-   "lab": "Parloa",
+   "lab": "FuriosaAI",
    "ats": "greenhouse",
-   "slug": "parloa",
+   "slug": "furiosaai",
    "postings": 50,
    "matched": 0,
    "evergreen": 0,
    "error": null
   },
   {
-   "lab": "FuriosaAI",
+   "lab": "Parloa",
    "ats": "greenhouse",
-   "slug": "furiosaai",
-   "postings": 50,
+   "slug": "parloa",
+   "postings": 49,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -803,6 +803,15 @@
    "error": null
   },
   {
+   "lab": "OpenEvidence",
+   "ats": "ashby",
+   "slug": "openevidence",
+   "postings": 11,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
    "lab": "Nous Research",
    "ats": "ashby",
    "slug": "nousresearch",
@@ -842,15 +851,6 @@
    "lab": "Poolside",
    "ats": "ashby",
    "slug": "poolside",
-   "postings": 8,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
-   "lab": "OpenEvidence",
-   "ats": "ashby",
-   "slug": "openevidence",
    "postings": 8,
    "matched": 0,
    "evergreen": 0,
@@ -1055,8 +1055,8 @@
   "SambaNova",
   "Synthesia",
   "Writer",
-  "Parloa",
   "FuriosaAI",
+  "Parloa",
   "Thinking Machines Lab",
   "Abridge",
   "DeepL",
@@ -1072,12 +1072,12 @@
   "Apollo Research",
   "HeyGen",
   "Character.AI",
+  "OpenEvidence",
   "Nous Research",
   "Reka AI",
   "World Labs",
   "LlamaIndex",
   "Poolside",
-  "OpenEvidence",
   "Stability AI",
   "Pinecone",
   "Cradle",
