@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-20T05:39:15.189552+00:00",
+ "generated_at": "2026-09-21T05:49:15.515486+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9144,
+ "scanned_jobs": 9133,
  "by_kind": {
-  "discovery": 152,
   "tracked": 130,
-  "blindspot": 183,
+  "discovery": 152,
+  "blindspot": 180,
   "evergreen": 24
  },
- "total_listings": 489,
+ "total_listings": 486,
  "matched": 130,
  "off_board_file": 6,
  "evergreen": 24,
  "xposts": 9,
- "discover": 335,
+ "discover": 332,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 4397 live",
+   "Summer2027: 4353 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 4397 live"
+   "Summer2026: 4353 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 16985,
-  "active": 4396,
-  "phd": 795,
-  "blindspot": 183,
-  "discovery": 222,
+  "total": 16882,
+  "active": 4352,
+  "phd": 792,
+  "blindspot": 180,
+  "discovery": 223,
   "dropped_tracked": 38,
-  "dropped_category": 351,
+  "dropped_category": 350,
   "dropped_excluded": 1,
   "by_title": 17,
   "discovery_after_title_filter": 152
  },
- "new": 1,
+ "new": 0,
  "by_lab": [
   {
    "lab": "NVIDIA",
    "ats": "workday",
    "slug": "nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite",
-   "postings": 85,
+   "postings": 87,
    "matched": 35,
    "evergreen": 0,
    "error": null
@@ -50,7 +50,7 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 78,
+   "postings": 77,
    "matched": 15,
    "evergreen": 0,
    "error": null
@@ -140,7 +140,7 @@
    "lab": "Moloco",
    "ats": "greenhouse",
    "slug": "moloco",
-   "postings": 46,
+   "postings": 44,
    "matched": 1,
    "evergreen": 2,
    "error": null
@@ -203,7 +203,7 @@
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 877,
+   "postings": 874,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -302,7 +302,7 @@
    "lab": "Physical Intelligence",
    "ats": "ashby",
    "slug": "physicalintelligence",
-   "postings": 36,
+   "postings": 35,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -419,7 +419,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 818,
+   "postings": 816,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -446,7 +446,7 @@
    "lab": "xAI",
    "ats": "greenhouse",
    "slug": "xai",
-   "postings": 265,
+   "postings": 266,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -455,7 +455,7 @@
    "lab": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "postings": 235,
+   "postings": 226,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -605,19 +605,19 @@
    "error": null
   },
   {
-   "lab": "Sarvam AI",
-   "ats": "ashby",
-   "slug": "sarvam",
-   "postings": 61,
+   "lab": "KRAFTON",
+   "ats": "greenhouse",
+   "slug": "krafton",
+   "postings": 63,
    "matched": 0,
    "evergreen": 0,
    "error": null
   },
   {
-   "lab": "KRAFTON",
-   "ats": "greenhouse",
-   "slug": "krafton",
-   "postings": 60,
+   "lab": "Sarvam AI",
+   "ats": "ashby",
+   "slug": "sarvam",
+   "postings": 61,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -653,7 +653,7 @@
    "lab": "FuriosaAI",
    "ats": "greenhouse",
    "slug": "furiosaai",
-   "postings": 50,
+   "postings": 51,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -1050,8 +1050,8 @@
   "Spotify",
   "Suno",
   "Agility Robotics",
-  "Sarvam AI",
   "KRAFTON",
+  "Sarvam AI",
   "SambaNova",
   "Synthesia",
   "Writer",

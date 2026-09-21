@@ -5,7 +5,14 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-09-18T22:17:44+00:00</updated>
+  <updated>2026-09-20T05:41:25.449+00:00</updated>
+  <entry>
+    <title>Perplexity &#8212; Perplexity Research Fellowship</title>
+    <link rel="alternate" href="https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8"/>
+    <id>urn:phd-intern-board:ashby:perplexity:ab076e26-adf1-414f-a006-7b1bdc9247c8</id>
+    <updated>2026-09-20T05:41:25.449+00:00</updated>
+    <summary>San Francisco, Palo Alto +1 more · Startup</summary>
+  </entry>
   <entry>
     <title>Johns Hopkins Applied Physics Laboratory &#8212; Engineer/Scientist Intern - Health Systems and Human-Machine Systems</title>
     <link rel="alternate" href="https://careers.jhuapl.edu/jobs/60054?icims=1"/>
@@ -110,13 +117,6 @@
     <id>urn:phd-intern-board:simplify:e2411783-af3b-47bd-b838-8448c3dd37b9</id>
     <updated>2026-09-18T06:11:09+00:00</updated>
     <summary>Santa Clara, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Perplexity &#8212; Perplexity Research Fellowship</title>
-    <link rel="alternate" href="https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8"/>
-    <id>urn:phd-intern-board:ashby:perplexity:ab076e26-adf1-414f-a006-7b1bdc9247c8</id>
-    <updated>2026-09-18T05:02:54.042+00:00</updated>
-    <summary>San Francisco, Palo Alto +1 more · Startup</summary>
   </entry>
   <entry>
     <title>TikTok &#8212; Machine Learning Engineer Intern - E-Commerce Recommendation Mall</title>
@@ -399,13 +399,6 @@
     <summary>Pittsburgh, PA, NYC · Other · PhD</summary>
   </entry>
   <entry>
-    <title>Apple &#8212; Design for Test Engineer</title>
-    <link rel="alternate" href="https://jobs.apple.com/en-us/details/200683646"/>
-    <id>urn:phd-intern-board:simplify:2252913a-6024-4abe-8ce4-7dcb8de927f7</id>
-    <updated>2026-09-15T22:03:44+00:00</updated>
-    <summary>Austin, TX · Big tech · PhD</summary>
-  </entry>
-  <entry>
     <title>Apple &#8212; PMU Design Verification Intern</title>
     <link rel="alternate" href="https://jobs.apple.com/en-us/details/200683293"/>
     <id>urn:phd-intern-board:simplify:856205c2-0e42-4511-9086-192bd7d20932</id>
@@ -425,5 +418,12 @@
     <id>urn:phd-intern-board:simplify:647e0b46-cfaa-46bc-8d91-9aa2103d57d6</id>
     <updated>2026-09-15T00:00:00+00:00</updated>
     <summary>Santa Clara, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; Humanoid Robot Learning Intern, Isaac Loco-Manipulation - 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Humanoid-Robot-Learning-Intern--Isaac-Loco-Manipulation---2027_JR2025542"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025542</id>
+    <updated>2026-09-15T00:00:00+00:00</updated>
+    <summary>China, Shanghai · Big tech · PhD</summary>
   </entry>
 </feed>

@@ -1,40 +1,6 @@
 {
- "generated_at": "2026-09-20T05:39:15.189552+00:00",
+ "generated_at": "2026-09-21T05:49:15.515486+00:00",
  "first_run": false,
- "count": 1,
- "jobs": [
-  {
-   "company": "Nio",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
-   "location": "San Jose, CA",
-   "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/AI-Robotics-Researcher-Intern--Dexterous-Manipulation-_R-000150",
-   "posted_at": "2026-07-04T12:40:09+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:da434a40-5732-4900-855f-676aa5cd10e7",
-   "order": 331,
-   "regions": [
-    "US"
-   ]
-  }
- ]
+ "count": 0,
+ "jobs": []
 }
