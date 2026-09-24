@@ -5,7 +5,42 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-09-23T01:08:45+00:00</updated>
+  <updated>2026-09-24T01:19:43+00:00</updated>
+  <entry>
+    <title>ByteDance &#8212; Student Researcher Intern - Seed Model - Seed Responsible AI</title>
+    <link rel="alternate" href="https://jobs.bytedance.com/en/position/7688841262493485365/detail"/>
+    <id>urn:phd-intern-board:simplify:526c5ca9-8840-4cfe-97ac-82375a5deade</id>
+    <updated>2026-09-24T01:19:43+00:00</updated>
+    <summary>San Jose, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>IMC Trading &#8212; Hardware Machine Learning PhD Research Intern</title>
+    <link rel="alternate" href="https://job-boards.eu.greenhouse.io/imc/jobs/4975945101"/>
+    <id>urn:phd-intern-board:simplify:c09501b3-944d-4fa2-a12b-031be140f633</id>
+    <updated>2026-09-23T22:15:29+00:00</updated>
+    <summary>Chicago, IL · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>AMD &#8212; ML Systems Research Engineering Intern</title>
+    <link rel="alternate" href="https://careers.amd.com/jobs/90993?icims=1"/>
+    <id>urn:phd-intern-board:simplify:8e1d2d44-a43d-4241-9e7d-fc23ed939862</id>
+    <updated>2026-09-23T22:10:33+00:00</updated>
+    <summary>Santa Clara, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Klaviyo &#8212; Machine Learning Engineer Intern</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003"/>
+    <id>urn:phd-intern-board:simplify:195612f9-142a-49fb-9059-cfc4fe8c83de</id>
+    <updated>2026-09-23T22:10:19+00:00</updated>
+    <summary>Palo Alto, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Waymo &#8212; 2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer</title>
+    <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8224746"/>
+    <id>urn:phd-intern-board:greenhouse:waymo:8224746</id>
+    <updated>2026-09-23T15:28:48-04:00</updated>
+    <summary>Mountain View, California, Mountain View (US-MTV-EMF680) · Big tech · PhD</summary>
+  </entry>
   <entry>
     <title>Amazon &#8212; Quantum Applied Science Intern - Quantum Technologies team</title>
     <link rel="alternate" href="https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team"/>
@@ -47,6 +82,48 @@
     <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026171</id>
     <updated>2026-09-23T00:00:00+00:00</updated>
     <summary>China, Shanghai, China, Beijing · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; PhD Research Intern - Quantum Simulation and AI</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004"/>
+    <id>urn:phd-intern-board:simplify:ee431909-7205-4557-aa56-5518cfa74e0e</id>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <summary>Santa Clara, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; PhD Research Intern, Electronic Design Automation - 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026471</id>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; PhD Research Intern, Physical AI - Foundation Models - 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025025</id>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; PhD Research Intern, Quantum Simulation and AI - 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026004</id>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; Research Intern - Electronic Design Automation</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471"/>
+    <id>urn:phd-intern-board:simplify:3260a093-278c-48cc-90a4-1e13d6c9d177</id>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <summary>Santa Clara, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Symbotic &#8212; Robot Perception Co-op</title>
+    <link rel="alternate" href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Robot-Perception_R8113-1"/>
+    <id>urn:phd-intern-board:simplify:c59a1b99-17f3-442e-99fa-80e233cb39fb</id>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <summary>Wilmington, MA · Other · PhD</summary>
   </entry>
   <entry>
     <title>Rippling &#8212; Machine Learning Software Engineer Intern - Summer 2027</title>
@@ -117,6 +194,20 @@
     <id>urn:phd-intern-board:simplify:ef0f8da4-098a-4b01-9a26-27f477d959c3</id>
     <updated>2026-09-22T00:00:00+00:00</updated>
     <summary>Raritan, NJ · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>KLA &#8212; Algorithm Engineering Intern</title>
+    <link rel="alternate" href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1"/>
+    <id>urn:phd-intern-board:simplify:6e2407ba-f462-4baa-ac0f-a0c48ac50816</id>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary>Milpitas, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>KLA Corporation &#8212; Algorithm Engineering Intern</title>
+    <link rel="alternate" href="https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2"/>
+    <id>urn:phd-intern-board:simplify:2b59526d-a2ea-44bf-bbe9-0d26e2273475</id>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary>Milpitas, CA · Other · PhD</summary>
   </entry>
   <entry>
     <title>NVIDIA &#8212; Product Design Intern, AI Infrastructure - Summer 2027</title>
@@ -334,96 +425,5 @@
     <id>urn:phd-intern-board:greenhouse:togetherai:5238467007</id>
     <updated>2026-09-18T11:46:07-04:00</updated>
     <summary>San Francisco · Infra &amp; chips · PhD</summary>
-  </entry>
-  <entry>
-    <title>Together AI &#8212; Systems Research Engineer Intern - GPU Programming (Winter 2027)</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/togetherai/jobs/5238411007"/>
-    <id>urn:phd-intern-board:greenhouse:togetherai:5238411007</id>
-    <updated>2026-09-18T11:45:36-04:00</updated>
-    <summary>San Francisco · Infra &amp; chips</summary>
-  </entry>
-  <entry>
-    <title>Together AI &#8212; Systems Research Engineer Intern - GPU Programming (Summer 2027)</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/togetherai/jobs/5238460007"/>
-    <id>urn:phd-intern-board:greenhouse:togetherai:5238460007</id>
-    <updated>2026-09-18T11:45:31-04:00</updated>
-    <summary>San Francisco · Infra &amp; chips</summary>
-  </entry>
-  <entry>
-    <title>Together AI &#8212; Research Intern, Model Shaping (Winter 2027)</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/togetherai/jobs/5238465007"/>
-    <id>urn:phd-intern-board:greenhouse:togetherai:5238465007</id>
-    <updated>2026-09-18T11:45:00-04:00</updated>
-    <summary>San Francisco, Amsterdam, San Francisco · Infra &amp; chips · PhD</summary>
-  </entry>
-  <entry>
-    <title>Together AI &#8212; Research Intern, Model Shaping (Summer 2027)</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/togetherai/jobs/5238466007"/>
-    <id>urn:phd-intern-board:greenhouse:togetherai:5238466007</id>
-    <updated>2026-09-18T11:44:54-04:00</updated>
-    <summary>San Francisco, Amsterdam, San Francisco · Infra &amp; chips · PhD</summary>
-  </entry>
-  <entry>
-    <title>Together AI &#8212; Research Intern, Inference (Winter 2027)</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/togetherai/jobs/5238461007"/>
-    <id>urn:phd-intern-board:greenhouse:togetherai:5238461007</id>
-    <updated>2026-09-18T11:44:47-04:00</updated>
-    <summary>San Francisco · Infra &amp; chips · PhD</summary>
-  </entry>
-  <entry>
-    <title>Together AI &#8212; Research Intern, Inference (Summer 2027)</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/togetherai/jobs/5238462007"/>
-    <id>urn:phd-intern-board:greenhouse:togetherai:5238462007</id>
-    <updated>2026-09-18T11:44:40-04:00</updated>
-    <summary>San Francisco · Infra &amp; chips · PhD</summary>
-  </entry>
-  <entry>
-    <title>XPENG Motors &#8212; AI Research Intern - Predictive World Model</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002"/>
-    <id>urn:phd-intern-board:simplify:e2411783-af3b-47bd-b838-8448c3dd37b9</id>
-    <updated>2026-09-18T06:11:09+00:00</updated>
-    <summary>Santa Clara, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>TikTok &#8212; Machine Learning Engineer Intern - E-Commerce Recommendation Mall</title>
-    <link rel="alternate" href="https://lifeattiktok.com/search/7686283601340369205"/>
-    <id>urn:phd-intern-board:simplify:7c51e306-a24c-4fac-b188-b36e0bc3f128</id>
-    <updated>2026-09-18T01:13:34+00:00</updated>
-    <summary>San Jose, CA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Adobe &#8212; 2027 Intern - Machine Learning Engineer</title>
-    <link rel="alternate" href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"/>
-    <id>urn:phd-intern-board:workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R171519</id>
-    <updated>2026-09-18T00:00:00+00:00</updated>
-    <summary>San Jose, San Francisco +4 more · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Cigna Group &#8212; Data Scientist Intern</title>
-    <link rel="alternate" href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Data-Scientist-Intern--Master-s-Program--Hybrid--NJ--TX--or-MO-_26010876"/>
-    <id>urn:phd-intern-board:simplify:e4881585-37e6-473f-9176-3a8c751f24ad</id>
-    <updated>2026-09-18T00:00:00+00:00</updated>
-    <summary>Austin, TX, Morris Plains, NJ, St. Louis, MO · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025559</id>
-    <updated>2026-09-18T00:00:00+00:00</updated>
-    <summary>China, Beijing, China, Shanghai +1 more · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Sony (global) &#8212; Research Intern on Generative and Protective AI for Content Creation</title>
-    <link rel="alternate" href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335"/>
-    <id>urn:phd-intern-board:workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers:JR-119335</id>
-    <updated>2026-09-18T00:00:00+00:00</updated>
-    <summary>Remote - Texas · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Qualcomm &#8212; Design Methodology Engineer Intern - MSIP - HW</title>
-    <link rel="alternate" href="https://qualcomm.eightfold.ai/careers/job/446721140936"/>
-    <id>urn:phd-intern-board:simplify:1f958f11-c63f-4afb-8a4f-71e1e02f1ab0</id>
-    <updated>2026-09-17T22:23:00+00:00</updated>
-    <summary>Toronto, ON, Canada · Big tech · PhD</summary>
   </entry>
 </feed>
