@@ -1,273 +1,51 @@
 {
- "generated_at": "2026-09-24T05:47:49.445180+00:00",
+ "generated_at": "2026-09-25T05:43:23.263326+00:00",
  "first_run": false,
- "count": 14,
+ "count": 10,
  "jobs": [
   {
-   "company": "ByteDance",
-   "tier": "bigtech",
+   "company": "Intuitive Surgical",
+   "tier": "other",
    "ats": "simplify",
    "source": "simplify",
-   "kind": "blindspot",
-   "title": "Student Researcher Intern - Seed Model - Seed Responsible AI",
-   "location": "San Jose, CA",
-   "url": "https://jobs.bytedance.com/en/position/7688841262493485365/detail",
-   "posted_at": "2026-09-24T01:19:43+00:00",
+   "kind": "discovery",
+   "title": "AI Research Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759",
+   "posted_at": "2026-09-25T01:06:09+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd"
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
    ],
    "phd": true,
    "degrees": [
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "N/A"
+    "Winter 2027"
    ],
-   "domain": "bytedance.com",
-   "job_id": "simplify:526c5ca9-8840-4cfe-97ac-82375a5deade",
+   "domain": "",
+   "job_id": "simplify:c074fa48-973a-4955-b90e-24dc948ef224",
    "order": 0,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "IMC Trading",
+   "company": "Brightstar.AI",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Hardware Machine Learning PhD Research Intern",
-   "location": "Chicago, IL",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4975945101",
-   "posted_at": "2026-09-23T22:15:29+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:c09501b3-944d-4fa2-a12b-031be140f633",
-   "order": 1,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "AMD",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "ML Systems Research Engineering Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://careers.amd.com/jobs/90993?icims=1",
-   "posted_at": "2026-09-23T22:10:33+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:8e1d2d44-a43d-4241-9e7d-fc23ed939862",
-   "order": 2,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Klaviyo",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Palo Alto, CA",
-   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003",
-   "posted_at": "2026-09-23T22:10:19+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:195612f9-142a-49fb-9059-cfc4fe8c83de",
-   "order": 3,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
-   "location": "Mountain View, California; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
-   "posted_at": "2026-09-23T15:28:48-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8224746",
-   "order": 4,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "PhD Research Intern - Quantum Simulation and AI",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
-   "posted_at": "2026-09-23T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:ee431909-7205-4557-aa56-5518cfa74e0e",
-   "order": 11,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Electronic Design Automation - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
-   "posted_at": "2026-09-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026471",
-   "order": 12,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Quantum Simulation and AI - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
-   "posted_at": "2026-09-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026004",
-   "order": 14,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Intern - Electronic Design Automation",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
-   "posted_at": "2026-09-23T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:3260a093-278c-48cc-90a4-1e13d6c9d177",
-   "order": 15,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Symbotic",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Robot Perception Co-op",
-   "location": "Wilmington, MA",
-   "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Robot-Perception_R8113-1",
-   "posted_at": "2026-09-23T00:00:00+00:00",
+   "title": "Applied AI Engineer Intern - Advancing Agent Quality",
+   "location": "Miami, FL",
+   "url": "https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application?embed=true",
+   "posted_at": "2026-09-24T22:24:16+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -282,25 +60,57 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Spring 2027"
+    "Winter 2026"
    ],
    "domain": "",
-   "job_id": "simplify:c59a1b99-17f3-442e-99fa-80e233cb39fb",
-   "order": 16,
+   "job_id": "simplify:d96a5b80-f3d2-440a-b550-bc3b609bf0e0",
+   "order": 1,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "KLA",
+   "company": "Genesis Molecular AI",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Algorithm Engineering Intern",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1",
-   "posted_at": "2026-09-22T00:00:00+00:00",
+   "title": "Machine Learning Research Intern - PhD",
+   "location": "California, NYC",
+   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/5b62eacf-e930-4bc8-8fc7-30c213c02127/application?embed=true",
+   "posted_at": "2026-09-24T22:23:40+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:f0bf8593-6290-4c9c-aec1-e0b0187c12c5",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Susquehanna International Group",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Bala Cynwyd, PA",
+   "url": "https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false",
+   "posted_at": "2026-09-24T22:16:10+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -310,6 +120,8 @@
    ],
    "phd": true,
    "degrees": [
+    "Bachelor's",
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
@@ -317,22 +129,22 @@
     "Winter 2026"
    ],
    "domain": "",
-   "job_id": "simplify:6e2407ba-f462-4baa-ac0f-a0c48ac50816",
-   "order": 27,
+   "job_id": "simplify:b60dd607-5a1b-423f-a318-f333734e8063",
+   "order": 3,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "KLA Corporation",
+   "company": "PathAI",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Algorithm Engineering Intern",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
-   "posted_at": "2026-09-22T00:00:00+00:00",
+   "title": "Machine Learning Intern/Co-op",
+   "location": "Boston, MA, Remote in USA, NYC",
+   "url": "https://www.pathai.com/careers/8843495002?gh_jid=8843495002",
+   "posted_at": "2026-09-24T22:15:25+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -342,29 +154,145 @@
    ],
    "phd": true,
    "degrees": [
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Winter 2026"
+    "Fall 2026",
+    "Winter 2027"
    ],
    "domain": "",
-   "job_id": "simplify:2b59526d-a2ea-44bf-bbe9-0d26e2273475",
-   "order": 28,
+   "job_id": "simplify:e893c8a9-6a16-4e98-b3e6-3ef4b5b81b50",
+   "order": 4,
+   "regions": [
+    "US",
+    "Remote"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
+   "posted_at": "2026-09-24T13:31:20-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8227640",
+   "order": 5,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "NVIDIA",
+   "company": "Corti",
+   "tier": "startup",
+   "ats": "ashby",
+   "domain": "corti.ai",
+   "source": "ats",
+   "kind": "evergreen",
+   "title": "Join Corti's Talent Community",
+   "location": "Copenhagen, Denmark; Remote, US; Remote, Europe; New York, USA",
+   "url": "https://jobs.ashbyhq.com/corti/51db89f4-91e5-4f71-acf6-d2c743c61e17",
+   "posted_at": "2026-09-24T10:52:02.691+00:00",
+   "department": "Talent Community ",
+   "confidence": "evergreen",
+   "match": [
+    "always-open"
+   ],
+   "phd": false,
+   "job_id": "ashby:corti:51db89f4-91e5-4f71-acf6-d2c743c61e17",
+   "order": 6,
+   "regions": [
+    "Europe",
+    "US",
+    "Remote"
+   ]
+  },
+  {
+   "company": "Ancestry",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Machine Learning Engineer Co-op",
+   "location": "Remote in USA",
+   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+   "posted_at": "2026-08-11T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:06b0612c-a611-422f-8305-6138964b2e4b",
+   "order": 270,
+   "regions": [
+    "US",
+    "Remote"
+   ]
+  },
+  {
+   "company": "ByteDance",
    "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "PhD Research Intern - Generative AI for Physical AI",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025",
-   "posted_at": "2026-09-15T00:00:00+00:00",
+   "title": "Student Researcher - Large Language Model",
+   "location": "San Jose, CA",
+   "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail",
+   "posted_at": "2026-04-01T06:09:03+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-research-title"
+   ],
+   "phd": false,
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "bytedance.com",
+   "job_id": "simplify:ea9475c0-e1a5-49fd-aa4c-d3989ac5c9b7",
+   "order": 466,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Meta",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Scientist Intern - AI Alignment",
+   "location": "Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1782902493113620",
+   "posted_at": "2026-03-05T23:13:11+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -376,36 +304,16 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2027"
+    "Winter 2026",
+    "Spring 2026",
+    "Summer 2026",
+    "Fall 2026"
    ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:e4d72b3b-b6d8-46ec-a879-a0f2664ed75d",
-   "order": 106,
+   "domain": "meta.com",
+   "job_id": "simplify:30d1162f-2765-4044-9e44-203f4a85d5a1",
+   "order": 476,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern",
-   "location": "China, Beijing, Beijing; China, Shanghai, Shanghai",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556978909",
-   "posted_at": "2026-08-21T10:55:14+00:00",
-   "department": "HR Group",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": false,
-   "job_id": "eightfold:microsoft.com:1970393556978909",
-   "order": 219,
-   "regions": [
-    "Asia"
    ]
   }
  ]
