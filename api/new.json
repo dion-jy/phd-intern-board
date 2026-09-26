@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-09-25T05:43:23.263326+00:00",
+ "generated_at": "2026-09-26T05:47:32.247041+00:00",
  "first_run": false,
- "count": 10,
+ "count": 13,
  "jobs": [
   {
-   "company": "Intuitive Surgical",
+   "company": "Johns Hopkins Applied Physics Laboratory",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "AI Research Intern",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759",
-   "posted_at": "2026-09-25T01:06:09+00:00",
+   "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/60084?icims=1",
+   "posted_at": "2026-09-25T22:14:10+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -22,63 +22,31 @@
    ],
    "phd": true,
    "degrees": [
+    "Bachelor's",
     "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Winter 2027"
+    "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:c074fa48-973a-4955-b90e-24dc948ef224",
+   "job_id": "simplify:7d75bd70-f568-420d-985e-c8ccd2632c8f",
    "order": 0,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Brightstar.AI",
+   "company": "DoorDash",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Applied AI Engineer Intern - Advancing Agent Quality",
-   "location": "Miami, FL",
-   "url": "https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application?embed=true",
-   "posted_at": "2026-09-24T22:24:16+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:d96a5b80-f3d2-440a-b550-bc3b609bf0e0",
-   "order": 1,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Genesis Molecular AI",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Machine Learning Research Intern - PhD",
-   "location": "California, NYC",
-   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/5b62eacf-e930-4bc8-8fc7-30c213c02127/application?embed=true",
-   "posted_at": "2026-09-24T22:23:40+00:00",
+   "title": "Machine Learning Intern - PhD",
+   "location": "Seattle, WA, SF, NYC, Sunnyvale, CA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
+   "posted_at": "2026-09-25T22:09:20+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -95,22 +63,192 @@
     "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:f0bf8593-6290-4c9c-aec1-e0b0187c12c5",
+   "job_id": "simplify:2754a943-ac4e-4940-841c-4e8fe8a96365",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Bosch Home Comfort",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Multi-modal Sensing AI Research Intern",
+   "location": "Pittsburgh, PA",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151890105",
+   "posted_at": "2026-09-25T22:07:28+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:4e730bff-671e-4665-bb89-14302229b2ea",
    "order": 2,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Susquehanna International Group",
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+   "posted_at": "2026-09-25T18:46:35-04:00",
+   "department": "Perception (7LT)",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8227411",
+   "order": 3,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+   "posted_at": "2026-09-25T17:55:21-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8234161",
+   "order": 4,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Allen Institute for AI (AI2)",
+   "tier": "frontier",
+   "ats": "greenhouse",
+   "domain": "allenai.org",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Young Investigator, Climate Modeling",
+   "location": "Seattle, WA; Seattle",
+   "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8234262",
+   "posted_at": "2026-09-25T17:26:45-04:00",
+   "department": "Applied Science",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": false,
+   "job_id": "greenhouse:thealleninstitute:8234262",
+   "order": 5,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+   "posted_at": "2026-09-25T17:01:50-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8233746",
+   "order": 6,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Data Systems",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
+   "posted_at": "2026-09-25T16:55:28+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557008574",
+   "order": 7,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF690)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
+   "posted_at": "2026-09-25T16:33:28-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8231711",
+   "order": 8,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "American Family Insurance Group",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Bala Cynwyd, PA",
-   "url": "https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false",
-   "posted_at": "2026-09-24T22:16:10+00:00",
+   "title": "Machine Learning Operations Intern",
+   "location": "Madison, WI",
+   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493",
+   "posted_at": "2026-09-25T00:00:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -129,191 +267,104 @@
     "Winter 2026"
    ],
    "domain": "",
-   "job_id": "simplify:b60dd607-5a1b-423f-a318-f333734e8063",
-   "order": 3,
+   "job_id": "simplify:2e7f3daf-eaeb-4204-b73c-45641a2379f4",
+   "order": 10,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "PathAI",
+   "company": "Gilead Sciences",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Machine Learning Intern/Co-op",
-   "location": "Boston, MA, Remote in USA, NYC",
-   "url": "https://www.pathai.com/careers/8843495002?gh_jid=8843495002",
-   "posted_at": "2026-09-24T22:15:25+00:00",
+   "title": "Research Intern - Drug Metabolism - AI",
+   "location": "Foster City, CA",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism---AI_R0055519",
+   "posted_at": "2026-09-25T00:00:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
     "simplify-degrees-phd",
     "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Fall 2026",
-    "Winter 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:e893c8a9-6a16-4e98-b3e6-3ef4b5b81b50",
-   "order": 4,
-   "regions": [
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
-   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
-   "posted_at": "2026-09-24T13:31:20-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "high",
-   "match": [
     "title-strong"
    ],
    "phd": true,
-   "job_id": "greenhouse:waymo:8227640",
-   "order": 5,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Corti",
-   "tier": "startup",
-   "ats": "ashby",
-   "domain": "corti.ai",
-   "source": "ats",
-   "kind": "evergreen",
-   "title": "Join Corti's Talent Community",
-   "location": "Copenhagen, Denmark; Remote, US; Remote, Europe; New York, USA",
-   "url": "https://jobs.ashbyhq.com/corti/51db89f4-91e5-4f71-acf6-d2c743c61e17",
-   "posted_at": "2026-09-24T10:52:02.691+00:00",
-   "department": "Talent Community ",
-   "confidence": "evergreen",
-   "match": [
-    "always-open"
-   ],
-   "phd": false,
-   "job_id": "ashby:corti:51db89f4-91e5-4f71-acf6-d2c743c61e17",
-   "order": 6,
-   "regions": [
-    "Europe",
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "Ancestry",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Machine Learning Engineer Co-op",
-   "location": "Remote in USA",
-   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
-   "posted_at": "2026-08-11T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
    "degrees": [
+    "Bachelor's",
     "Master's",
-    "PhD"
+    "MBA",
+    "PhD",
+    "JD"
    ],
    "sponsorship": "Other",
    "terms": [
     "Summer 2026"
    ],
    "domain": "",
-   "job_id": "simplify:06b0612c-a611-422f-8305-6138964b2e4b",
-   "order": 270,
+   "job_id": "simplify:fdf1e11e-14be-447e-a04a-23879851041d",
+   "order": 11,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "ICF International",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Scientist Intern",
+   "location": "Remote in USA, Reston, VA, Denver, CO",
+   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252",
+   "posted_at": "2026-09-25T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:acafb8f1-75b4-44f1-8450-4628ddf3b8a1",
+   "order": 12,
    "regions": [
     "US",
     "Remote"
    ]
   },
   {
-   "company": "ByteDance",
+   "company": "Microsoft / MSR",
    "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Student Researcher - Large Language Model",
-   "location": "San Jose, CA",
-   "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail",
-   "posted_at": "2026-04-01T06:09:03+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Applied Sciences INTERN",
+   "location": "India, Multiple Locations, Multiple Locations",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556997800",
+   "posted_at": "2026-09-14T07:17:42+00:00",
+   "department": "Windows and Devices Group",
+   "confidence": "medium",
    "match": [
-    "simplify-research-title"
-   ],
-   "phd": false,
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "bytedance.com",
-   "job_id": "simplify:ea9475c0-e1a5-49fd-aa4c-d3989ac5c9b7",
-   "order": 466,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Meta",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Scientist Intern - AI Alignment",
-   "location": "Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/1782902493113620",
-   "posted_at": "2026-03-05T23:13:11+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
+    "body-research-role"
    ],
    "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026",
-    "Spring 2026",
-    "Summer 2026",
-    "Fall 2026"
-   ],
-   "domain": "meta.com",
-   "job_id": "simplify:30d1162f-2765-4044-9e44-203f4a85d5a1",
-   "order": 476,
+   "job_id": "eightfold:microsoft.com:1970393556997800",
+   "order": 138,
    "regions": [
-    "US"
+    "Asia"
    ]
   }
  ]
