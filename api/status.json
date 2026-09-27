@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-26T05:47:32.247041+00:00",
+ "generated_at": "2026-09-27T06:06:57.283821+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9230,
+ "scanned_jobs": 9226,
  "by_kind": {
-  "discovery": 173,
-  "tracked": 156,
+  "discovery": 170,
+  "tracked": 155,
   "evergreen": 24,
-  "blindspot": 182
+  "blindspot": 178
  },
- "total_listings": 535,
- "matched": 156,
+ "total_listings": 527,
+ "matched": 155,
  "off_board_file": 6,
  "evergreen": 24,
  "xposts": 9,
- "discover": 355,
+ "discover": 348,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 4634 live",
+   "Summer2027: 4536 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 4634 live"
+   "Summer2026: 4536 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17169,
-  "active": 4633,
-  "phd": 848,
-  "blindspot": 182,
-  "discovery": 252,
+  "total": 17035,
+  "active": 4535,
+  "phd": 835,
+  "blindspot": 178,
+  "discovery": 249,
   "dropped_tracked": 51,
-  "dropped_category": 359,
+  "dropped_category": 353,
   "dropped_excluded": 4,
   "by_title": 17,
-  "discovery_after_title_filter": 173
+  "discovery_after_title_filter": 170
  },
- "new": 13,
+ "new": 0,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -59,7 +59,7 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 79,
+   "postings": 77,
    "matched": 18,
    "evergreen": 0,
    "error": null
@@ -104,7 +104,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 619,
+   "postings": 618,
    "matched": 3,
    "evergreen": 1,
    "error": null
@@ -113,7 +113,7 @@
    "lab": "Perplexity",
    "ats": "ashby",
    "slug": "perplexity",
-   "postings": 122,
+   "postings": 123,
    "matched": 4,
    "evergreen": 0,
    "error": null
@@ -203,7 +203,7 @@
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 888,
+   "postings": 887,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -213,15 +213,6 @@
    "ats": "greenhouse",
    "slug": "tenstorrent",
    "postings": 123,
-   "matched": 1,
-   "evergreen": 0,
-   "error": null
-  },
-  {
-   "lab": "Mercor",
-   "ats": "ashby",
-   "slug": "mercor",
-   "postings": 115,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -519,6 +510,15 @@
    "ats": "ashby",
    "slug": "cursor",
    "postings": 126,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "Mercor",
+   "ats": "ashby",
+   "slug": "mercor",
+   "postings": 114,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -1041,6 +1041,7 @@
   "Woven by Toyota",
   "Glean",
   "Cursor (Anysphere)",
+  "Mercor",
   "Cerebras",
   "LangChain",
   "Figure AI",
