@@ -1,6 +1,295 @@
 {
- "generated_at": "2026-09-28T06:16:09.683584+00:00",
+ "generated_at": "2026-09-29T06:32:04.916623+00:00",
  "first_run": false,
- "count": 0,
- "jobs": []
+ "count": 11,
+ "jobs": [
+  {
+   "company": "Neighbor",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Scientist Intern - Current PhD",
+   "location": "Lehi, UT",
+   "url": "https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply",
+   "posted_at": "2026-09-29T01:11:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:d67c968b-8ef6-4c00-a980-42d4de678d22",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+   "posted_at": "2026-09-28T17:05:14-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8237997",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+   "location": "San Francisco, California; San Francisco (US-SFO-MKT555)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+   "posted_at": "2026-09-28T15:34:51-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8234670",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "AI Infra Development Intern - 2027",
+   "location": "China, Shanghai",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402",
+   "posted_at": "2026-09-28T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026402",
+   "order": 3,
+   "regions": [
+    "Asia"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
+   "location": "Switzerland, Zurich",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1",
+   "posted_at": "2026-09-28T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024606",
+   "order": 4,
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
+   "company": "Epic Games",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Machine Learning Intern - Special Projects - Epic Research Group",
+   "location": "Montreal, QC, Canada",
+   "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
+   "posted_at": "2026-08-07T22:28:02+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2026",
+    "Winter 2027",
+    "Spring 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:31ab487e-bda7-4337-94b7-bda1786f13f2",
+   "order": 272,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Glean",
+   "tier": "startup",
+   "ats": "greenhouse",
+   "domain": "glean.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Resident Solutions Architect",
+   "location": "Remote; US (Remote)",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4717716005",
+   "posted_at": "2026-07-23T10:06:25-04:00",
+   "department": "Customer Outcomes",
+   "confidence": "medium",
+   "match": [
+    "program-form"
+   ],
+   "phd": false,
+   "job_id": "greenhouse:gleanwork:4717716005",
+   "order": 342,
+   "regions": [
+    "US",
+    "Remote"
+   ]
+  },
+  {
+   "company": "Tencent",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Hunyuan Multimodal Algorithm Researcher Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
+   "posted_at": "2026-03-05T10:50:34+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:f682356d-55da-4f90-987d-77f140cc652d",
+   "order": 470,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Dexterity",
+   "tier": "startup",
+   "ats": "lever",
+   "domain": "dexterity.ai",
+   "source": "ats",
+   "kind": "evergreen",
+   "title": "Join Our Talent Network - Senior/Staff AI Algorithms Engineer",
+   "location": "Redwood City",
+   "url": "https://jobs.lever.co/dexterity/ecdf1193-7946-4345-95be-3c1453d15a94",
+   "posted_at": "2025-06-09T23:18:12.661000+00:00",
+   "department": "Engineering",
+   "confidence": "evergreen",
+   "match": [
+    "always-open"
+   ],
+   "phd": false,
+   "job_id": "lever:dexterity:ecdf1193-7946-4345-95be-3c1453d15a94",
+   "order": 504,
+   "regions": [
+    "Other"
+   ]
+  },
+  {
+   "company": "Dexterity",
+   "tier": "startup",
+   "ats": "lever",
+   "domain": "dexterity.ai",
+   "source": "ats",
+   "kind": "evergreen",
+   "title": "Join Our Talent Network - Senior/Staff Machine Learning Engineer",
+   "location": "Redwood City",
+   "url": "https://jobs.lever.co/dexterity/c8a70b59-6dc2-4139-b3bf-758295777c98",
+   "posted_at": "2025-06-09T21:50:46.094000+00:00",
+   "department": "Engineering",
+   "confidence": "evergreen",
+   "match": [
+    "always-open"
+   ],
+   "phd": false,
+   "job_id": "lever:dexterity:c8a70b59-6dc2-4139-b3bf-758295777c98",
+   "order": 505,
+   "regions": [
+    "Other"
+   ]
+  },
+  {
+   "company": "Dexterity",
+   "tier": "startup",
+   "ats": "lever",
+   "domain": "dexterity.ai",
+   "source": "ats",
+   "kind": "evergreen",
+   "title": "Join Our Talent Network - Senior Robotics Manipulation Engineer",
+   "location": "Redwood City",
+   "url": "https://jobs.lever.co/dexterity/6c8a6e37-c72a-4e93-92fe-04d3b6bcbc66",
+   "posted_at": "2025-03-03T17:35:07.945000+00:00",
+   "department": "Engineering",
+   "confidence": "evergreen",
+   "match": [
+    "always-open"
+   ],
+   "phd": false,
+   "job_id": "lever:dexterity:6c8a6e37-c72a-4e93-92fe-04d3b6bcbc66",
+   "order": 508,
+   "regions": [
+    "Other"
+   ]
+  }
+ ]
 }
