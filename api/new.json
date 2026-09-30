@@ -1,18 +1,312 @@
 {
- "generated_at": "2026-09-29T06:32:04.916623+00:00",
+ "generated_at": "2026-09-30T06:15:01.524911+00:00",
  "first_run": false,
- "count": 11,
+ "count": 15,
  "jobs": [
   {
-   "company": "Neighbor",
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Electrical Engineer Intern",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
+   "posted_at": "2026-09-30T01:11:01+00:00",
+   "department": "Hardware",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:da82f397-2510-43a6-93a8-f5f5bdc70d0d",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Amazon",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Applied Science Intern - Information & Knowledge Management",
+   "location": "Seattle, WA",
+   "url": "https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
+   "posted_at": "2026-09-30T01:09:34+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "amazon.com",
+   "job_id": "simplify:f80bbf2f-72fe-4eb7-9000-0aa582a04390",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Honeywell",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Data Scientist Intern - Current PhD",
-   "location": "Lehi, UT",
-   "url": "https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply",
-   "posted_at": "2026-09-29T01:11:00+00:00",
+   "title": "Artificial Intelligence/Machine Learning Co-op",
+   "location": "United States",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958",
+   "posted_at": "2026-09-29T22:20:30+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "MBA",
+    "PharmD",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Spring 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:832f0b01-5885-457c-a203-369c9da9818e",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Keysight Technologies",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "EDA AI/ML Software Intern",
+   "location": "Calabasas, CA",
+   "url": "https://jobs.keysight.com/jobs/54582?icims=1",
+   "posted_at": "2026-09-29T22:15:41+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:f4ec9754-f694-4e49-89d1-e4e407d7d2ff",
+   "order": 3,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Keysight Technologies",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "EDA AI/ML Layout Engineering Intern",
+   "location": "Calabasas, CA",
+   "url": "https://jobs.keysight.com/jobs/54606?icims=1",
+   "posted_at": "2026-09-29T22:15:40+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:2f8cb420-1d37-4da2-b624-4a2f38e9d546",
+   "order": 4,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Planner Machine Learning",
+   "location": "San Francisco, California; San Francisco (US-SFO-MKT555)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234876",
+   "posted_at": "2026-09-29T12:36:53-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8234876",
+   "order": 5,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Cigna Group",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI/ML Engineer Intern",
+   "location": "Austin, TX, Morris Plains, NJ, St. Louis, MO",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877",
+   "posted_at": "2026-09-29T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:2dda6a1e-68a5-41f2-ac16-746b5bf4d7ec",
+   "order": 7,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "AI Computing Software Development Intern - 2027",
+   "location": "Taiwan, Taipei",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
+   "posted_at": "2026-09-29T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026298",
+   "order": 8,
+   "regions": [
+    "Asia"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "PhD Research Intern - AI Accelerator Design and VLSI",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
+   "posted_at": "2026-09-29T00:00:00+00:00",
+   "department": "Hardware",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "nvidia.com",
+   "job_id": "simplify:b2b7e2a7-9e82-4ddc-a910-d256f40be96a",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
+   "posted_at": "2026-09-29T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026584",
+   "order": 10,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Lyft",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Applied Scientist Intern",
+   "location": "SF",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
+   "posted_at": "2026-09-28T22:17:53+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -29,175 +323,45 @@
     "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:d67c968b-8ef6-4c00-a980-42d4de678d22",
-   "order": 0,
+   "job_id": "simplify:c7c17455-a74b-4c94-b5fd-3e46dc9867de",
+   "order": 11,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Waymo",
+   "company": "Microsoft / MSR",
    "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
-   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
-   "posted_at": "2026-09-28T17:05:14-04:00",
-   "department": "Pipeline (N/A)",
+   "title": "Electrical Engineering INTERN (PhD)",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
+   "posted_at": "2026-09-02T18:21:26+00:00",
+   "department": "HR Group",
    "confidence": "high",
    "match": [
     "title-strong"
    ],
    "phd": true,
-   "job_id": "greenhouse:waymo:8237997",
-   "order": 1,
+   "job_id": "eightfold:microsoft.com:1970393556986148",
+   "order": 183,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
-   "location": "San Francisco, California; San Francisco (US-SFO-MKT555)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
-   "posted_at": "2026-09-28T15:34:51-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8234670",
-   "order": 2,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Infra Development Intern - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402",
-   "posted_at": "2026-09-28T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026402",
-   "order": 3,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-   "location": "Switzerland, Zurich",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1",
-   "posted_at": "2026-09-28T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024606",
-   "order": 4,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "Epic Games",
+   "company": "Castleton Commodities International",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Machine Learning Intern - Special Projects - Epic Research Group",
-   "location": "Montreal, QC, Canada",
-   "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
-   "posted_at": "2026-08-07T22:28:02+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2026",
-    "Winter 2027",
-    "Spring 2027",
-    "Summer 2027",
-    "Fall 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:31ab487e-bda7-4337-94b7-bda1786f13f2",
-   "order": 272,
-   "regions": [
-    "Canada"
-   ]
-  },
-  {
-   "company": "Glean",
-   "tier": "startup",
-   "ats": "greenhouse",
-   "domain": "glean.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Resident Solutions Architect",
-   "location": "Remote; US (Remote)",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4717716005",
-   "posted_at": "2026-07-23T10:06:25-04:00",
-   "department": "Customer Outcomes",
-   "confidence": "medium",
-   "match": [
-    "program-form"
-   ],
-   "phd": false,
-   "job_id": "greenhouse:gleanwork:4717716005",
-   "order": 342,
-   "regions": [
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "Tencent",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-   "location": "Palo Alto, CA",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
-   "posted_at": "2026-03-05T10:50:34+00:00",
+   "title": "Data Science Machine Learning Intern",
+   "location": "London, UK",
+   "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345",
+   "posted_at": "2026-07-21T00:00:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -209,86 +373,86 @@
    "degrees": [
     "Bachelor's",
     "Master's",
+    "MBA",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2026"
+    "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:f682356d-55da-4f90-987d-77f140cc652d",
-   "order": 470,
+   "job_id": "simplify:ef340463-f818-4cd0-874c-2b1574493963",
+   "order": 356,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Block",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Applied Research Intern PhD / Graduate Co-op",
+   "location": "Oakland, CA",
+   "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
+   "posted_at": "2026-06-09T22:21:24+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Fall 2026",
+    "Winter 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:d61f0f42-99b5-4c9d-a8bf-5561238b3014",
+   "order": 398,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Dexterity",
-   "tier": "startup",
-   "ats": "lever",
-   "domain": "dexterity.ai",
-   "source": "ats",
-   "kind": "evergreen",
-   "title": "Join Our Talent Network - Senior/Staff AI Algorithms Engineer",
-   "location": "Redwood City",
-   "url": "https://jobs.lever.co/dexterity/ecdf1193-7946-4345-95be-3c1453d15a94",
-   "posted_at": "2025-06-09T23:18:12.661000+00:00",
-   "department": "Engineering",
-   "confidence": "evergreen",
+   "company": "Block",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Applied Research Intern Co-op",
+   "location": "Toronto, ON, Canada",
+   "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+   "posted_at": "2026-06-09T22:21:23+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
    "match": [
-    "always-open"
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
    ],
-   "phd": false,
-   "job_id": "lever:dexterity:ecdf1193-7946-4345-95be-3c1453d15a94",
-   "order": 504,
-   "regions": [
-    "Other"
-   ]
-  },
-  {
-   "company": "Dexterity",
-   "tier": "startup",
-   "ats": "lever",
-   "domain": "dexterity.ai",
-   "source": "ats",
-   "kind": "evergreen",
-   "title": "Join Our Talent Network - Senior/Staff Machine Learning Engineer",
-   "location": "Redwood City",
-   "url": "https://jobs.lever.co/dexterity/c8a70b59-6dc2-4139-b3bf-758295777c98",
-   "posted_at": "2025-06-09T21:50:46.094000+00:00",
-   "department": "Engineering",
-   "confidence": "evergreen",
-   "match": [
-    "always-open"
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
    ],
-   "phd": false,
-   "job_id": "lever:dexterity:c8a70b59-6dc2-4139-b3bf-758295777c98",
-   "order": 505,
-   "regions": [
-    "Other"
-   ]
-  },
-  {
-   "company": "Dexterity",
-   "tier": "startup",
-   "ats": "lever",
-   "domain": "dexterity.ai",
-   "source": "ats",
-   "kind": "evergreen",
-   "title": "Join Our Talent Network - Senior Robotics Manipulation Engineer",
-   "location": "Redwood City",
-   "url": "https://jobs.lever.co/dexterity/6c8a6e37-c72a-4e93-92fe-04d3b6bcbc66",
-   "posted_at": "2025-03-03T17:35:07.945000+00:00",
-   "department": "Engineering",
-   "confidence": "evergreen",
-   "match": [
-    "always-open"
+   "sponsorship": "Other",
+   "terms": [
+    "Fall 2026",
+    "Winter 2027"
    ],
-   "phd": false,
-   "job_id": "lever:dexterity:6c8a6e37-c72a-4e93-92fe-04d3b6bcbc66",
-   "order": 508,
+   "domain": "",
+   "job_id": "simplify:11aaf289-dda4-4297-8b78-8998a2d45e2f",
+   "order": 399,
    "regions": [
-    "Other"
+    "Canada"
    ]
   }
  ]
