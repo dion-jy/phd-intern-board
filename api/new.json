@@ -1,24 +1,22 @@
 {
- "generated_at": "2026-10-01T00:33:06.125991+00:00",
+ "generated_at": "2026-10-01T06:46:35.471195+00:00",
  "first_run": false,
- "count": 15,
+ "count": 2,
  "jobs": [
   {
-   "company": "Dandy",
-   "tier": "other",
+   "company": "Microsoft",
+   "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
-   "kind": "discovery",
-   "title": "PhD Research Intern",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31/application?embed=true",
-   "posted_at": "2026-09-30T22:24:32+00:00",
+   "kind": "blindspot",
+   "title": "Research Intern - Quantum Algorithms",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
+   "posted_at": "2026-10-01T01:09:26+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
+    "simplify-degrees-phd"
    ],
    "phd": true,
    "degrees": [
@@ -26,427 +24,34 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2027"
+    "Summer 2026"
    ],
-   "domain": "",
-   "job_id": "simplify:bd15f88f-f59c-49a4-915c-8c54dc3c8adc",
+   "domain": "microsoft.com",
+   "job_id": "simplify:d7ab1759-a0d7-497e-a48c-0a4d84524626",
    "order": 0,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Ramp",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Applied Scientist Intern",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application?embed=true",
-   "posted_at": "2026-09-30T22:23:57+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:af84853a-a797-499a-ae18-410f2991f5bb",
-   "order": 1,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "IDeaS",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Data Science Research Intern",
-   "location": "Bloomington, MN",
-   "url": "https://ideas-sas.icims.com/jobs/42645/job?mobile=true&needsRedirect=false",
-   "posted_at": "2026-09-30T22:17:35+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:0ff85d31-6c19-40f4-ad7a-e27a92172e0f",
-   "order": 2,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Abbott",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML",
-   "location": "St Paul, MN",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:f3b44c23-2815-4ae2-866d-2121e92087b6",
-   "order": 5,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "GE Healthcare",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Algorithms Research Intern",
-   "location": "Beachwood, OH",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Algorithms-Research-Intern_R4047143-1",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:2e8fab2b-d09c-456f-9ec4-f142c8021d83",
-   "order": 6,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Intel",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Research Scientist Intern - Graphics - ML",
-   "location": "Remote in USA",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:8d699dd6-89fb-4c17-8319-47d01a7f9bf3",
-   "order": 7,
-   "regions": [
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "KLA",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Algorithm Engineering Intern",
-   "location": "Ann Arbor, MI",
-   "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2641516",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:46bc2309-eff6-49b8-b663-051d87560282",
-   "order": 8,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
+   "company": "Microsoft / MSR",
    "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Deep Learning Compiler Intern - 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026262",
-   "order": 9,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Deep Learning Performance Software Intern - 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025966",
-   "order": 10,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Developer Technology Engineer Intern - Compute Performance",
-   "location": "Courbevoie, France, Bristol, UK, Würselen, Germany, Munich, Germany",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "Software",
-   "confidence": "medium",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:05c6b137-84eb-4657-91d9-45398f99a533",
-   "order": 11,
-   "regions": [
-    "UK",
-    "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "PhD Research Intern - Programming Systems",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "Software",
-   "confidence": "medium",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:6eed7061-5a5f-4b68-98e6-bdfe0e5d31c2",
-   "order": 12,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Programming Systems - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "",
+   "title": "Research Intern - Quantum Algorithms",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
+   "posted_at": "2026-09-30T19:46:09+00:00",
+   "department": "Cloud + AI",
    "confidence": "high",
    "match": [
     "title-strong"
    ],
    "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025379",
-   "order": 13,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Software Engineer Intern, AI and DL Kernel Libraries - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026307",
-   "order": 15,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Intern - Robotics",
-   "location": "Seattle, WA, Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647",
-   "posted_at": "2026-09-21T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:876c3f6f-84b9-4e5d-a61c-3f403eeed9bb",
-   "order": 84,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Visa",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Research Scientist Intern - Quantum",
-   "location": "Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2",
-   "posted_at": "2026-09-17T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:5f405c1a-fcc4-4c61-996b-826be17bfb30",
-   "order": 116,
+   "job_id": "eightfold:microsoft.com:1970393557021663",
+   "order": 4,
    "regions": [
     "US"
    ]
