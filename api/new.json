@@ -1,52 +1,56 @@
 {
- "generated_at": "2026-10-02T06:36:39.278759+00:00",
+ "generated_at": "2026-10-03T05:58:28.402501+00:00",
  "first_run": false,
- "count": 27,
+ "count": 16,
  "jobs": [
   {
-   "company": "Meta",
-   "tier": "bigtech",
+   "company": "X Development",
+   "tier": "other",
    "ats": "simplify",
    "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Scientist Intern - Robotics",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1940312740718917",
-   "posted_at": "2026-10-01T22:21:48+00:00",
+   "kind": "discovery",
+   "title": "PhD Resident - AI for Science - Early Stage Project",
+   "location": "Mountain View, CA",
+   "url": "https://x.company/careers/8865083002?gh_jid=8865083002",
+   "posted_at": "2026-10-03T01:38:19+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
-    "simplify-research-title"
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
    ],
-   "phd": false,
-   "degrees": [],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
    "sponsorship": "Other",
    "terms": [
-    "Winter 2026"
+    "Winter 2027"
    ],
-   "domain": "meta.com",
-   "job_id": "simplify:d08c50c3-35d4-45a8-b1ab-041d0b5a5a3a",
+   "domain": "",
+   "job_id": "simplify:0cdfc48a-76e9-4e43-87a1-e9872b66e532",
    "order": 0,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Stripe",
+   "company": "Montreal Institute for Learning Algorithms",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Data Scientist Intern",
-   "location": "Seattle, WA, South SF, NYC",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
-   "posted_at": "2026-10-01T22:20:38+00:00",
+   "title": "AI Safety Research Intern - AI Safety",
+   "location": "Montreal, QC, Canada",
+   "url": "https://apply.workable.com/mila-2/j/1E81635604/apply",
+   "posted_at": "2026-10-02T22:19:42+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
     "simplify-degrees-phd",
     "ats-intern-flag",
-    "title-research"
+    "title-strong"
    ],
    "phd": true,
    "degrees": [
@@ -57,54 +61,22 @@
     "Winter 2026"
    ],
    "domain": "",
-   "job_id": "simplify:c8b772fa-9433-4ff4-8516-2c6249a464dd",
+   "job_id": "simplify:0e122058-7086-4d6f-a8cb-71e803be3af5",
    "order": 1,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Stripe",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Data Scientist Intern",
-   "location": "Toronto, ON, Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194285",
-   "posted_at": "2026-10-01T22:20:37+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:d9bb2856-f02d-4539-b7c0-81e9ade1a86b",
-   "order": 2,
    "regions": [
     "Canada"
    ]
   },
   {
-   "company": "Pinterest",
+   "company": "Bedrock Robotics",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Machine Learning Intern",
-   "location": "Palo Alto, CA, Seattle, WA, SF, NYC",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
-   "posted_at": "2026-10-01T22:19:19+00:00",
+   "title": "Behavior ML Engineer Intern - Learned Manipulation Policies",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c/application?embed=true",
+   "posted_at": "2026-10-02T22:18:54+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -114,29 +86,61 @@
    ],
    "phd": true,
    "degrees": [
+    "Bachelor's",
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2027"
+    "Winter 2026"
    ],
    "domain": "",
-   "job_id": "simplify:a9d3547a-9704-4e62-9ee4-a04616e64d34",
+   "job_id": "simplify:2a2027ea-3805-4463-8106-17eb9c36472c",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern - Maia Development",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070",
+   "posted_at": "2026-10-02T22:12:50+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:a06a0cea-0344-4075-b993-e26c7e476853",
    "order": 3,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Pinterest",
+   "company": "Kinaxis",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Machine Learning Intern",
-   "location": "Toronto, ON, Canada",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
-   "posted_at": "2026-10-01T22:19:18+00:00",
+   "title": "AI/ML Researcher Intern",
+   "location": "Remote in Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false",
+   "posted_at": "2026-10-02T22:06:33+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -151,531 +155,15 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2027"
+    "Winter 2027"
    ],
    "domain": "",
-   "job_id": "simplify:c3ead52d-fb95-4b7d-acf2-d1d88814aa89",
+   "job_id": "simplify:a105f8ab-2cdc-4f08-8687-fb4a75573615",
    "order": 4,
    "regions": [
-    "Canada"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40689",
-   "posted_at": "2026-10-01T22:16:42+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:a5b084cf-59ff-4346-8ab3-5832ade0bd75",
-   "order": 5,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40701",
-   "posted_at": "2026-10-01T22:16:42+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:8977681d-cb57-4fb6-a99f-55344f631bab",
-   "order": 6,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40695",
-   "posted_at": "2026-10-01T22:16:42+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:7712858f-382a-45d0-b39e-96399014727b",
-   "order": 7,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40692",
-   "posted_at": "2026-10-01T22:16:38+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:e424ed63-cf81-42da-b8e7-31265322ec20",
-   "order": 8,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40699",
-   "posted_at": "2026-10-01T22:16:38+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:59046a71-0513-4ef7-8135-b195a6fa7f3f",
-   "order": 9,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40687",
-   "posted_at": "2026-10-01T22:16:38+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:3e9a8bd4-d778-4339-a586-68df696939f2",
-   "order": 10,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40693",
-   "posted_at": "2026-10-01T22:16:38+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:4341eba9-6dfa-4daf-a025-6cfce5f0518e",
-   "order": 11,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI Research and Development Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40685",
-   "posted_at": "2026-10-01T22:16:38+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:e0df696d-2ab2-4d0d-8651-fb2a0f1bd983",
-   "order": 12,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI Research and Development Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40681",
-   "posted_at": "2026-10-01T22:16:38+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:a4b8903a-9aef-42f2-bcff-932971e9ba29",
-   "order": 13,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40677",
-   "posted_at": "2026-10-01T22:16:37+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:d91de500-e972-43a8-8bfb-c90fa6852777",
-   "order": 14,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702",
-   "posted_at": "2026-10-01T22:16:33+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:8b385727-658a-459e-8709-2c4192ab4c20",
-   "order": 15,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40690",
-   "posted_at": "2026-10-01T22:16:33+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:b15a4185-e784-44e5-a958-a5b71658fc15",
-   "order": 16,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40682",
-   "posted_at": "2026-10-01T22:16:33+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:b04b8a7c-4850-44d1-b4c4-9fee5c4ea08b",
-   "order": 17,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40680",
-   "posted_at": "2026-10-01T22:16:33+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:9eb2fc2b-ac16-4039-acfe-365736261f28",
-   "order": 18,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Nokia",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI R&D Engineer Co-op",
-   "location": "Sunnyvale, CA",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40698",
-   "posted_at": "2026-10-01T22:16:33+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:32a96299-0317-405b-a98b-214b6ff94716",
-   "order": 19,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
-   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
-   "posted_at": "2026-10-01T18:30:20-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8248060",
-   "order": 20,
-   "regions": [
-    "US"
+    "Canada",
+    "US",
+    "Remote"
    ]
   },
   {
@@ -685,18 +173,18 @@
    "domain": "microsoft.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Research Intern - Security Research Group, Microsoft Research Redmond",
+   "title": "Research Intern - Maia 200 Development",
    "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-   "posted_at": "2026-10-01T18:28:53+00:00",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070",
+   "posted_at": "2026-10-02T17:37:26+00:00",
    "department": "Cloud + AI",
    "confidence": "high",
    "match": [
     "title-strong"
    ],
    "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557022480",
-   "order": 21,
+   "job_id": "eightfold:microsoft.com:1970393557023070",
+   "order": 5,
    "regions": [
     "US"
    ]
@@ -708,38 +196,205 @@
    "domain": "waymo.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+   "title": "2027 Summer Intern, Perception - Evaluation",
    "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
-   "posted_at": "2026-10-01T11:38:02-04:00",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8248327",
+   "posted_at": "2026-10-02T17:20:44-04:00",
    "department": "Pipeline (N/A)",
    "confidence": "medium",
    "match": [
     "title-research"
    ],
    "phd": true,
-   "job_id": "greenhouse:waymo:8243556",
-   "order": 22,
+   "job_id": "greenhouse:waymo:8248327",
+   "order": 6,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "General Motors",
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Research, World Action Model",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8243732",
+   "posted_at": "2026-10-02T15:28:49-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8243732",
+   "order": 7,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Humanoid",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
-   "location": "Sunnyvale, CA",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
-   "posted_at": "2026-10-01T00:00:00+00:00",
+   "title": "Robot Learning Intern - Robot Learning Research",
+   "location": "London, UK",
+   "url": "https://jobs.ashbyhq.com/humanoid/e1a2a9de-ad23-4632-9d93-ee50fd41a221/application?embed=true",
+   "posted_at": "2026-10-02T14:19:37+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
     "simplify-degrees-phd",
     "ats-intern-flag",
     "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:090093e5-7ef5-475c-a791-32ea8ed332a7",
+   "order": 8,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Graphcore",
+   "tier": "infra",
+   "ats": "greenhouse",
+   "domain": "graphcore.ai",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Machine Learning and Data Science Engineering Intern",
+   "location": "Austin, Texas, United States; US - Austin",
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8862951002",
+   "posted_at": "2026-10-02T05:17:03-04:00",
+   "department": "Facilities Reliability Engineering",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "greenhouse:graphcore:8862951002",
+   "order": 10,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "American Family Insurance Group",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "GenAI/ML Intern",
+   "location": "Madison, WI, Boston, MA",
+   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514",
+   "posted_at": "2026-10-02T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:76c67bd8-fe68-4164-844f-a009b786af36",
+   "order": 11,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "PhD Research Intern - Embodied and Agentic AI",
+   "location": "California, Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792",
+   "posted_at": "2026-10-02T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Fall 2027"
+   ],
+   "domain": "nvidia.com",
+   "job_id": "simplify:0c8d5691-6532-406a-8a25-f4032b51809e",
+   "order": 12,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "PhD Research Intern, Embodied and Agentic AI - 2027",
+   "location": "US, CA, Santa Clara; US, CA, Remote",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792",
+   "posted_at": "2026-10-02T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025792",
+   "order": 13,
+   "regions": [
+    "US",
+    "Remote"
+   ]
+  },
+  {
+   "company": "Helion Energy",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Computational Plasma Research Intern",
+   "location": "Everett, WA",
+   "url": "https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6/application?embed=true",
+   "posted_at": "2026-10-01T01:20:06+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
    ],
    "phd": true,
    "degrees": [
@@ -750,28 +405,26 @@
     "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
-   "order": 25,
+   "job_id": "simplify:8c0720bf-747e-4a04-b5c4-846531aa0186",
+   "order": 37,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "QuEra Computing",
-   "tier": "other",
+   "company": "Microsoft",
+   "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
-   "kind": "discovery",
-   "title": "Quantum Error Correction Research Intern",
-   "location": "Boston, MA",
-   "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5435899008",
-   "posted_at": "2026-09-27T22:28:42+00:00",
+   "kind": "blindspot",
+   "title": "Data Scientist PhD Intern",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
+   "posted_at": "2026-09-03T22:22:12+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
+    "simplify-degrees-phd"
    ],
    "phd": true,
    "degrees": [
@@ -781,44 +434,9 @@
    "terms": [
     "Winter 2026"
    ],
-   "domain": "",
-   "job_id": "simplify:a6ea1f06-40f9-4167-8638-181b9566e94c",
-   "order": 57,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "AfterQuery",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Research Fellow",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/AfterQuery/b1794d2c-fdbf-4165-a244-9e3ccc9cc800/application?embed=true",
-   "posted_at": "2026-09-15T22:20:13+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD",
-    "JD",
-    "MD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:0dd2a24d-6ed2-46e0-ad44-2b1f11989d18",
-   "order": 157,
+   "domain": "microsoft.com",
+   "job_id": "simplify:a4bb4181-58ef-45f8-8194-7e00cc47ab86",
+   "order": 227,
    "regions": [
     "US"
    ]
@@ -830,18 +448,18 @@
    "domain": "microsoft.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+   "title": "Data Science: AI Experiences PhD Internship Opportunities - Redmond",
    "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-   "posted_at": "2026-07-01T20:38:11+00:00",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
+   "posted_at": "2026-09-02T17:58:35+00:00",
    "department": "HR Group",
-   "confidence": "medium",
+   "confidence": "high",
    "match": [
-    "title-research"
+    "title-strong"
    ],
-   "phd": false,
-   "job_id": "eightfold:microsoft.com:1970393556922929",
-   "order": 418,
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393556986137",
+   "order": 234,
    "regions": [
     "US"
    ]
