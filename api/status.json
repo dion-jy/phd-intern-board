@@ -1,48 +1,48 @@
 {
- "generated_at": "2026-10-04T06:35:23.218004+00:00",
+ "generated_at": "2026-10-05T06:30:16.932843+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9076,
+ "scanned_jobs": 9074,
  "by_kind": {
-  "discovery": 196,
-  "blindspot": 181,
-  "tracked": 172,
+  "tracked": 173,
+  "discovery": 198,
+  "blindspot": 183,
   "evergreen": 27
  },
- "total_listings": 576,
- "matched": 172,
+ "total_listings": 581,
+ "matched": 173,
  "off_board_file": 6,
  "evergreen": 27,
  "xposts": 10,
- "discover": 377,
+ "discover": 381,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 4455 live",
+   "Summer2027: 4419 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 4455 live"
+   "Summer2026: 4419 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 16840,
-  "active": 4454,
-  "phd": 870,
-  "blindspot": 181,
-  "discovery": 279,
-  "dropped_tracked": 58,
-  "dropped_category": 351,
+  "total": 16785,
+  "active": 4418,
+  "phd": 876,
+  "blindspot": 183,
+  "discovery": 277,
+  "dropped_tracked": 57,
+  "dropped_category": 358,
   "dropped_excluded": 1,
-  "by_title": 18,
-  "discovery_after_title_filter": 196
+  "by_title": 19,
+  "discovery_after_title_filter": 198
  },
- "new": 3,
+ "new": 11,
  "by_lab": [
   {
    "lab": "NVIDIA",
    "ats": "workday",
    "slug": "nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite",
-   "postings": 109,
-   "matched": 53,
+   "postings": 110,
+   "matched": 54,
    "evergreen": 0,
    "error": null
   },
@@ -50,7 +50,7 @@
    "lab": "Waymo",
    "ats": "greenhouse",
    "slug": "waymo",
-   "postings": 366,
+   "postings": 364,
    "matched": 28,
    "evergreen": 0,
    "error": null
@@ -59,7 +59,7 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 75,
+   "postings": 74,
    "matched": 22,
    "evergreen": 0,
    "error": null
@@ -212,7 +212,7 @@
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 886,
+   "postings": 885,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -230,7 +230,7 @@
    "lab": "Tenstorrent",
    "ats": "greenhouse",
    "slug": "tenstorrent",
-   "postings": 129,
+   "postings": 130,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -254,21 +254,21 @@
    "error": null
   },
   {
-   "lab": "Cognition",
-   "ats": "ashby",
-   "slug": "cognition",
-   "postings": 102,
-   "matched": 0,
-   "evergreen": 1,
-   "error": null
-  },
-  {
    "lab": "Nuro",
    "ats": "greenhouse",
    "slug": "nuro",
    "postings": 102,
    "matched": 1,
    "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "Cognition",
+   "ats": "ashby",
+   "slug": "cognition",
+   "postings": 101,
+   "matched": 0,
+   "evergreen": 1,
    "error": null
   },
   {
@@ -311,7 +311,7 @@
    "lab": "Modal",
    "ats": "ashby",
    "slug": "modal",
-   "postings": 38,
+   "postings": 37,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -320,7 +320,7 @@
    "lab": "Physical Intelligence",
    "ats": "ashby",
    "slug": "physicalintelligence",
-   "postings": 34,
+   "postings": 35,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -338,7 +338,7 @@
    "lab": "Luma AI",
    "ats": "ashby",
    "slug": "lumaai",
-   "postings": 30,
+   "postings": 29,
    "matched": 0,
    "evergreen": 1,
    "error": null
@@ -446,7 +446,7 @@
    "lab": "CoreWeave",
    "ats": "greenhouse",
    "slug": "coreweave",
-   "postings": 311,
+   "postings": 315,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -464,7 +464,7 @@
    "lab": "Sierra",
    "ats": "ashby",
    "slug": "sierra",
-   "postings": 194,
+   "postings": 193,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -482,7 +482,7 @@
    "lab": "Decagon",
    "ats": "ashby",
    "slug": "decagon",
-   "postings": 148,
+   "postings": 147,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -491,7 +491,7 @@
    "lab": "Woven by Toyota",
    "ats": "lever",
    "slug": "woven-by-toyota",
-   "postings": 142,
+   "postings": 143,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -716,7 +716,7 @@
    "lab": "Anyscale",
    "ats": "ashby",
    "slug": "anyscale",
-   "postings": 21,
+   "postings": 20,
    "matched": 0,
    "evergreen": 0,
    "error": null

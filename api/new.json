@@ -1,18 +1,42 @@
 {
- "generated_at": "2026-10-04T06:35:23.218004+00:00",
+ "generated_at": "2026-10-05T06:30:16.932843+00:00",
  "first_run": false,
- "count": 3,
+ "count": 11,
  "jobs": [
   {
-   "company": "Pinterest",
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Data Processing Developer Technology Intern - 2027",
+   "location": "Germany, Munich; France, Courbevoie; UK, Bristol; Switzerland, Zurich; Germany, Wuerselen; Germany, Berlin",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+   "posted_at": "2026-10-05T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "body-research-role"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024708",
+   "order": 0,
+   "regions": [
+    "UK",
+    "Europe"
+   ]
+  },
+  {
+   "company": "Pangram Labs",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "UX Quantitative Research Intern",
-   "location": "Remote in USA",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
-   "posted_at": "2026-10-01T22:19:19+00:00",
+   "title": "AI Research Intern",
+   "location": "NYC, Brooklyn, NY",
+   "url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true",
+   "posted_at": "2026-10-04T22:15:24+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -22,18 +46,19 @@
    ],
    "phd": true,
    "degrees": [
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
+    "Spring 2027",
     "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:eda40edd-acbe-4e9d-98b6-9591dea895bc",
-   "order": 18,
+   "job_id": "simplify:39440a28-111a-4535-887b-1a683c23ef54",
+   "order": 1,
    "regions": [
-    "US",
-    "Remote"
+    "US"
    ]
   },
   {
@@ -42,10 +67,42 @@
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Research Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
-   "posted_at": "2026-09-13T00:00:00+00:00",
+   "title": "Data Processing Developer Technology Intern",
+   "location": "Courbevoie, France, Bristol, UK, Würselen, Germany, Berlin, Germany, Munich, Germany",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+   "posted_at": "2026-10-04T22:09:46+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "nvidia.com",
+   "job_id": "simplify:bf2b1b62-c87b-4491-b5c6-ea8a6220c718",
+   "order": 2,
+   "regions": [
+    "UK",
+    "Europe"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern - Data Systems",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
+   "posted_at": "2026-09-26T01:07:09+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -57,25 +114,189 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2027"
+    "N/A"
    ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:13c20210-b9de-4f8c-93a7-96ce7766afc3",
-   "order": 195,
+   "domain": "microsoft.com",
+   "job_id": "simplify:63fae893-cd8b-4a05-b724-2e6878fb2308",
+   "order": 74,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Marsh",
+   "company": "Rolls-Royce",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-   "location": "Newcastle upon Tyne, UK",
-   "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
-   "posted_at": "2026-06-13T14:04:28+00:00",
+   "title": "Junior Machine Learning Engineer Intern",
+   "location": "Indianapolis, IN",
+   "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142",
+   "posted_at": "2026-09-14T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:16d72e19-4fbb-4539-842e-ab1c221c3562",
+   "order": 191,
+   "regions": [
+    "Asia",
+    "US"
+   ]
+  },
+  {
+   "company": "University of Maryland - College Park",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Research Assistant Intern",
+   "location": "College Park, MD",
+   "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/AI-Research-Assistant_JR104812",
+   "posted_at": "2026-08-27T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:66ef2704-3037-40ab-ac97-ad086c4309af",
+   "order": 263,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "TikTok",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Software Engineer Intern - ML Infra",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7668696895234197813",
+   "posted_at": "2026-08-03T06:14:59+00:00",
+   "department": "Software",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Fall 2026"
+   ],
+   "domain": "bytedance.com",
+   "job_id": "simplify:4e30bd9b-ebf0-4353-86db-38408f6b37c3",
+   "order": 378,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Student Researcher",
+   "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, Irvine, CA, San Bruno, CA, Ann Arbor, MI, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA, Atlanta, GA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/83535564552184518",
+   "posted_at": "2026-07-20T23:57:47+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:1af2873b-32c5-4dac-9ccb-9af00aa0c9a3",
+   "order": 408,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Nebius",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "ML Solution Architect Intern",
+   "location": "Remote in USA",
+   "url": "https://careers.nebius.com/?gh_jid=4883829101",
+   "posted_at": "2026-07-16T14:23:04+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:b380c306-bed2-4e4a-8c77-71a792a86621",
+   "order": 409,
+   "regions": [
+    "US",
+    "Remote"
+   ]
+  },
+  {
+   "company": "National Laboratory of the Rockies",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Postdoctoral Researcher Intern - Mathematical Optimization for Energy Systems",
+   "location": "Golden, CO",
+   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Mathematical-Optimization-for-Energy-Systems_R14352",
+   "posted_at": "2026-06-25T09:39:33+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -92,10 +313,41 @@
     "N/A"
    ],
    "domain": "",
-   "job_id": "simplify:61c905e5-2281-4abd-afcc-83089ab79869",
-   "order": 445,
+   "job_id": "simplify:5ddbfe13-7f29-4916-9a2f-cc4c3f47069f",
+   "order": 437,
    "regions": [
-    "UK"
+    "US"
+   ]
+  },
+  {
+   "company": "ByteDance",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Student Researcher - AI Foundation Model Infrastructure",
+   "location": "Seattle, WA",
+   "url": "https://jobs.bytedance.com/en/position/7623552947364317445/detail",
+   "posted_at": "2026-04-01T06:09:03+00:00",
+   "department": "Software",
+   "confidence": "medium",
+   "match": [
+    "simplify-research-title"
+   ],
+   "phd": false,
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "bytedance.com",
+   "job_id": "simplify:77ff658e-cabb-48be-9248-a271f5f898ff",
+   "order": 516,
+   "regions": [
+    "US"
    ]
   }
  ]

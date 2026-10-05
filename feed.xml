@@ -5,7 +5,28 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-10-03T01:38:19+00:00</updated>
+  <updated>2026-10-05T00:00:00+00:00</updated>
+  <entry>
+    <title>NVIDIA &#8212; Data Processing Developer Technology Intern - 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024708</id>
+    <updated>2026-10-05T00:00:00+00:00</updated>
+    <summary>Germany, Munich, France, Courbevoie +4 more · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Pangram Labs &#8212; AI Research Intern</title>
+    <link rel="alternate" href="https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true"/>
+    <id>urn:phd-intern-board:simplify:39440a28-111a-4535-887b-1a683c23ef54</id>
+    <updated>2026-10-04T22:15:24+00:00</updated>
+    <summary>NYC, Brooklyn, NY · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; Data Processing Developer Technology Intern</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"/>
+    <id>urn:phd-intern-board:simplify:bf2b1b62-c87b-4491-b5c6-ea8a6220c718</id>
+    <updated>2026-10-04T22:09:46+00:00</updated>
+    <summary>Courbevoie, France, Bristol, UK, Würselen, Germany, Berlin, Germany, Munich, Germany · Big tech · PhD</summary>
+  </entry>
   <entry>
     <title>X Development &#8212; PhD Resident - AI for Science - Early Stage Project</title>
     <link rel="alternate" href="https://x.company/careers/8865083002?gh_jid=8865083002"/>
@@ -404,26 +425,5 @@
     <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025647</id>
     <updated>2026-09-30T00:00:00+00:00</updated>
     <summary>US, WA, Seattle, US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; Software Engineer Intern, AI and DL Kernel Libraries - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026307</id>
-    <updated>2026-09-30T00:00:00+00:00</updated>
-    <summary>China, Shanghai · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Honeywell &#8212; Artificial Intelligence/Machine Learning Co-op</title>
-    <link rel="alternate" href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958"/>
-    <id>urn:phd-intern-board:simplify:832f0b01-5885-457c-a203-369c9da9818e</id>
-    <updated>2026-09-29T22:20:30+00:00</updated>
-    <summary>United States · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Keysight Technologies &#8212; EDA AI/ML Software Intern</title>
-    <link rel="alternate" href="https://jobs.keysight.com/jobs/54582?icims=1"/>
-    <id>urn:phd-intern-board:simplify:f4ec9754-f694-4e49-89d1-e4e407d7d2ff</id>
-    <updated>2026-09-29T22:15:41+00:00</updated>
-    <summary>Calabasas, CA · Other · PhD</summary>
   </entry>
 </feed>
