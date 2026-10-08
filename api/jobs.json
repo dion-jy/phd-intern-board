@@ -1,7 +1,30 @@
 {
- "generated_at": "2026-10-07T06:48:05.828679+00:00",
- "count": 177,
+ "generated_at": "2026-10-08T06:57:02.314549+00:00",
+ "count": 180,
  "jobs": [
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, MS/PhD, Perception, Robotics",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8227633",
+   "posted_at": "2026-10-07T15:11:14-04:00",
+   "department": "Perception (7LT)",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8227633",
+   "order": 6,
+   "regions": [
+    "US"
+   ]
+  },
   {
    "company": "Waymo",
    "tier": "bigtech",
@@ -20,7 +43,54 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257801",
-   "order": 1,
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "PhD Research Intern, Efficient Deep Learning - 2027",
+   "location": "US, CA, Santa Clara; US, CA, Remote",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
+   "posted_at": "2026-10-07T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025478",
+   "order": 16,
+   "regions": [
+    "US",
+    "Remote"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "PhD Research Intern, AI-Aided Engineering – 2027",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
+   "posted_at": "2026-10-07T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026940",
+   "order": 15,
    "regions": [
     "US"
    ]
@@ -43,7 +113,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8250220",
-   "order": 10,
+   "order": 25,
    "regions": [
     "US"
    ]
@@ -66,7 +136,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:waymo:8257237",
-   "order": 11,
+   "order": 26,
    "regions": [
     "US"
    ]
@@ -89,7 +159,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026499",
-   "order": 17,
+   "order": 32,
    "regions": [
     "US"
    ]
@@ -113,7 +183,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:e6502490-37c6-471a-9ffb-cf397764c518",
-   "order": 23,
+   "order": 38,
    "regions": [
     "US"
    ]
@@ -136,33 +206,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257159",
-   "order": 24,
+   "order": 39,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern, Efficient Deep Learning - 2027",
-   "location": "US, CA, Santa Clara; US, CA, Remote",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
-   "posted_at": "2026-10-05T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025478",
-   "order": 36,
-   "regions": [
-    "US",
-    "Remote"
    ]
   },
   {
@@ -183,7 +229,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027025",
-   "order": 33,
+   "order": 48,
    "regions": [
     "Europe"
    ]
@@ -206,7 +252,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024708",
-   "order": 34,
+   "order": 49,
    "regions": [
     "UK",
     "Europe"
@@ -230,7 +276,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026971",
-   "order": 32,
+   "order": 47,
    "regions": [
     "Asia"
    ]
@@ -253,7 +299,7 @@
    ],
    "phd": true,
    "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172064",
-   "order": 26,
+   "order": 41,
    "regions": [
     "US"
    ]
@@ -276,7 +322,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557023070",
-   "order": 44,
+   "order": 58,
    "regions": [
     "US"
    ]
@@ -299,7 +345,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8248327",
-   "order": 45,
+   "order": 59,
    "regions": [
     "US"
    ]
@@ -322,7 +368,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243732",
-   "order": 46,
+   "order": 60,
    "regions": [
     "US"
    ]
@@ -345,7 +391,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025792",
-   "order": 51,
+   "order": 64,
    "regions": [
     "US",
     "Remote"
@@ -369,7 +415,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8248060",
-   "order": 59,
+   "order": 72,
    "regions": [
     "US"
    ]
@@ -392,7 +438,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557022480",
-   "order": 60,
+   "order": 73,
    "regions": [
     "US"
    ]
@@ -415,7 +461,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243556",
-   "order": 61,
+   "order": 74,
    "regions": [
     "US"
    ]
@@ -438,7 +484,7 @@
    ],
    "phd": true,
    "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R171519",
-   "order": 64,
+   "order": 77,
    "regions": [
     "US"
    ]
@@ -461,7 +507,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557021663",
-   "order": 69,
+   "order": 82,
    "regions": [
     "US"
    ]
@@ -484,7 +530,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025647",
-   "order": 81,
+   "order": 93,
    "regions": [
     "US"
    ]
@@ -507,7 +553,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025379",
-   "order": 80,
+   "order": 92,
    "regions": [
     "US"
    ]
@@ -530,7 +576,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025966",
-   "order": 78,
+   "order": 90,
    "regions": [
     "Asia"
    ]
@@ -553,7 +599,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026307",
-   "order": 82,
+   "order": 94,
    "regions": [
     "Asia"
    ]
@@ -576,7 +622,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026262",
-   "order": 77,
+   "order": 89,
    "regions": [
     "Asia"
    ]
@@ -599,7 +645,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8234876",
-   "order": 86,
+   "order": 98,
    "regions": [
     "US"
    ]
@@ -622,7 +668,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026584",
-   "order": 89,
+   "order": 101,
    "regions": [
     "US"
    ]
@@ -645,7 +691,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026298",
-   "order": 88,
+   "order": 100,
    "regions": [
     "Asia"
    ]
@@ -668,7 +714,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8237997",
-   "order": 91,
+   "order": 103,
    "regions": [
     "US"
    ]
@@ -691,7 +737,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8234670",
-   "order": 92,
+   "order": 104,
    "regions": [
     "US"
    ]
@@ -714,7 +760,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024606",
-   "order": 94,
+   "order": 107,
    "regions": [
     "Europe"
    ]
@@ -737,7 +783,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026402",
-   "order": 93,
+   "order": 106,
    "regions": [
     "Asia"
    ]
@@ -760,7 +806,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227411",
-   "order": 98,
+   "order": 111,
    "regions": [
     "US"
    ]
@@ -783,7 +829,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8234262",
-   "order": 99,
+   "order": 112,
    "regions": [
     "US"
    ]
@@ -806,7 +852,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8233746",
-   "order": 100,
+   "order": 113,
    "regions": [
     "US"
    ]
@@ -829,7 +875,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557008574",
-   "order": 101,
+   "order": 114,
    "regions": [
     "US"
    ]
@@ -852,7 +898,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8231711",
-   "order": 102,
+   "order": 115,
    "regions": [
     "US"
    ]
@@ -875,7 +921,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227640",
-   "order": 109,
+   "order": 122,
    "regions": [
     "US"
    ]
@@ -898,7 +944,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8224746",
-   "order": 113,
+   "order": 126,
    "regions": [
     "US"
    ]
@@ -921,7 +967,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026471",
-   "order": 120,
+   "order": 133,
    "regions": [
     "US"
    ]
@@ -944,7 +990,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025025",
-   "order": 121,
+   "order": 134,
    "regions": [
     "US"
    ]
@@ -967,7 +1013,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026004",
-   "order": 122,
+   "order": 135,
    "regions": [
     "US"
    ]
@@ -990,7 +1036,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026160",
-   "order": 115,
+   "order": 128,
    "regions": [
     "Asia"
    ]
@@ -1013,7 +1059,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026173",
-   "order": 117,
+   "order": 130,
    "regions": [
     "Asia"
    ]
@@ -1036,7 +1082,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026164",
-   "order": 116,
+   "order": 129,
    "regions": [
     "Asia"
    ]
@@ -1059,7 +1105,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026170",
-   "order": 118,
+   "order": 131,
    "regions": [
     "Asia"
    ]
@@ -1082,7 +1128,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026171",
-   "order": 119,
+   "order": 132,
    "regions": [
     "Asia"
    ]
@@ -1105,7 +1151,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8214350",
-   "order": 125,
+   "order": 138,
    "regions": [
     "US"
    ]
@@ -1128,7 +1174,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221956",
-   "order": 126,
+   "order": 139,
    "regions": [
     "US"
    ]
@@ -1151,7 +1197,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8223735",
-   "order": 127,
+   "order": 140,
    "regions": [
     "US"
    ]
@@ -1174,7 +1220,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221851",
-   "order": 137,
+   "order": 150,
    "regions": [
     "US"
    ]
@@ -1197,7 +1243,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221795",
-   "order": 138,
+   "order": 151,
    "regions": [
     "US"
    ]
@@ -1220,7 +1266,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025098",
-   "order": 141,
+   "order": 154,
    "regions": [
     "US"
    ]
@@ -1243,7 +1289,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024997",
-   "order": 142,
+   "order": 155,
    "regions": [
     "Canada"
    ]
@@ -1266,7 +1312,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025405",
-   "order": 140,
+   "order": 153,
    "regions": [
     "US"
    ]
@@ -1289,7 +1335,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:ab076e26-adf1-414f-a006-7b1bdc9247c8",
-   "order": 146,
+   "order": 159,
    "regions": [
     "US"
    ]
@@ -1312,7 +1358,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:60ab6a5e-9b02-4ae7-a0fb-4c7d9ec0fdf8",
-   "order": 148,
+   "order": 161,
    "regions": [
     "Asia"
    ]
@@ -1335,7 +1381,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8203191",
-   "order": 149,
+   "order": 162,
    "regions": [
     "US"
    ]
@@ -1358,7 +1404,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238468007",
-   "order": 150,
+   "order": 163,
    "regions": [
     "US"
    ]
@@ -1381,7 +1427,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8199365",
-   "order": 152,
+   "order": 165,
    "regions": [
     "US"
    ]
@@ -1404,7 +1450,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8205680",
-   "order": 153,
+   "order": 166,
    "regions": [
     "UK"
    ]
@@ -1427,7 +1473,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238467007",
-   "order": 154,
+   "order": 167,
    "regions": [
     "US"
    ]
@@ -1450,7 +1496,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:togetherai:5238411007",
-   "order": 155,
+   "order": 168,
    "regions": [
     "US"
    ]
@@ -1473,7 +1519,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:togetherai:5238460007",
-   "order": 156,
+   "order": 169,
    "regions": [
     "US"
    ]
@@ -1496,7 +1542,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238465007",
-   "order": 157,
+   "order": 170,
    "regions": [
     "Europe",
     "US"
@@ -1520,7 +1566,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238466007",
-   "order": 158,
+   "order": 171,
    "regions": [
     "Europe",
     "US"
@@ -1544,7 +1590,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238461007",
-   "order": 159,
+   "order": 172,
    "regions": [
     "US"
    ]
@@ -1567,7 +1613,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238462007",
-   "order": 160,
+   "order": 173,
    "regions": [
     "US"
    ]
@@ -1590,7 +1636,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025559",
-   "order": 164,
+   "order": 177,
    "regions": [
     "Asia"
    ]
@@ -1613,7 +1659,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8208465",
-   "order": 166,
+   "order": 179,
    "regions": [
     "UK"
    ]
@@ -1636,7 +1682,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024174",
-   "order": 169,
+   "order": 182,
    "regions": [
     "US"
    ]
@@ -1659,7 +1705,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025395",
-   "order": 168,
+   "order": 181,
    "regions": [
     "US"
    ]
@@ -1682,7 +1728,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025103",
-   "order": 170,
+   "order": 183,
    "regions": [
     "US",
     "Remote"
@@ -1706,7 +1752,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025893",
-   "order": 171,
+   "order": 184,
    "regions": [
     "US"
    ]
@@ -1729,7 +1775,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8197554",
-   "order": 182,
+   "order": 195,
    "regions": [
     "US"
    ]
@@ -1752,7 +1798,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8202025",
-   "order": 184,
+   "order": 197,
    "regions": [
     "US"
    ]
@@ -1775,7 +1821,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8202801",
-   "order": 185,
+   "order": 198,
    "regions": [
     "US"
    ]
@@ -1798,7 +1844,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025406",
-   "order": 188,
+   "order": 201,
    "regions": [
     "US"
    ]
@@ -1821,7 +1867,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025538",
-   "order": 189,
+   "order": 202,
    "regions": [
     "Asia"
    ]
@@ -1844,7 +1890,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556998782",
-   "order": 192,
+   "order": 205,
    "regions": [
     "Europe"
    ]
@@ -1867,7 +1913,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023856",
-   "order": 194,
+   "order": 207,
    "regions": [
     "US"
    ]
@@ -1890,7 +1936,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025542",
-   "order": 193,
+   "order": 206,
    "regions": [
     "Asia"
    ]
@@ -1913,7 +1959,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8197899",
-   "order": 205,
+   "order": 218,
    "regions": [
     "US"
    ]
@@ -1937,9 +1983,32 @@
    ],
    "phd": false,
    "job_id": "ashby:mistral.ai:fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
-   "order": 206,
+   "order": 219,
    "regions": [
     "Europe"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Applied Sciences INTERN",
+   "location": "India, Multiple Locations, Multiple Locations",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556997800",
+   "posted_at": "2026-09-14T07:17:42+00:00",
+   "department": "Windows and Devices Group",
+   "confidence": "medium",
+   "match": [
+    "body-research-role"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393556997800",
+   "order": 220,
+   "regions": [
+    "Asia"
    ]
   },
   {
@@ -1960,7 +2029,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024171",
-   "order": 212,
+   "order": 225,
    "regions": [
     "US"
    ]
@@ -1983,7 +2052,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8193295",
-   "order": 228,
+   "order": 241,
    "regions": [
     "US"
    ]
@@ -2006,7 +2075,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8189848",
-   "order": 229,
+   "order": 242,
    "regions": [
     "US"
    ]
@@ -2029,7 +2098,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023889",
-   "order": 239,
+   "order": 252,
    "regions": [
     "Asia"
    ]
@@ -2052,32 +2121,9 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024818",
-   "order": 242,
+   "order": 255,
    "regions": [
     "Asia"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Electrical Engineering INTERN (PhD)",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
-   "posted_at": "2026-09-02T18:21:26+00:00",
-   "department": "HR Group",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393556986148",
-   "order": 248,
-   "regions": [
-    "US"
    ]
   },
   {
@@ -2098,7 +2144,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556986140",
-   "order": 249,
+   "order": 261,
    "regions": [
     "US"
    ]
@@ -2121,7 +2167,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556986137",
-   "order": 250,
+   "order": 262,
    "regions": [
     "US"
    ]
@@ -2144,7 +2190,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:b9e1ff15-d52a-46d5-abf0-26460f2a116c",
-   "order": 251,
+   "order": 263,
    "regions": [
     "Europe"
    ]
@@ -2167,7 +2213,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024509",
-   "order": 257,
+   "order": 268,
    "regions": [
     "Asia"
    ]
@@ -2190,7 +2236,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024002",
-   "order": 271,
+   "order": 282,
    "regions": [
     "Asia"
    ]
@@ -2213,7 +2259,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024423",
-   "order": 272,
+   "order": 283,
    "regions": [
     "Asia"
    ]
@@ -2236,7 +2282,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8163364",
-   "order": 274,
+   "order": 285,
    "regions": [
     "US"
    ]
@@ -2259,7 +2305,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556982928",
-   "order": 275,
+   "order": 286,
    "regions": [
     "US"
    ]
@@ -2282,7 +2328,7 @@
    ],
    "phd": false,
    "job_id": "ashby:ami:0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2",
-   "order": 276,
+   "order": 287,
    "regions": [
     "Asia",
     "Europe",
@@ -2308,7 +2354,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556982268",
-   "order": 277,
+   "order": 288,
    "regions": [
     "Asia"
    ]
@@ -2331,7 +2377,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024054",
-   "order": 283,
+   "order": 294,
    "regions": [
     "Asia"
    ]
@@ -2354,7 +2400,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024258",
-   "order": 284,
+   "order": 295,
    "regions": [
     "Asia"
    ]
@@ -2377,7 +2423,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2021301",
-   "order": 288,
+   "order": 299,
    "regions": [
     "Asia"
    ]
@@ -2400,7 +2446,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023658",
-   "order": 289,
+   "order": 300,
    "regions": [
     "Asia"
    ]
@@ -2423,7 +2469,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556978904",
-   "order": 295,
+   "order": 306,
    "regions": [
     "Asia"
    ]
@@ -2446,7 +2492,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023666",
-   "order": 296,
+   "order": 307,
    "regions": [
     "Asia"
    ]
@@ -2469,7 +2515,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023639",
-   "order": 297,
+   "order": 308,
    "regions": [
     "Asia"
    ]
@@ -2492,7 +2538,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023641",
-   "order": 298,
+   "order": 309,
    "regions": [
     "Asia"
    ]
@@ -2515,7 +2561,7 @@
    ],
    "phd": false,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023656",
-   "order": 302,
+   "order": 313,
    "regions": [
     "Asia"
    ]
@@ -2538,7 +2584,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556972877",
-   "order": 304,
+   "order": 315,
    "regions": [
     "Asia"
    ]
@@ -2561,7 +2607,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023646",
-   "order": 309,
+   "order": 320,
    "regions": [
     "Asia"
    ]
@@ -2584,7 +2630,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023497",
-   "order": 317,
+   "order": 326,
    "regions": [
     "US"
    ]
@@ -2607,7 +2653,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023491",
-   "order": 318,
+   "order": 327,
    "regions": [
     "US"
    ]
@@ -2630,7 +2676,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023496",
-   "order": 316,
+   "order": 325,
    "regions": [
     "US"
    ]
@@ -2653,7 +2699,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556972317",
-   "order": 320,
+   "order": 329,
    "regions": [
     "Asia"
    ]
@@ -2676,7 +2722,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2022645",
-   "order": 321,
+   "order": 330,
    "regions": [
     "Asia"
    ]
@@ -2699,7 +2745,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116503",
-   "order": 400,
+   "order": 409,
    "regions": [
     "Asia"
    ]
@@ -2722,7 +2768,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116491",
-   "order": 401,
+   "order": 410,
    "regions": [
     "Asia"
    ]
@@ -2745,7 +2791,7 @@
    ],
    "phd": true,
    "job_id": "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-   "order": 404,
+   "order": 413,
    "regions": [
     "US"
    ]
@@ -2768,7 +2814,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8090222",
-   "order": 405,
+   "order": 414,
    "regions": [
     "US"
    ]
@@ -2791,7 +2837,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:gleanwork:4717716005",
-   "order": 407,
+   "order": 416,
    "regions": [
     "US",
     "Remote"
@@ -2815,7 +2861,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556942310",
-   "order": 410,
+   "order": 419,
    "regions": [
     "Other"
    ]
@@ -2838,7 +2884,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116760",
-   "order": 423,
+   "order": 431,
    "regions": [
     "Asia"
    ]
@@ -2861,7 +2907,7 @@
    ],
    "phd": false,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116761",
-   "order": 425,
+   "order": 433,
    "regions": [
     "Asia"
    ]
@@ -2884,7 +2930,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116768",
-   "order": 426,
+   "order": 434,
    "regions": [
     "Asia"
    ]
@@ -2908,7 +2954,7 @@
    ],
    "phd": true,
    "job_id": "ashby:pika:e135acb1-2a0b-47b4-81b2-3cb0f787657a",
-   "order": 429,
+   "order": 437,
    "regions": [
     "US"
    ]
@@ -2931,7 +2977,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8054878",
-   "order": 430,
+   "order": 438,
    "regions": [
     "US"
    ]
@@ -2954,7 +3000,7 @@
    ],
    "phd": false,
    "job_id": "ashby:baseten:58d7d8e6-86ee-43a1-baec-3dddcb661d51",
-   "order": 436,
+   "order": 444,
    "regions": [
     "US"
    ]
@@ -2978,7 +3024,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:de46ba8b-00cb-4618-83df-66e15a78434e",
-   "order": 438,
+   "order": 446,
    "regions": [
     "UK",
     "Europe"
@@ -3002,7 +3048,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556922929",
-   "order": 443,
+   "order": 451,
    "regions": [
     "US"
    ]
@@ -3025,7 +3071,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2010488",
-   "order": 445,
+   "order": 453,
    "regions": [
     "US"
    ]
@@ -3048,7 +3094,7 @@
    ],
    "phd": false,
    "job_id": "ashby:1x:5b2b4c73-13b5-46ca-8467-8024741a4b57",
-   "order": 449,
+   "order": 457,
    "regions": [
     "US"
    ]
@@ -3071,7 +3117,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:tenstorrent:5148052007",
-   "order": 483,
+   "order": 490,
    "regions": [
     "US"
    ]
@@ -3094,7 +3140,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2016035",
-   "order": 484,
+   "order": 491,
    "regions": [
     "US"
    ]
@@ -3117,7 +3163,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2017522",
-   "order": 489,
+   "order": 495,
    "regions": [
     "US"
    ]
@@ -3140,7 +3186,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556868271",
-   "order": 490,
+   "order": 496,
    "regions": [
     "US"
    ]
@@ -3164,7 +3210,7 @@
    ],
    "phd": false,
    "job_id": "ashby:cohere:36d1f52f-8270-4652-adf5-5303a0ff341b",
-   "order": 493,
+   "order": 499,
    "regions": [
     "UK",
     "Europe",
@@ -3190,7 +3236,7 @@
    ],
    "phd": true,
    "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2012398",
-   "order": 495,
+   "order": 501,
    "regions": [
     "US"
    ]
@@ -3214,7 +3260,7 @@
    ],
    "phd": true,
    "job_id": "ashby:cohere:73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-   "order": 496,
+   "order": 502,
    "regions": [
     "UK",
     "Europe",
@@ -3240,7 +3286,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689954005",
-   "order": 497,
+   "order": 503,
    "regions": [
     "Canada",
     "Remote"
@@ -3264,7 +3310,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689950005",
-   "order": 498,
+   "order": 504,
    "regions": [
     "UK",
     "Remote"
@@ -3288,7 +3334,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689947005",
-   "order": 499,
+   "order": 505,
    "regions": [
     "US",
     "Remote"
@@ -3312,7 +3358,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:7852135",
-   "order": 502,
+   "order": 508,
    "regions": [
     "US"
    ]
@@ -3335,7 +3381,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183053008",
-   "order": 504,
+   "order": 510,
    "regions": [
     "UK",
     "US",
@@ -3360,7 +3406,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183051008",
-   "order": 518,
+   "order": 523,
    "regions": [
     "UK",
     "US",
@@ -3385,7 +3431,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183044008",
-   "order": 519,
+   "order": 524,
    "regions": [
     "UK",
     "US",
@@ -3410,7 +3456,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:71168628-1998-47d3-87a9-be7bc56a430d",
-   "order": 520,
+   "order": 525,
    "regions": [
     "UK"
    ]
@@ -3434,7 +3480,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:edc2528d-6e6c-4a67-b871-bfe7d9c890b4",
-   "order": 540,
+   "order": 545,
    "regions": [
     "US"
    ]
@@ -3458,7 +3504,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:5bb0567a-8d07-4cc4-be7c-c06b31361883",
-   "order": 541,
+   "order": 546,
    "regions": [
     "US"
    ]
@@ -3482,7 +3528,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:bb953f29-0059-4a40-aa9e-3a8c88733902",
-   "order": 542,
+   "order": 547,
    "regions": [
     "US"
    ]
@@ -3506,7 +3552,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:91e0686e-272a-4780-b33d-d7860b94a7b4",
-   "order": 543,
+   "order": 548,
    "regions": [
     "US"
    ]
@@ -3529,7 +3575,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4661650005",
-   "order": 544,
+   "order": 549,
    "regions": [
     "Canada",
     "Remote"
@@ -3553,7 +3599,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4661647005",
-   "order": 545,
+   "order": 550,
    "regions": [
     "UK",
     "Remote"
@@ -3577,7 +3623,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4660340005",
-   "order": 546,
+   "order": 551,
    "regions": [
     "US",
     "Remote"
@@ -3601,7 +3647,7 @@
    ],
    "phd": true,
    "job_id": "ashby:hcompany:856b1025-791f-46ed-9ea0-a88bb2f32ce5",
-   "order": 547,
+   "order": 552,
    "regions": [
     "UK",
     "Remote"
@@ -3625,7 +3671,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5106468008",
-   "order": 548,
+   "order": 553,
    "regions": [
     "Canada",
     "Remote"
@@ -3649,7 +3695,7 @@
    ],
    "phd": true,
    "job_id": "ashby:perplexity:9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-   "order": 549,
+   "order": 554,
    "regions": [
     "Europe"
    ]
@@ -3672,7 +3718,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116522",
-   "order": 553,
+   "order": 558,
    "regions": [
     "Asia"
    ]
@@ -3695,7 +3741,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116531",
-   "order": 552,
+   "order": 557,
    "regions": [
     "Asia"
    ]
@@ -3718,7 +3764,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116890",
-   "order": 551,
+   "order": 556,
    "regions": [
     "Asia"
    ]
@@ -3741,7 +3787,7 @@
    ],
    "phd": false,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116529",
-   "order": 550,
+   "order": 555,
    "regions": [
     "Asia"
    ]
@@ -3764,7 +3810,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5047247008",
-   "order": 554,
+   "order": 559,
    "regions": [
     "Canada"
    ]
@@ -3788,7 +3834,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:0fd4e30b-9bd1-4b53-9043-6088457363cb",
-   "order": 555,
+   "order": 560,
    "regions": [
     "Canada",
     "US",
@@ -3814,7 +3860,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:62700386-b9db-4c78-aec3-5ef59cbe841e",
-   "order": 556,
+   "order": 561,
    "regions": [
     "Canada",
     "US"
@@ -3838,7 +3884,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556641091",
-   "order": 557,
+   "order": 562,
    "regions": [
     "Asia"
    ]
@@ -3862,7 +3908,7 @@
    ],
    "phd": true,
    "job_id": "ashby:etched:6f23713f-5409-45b7-aae8-adb8710cdbc3",
-   "order": 558,
+   "order": 563,
    "regions": [
     "US"
    ]
@@ -3885,7 +3931,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:nuro:7351061",
-   "order": 559,
+   "order": 564,
    "regions": [
     "US"
    ]
@@ -3908,7 +3954,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4612329005",
-   "order": 560,
+   "order": 565,
    "regions": [
     "UK",
     "Remote"
@@ -3932,7 +3978,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4620719005",
-   "order": 561,
+   "order": 566,
    "regions": [
     "UK",
     "Remote"
@@ -3956,7 +4002,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4591782005",
-   "order": 565,
+   "order": 570,
    "regions": [
     "US",
     "Remote"
@@ -3980,10 +4026,33 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4574113005",
-   "order": 568,
+   "order": 573,
    "regions": [
     "US",
     "Remote"
+   ]
+  },
+  {
+   "company": "Goodfire",
+   "tier": "research-org",
+   "ats": "greenhouse",
+   "domain": "goodfire.ai",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Fellow",
+   "location": "San Francisco, CA; San Francisco",
+   "url": "https://job-boards.greenhouse.io/goodfire/jobs/4499053008",
+   "posted_at": "2025-01-17T12:26:49-05:00",
+   "department": "Fellowships",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": false,
+   "job_id": "greenhouse:goodfire:4499053008",
+   "order": 578,
+   "regions": [
+    "US"
    ]
   },
   {
@@ -4004,7 +4073,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4476000008",
-   "order": 573,
+   "order": 579,
    "regions": [
     "Canada"
    ]
@@ -4028,7 +4097,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:ce58d9fd-f22b-4336-80b5-ba1e8d764526",
-   "order": 574,
+   "order": 580,
    "regions": [
     "US"
    ]
@@ -4051,7 +4120,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4123863008",
-   "order": 575,
+   "order": 581,
    "regions": [
     "Canada",
     "Remote"
@@ -4076,7 +4145,7 @@
    ],
    "phd": false,
    "job_id": "ashby:physicalintelligence:f020ff1a-4b4c-4415-8434-2da5010a7076",
-   "order": 576,
+   "order": 582,
    "regions": [
     "US"
    ]
@@ -4099,7 +4168,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:databricks:7011263002",
-   "order": 580,
+   "order": 587,
    "regions": [
     "US"
    ]
@@ -4122,7 +4191,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:lgairesearch:4130830005",
-   "order": 582,
+   "order": 591,
    "regions": [
     "US"
    ]
