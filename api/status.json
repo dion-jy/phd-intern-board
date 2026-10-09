@@ -1,48 +1,48 @@
 {
- "generated_at": "2026-10-08T06:57:02.314549+00:00",
+ "generated_at": "2026-10-09T07:05:32.764871+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9071,
+ "scanned_jobs": 9090,
  "by_kind": {
-  "blindspot": 181,
-  "tracked": 180,
-  "discovery": 205,
+  "blindspot": 188,
+  "tracked": 192,
+  "discovery": 204,
   "evergreen": 35
  },
- "total_listings": 601,
- "matched": 180,
+ "total_listings": 619,
+ "matched": 192,
  "off_board_file": 6,
  "evergreen": 35,
  "xposts": 10,
- "discover": 386,
+ "discover": 392,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 4687 live",
+   "Summer2027: 4659 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 4687 live"
+   "Summer2026: 4659 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17201,
-  "active": 4686,
-  "phd": 938,
-  "blindspot": 181,
-  "discovery": 289,
-  "dropped_tracked": 69,
-  "dropped_category": 396,
-  "dropped_excluded": 3,
+  "total": 17210,
+  "active": 4658,
+  "phd": 939,
+  "blindspot": 188,
+  "discovery": 285,
+  "dropped_tracked": 70,
+  "dropped_category": 392,
+  "dropped_excluded": 4,
   "by_title": 20,
-  "discovery_after_title_filter": 205
+  "discovery_after_title_filter": 204
  },
- "new": 24,
+ "new": 30,
  "by_lab": [
   {
    "lab": "NVIDIA",
    "ats": "workday",
    "slug": "nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite",
-   "postings": 122,
-   "matched": 59,
+   "postings": 126,
+   "matched": 62,
    "evergreen": 0,
    "error": null
   },
@@ -50,8 +50,8 @@
    "lab": "Waymo",
    "ats": "greenhouse",
    "slug": "waymo",
-   "postings": 373,
-   "matched": 33,
+   "postings": 371,
+   "matched": 34,
    "evergreen": 0,
    "error": null
   },
@@ -59,8 +59,8 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 74,
-   "matched": 17,
+   "postings": 73,
+   "matched": 23,
    "evergreen": 0,
    "error": null
   },
@@ -68,7 +68,7 @@
    "lab": "Scale AI",
    "ats": "greenhouse",
    "slug": "scaleai",
-   "postings": 187,
+   "postings": 183,
    "matched": 10,
    "evergreen": 1,
    "error": null
@@ -95,7 +95,7 @@
    "lab": "Together AI",
    "ats": "greenhouse",
    "slug": "togetherai",
-   "postings": 78,
+   "postings": 79,
    "matched": 8,
    "evergreen": 0,
    "error": null
@@ -104,7 +104,7 @@
    "lab": "Applied Intuition",
    "ats": "ashby",
    "slug": "applied",
-   "postings": 320,
+   "postings": 323,
    "matched": 5,
    "evergreen": 0,
    "error": null
@@ -113,7 +113,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 648,
+   "postings": 647,
    "matched": 3,
    "evergreen": 1,
    "error": null
@@ -122,7 +122,7 @@
    "lab": "Perplexity",
    "ats": "ashby",
    "slug": "perplexity",
-   "postings": 129,
+   "postings": 132,
    "matched": 4,
    "evergreen": 0,
    "error": null
@@ -131,7 +131,7 @@
    "lab": "Cresta",
    "ats": "greenhouse",
    "slug": "cresta",
-   "postings": 89,
+   "postings": 87,
    "matched": 4,
    "evergreen": 0,
    "error": null
@@ -140,7 +140,7 @@
    "lab": "Allen Institute for AI (AI2)",
    "ats": "greenhouse",
    "slug": "thealleninstitute",
-   "postings": 18,
+   "postings": 16,
    "matched": 4,
    "evergreen": 0,
    "error": null
@@ -149,7 +149,7 @@
    "lab": "Mistral AI",
    "ats": "ashby",
    "slug": "mistral.ai",
-   "postings": 207,
+   "postings": 209,
    "matched": 3,
    "evergreen": 0,
    "error": null
@@ -158,7 +158,7 @@
    "lab": "Cohere",
    "ats": "ashby",
    "slug": "cohere",
-   "postings": 126,
+   "postings": 120,
    "matched": 2,
    "evergreen": 0,
    "error": null
@@ -167,7 +167,7 @@
    "lab": "Etched",
    "ats": "ashby",
    "slug": "etched",
-   "postings": 109,
+   "postings": 108,
    "matched": 1,
    "evergreen": 1,
    "error": null
@@ -203,7 +203,7 @@
    "lab": "H Company",
    "ats": "ashby",
    "slug": "hcompany",
-   "postings": 26,
+   "postings": 28,
    "matched": 1,
    "evergreen": 1,
    "error": null
@@ -236,10 +236,10 @@
    "error": null
   },
   {
-   "lab": "Glean",
-   "ats": "greenhouse",
-   "slug": "gleanwork",
-   "postings": 131,
+   "lab": "Woven by Toyota",
+   "ats": "lever",
+   "slug": "woven-by-toyota",
+   "postings": 149,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -248,6 +248,15 @@
    "lab": "Tenstorrent",
    "ats": "greenhouse",
    "slug": "tenstorrent",
+   "postings": 132,
+   "matched": 1,
+   "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "Glean",
+   "ats": "greenhouse",
+   "slug": "gleanwork",
    "postings": 131,
    "matched": 1,
    "evergreen": 0,
@@ -266,7 +275,7 @@
    "lab": "Baseten",
    "ats": "ashby",
    "slug": "baseten",
-   "postings": 111,
+   "postings": 110,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -275,7 +284,7 @@
    "lab": "Nuro",
    "ats": "greenhouse",
    "slug": "nuro",
-   "postings": 104,
+   "postings": 106,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -302,7 +311,7 @@
    "lab": "Faculty",
    "ats": "ashby",
    "slug": "faculty",
-   "postings": 79,
+   "postings": 80,
    "matched": 0,
    "evergreen": 1,
    "error": null
@@ -311,7 +320,7 @@
    "lab": "Reflection AI",
    "ats": "ashby",
    "slug": "reflectionai",
-   "postings": 46,
+   "postings": 45,
    "matched": 0,
    "evergreen": 1,
    "error": null
@@ -338,16 +347,25 @@
    "lab": "Physical Intelligence",
    "ats": "ashby",
    "slug": "physicalintelligence",
-   "postings": 37,
+   "postings": 38,
    "matched": 1,
    "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "Luma AI",
+   "ats": "ashby",
+   "slug": "lumaai",
+   "postings": 37,
+   "matched": 0,
+   "evergreen": 1,
    "error": null
   },
   {
    "lab": "Prime Intellect",
    "ats": "ashby",
    "slug": "primeintellect",
-   "postings": 30,
+   "postings": 32,
    "matched": 0,
    "evergreen": 1,
    "error": null
@@ -357,15 +375,6 @@
    "ats": "greenhouse",
    "slug": "isomorphiclabs",
    "postings": 29,
-   "matched": 0,
-   "evergreen": 1,
-   "error": null
-  },
-  {
-   "lab": "Luma AI",
-   "ats": "ashby",
-   "slug": "lumaai",
-   "postings": 28,
    "matched": 0,
    "evergreen": 1,
    "error": null
@@ -389,10 +398,19 @@
    "error": null
   },
   {
+   "lab": "Nabla",
+   "ats": "ashby",
+   "slug": "nabla",
+   "postings": 12,
+   "matched": 1,
+   "evergreen": 0,
+   "error": null
+  },
+  {
    "lab": "METR",
    "ats": "lever",
    "slug": "metr",
-   "postings": 8,
+   "postings": 9,
    "matched": 0,
    "evergreen": 1,
    "error": null
@@ -428,7 +446,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 815,
+   "postings": 816,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -437,7 +455,7 @@
    "lab": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "postings": 334,
+   "postings": 341,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -446,7 +464,7 @@
    "lab": "CoreWeave",
    "ats": "greenhouse",
    "slug": "coreweave",
-   "postings": 316,
+   "postings": 311,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -455,7 +473,7 @@
    "lab": "xAI",
    "ats": "greenhouse",
    "slug": "xai",
-   "postings": 307,
+   "postings": 309,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -464,7 +482,7 @@
    "lab": "Sierra",
    "ats": "ashby",
    "slug": "sierra",
-   "postings": 198,
+   "postings": 195,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -473,7 +491,16 @@
    "lab": "Graphcore",
    "ats": "greenhouse",
    "slug": "graphcore",
-   "postings": 180,
+   "postings": 184,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "ElevenLabs",
+   "ats": "ashby",
+   "slug": "elevenlabs",
+   "postings": 145,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -488,28 +515,10 @@
    "error": null
   },
   {
-   "lab": "Woven by Toyota",
-   "ats": "lever",
-   "slug": "woven-by-toyota",
-   "postings": 145,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
-   "lab": "ElevenLabs",
-   "ats": "ashby",
-   "slug": "elevenlabs",
-   "postings": 141,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
    "lab": "Cursor (Anysphere)",
    "ats": "ashby",
    "slug": "cursor",
-   "postings": 132,
+   "postings": 135,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -518,7 +527,7 @@
    "lab": "Cerebras",
    "ats": "ashby",
    "slug": "cerebras",
-   "postings": 119,
+   "postings": 121,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -536,7 +545,7 @@
    "lab": "Figure AI",
    "ats": "greenhouse",
    "slug": "figureai",
-   "postings": 92,
+   "postings": 94,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -545,7 +554,7 @@
    "lab": "Lambda",
    "ats": "ashby",
    "slug": "lambda",
-   "postings": 87,
+   "postings": 88,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -554,7 +563,7 @@
    "lab": "Fireworks AI",
    "ats": "ashby",
    "slug": "fireworks",
-   "postings": 83,
+   "postings": 85,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -569,6 +578,15 @@
    "error": null
   },
   {
+   "lab": "Spotify",
+   "ats": "lever",
+   "slug": "spotify",
+   "postings": 79,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
    "lab": "Agility Robotics",
    "ats": "greenhouse",
    "slug": "agilityrobotics",
@@ -578,19 +596,10 @@
    "error": null
   },
   {
-   "lab": "Spotify",
-   "ats": "lever",
-   "slug": "spotify",
-   "postings": 76,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
    "lab": "Suno",
    "ats": "ashby",
    "slug": "suno",
-   "postings": 69,
+   "postings": 70,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -599,7 +608,7 @@
    "lab": "SambaNova",
    "ats": "greenhouse",
    "slug": "sambanovasystems",
-   "postings": 62,
+   "postings": 61,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -626,7 +635,7 @@
    "lab": "Writer",
    "ats": "ashby",
    "slug": "writer",
-   "postings": 53,
+   "postings": 52,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -641,19 +650,19 @@
    "error": null
   },
   {
-   "lab": "Abridge",
-   "ats": "ashby",
-   "slug": "abridge",
+   "lab": "FuriosaAI",
+   "ats": "greenhouse",
+   "slug": "furiosaai",
    "postings": 48,
    "matched": 0,
    "evergreen": 0,
    "error": null
   },
   {
-   "lab": "FuriosaAI",
-   "ats": "greenhouse",
-   "slug": "furiosaai",
-   "postings": 48,
+   "lab": "Abridge",
+   "ats": "ashby",
+   "slug": "abridge",
+   "postings": 47,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -680,7 +689,7 @@
    "lab": "Cartesia",
    "ats": "ashby",
    "slug": "cartesia",
-   "postings": 30,
+   "postings": 29,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -722,33 +731,6 @@
    "error": null
   },
   {
-   "lab": "Nabla",
-   "ats": "ashby",
-   "slug": "nabla",
-   "postings": 16,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
-   "lab": "DeepL",
-   "ats": "ashby",
-   "slug": "deepl",
-   "postings": 15,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
-   "lab": "Photoroom",
-   "ats": "ashby",
-   "slug": "photoroom",
-   "postings": 15,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
    "lab": "Nous Research",
    "ats": "ashby",
    "slug": "nousresearch",
@@ -767,9 +749,9 @@
    "error": null
   },
   {
-   "lab": "Twelve Labs",
+   "lab": "Photoroom",
    "ats": "ashby",
-   "slug": "twelve-labs",
+   "slug": "photoroom",
    "postings": 14,
    "matched": 0,
    "evergreen": 0,
@@ -779,6 +761,15 @@
    "lab": "Character.AI",
    "ats": "ashby",
    "slug": "character",
+   "postings": 13,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "Twelve Labs",
+   "ats": "ashby",
+   "slug": "twelve-labs",
    "postings": 13,
    "matched": 0,
    "evergreen": 0,
@@ -821,19 +812,28 @@
    "error": null
   },
   {
-   "lab": "LlamaIndex",
+   "lab": "Cradle",
    "ats": "ashby",
-   "slug": "llamaindex",
+   "slug": "cradlebio",
    "postings": 9,
    "matched": 0,
    "evergreen": 0,
    "error": null
   },
   {
-   "lab": "Cradle",
+   "lab": "LlamaIndex",
    "ats": "ashby",
-   "slug": "cradlebio",
-   "postings": 9,
+   "slug": "llamaindex",
+   "postings": 8,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "DeepL",
+   "ats": "ashby",
+   "slug": "deepl",
+   "postings": 7,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -893,18 +893,18 @@
    "error": null
   },
   {
-   "lab": "Sony (global)",
-   "ats": "workday",
-   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers",
-   "postings": 4,
+   "lab": "Weaviate",
+   "ats": "ashby",
+   "slug": "weaviate",
+   "postings": 3,
    "matched": 0,
    "evergreen": 0,
    "error": null
   },
   {
-   "lab": "Weaviate",
-   "ats": "ashby",
-   "slug": "weaviate",
+   "lab": "Sony (global)",
+   "ats": "workday",
+   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers",
    "postings": 3,
    "matched": 0,
    "evergreen": 0,
@@ -1035,9 +1035,8 @@
   "xAI",
   "Sierra",
   "Graphcore",
-  "Decagon",
-  "Woven by Toyota",
   "ElevenLabs",
+  "Decagon",
   "Cursor (Anysphere)",
   "Cerebras",
   "LangChain",
@@ -1045,16 +1044,16 @@
   "Lambda",
   "Fireworks AI",
   "Lovable",
-  "Agility Robotics",
   "Spotify",
+  "Agility Robotics",
   "Suno",
   "SambaNova",
   "Thinking Machines Lab",
   "KRAFTON",
   "Writer",
   "Parloa",
-  "Abridge",
   "FuriosaAI",
+  "Abridge",
   "Synthesia",
   "Sarvam AI",
   "Cartesia",
@@ -1062,27 +1061,26 @@
   "Dust",
   "HeyGen",
   "Anyscale",
-  "Nabla",
-  "DeepL",
-  "Photoroom",
   "Nous Research",
   "Black Forest Labs",
-  "Twelve Labs",
+  "Photoroom",
   "Character.AI",
+  "Twelve Labs",
   "Apollo Research",
   "World Labs",
   "Reka AI",
   "OpenEvidence",
-  "LlamaIndex",
   "Cradle",
+  "LlamaIndex",
+  "DeepL",
   "Stability AI",
   "Sail Research",
   "Inflection AI",
   "Pinecone",
   "Owkin",
   "deepset",
-  "Sony (global)",
   "Weaviate",
+  "Sony (global)",
   "Liquid AI",
   "Poolside",
   "Ideogram",
