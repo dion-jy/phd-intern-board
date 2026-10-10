@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-09T07:05:32.764871+00:00",
+ "generated_at": "2026-10-10T06:38:55.232757+00:00",
  "first_run": false,
- "count": 30,
+ "count": 19,
  "jobs": [
   {
    "company": "TikTok",
@@ -9,10 +9,10 @@
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7694354937320868149",
-   "posted_at": "2026-10-09T06:15:46+00:00",
+   "title": "Machine Learning Engineer Intern - Conversational AI",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7670689681491364101",
+   "posted_at": "2026-10-10T01:12:18+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -27,22 +27,22 @@
     "N/A"
    ],
    "domain": "bytedance.com",
-   "job_id": "simplify:c9025af2-3ad6-4507-b412-99016466963d",
+   "job_id": "simplify:f9331c57-9f2e-4121-826e-ffb2283c7dac",
    "order": 0,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "TikTok",
+   "company": "Microsoft",
    "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694356134081972533",
-   "posted_at": "2026-10-09T06:15:45+00:00",
+   "title": "Research Intern - Document Intelligence and Content Understanding",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557037649",
+   "posted_at": "2026-10-09T22:25:07+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -56,52 +56,29 @@
    "terms": [
     "N/A"
    ],
-   "domain": "bytedance.com",
-   "job_id": "simplify:ed1c0343-bea1-414d-b994-5f703129ea75",
+   "domain": "microsoft.com",
+   "job_id": "simplify:2388f5c0-f4ed-4f97-a130-7d2b82020b8f",
    "order": 1,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Nabla",
-   "tier": "startup",
-   "ats": "ashby",
-   "domain": "nabla.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Machine Learning Internship 2026",
-   "location": "Paris office",
-   "url": "https://jobs.ashbyhq.com/nabla/02ed068a-a3fc-44e1-b449-0e6fcc8a16cf",
-   "posted_at": "2026-10-08T23:24:22.186+00:00",
-   "department": "Engineering",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "ashby:nabla:02ed068a-a3fc-44e1-b449-0e6fcc8a16cf",
-   "order": 2,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "GenBio AI",
+   "company": "Faire",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Research Scientist Intern - AI Molecular Design",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604/apply",
-   "posted_at": "2026-10-08T22:26:46+00:00",
+   "title": "Applied AI/ML Scientist Intern",
+   "location": "SF",
+   "url": "https://boards.greenhouse.io/faire/jobs/8870975002",
+   "posted_at": "2026-10-09T22:16:43+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
     "simplify-degrees-phd",
     "ats-intern-flag",
-    "title-strong"
+    "title-research"
    ],
    "phd": true,
    "degrees": [
@@ -110,25 +87,53 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "N/A"
+    "Winter 2027"
    ],
    "domain": "",
-   "job_id": "simplify:dbf01b2f-d897-4bab-ab27-783e4710eb4e",
+   "job_id": "simplify:b341bc8d-ff94-4bc4-8b4c-caf35d8f0ee7",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Meta",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Scientist Intern - Spatial Audio Capture and Reproduction",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1674394627579563",
+   "posted_at": "2026-10-09T22:16:02+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-research-title"
+   ],
+   "phd": false,
+   "degrees": [],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "meta.com",
+   "job_id": "simplify:87c12d78-b4ea-404f-bbdb-ed520fbd0363",
    "order": 3,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Roblox",
+   "company": "Bosch Home Comfort",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Applied Scientist Intern",
-   "location": "San Mateo, CA",
-   "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
-   "posted_at": "2026-10-08T22:26:43+00:00",
+   "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734",
+   "posted_at": "2026-10-09T22:10:50+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -138,453 +143,157 @@
    ],
    "phd": true,
    "degrees": [
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Winter 2026",
-    "Summer 2026",
-    "Fall 2026"
+    "N/A"
    ],
    "domain": "",
-   "job_id": "simplify:f9a6c34d-a556-4b50-ab55-359deb3c6275",
+   "job_id": "simplify:16b61d0f-fc3f-4be6-91dc-7dbdb0ba1a21",
    "order": 4,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Roblox",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Data Scientist PhD Intern",
-   "location": "San Mateo, CA",
-   "url": "https://careers.roblox.com/jobs/8242619?gh_jid=8242619",
-   "posted_at": "2026-10-08T22:26:43+00:00",
-   "department": "AI/ML/Data",
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Research, AV Planning",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8258070",
+   "posted_at": "2026-10-09T19:26:04-04:00",
+   "department": "Pipeline (N/A)",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
     "title-strong"
    ],
    "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:2921c9a4-d2a8-42ac-8c12-d9dcfbb5a063",
+   "job_id": "greenhouse:waymo:8258070",
    "order": 5,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Microsoft",
+   "company": "Waymo",
    "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Intern - Audio and Acoustics",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027326",
-   "posted_at": "2026-10-08T22:17:33+00:00",
-   "department": "AI/ML/Data",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Research, Post Training",
+   "location": "Mountain View, CA, USA: San Francisco, CA, USA; Mountain View (US-MTV-EMF680); San Francisco (US-SFO-MKT555)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8257006",
+   "posted_at": "2026-10-09T19:25:21-04:00",
+   "department": "Pipeline (N/A)",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd"
+    "title-strong"
    ],
    "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2026"
-   ],
-   "domain": "microsoft.com",
-   "job_id": "simplify:73991760-c68e-4b47-874e-ec12e4f7e356",
+   "job_id": "greenhouse:waymo:8257006",
    "order": 6,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Microsoft",
+   "company": "Microsoft / MSR",
    "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Intern - Brain-Computer Interfaces",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027378",
-   "posted_at": "2026-10-08T22:17:33+00:00",
-   "department": "AI/ML/Data",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Document Intelligence and Content Understanding",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557037649",
+   "posted_at": "2026-10-09T16:52:48+00:00",
+   "department": "Cloud + AI",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd"
+    "title-strong"
    ],
    "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2026"
-   ],
-   "domain": "microsoft.com",
-   "job_id": "simplify:b217e2af-9105-4579-b5e6-4e5e7a8bd904",
+   "job_id": "eightfold:microsoft.com:1970393557037649",
    "order": 7,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Field AI",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Robotics Research Intern - Locomotion & Planning",
-   "location": "Irvine, CA",
-   "url": "https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f/apply",
-   "posted_at": "2026-10-08T22:12:11+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2026"
-   ],
-   "domain": "",
-   "job_id": "simplify:b552be63-dc57-4945-8100-61ad5740db06",
-   "order": 8,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern - Brain-Computer Interfaces",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027378",
-   "posted_at": "2026-10-08T17:31:32+00:00",
-   "department": "Cloud + AI",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557027378",
-   "order": 9,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern - Audio and Acoustics",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027326",
-   "posted_at": "2026-10-08T16:35:44+00:00",
-   "department": "Cloud + AI",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557027326",
-   "order": 10,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
+   "company": "Anthropic",
+   "tier": "frontier",
    "ats": "greenhouse",
-   "domain": "waymo.com",
+   "domain": "anthropic.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "2026 Summer Intern, PhD, Research, World Modeling Evaluation",
-   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8265173",
-   "posted_at": "2026-10-08T15:53:38-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8265173",
-   "order": 11,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
-   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
-   "posted_at": "2026-10-08T14:41:58-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8262154",
-   "order": 12,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Woven by Toyota",
-   "tier": "bigtech",
-   "ats": "lever",
-   "domain": "woven.toyota",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Resident Community & Co Creation, Assistant Manager, Weavers Relation",
-   "location": "Susono, Shizuoka",
-   "url": "https://jobs.lever.co/woven-by-toyota/f6416c93-457d-45f1-b69a-92e3e780fad7",
-   "posted_at": "2026-10-08T07:58:59.003000+00:00",
-   "department": "Woven City",
+   "title": "Conceptual Reasoning Fellow",
+   "location": "Remote-Friendly, United States; San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
+   "posted_at": "2026-10-09T15:56:05-04:00",
+   "department": "AI Research & Engineering",
    "confidence": "medium",
    "match": [
     "program-form"
    ],
-   "phd": false,
-   "job_id": "lever:woven-by-toyota:f6416c93-457d-45f1-b69a-92e3e780fad7",
-   "order": 13,
-   "regions": [
-    "Other"
-   ]
-  },
-  {
-   "company": "Centific",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI Research Intern - Physical AI",
-   "location": "Remote in USA",
-   "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
-   "posted_at": "2026-10-08T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
    "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:4a8d6fcb-64cb-4dcc-95f0-1a43cb373d70",
-   "order": 20,
+   "job_id": "greenhouse:anthropic:5447080008",
+   "order": 8,
    "regions": [
     "US",
     "Remote"
    ]
   },
   {
-   "company": "Merck",
+   "company": "Meta",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+   "location": "Burlingame, CA, Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2211974449401350",
+   "posted_at": "2026-10-09T14:14:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-research-title"
+   ],
+   "phd": false,
+   "degrees": [],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "meta.com",
+   "job_id": "simplify:babf8103-ce88-446d-ae83-d600bf03ebdc",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "General Motors",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Associate Scientist Postdoctoral Fellow - AI/ML and Agentic AI for Drug Discovery",
-   "location": "South SF",
-   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/Associate-Scientist--Postdoctoral-Fellow---AI-ML-and-Agentic-AI-for-Drug-Discovery_R420647-1",
-   "posted_at": "2026-10-08T00:00:00+00:00",
+   "title": "AI Research Intern - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146",
+   "posted_at": "2026-10-09T00:00:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
     "simplify-degrees-phd",
     "ats-intern-flag",
     "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:61dda24d-33f5-4c50-9d90-8d7de6ea82a6",
-   "order": 21,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "National Laboratory of the Rockies",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Postdoctoral Researcher – Vision Machine Learning Intern",
-   "location": "Golden, CO",
-   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Vision-Machine-Learning_R14557",
-   "posted_at": "2026-10-08T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:67d1a616-5130-4c19-987a-7243887ef840",
-   "order": 22,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "AI Developer Technology Intern",
-   "location": "Bristol, UK, Munich, Germany",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
-   "posted_at": "2026-10-08T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:5e11b38c-46d7-4f70-b6eb-2957ec570881",
-   "order": 23,
-   "regions": [
-    "UK",
-    "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Developer Technology Intern - 2027",
-   "location": "Germany, Munich; UK, Bristol",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
-   "posted_at": "2026-10-08T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027497",
-   "order": 24,
-   "regions": [
-    "UK",
-    "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-   "location": "Singapore, Remote; Singapore, Pasir Panjang",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2026322",
-   "posted_at": "2026-10-08T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026322",
-   "order": 26,
-   "regions": [
-    "Asia",
-    "Remote"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Intern - Spatial Intelligence",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
-   "posted_at": "2026-10-08T00:00:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
    ],
    "phd": true,
    "degrees": [
@@ -594,9 +303,108 @@
    "terms": [
     "Summer 2027"
    ],
-   "domain": "nvidia.com",
-   "job_id": "simplify:453db16f-11ff-4cf7-85fb-5f41453a4483",
-   "order": 27,
+   "domain": "",
+   "job_id": "simplify:e41412f4-5392-4dee-bf68-676610efe34c",
+   "order": 12,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "General Motors",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Scaling Intern - Data Scaling - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
+   "posted_at": "2026-10-09T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:91251409-4b30-4f80-a849-57426b7a2c9c",
+   "order": 13,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "General Motors",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Seam Intern - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
+   "posted_at": "2026-10-09T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:1b619bab-8ca8-46a3-8e31-c92637db8a6a",
+   "order": 14,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "General Motors",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Summer Intern - Onboard Autonomy - Embodied AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
+   "posted_at": "2026-10-09T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:dc5c3700-b9be-4f68-91f9-b1dc509c147b",
+   "order": 15,
    "regions": [
     "US"
    ]
@@ -604,36 +412,67 @@
   {
    "company": "NVIDIA",
    "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern, Spatial Intelligence - Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
-   "posted_at": "2026-10-08T00:00:00+00:00",
-   "department": "",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern - World Models and Synthetic Data for Autonomous Driving",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
+   "posted_at": "2026-10-09T00:00:00+00:00",
+   "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
-    "title-strong"
+    "simplify-degrees-phd"
    ],
    "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027305",
-   "order": 28,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "nvidia.com",
+   "job_id": "simplify:dcc47656-238c-4190-a9a0-2dba499a3a07",
+   "order": 16,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Symbotic",
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "AI Software Engineering Intern",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+   "posted_at": "2026-08-13T21:02:58+00:00",
+   "department": "AI Experiences",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "eightfold:microsoft.com:1970393556962891",
+   "order": 303,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Ancestry",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Machine Learning Operations Intern",
-   "location": "Wilmington, MA",
-   "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning-Ops_R8202",
-   "posted_at": "2026-10-08T00:00:00+00:00",
+   "title": "Machine Learning Engineer Co-op",
+   "location": "Remote in USA",
+   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+   "posted_at": "2026-08-11T00:00:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -651,186 +490,67 @@
     "Summer 2026"
    ],
    "domain": "",
-   "job_id": "simplify:9513d076-0116-4b22-94c4-85a429e7e9de",
-   "order": 29,
+   "job_id": "simplify:06b0612c-a611-422f-8305-6138964b2e4b",
+   "order": 311,
    "regions": [
-    "US"
+    "US",
+    "Remote"
    ]
   },
   {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Postdoctoral Researcher, Experimental Data Generation & CRO Strategy",
-   "location": "Germany, Berlin, Berlin; United Kingdom, Cambridgeshire, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557006390",
-   "posted_at": "2026-09-22T12:14:16+00:00",
-   "department": "Cloud + AI",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": false,
-   "job_id": "eightfold:microsoft.com:1970393557006390",
-   "order": 159,
-   "regions": [
-    "UK",
-    "Europe"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Cambridge Residency Program - Robotics",
-   "location": "United Kingdom, Cambridgeshire, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557006388",
-   "posted_at": "2026-09-22T12:08:14+00:00",
-   "department": "Cloud + AI",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557006388",
-   "order": 160,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Postdoctoral Researcher (Foundational AI: Intelligent Systems)",
-   "location": "United Kingdom, Cambridgeshire, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556998409",
-   "posted_at": "2026-09-14T14:36:00+00:00",
-   "department": "Cloud + AI",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393556998409",
-   "order": 239,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
-   "company": "Microsoft",
-   "tier": "bigtech",
+   "company": "Rippling",
+   "tier": "other",
    "ats": "simplify",
    "source": "simplify",
-   "kind": "blindspot",
-   "title": "Robotics Systems and Control Intern",
-   "location": "Cambridge, UK",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724",
-   "posted_at": "2026-09-10T14:24:19+00:00",
+   "kind": "discovery",
+   "title": "Machine Learning Software Engineer Intern",
+   "location": "SF",
+   "url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
+   "posted_at": "2026-06-05T22:09:20+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Winter 2026"
-   ],
-   "domain": "microsoft.com",
-   "job_id": "simplify:12081dae-1434-4294-84d6-903009f0c86b",
-   "order": 263,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Cambridge Internship Program - Robotics Systems and Control",
-   "location": "United Kingdom, Cambridgeshire, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724",
-   "posted_at": "2026-09-09T15:30:04+00:00",
-   "department": "Cloud + AI",
-   "confidence": "medium",
-   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
     "title-research"
    ],
    "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393556991724",
-   "order": 266,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Postdoctoral Researcher (Foundational AI: Theory and Architectures)",
-   "location": "United Kingdom, Cambridgeshire, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991730",
-   "posted_at": "2026-09-09T15:24:21+00:00",
-   "department": "Cloud + AI",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393556991730",
-   "order": 267,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
-   "company": "Microsoft",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Data Scientist Intern",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-   "posted_at": "2026-09-01T22:37:12+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
    "degrees": [
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Winter 2026"
+    "Winter 2027"
    ],
-   "domain": "microsoft.com",
-   "job_id": "simplify:8df7539c-d0c7-4783-8d10-a19510da93da",
-   "order": 287,
+   "domain": "",
+   "job_id": "simplify:0271dfee-afcf-4a95-ad39-156710edc8ce",
+   "order": 432,
    "regions": [
     "US"
+   ]
+  },
+  {
+   "company": "Dexterity",
+   "tier": "startup",
+   "ats": "lever",
+   "domain": "dexterity.ai",
+   "source": "ats",
+   "kind": "evergreen",
+   "title": "Join our Talent Network - Senior Robotics Software Engineer, Compute Acceleration",
+   "location": "Redwood City",
+   "url": "https://jobs.lever.co/dexterity/1ca4bcf7-a66a-414e-8c8c-930b3a49c33f",
+   "posted_at": "2024-04-05T15:42:45.603000+00:00",
+   "department": "Engineering",
+   "confidence": "evergreen",
+   "match": [
+    "always-open"
+   ],
+   "phd": false,
+   "job_id": "lever:dexterity:1ca4bcf7-a66a-414e-8c8c-930b3a49c33f",
+   "order": 540,
+   "regions": [
+    "Other"
    ]
   }
  ]
