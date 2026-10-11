@@ -5,7 +5,14 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-10-10T01:12:18+00:00</updated>
+  <updated>2026-10-10T22:07:37+00:00</updated>
+  <entry>
+    <title>Johns Hopkins Applied Physics Laboratory &#8212; Data Science &amp; Autonomous Systems Intern - Data Science &amp; Autonomous Systems - Critical Infrastructure Protection</title>
+    <link rel="alternate" href="https://careers.jhuapl.edu/jobs/60432?icims=1"/>
+    <id>urn:phd-intern-board:simplify:cc5558b2-1bda-49b9-a95f-0a93489f72e2</id>
+    <updated>2026-10-10T22:07:37+00:00</updated>
+    <summary>Laurel, MD · Other · PhD</summary>
+  </entry>
   <entry>
     <title>TikTok &#8212; Machine Learning Engineer Intern - Conversational AI</title>
     <link rel="alternate" href="https://lifeattiktok.com/search/7670689681491364101"/>
@@ -119,11 +126,32 @@
     <summary>Sunnyvale, CA · Other · PhD</summary>
   </entry>
   <entry>
+    <title>NVIDIA &#8212; PhD Research Intern, Robotics - Summer 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027294</id>
+    <updated>2026-10-09T00:00:00+00:00</updated>
+    <summary>Switzerland, Zurich · Big tech · PhD</summary>
+  </entry>
+  <entry>
     <title>NVIDIA &#8212; Research Intern - World Models and Synthetic Data for Autonomous Driving</title>
     <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"/>
     <id>urn:phd-intern-board:simplify:dcc47656-238c-4190-a9a0-2dba499a3a07</id>
     <updated>2026-10-09T00:00:00+00:00</updated>
     <summary>Santa Clara, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026839</id>
+    <updated>2026-10-09T00:00:00+00:00</updated>
+    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; Robotics Simulation and Evaluation PhD Intern - Summer 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027531</id>
+    <updated>2026-10-09T00:00:00+00:00</updated>
+    <summary>Switzerland, Zurich · Big tech · PhD</summary>
   </entry>
   <entry>
     <title>GenBio AI &#8212; Research Scientist Intern - AI Molecular Design</title>
@@ -266,11 +294,32 @@
     <summary>Bristol, UK, Munich, Germany · Big tech · PhD</summary>
   </entry>
   <entry>
+    <title>NVIDIA &#8212; AI Developer Technology Intern - 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027497</id>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <summary>Germany, Munich, UK, Bristol · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; AI Research Intern, TAO Multi-Modal Model Development - 2026</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2021301</id>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <summary>Vietnam, Hanoi, Vietnam, Ho Chi Minh City · Big tech</summary>
+  </entry>
+  <entry>
     <title>NVIDIA &#8212; Research Intern - Spatial Intelligence</title>
     <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305"/>
     <id>urn:phd-intern-board:simplify:453db16f-11ff-4cf7-85fb-5f41453a4483</id>
     <updated>2026-10-08T00:00:00+00:00</updated>
     <summary>Santa Clara, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; Research Intern, Spatial Intelligence - Summer 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027305</id>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
   </entry>
   <entry>
     <title>Symbotic &#8212; Machine Learning Operations Intern</title>
@@ -343,6 +392,20 @@
     <summary>Santa Clara, CA · Big tech · PhD</summary>
   </entry>
   <entry>
+    <title>NVIDIA &#8212; PhD Research Intern, AI-Aided Engineering – 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026940</id>
+    <updated>2026-10-07T00:00:00+00:00</updated>
+    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; PhD Research Intern, Efficient Deep Learning - 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025478</id>
+    <updated>2026-10-07T00:00:00+00:00</updated>
+    <summary>US, CA, Santa Clara, US, CA, Remote · Big tech · PhD</summary>
+  </entry>
+  <entry>
     <title>Lyft &#8212; PhD Machine Learning Software Engineer Intern</title>
     <link rel="alternate" href="https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002"/>
     <id>urn:phd-intern-board:simplify:4df173b6-3228-4a6b-a3eb-3b7769e8f380</id>
@@ -362,68 +425,5 @@
     <id>urn:phd-intern-board:greenhouse:waymo:8250220</id>
     <updated>2026-10-06T16:50:50-04:00</updated>
     <summary>Mountain View, California, United States, Mountain View (US-MTV-EMF680) · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Waymo &#8212; 2027 Summer Intern, BS, Waymo ML Ops &amp; Automation</title>
-    <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8257237"/>
-    <id>urn:phd-intern-board:greenhouse:waymo:8257237</id>
-    <updated>2026-10-06T15:50:56-04:00</updated>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · Big tech</summary>
-  </entry>
-  <entry>
-    <title>Atoms &#8212; Machine Learning Engineer Intern</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/atoms/jobs/8869105002"/>
-    <id>urn:phd-intern-board:simplify:a6830740-e492-4a48-bc09-9e1cb04273be</id>
-    <updated>2026-10-06T06:17:40+00:00</updated>
-    <summary>SF · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Mayo Clinic &#8212; Research Fellow-Neurosurgery</title>
-    <link rel="alternate" href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/372350"/>
-    <id>urn:phd-intern-board:simplify:a4c097c2-624c-422a-93a9-bc09a0ebf8aa</id>
-    <updated>2026-10-06T06:15:41+00:00</updated>
-    <summary>Rochester, MN · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Mayo Clinic &#8212; Research Fellow in Surgical AI</title>
-    <link rel="alternate" href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/378185"/>
-    <id>urn:phd-intern-board:simplify:5deaeeac-9451-4c30-96a6-fd4a16eccee7</id>
-    <updated>2026-10-06T06:15:40+00:00</updated>
-    <summary>Rochester, MN · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern - Cross-Disciplinary Vision Science</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499"/>
-    <id>urn:phd-intern-board:simplify:0b668c4d-84e2-4e02-9e89-88d8fb0cc46e</id>
-    <updated>2026-10-06T00:00:00+00:00</updated>
-    <summary>Santa Clara, CA, Durham, NC, Westford, MA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Figma &#8212; AI Applied Scientist Intern</title>
-    <link rel="alternate" href="https://boards.greenhouse.io/figma/jobs/6207801004"/>
-    <id>urn:phd-intern-board:simplify:168a9b2f-3f11-497a-a04f-62c40059bff5</id>
-    <updated>2026-10-05T22:45:08+00:00</updated>
-    <summary>SF, NYC · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>AMD &#8212; AI Training Systems and Performance Engineer Intern/Co-op</title>
-    <link rel="alternate" href="https://careers.amd.com/jobs/93332?icims=1"/>
-    <id>urn:phd-intern-board:simplify:814d5fac-0c8f-4eb3-81af-52e7b9509c3a</id>
-    <updated>2026-10-05T22:30:17+00:00</updated>
-    <summary>San Jose, CA, Santa Clara, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>AMD &#8212; PhD Large Language Model Engineer Co-op</title>
-    <link rel="alternate" href="https://careers.amd.com/jobs/91764?icims=1"/>
-    <id>urn:phd-intern-board:simplify:0895d37b-42f3-4f85-9661-b7c78952d1b7</id>
-    <updated>2026-10-05T22:30:16+00:00</updated>
-    <summary>San Jose, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Bobyard &#8212; Computer Vision Research Engineer Intern</title>
-    <link rel="alternate" href="https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f/application?embed=true"/>
-    <id>urn:phd-intern-board:simplify:0ad37279-28ce-48aa-b70d-05e648b432ea</id>
-    <updated>2026-10-05T22:26:31+00:00</updated>
-    <summary>SF · Other · PhD</summary>
   </entry>
 </feed>
