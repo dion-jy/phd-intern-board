@@ -5,7 +5,14 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-10-10T22:07:37+00:00</updated>
+  <updated>2026-10-12T06:06:41+00:00</updated>
+  <entry>
+    <title>Bosch Home Comfort &#8212; Robotics Research Intern</title>
+    <link rel="alternate" href="https://jobs.smartrecruiters.com/BoschGroup/744000154911489"/>
+    <id>urn:phd-intern-board:simplify:ba7ed36a-7da0-4b9e-bed8-8f369041684d</id>
+    <updated>2026-10-12T06:06:41+00:00</updated>
+    <summary>Sunnyvale, CA · Other · PhD</summary>
+  </entry>
   <entry>
     <title>Johns Hopkins Applied Physics Laboratory &#8212; Data Science &amp; Autonomous Systems Intern - Data Science &amp; Autonomous Systems - Critical Infrastructure Protection</title>
     <link rel="alternate" href="https://careers.jhuapl.edu/jobs/60432?icims=1"/>
@@ -418,12 +425,5 @@
     <id>urn:phd-intern-board:simplify:75eae133-33cf-40a0-80fd-3aabdf37a56f</id>
     <updated>2026-10-06T22:19:54+00:00</updated>
     <summary>Sunnyvale, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Waymo &#8212; 2027 Summer Intern, MS, PhD, Software Engineer</title>
-    <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8250220"/>
-    <id>urn:phd-intern-board:greenhouse:waymo:8250220</id>
-    <updated>2026-10-06T16:50:50-04:00</updated>
-    <summary>Mountain View, California, United States, Mountain View (US-MTV-EMF680) · Big tech · PhD</summary>
   </entry>
 </feed>
