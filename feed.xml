@@ -5,7 +5,35 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-10-13T22:17:30+00:00</updated>
+  <updated>2026-10-14T01:25:24+00:00</updated>
+  <entry>
+    <title>Microsoft &#8212; Research Intern - Machine Learning and Statistics</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557040502"/>
+    <id>urn:phd-intern-board:simplify:a1c55b73-73c9-45c2-955d-be598673876c</id>
+    <updated>2026-10-14T01:25:24+00:00</updated>
+    <summary>Cambridge, MA, Redmond, WA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Field AI &#8212; Research Scientist Intern - Robot Learning &amp; Manipulation</title>
+    <link rel="alternate" href="https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply"/>
+    <id>urn:phd-intern-board:simplify:9e2e7d36-c343-4fed-b4da-67a7639a8fc0</id>
+    <updated>2026-10-14T01:04:29+00:00</updated>
+    <summary>Irvine, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Field AI &#8212; Robotics Research Intern - Embodied AI</title>
+    <link rel="alternate" href="https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply"/>
+    <id>urn:phd-intern-board:simplify:e7524d34-3342-448c-83e8-2de9a3502b9b</id>
+    <updated>2026-10-14T01:04:24+00:00</updated>
+    <summary>Irvine, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Research Intern - Machine Learning and Statistics</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557040502"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557040502</id>
+    <updated>2026-10-13T23:19:00+00:00</updated>
+    <summary>United States, Massachusetts, Cambridge, United States, Washington, Redmond · Big tech · PhD</summary>
+  </entry>
   <entry>
     <title>Boston Consulting Group &#8212; Forward Deployed AI Scientist Intern</title>
     <link rel="alternate" href="https://careers.bcg.com/global/en/job/59703"/>
@@ -91,6 +119,20 @@
     <summary>Menlo Park, CA · Big tech</summary>
   </entry>
   <entry>
+    <title>Microsoft / MSR &#8212; Research Intern - Agentic Data Memory</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557040344"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557040344</id>
+    <updated>2026-10-13T18:42:55+00:00</updated>
+    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Research Intern - Machine Learning for Biology and Healthcare</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557040333"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557040333</id>
+    <updated>2026-10-13T18:25:25+00:00</updated>
+    <summary>United States, Massachusetts, Cambridge · Big tech · PhD</summary>
+  </entry>
+  <entry>
     <title>Waymo &#8212; 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction</title>
     <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8279620"/>
     <id>urn:phd-intern-board:greenhouse:waymo:8279620</id>
@@ -103,6 +145,13 @@
     <id>urn:phd-intern-board:greenhouse:waymo:8265868</id>
     <updated>2026-10-13T12:22:39-04:00</updated>
     <summary>London, England, United Kingdom, London (UK-LON-40BR) · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Applied Sciences INTERN</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557040080"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557040080</id>
+    <updated>2026-10-13T10:15:52+00:00</updated>
+    <summary>Location not stated · Big tech · PhD</summary>
   </entry>
   <entry>
     <title>Meta &#8212; Research Scientist Intern - Language and Agents</title>
@@ -138,6 +187,20 @@
     <id>urn:phd-intern-board:simplify:0409c750-f9d4-4b63-ae69-f095bd0c95ee</id>
     <updated>2026-10-13T00:00:00+00:00</updated>
     <summary>Ann Arbor, MI · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>KLA &#8212; Computer Vision/Machine Learning Intern</title>
+    <link rel="alternate" href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921"/>
+    <id>urn:phd-intern-board:simplify:a5e8aab7-69ef-48be-84cd-47e7f6fc6357</id>
+    <updated>2026-10-13T00:00:00+00:00</updated>
+    <summary>Milpitas, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>KLA &#8212; Computer Vision/Machine Learning Intern</title>
+    <link rel="alternate" href="https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1"/>
+    <id>urn:phd-intern-board:simplify:78691202-f306-42da-9b0e-d9c0e191b452</id>
+    <updated>2026-10-13T00:00:00+00:00</updated>
+    <summary>Milpitas, CA · Other · PhD</summary>
   </entry>
   <entry>
     <title>KLA &#8212; Machine Learning Engineer Intern</title>
@@ -362,68 +425,5 @@
     <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026940</id>
     <updated>2026-10-12T00:00:00+00:00</updated>
     <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Architecture – 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025395</id>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara, US, MA, Westford +1 more · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Autonomous Systems and Physical AI Research - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024171</id>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Circuits - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024174</id>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara, US, NC, Durham · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026499</id>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara, US, MA, Westford +1 more · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Efficient Deep Learning - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025478</id>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara, US, CA, Remote · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Electronic Design Automation - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026471</id>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Embodied and Agentic AI - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025792</id>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara, US, CA, Remote · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Fundamental Generative AI - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025406</id>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Generalist Embodied Agents Research - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025103</id>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara, US, Remote · Big tech · PhD</summary>
   </entry>
 </feed>
