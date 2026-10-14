@@ -478,12 +478,12 @@ labs:
   active: true
   domain: waabi.ai
 - name: Wayve
-  ats: greenhouse
+  ats: ashby
   slug: wayve
   tier: startup
-  verified_at: '2026-08-23'
-  job_count: 128
-  note: ashby/wayve mirrors the same board; using greenhouse
+  verified_at: '2026-10-14'
+  job_count: 160
+  note: greenhouse/wayve went 404 on 2026-10-14; the ashby/wayve mirror is the live board
   active: true
   domain: wayve.ai
 - name: Zoox
