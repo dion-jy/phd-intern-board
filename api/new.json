@@ -1,6 +1,37 @@
 {
- "generated_at": "2026-10-15T01:19:49.211383+00:00",
+ "generated_at": "2026-10-15T05:30:25.680390+00:00",
  "first_run": false,
- "count": 0,
- "jobs": []
+ "count": 1,
+ "jobs": [
+  {
+   "company": "TikTok",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Engineer Intern - Video and Edge - Multimedia Lab",
+   "location": "San Diego, CA",
+   "url": "https://lifeattiktok.com/search/7696664743112788277",
+   "posted_at": "2026-10-15T01:24:35+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "bytedance.com",
+   "job_id": "simplify:9425b93f-c2dd-40f3-8335-c8ee684f4bf8",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  }
+ ]
 }
