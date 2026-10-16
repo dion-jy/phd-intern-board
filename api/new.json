@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-15T05:30:25.680390+00:00",
+ "generated_at": "2026-10-16T05:21:45.805689+00:00",
  "first_run": false,
- "count": 1,
+ "count": 15,
  "jobs": [
   {
-   "company": "TikTok",
+   "company": "Microsoft",
    "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Research Engineer Intern - Video and Edge - Multimedia Lab",
-   "location": "San Diego, CA",
-   "url": "https://lifeattiktok.com/search/7696664743112788277",
-   "posted_at": "2026-10-15T01:24:35+00:00",
+   "title": "Research Intern - Efficient AI Software Systems",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+   "posted_at": "2026-10-16T01:37:06+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -26,11 +26,444 @@
    "terms": [
     "N/A"
    ],
-   "domain": "bytedance.com",
-   "job_id": "simplify:9425b93f-c2dd-40f3-8335-c8ee684f4bf8",
+   "domain": "microsoft.com",
+   "job_id": "simplify:07e0bf88-e6fa-4fba-b37a-bcd7c39532ea",
    "order": 0,
    "regions": [
     "US"
+   ]
+  },
+  {
+   "company": "Apple",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "SoC Machine Learning Software Engineer Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.apple.com/en-us/details/200689488",
+   "posted_at": "2026-10-16T01:33:09+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "apple.com",
+   "job_id": "simplify:6dee80eb-5b2d-4684-8dd3-8c5324036443",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Duolingo",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Scientist Intern",
+   "location": "Pittsburgh, PA, NYC",
+   "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8893030002",
+   "posted_at": "2026-10-15T22:36:08+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:ff059d9c-66eb-461f-8f3f-dce895cbbcff",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Tower Research Capital",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Machine Learning Intern",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+   "posted_at": "2026-10-15T22:11:13+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:9d5c24d2-d38e-446d-adc3-1ec433cda69c",
+   "order": 3,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Rivian",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Software Engineer Intern Co-op - Machine Learning Research - Perception",
+   "location": "Palo Alto, CA",
+   "url": "https://careers.rivian.com/jobs/33801?icims=1",
+   "posted_at": "2026-10-15T22:03:34+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Spring 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:e0342af1-eea3-48b6-b948-78d5f3ec62bd",
+   "order": 4,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Duolingo",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Scientist Intern",
+   "location": "Pittsburgh, PA, NYC",
+   "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+   "posted_at": "2026-10-15T22:02:02+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:880d606f-ddcd-46d5-afb3-f856298f18f6",
+   "order": 5,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, MS/PhD, Semantics",
+   "location": "Mountain View, California, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8244128",
+   "posted_at": "2026-10-15T12:20:24-04:00",
+   "department": "Perception (7LT)",
+   "confidence": "medium",
+   "match": [
+    "body-research-role"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8244128",
+   "order": 6,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "JP Morgan Chase",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Research Associate Intern",
+   "location": "London, UK",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
+   "posted_at": "2026-10-15T09:39:50+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:c7140eb5-2f19-4542-98fb-6bc55aa74e46",
+   "order": 7,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Researcher Intern - Coreai",
+   "location": "Redmond, WA, Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+   "posted_at": "2026-10-15T09:04:24+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:2f809092-b7fc-460f-a4e3-0bb90bdac60b",
+   "order": 8,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Applied Sciences Intern",
+   "location": "London, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084",
+   "posted_at": "2026-10-15T09:04:23+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:22f472db-a55d-48cd-92a5-2f2073b6e594",
+   "order": 9,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Autodesk",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments",
+   "location": "Boston, MA, NYC",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374",
+   "posted_at": "2026-10-15T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:517be45c-a43f-423f-96d6-f0eaea850e51",
+   "order": 11,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Autodesk",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments",
+   "location": "Boston, MA, NYC",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1",
+   "posted_at": "2026-10-15T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:1dba15c8-8b9b-480b-9237-6a5a7bf57e11",
+   "order": 12,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "National Laboratory of the Rockies",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI/ML for Cybersecurity Intern",
+   "location": "Golden, CO",
+   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
+   "posted_at": "2026-10-15T00:00:00+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:b07a5da6-2c9f-4bf1-bf90-18ffff8232ae",
+   "order": 13,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Developer Technology Engineer Intern - Compute Performance",
+   "location": "Bristol, UK, Zürich, Switzerland",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
+   "posted_at": "2026-10-15T00:00:00+00:00",
+   "department": "Software",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "nvidia.com",
+   "job_id": "simplify:686d8e2a-ab20-418c-8b0b-3d83af16897c",
+   "order": 14,
+   "regions": [
+    "UK",
+    "Europe"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
+   "location": "Germany, Remote; France, Remote",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
+   "posted_at": "2026-10-15T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027829",
+   "order": 15,
+   "regions": [
+    "Europe",
+    "Remote"
    ]
   }
  ]
