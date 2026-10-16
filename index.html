@@ -265,24 +265,25 @@
   /* ---- ad slots ------------------------------------------------------
      Dark until AD.client is set (see the ad block below the listings), so the
      board renders exactly as it does today until there is a publisher account.
-     The rail is left of the listings on a wide screen and below them on a
-     narrow one; the listings come first in source order either way, so a
-     screen reader and a crawler still meet the content before the ad. */
-  .board{display:block}
-  .board.has-rail{display:grid;grid-template-columns:300px minmax(0,1fr);
-                  gap:22px;align-items:start}
-  .board.has-rail > .jobs{grid-column:2;grid-row:1}
-  .board.has-rail > .rail{grid-column:1;grid-row:1;position:sticky;top:18px}
-  .adslot{background:var(--surface);border:1px solid var(--border);border-radius:12px;
-          overflow:hidden;display:grid;place-items:center;min-height:100px}
-  .rail .adslot{min-height:600px}
-  li.adslot{list-style:none}
-  .ad-note{color:var(--ink-3);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
-  @media (max-width:1000px){
-    .board.has-rail{display:block}
-    .board.has-rail > .rail{position:static;margin-top:12px}
-    .rail .adslot{min-height:250px}
+
+     Neither kind of slot is allowed to move the existing layout. The rail sits
+     in the page margin, outside the 1080px column, and only exists on screens
+     wide enough to have that margin; the column itself never narrows. In-feed
+     slots take the height of a real job card (measured, see AD.place), so the
+     list keeps its rhythm and nothing shifts when an ad arrives. */
+  .board{position:relative}
+  .rail{display:none}
+  @media (min-width:1464px){
+    .board.has-rail > .rail{display:block;position:absolute;top:0;bottom:0;right:100%;
+      margin-right:24px;width:min(300px, calc((100vw - 1080px) / 2 - 20px))}
+    .rail .adslot{position:sticky;top:18px;min-height:600px}
   }
+  .adslot{background:var(--surface);border:1px solid var(--border);border-radius:12px;
+          overflow:hidden;display:grid;place-items:center;box-sizing:border-box}
+  li.adslot{list-style:none;position:relative;box-shadow:var(--shadow);min-height:100px}
+  .adslot ins{width:100%;height:100%}
+  .ad-note{color:var(--ink-3);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+  li.adslot .ad-note{position:absolute;top:9px;right:13px}
 
   /* ---- job cards ----------------------------------------------------- */
   .jobs{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:11px}
@@ -1315,6 +1316,7 @@ Apply here
     client: "",              // "ca-pub-0000000000000000" once AdSense approves
     railSlot: "",            // the rail unit's data-ad-slot id
     feedSlot: "",            // the in-feed unit's data-ad-slot id
+    feedLayoutKey: "",       // only for an AdSense "In-feed" unit, e.g. "-fb+5w+4e-db+86"
     // Insert an in-feed slot before the card at this index. Deliberately a short
     // fixed list rather than "every N": the list runs to 450+ rows, and one ad
     // every N would put dozens of them in a page whose whole appeal is that it
@@ -1339,7 +1341,7 @@ Apply here
   // every filter change; asking the network for a new ad that often would be
   // both broken and a policy problem, so the slot elements are kept alive in
   // SLOTS and moved back into the rebuilt list instead of being recreated.
-  function mount(el, slot){
+  function mount(el, slot, feed){
     if (!el || el.getAttribute("data-mounted")) return;
     el.setAttribute("data-mounted", "1");
     if (!AD.client){ el.innerHTML = '<span class="ad-note">Ad</span>'; return; }
@@ -1348,8 +1350,17 @@ Apply here
     ins.style.display = "block";
     ins.setAttribute("data-ad-client", AD.client);
     if (slot) ins.setAttribute("data-ad-slot", slot);
-    ins.setAttribute("data-ad-format", "auto");
-    ins.setAttribute("data-full-width-responsive", "true");
+    if (feed && AD.feedLayoutKey){
+      // An AdSense "In-feed" unit: styled to sit among the cards.
+      ins.setAttribute("data-ad-format", "fluid");
+      ins.setAttribute("data-ad-layout-key", AD.feedLayoutKey);
+    } else {
+      // Fill the box it is given and nothing more -- the box already has the
+      // card's size, and a responsive unit is free to grow taller than that.
+      ins.setAttribute("data-ad-format", "auto");
+      ins.setAttribute("data-full-width-responsive", "false");
+    }
+    if (feed){ var n = el.appendChild(document.createElement("span")); n.className = "ad-note"; n.textContent = "Ad"; }
     el.appendChild(ins);
     try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
   }
@@ -1371,19 +1382,25 @@ Apply here
   AD.place = function(list, count){
     if (!list) return;
     var nodes = slots();
+    // Same size as a job card: take the first real card's height.
+    var card = null;
+    for (var c = 0; c < list.children.length && !card; c++)
+      if (/(^| )job( |$)/.test(list.children[c].className)) card = list.children[c];
+    var h = card && card.offsetHeight;
     for (var i = nodes.length - 1; i >= 0; i--){
       var at = AD.at[i];
       if (at >= count){
         if (nodes[i].parentNode) nodes[i].parentNode.removeChild(nodes[i]);
         continue;
       }
+      if (h) nodes[i].style.height = h + "px";
       list.insertBefore(nodes[i], list.children[at] || null);
-      mount(nodes[i], AD.feedSlot);
+      mount(nodes[i], AD.feedSlot, true);
     }
   };
 
-  // The rail is authored hidden and the grid is authored as a single column, so
-  // a page with ads off never reserves space for one.
+  // The rail is authored hidden, so a page with ads off never reserves space
+  // for one; with ads on it lives in the margin and below 1464px not at all.
   var rail = document.getElementById("rail"), board = document.getElementById("board");
   if (rail && board){
     rail.hidden = false;

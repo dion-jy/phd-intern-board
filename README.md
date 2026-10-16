@@ -241,10 +241,17 @@ To turn them on, edit the `AD` object in `index.html` (search for `AD.client`):
 
 ```js
 client:   "ca-pub-0000000000000000",   // from the AdSense account
-railSlot: "1234567890",                // a display unit, 300x600
-feedSlot: "0987654321",                // an in-feed unit
+railSlot: "1234567890",                // a display unit, up to 300x600
+feedSlot: "0987654321",                // the unit between cards
+feedLayoutKey: "",                     // only if feedSlot is an AdSense "In-feed" unit
 at: [6, 20, 40]                        // job cards before each in-feed slot
 ```
+
+Neither slot moves the existing layout. The rail lives in the page margin,
+outside the 1080px column, and only on screens 1464px and wider (narrower than
+that there is no margin to put it in, so there is no rail -- the column never
+narrows to make room). In-feed slots are given the measured height of a real job
+card, so they read as one more card and nothing shifts when an ad loads.
 
 and add an `ads.txt` at the repo root with the line AdSense gives you:
 
