@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-17T05:16:10.557868+00:00",
+ "generated_at": "2026-10-18T05:20:53.205294+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9321,
+ "scanned_jobs": 9311,
  "by_kind": {
-  "blindspot": 240,
-  "tracked": 223,
-  "discovery": 244,
+  "blindspot": 239,
+  "tracked": 221,
+  "discovery": 241,
   "evergreen": 35
  },
- "total_listings": 742,
- "matched": 223,
+ "total_listings": 736,
+ "matched": 221,
  "off_board_file": 6,
  "evergreen": 35,
  "xposts": 13,
- "discover": 484,
+ "discover": 480,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 4847 live",
+   "Summer2027: 4805 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 4847 live"
+   "Summer2026: 4805 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17265,
-  "active": 4846,
-  "phd": 1042,
-  "blindspot": 240,
-  "discovery": 327,
+  "total": 17161,
+  "active": 4804,
+  "phd": 1036,
+  "blindspot": 239,
+  "discovery": 323,
   "dropped_tracked": 78,
-  "dropped_category": 393,
+  "dropped_category": 392,
   "dropped_excluded": 4,
   "by_title": 34,
-  "discovery_after_title_filter": 244
+  "discovery_after_title_filter": 241
  },
- "new": 24,
+ "new": 0,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -59,8 +59,8 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 71,
-   "matched": 33,
+   "postings": 69,
+   "matched": 31,
    "evergreen": 0,
    "error": null
   },
@@ -77,7 +77,7 @@
    "lab": "Dexterity",
    "ats": "lever",
    "slug": "dexterity",
-   "postings": 21,
+   "postings": 22,
    "matched": 0,
    "evergreen": 11,
    "error": null
@@ -104,7 +104,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 656,
+   "postings": 655,
    "matched": 5,
    "evergreen": 1,
    "error": null
@@ -140,7 +140,7 @@
    "lab": "Mistral AI",
    "ats": "ashby",
    "slug": "mistral.ai",
-   "postings": 219,
+   "postings": 217,
    "matched": 3,
    "evergreen": 0,
    "error": null
@@ -248,7 +248,7 @@
    "lab": "Glean",
    "ats": "greenhouse",
    "slug": "gleanwork",
-   "postings": 136,
+   "postings": 134,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -437,7 +437,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 815,
+   "postings": 813,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -464,7 +464,7 @@
    "lab": "xAI",
    "ats": "greenhouse",
    "slug": "xai",
-   "postings": 305,
+   "postings": 304,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -482,7 +482,7 @@
    "lab": "Graphcore",
    "ats": "greenhouse",
    "slug": "graphcore",
-   "postings": 177,
+   "postings": 176,
    "matched": 0,
    "evergreen": 0,
    "error": null
