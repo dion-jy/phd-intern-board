@@ -1,6 +1,95 @@
 {
- "generated_at": "2026-10-18T05:20:53.205294+00:00",
+ "generated_at": "2026-10-19T05:38:22.687412+00:00",
  "first_run": false,
- "count": 0,
- "jobs": []
+ "count": 3,
+ "jobs": [
+  {
+   "company": "DiDi Global",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Research Intern - Scene Understanding and Planning",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/didi/jobs/8299748",
+   "posted_at": "2026-10-18T22:40:33+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:ad12d14f-fd8d-4560-a8bb-97f556cdad85",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Tesla",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure",
+   "location": "Austin, TX",
+   "url": "https://www.tesla.com/careers/search/job/287024",
+   "posted_at": "2026-10-18T09:37:26+00:00",
+   "department": "Hardware",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Spring 2027"
+   ],
+   "domain": "tesla.com",
+   "job_id": "simplify:2d44df47-4fb1-4120-a4ac-7fbcc5f6c103",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Security Research Internship Opportunities",
+   "location": "Israel, Tel Aviv, Herzliya",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042488",
+   "posted_at": "2026-10-17T13:38:16+00:00",
+   "department": "HR Group",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": false,
+   "job_id": "eightfold:microsoft.com:1970393557042488",
+   "order": 2,
+   "regions": [
+    "Asia"
+   ]
+  }
+ ]
 }

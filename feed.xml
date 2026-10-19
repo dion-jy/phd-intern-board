@@ -5,7 +5,28 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-10-16T22:40:37+00:00</updated>
+  <updated>2026-10-18T22:40:33+00:00</updated>
+  <entry>
+    <title>DiDi Global &#8212; Research Intern - Scene Understanding and Planning</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/didi/jobs/8299748"/>
+    <id>urn:phd-intern-board:simplify:ad12d14f-fd8d-4560-a8bb-97f556cdad85</id>
+    <updated>2026-10-18T22:40:33+00:00</updated>
+    <summary>San Jose, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Tesla &#8212; Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure</title>
+    <link rel="alternate" href="https://www.tesla.com/careers/search/job/287024"/>
+    <id>urn:phd-intern-board:simplify:2d44df47-4fb1-4120-a4ac-7fbcc5f6c103</id>
+    <updated>2026-10-18T09:37:26+00:00</updated>
+    <summary>Austin, TX · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Security Research Internship Opportunities</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557042488"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557042488</id>
+    <updated>2026-10-17T13:38:16+00:00</updated>
+    <summary>Israel, Tel Aviv, Herzliya · Big tech</summary>
+  </entry>
   <entry>
     <title>Microsoft &#8212; Research Intern</title>
     <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557041730"/>
@@ -173,20 +194,6 @@
     <id>urn:phd-intern-board:simplify:9425b93f-c2dd-40f3-8335-c8ee684f4bf8</id>
     <updated>2026-10-15T01:24:35+00:00</updated>
     <summary>San Diego, CA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Autodesk &#8212; PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments</title>
-    <link rel="alternate" href="https://autodesk.wd1.myworkdayjobs.com/uni/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374"/>
-    <id>urn:phd-intern-board:simplify:517be45c-a43f-423f-96d6-f0eaea850e51</id>
-    <updated>2026-10-15T00:00:00+00:00</updated>
-    <summary>Boston, MA, NYC · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Autodesk &#8212; PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments</title>
-    <link rel="alternate" href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1"/>
-    <id>urn:phd-intern-board:simplify:1dba15c8-8b9b-480b-9237-6a5a7bf57e11</id>
-    <updated>2026-10-15T00:00:00+00:00</updated>
-    <summary>Boston, MA, NYC · Other · PhD</summary>
   </entry>
   <entry>
     <title>National Laboratory of the Rockies &#8212; AI/ML for Cybersecurity Intern</title>
@@ -418,12 +425,5 @@
     <id>urn:phd-intern-board:workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116761</id>
     <updated>2026-10-14T00:00:00+00:00</updated>
     <summary>Tokyo - Osaki · Big tech</summary>
-  </entry>
-  <entry>
-    <title>Sony AI (Japan) &#8212; Research Intern on Generative and Protective AI for Content Creation</title>
-    <link rel="alternate" href="https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/XMLNAME--Sony-Research-Research-Intern-on-Generative-AI-for-Content-Creation_JR-116768"/>
-    <id>urn:phd-intern-board:workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116768</id>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <summary>Tokyo - Osaki · Big tech · PhD</summary>
   </entry>
 </feed>
