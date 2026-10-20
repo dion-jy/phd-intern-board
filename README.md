@@ -237,7 +237,20 @@ slots, no ad script in the head, and no request to anyone -- the board looks and
 behaves exactly as it does without this code. To see the layout anyway, append
 `?ads=preview` to the URL; that draws the empty boxes and still calls nobody.
 
-To turn them on, edit the `AD` object in `index.html` (search for `AD.client`):
+To turn them on, run `enable_ads.py` -- it edits only the `AD` object (and the
+`google-adsense-account` meta tag) and prints the `ads.txt` line:
+
+```
+python enable_ads.py --client ca-pub-...              # review: script loads, no boxes drawn
+python enable_ads.py --rail 123 --feed 456 --layout-key "..."   # live
+python enable_ads.py --off                            # back to nothing
+```
+
+A slot is drawn only once it has a unit, so between account creation and
+approval the page loads the AdSense script for review but looks unchanged.
+`privacy.html` carries the cookie disclosure AdSense requires.
+
+The fields it sets, for reference (search `index.html` for `AD.client`):
 
 ```js
 client:   "ca-pub-0000000000000000",   // from the AdSense account
