@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-24T05:19:08.855876+00:00",
+ "generated_at": "2026-10-25T05:36:21.063634+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9402,
+ "scanned_jobs": 9400,
  "by_kind": {
   "blindspot": 293,
-  "tracked": 251,
-  "discovery": 250,
+  "tracked": 249,
+  "discovery": 240,
   "evergreen": 34
  },
- "total_listings": 828,
- "matched": 251,
+ "total_listings": 816,
+ "matched": 249,
  "off_board_file": 6,
  "evergreen": 34,
  "xposts": 13,
- "discover": 543,
+ "discover": 533,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 5047 live",
+   "Summer2027: 4844 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 5047 live"
+   "Summer2026: 4844 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17418,
-  "active": 5046,
-  "phd": 1141,
+  "total": 17315,
+  "active": 4843,
+  "phd": 1120,
   "blindspot": 293,
-  "discovery": 340,
+  "discovery": 329,
   "dropped_tracked": 87,
-  "dropped_category": 414,
+  "dropped_category": 404,
   "dropped_excluded": 7,
   "by_title": 66,
-  "discovery_after_title_filter": 250
+  "discovery_after_title_filter": 240
  },
- "new": 34,
+ "new": 2,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -59,8 +59,8 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 79,
-   "matched": 39,
+   "postings": 77,
+   "matched": 37,
    "evergreen": 0,
    "error": null
   },
@@ -104,7 +104,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 680,
+   "postings": 682,
    "matched": 5,
    "evergreen": 1,
    "error": null
@@ -113,7 +113,7 @@
    "lab": "Applied Intuition",
    "ats": "ashby",
    "slug": "applied",
-   "postings": 327,
+   "postings": 328,
    "matched": 5,
    "evergreen": 0,
    "error": null
@@ -140,7 +140,7 @@
    "lab": "Perplexity",
    "ats": "ashby",
    "slug": "perplexity",
-   "postings": 131,
+   "postings": 132,
    "matched": 4,
    "evergreen": 0,
    "error": null
@@ -446,7 +446,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 796,
+   "postings": 794,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -500,7 +500,7 @@
    "lab": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "postings": 161,
+   "postings": 159,
    "matched": 0,
    "evergreen": 0,
    "error": null
