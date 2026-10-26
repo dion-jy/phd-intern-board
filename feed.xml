@@ -77,13 +77,6 @@
     <summary>San Francisco, CA, USA, San Francisco (US-SFO-MKT555) · Big tech · PhD</summary>
   </entry>
   <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - Algorithms Group: Theory</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557045963"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557045963</id>
-    <updated>2026-10-23T17:22:12+00:00</updated>
-    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
-  </entry>
-  <entry>
     <title>Waymo &#8212; 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency</title>
     <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8287385"/>
     <id>urn:phd-intern-board:greenhouse:waymo:8287385</id>
@@ -329,13 +322,6 @@
     <summary>Redmond, WA, Mountain View, CA · Big tech · PhD</summary>
   </entry>
   <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - Gray Systems Lab (GSL)</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557045445"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557045445</id>
-    <updated>2026-10-22T20:15:08+00:00</updated>
-    <summary>United States, Washington, Redmond, United States, California, Mountain View · Big tech · PhD</summary>
-  </entry>
-  <entry>
     <title>Waymo &#8212; 2027 Summer Intern, PhD, Research, RSI for Autonomous Driving</title>
     <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8306779"/>
     <id>urn:phd-intern-board:greenhouse:waymo:8306779</id>
@@ -378,13 +364,6 @@
     <summary>Virginia · Other · PhD</summary>
   </entry>
   <entry>
-    <title>Microsoft / MSR &#8212; Security Research Intern</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557044769"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557044769</id>
-    <updated>2026-10-21T22:14:58+00:00</updated>
-    <summary>United States, Washington, Redmond · Big tech</summary>
-  </entry>
-  <entry>
     <title>Meta &#8212; Research Intern - Audio Hardware</title>
     <link rel="alternate" href="https://www.metacareers.com/jobs/1445807477756644"/>
     <id>urn:phd-intern-board:simplify:250b02be-a1c4-4629-937c-bcba947df550</id>
@@ -425,5 +404,26 @@
     <id>urn:phd-intern-board:simplify:2649142c-09b6-4a9e-84cd-10f97d29c2c1</id>
     <updated>2026-10-21T14:27:19+00:00</updated>
     <summary>London, UK · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - Audio - Machine Learning and Computer Vision</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/2288012098648243"/>
+    <id>urn:phd-intern-board:simplify:3faacf4c-c5be-4b5e-80fc-22e6a10c8888</id>
+    <updated>2026-10-21T09:40:04+00:00</updated>
+    <summary>Cambridge, UK · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Rhoda AI &#8212; Software Engineer Intern - Inference</title>
+    <link rel="alternate" href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true"/>
+    <id>urn:phd-intern-board:simplify:b3c0d835-cfc4-48e9-8841-d656e80fb21c</id>
+    <updated>2026-10-21T06:12:43+00:00</updated>
+    <summary>Mountain View, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1510576574212840"/>
+    <id>urn:phd-intern-board:simplify:ee44b333-d82d-4c69-8df1-fb3bb9a942ba</id>
+    <updated>2026-10-21T01:23:08+00:00</updated>
+    <summary>Menlo Park, CA · Big tech</summary>
   </entry>
 </feed>
