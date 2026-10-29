@@ -5,13 +5,132 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-10-28T01:22:03+00:00</updated>
+  <updated>2026-10-29T00:00:00+00:00</updated>
+  <entry>
+    <title>NVIDIA &#8212; PhD Researcher Intern, World Foundation Models</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Korea-Seoul/PhD-Researcher-Intern--World-Foundation-Models_JR2028487"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028487</id>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <summary>Korea, Seoul · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft &#8212; Research Intern - Machine Learning and Optimization</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557049981"/>
+    <id>urn:phd-intern-board:simplify:b2d678a2-878e-4693-b3c8-b8bdd80450aa</id>
+    <updated>2026-10-28T22:39:59+00:00</updated>
+    <summary>Redmond, WA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft &#8212; Research Intern - MSR Systems Research Group</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557050039"/>
+    <id>urn:phd-intern-board:simplify:cc95f424-ceae-43ca-95ba-0cc276090f2a</id>
+    <updated>2026-10-28T22:39:56+00:00</updated>
+    <summary>Redmond, WA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Qualcomm &#8212; Deep Learning Research Intern - Interim Engineering Intern - Systems</title>
+    <link rel="alternate" href="https://qualcomm.eightfold.ai/careers/job/446721828828"/>
+    <id>urn:phd-intern-board:simplify:935c3dc5-adb9-4d56-8fa5-02526cd37a3d</id>
+    <updated>2026-10-28T22:22:10+00:00</updated>
+    <summary>Markham, ON, Canada · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Amazon &#8212; Robotics Applied Scientist 2 Intern</title>
+    <link rel="alternate" href="https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states"/>
+    <id>urn:phd-intern-board:simplify:08f5ae2c-794c-4da3-94f0-d72a0a5e2b56</id>
+    <updated>2026-10-28T22:06:13+00:00</updated>
+    <summary>Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Research Intern - MSR Systems Research Group - Redmond</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557050039"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557050039</id>
+    <updated>2026-10-28T17:06:07+00:00</updated>
+    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Anthropic &#8212; Anthropic Research Resident</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/anthropic/jobs/5439169008"/>
+    <id>urn:phd-intern-board:greenhouse:anthropic:5439169008</id>
+    <updated>2026-10-28T15:09:02-04:00</updated>
+    <summary>London, UK · Frontier lab · PhD</summary>
+  </entry>
+  <entry>
+    <title>Anthropic &#8212; Anthropic Research Resident</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/anthropic/jobs/5438311008"/>
+    <id>urn:phd-intern-board:greenhouse:anthropic:5438311008</id>
+    <updated>2026-10-28T15:09:00-04:00</updated>
+    <summary>San Francisco, CA, New York City, NY +1 more · Frontier lab · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Research Intern - Machine Learning and Optimization - Redmond</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557049981"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557049981</id>
+    <updated>2026-10-28T15:06:01+00:00</updated>
+    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Intuitive Surgical &#8212; Robotics Engineer Intern</title>
+    <link rel="alternate" href="https://jobs.smartrecruiters.com/Intuitive/744000158313717"/>
+    <id>urn:phd-intern-board:simplify:5d4a2e1b-0381-4b6d-bcf8-601636e1a627</id>
+    <updated>2026-10-28T14:41:49+00:00</updated>
+    <summary>Sunnyvale, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Intuitive Surgical &#8212; Reinforcement Learning Intern</title>
+    <link rel="alternate" href="https://jobs.smartrecruiters.com/Intuitive/744000158310864"/>
+    <id>urn:phd-intern-board:simplify:54ebc350-017d-43b1-a766-7a50553bca1e</id>
+    <updated>2026-10-28T14:41:47+00:00</updated>
+    <summary>Sunnyvale, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Intuitive Surgical &#8212; AI Research Intern</title>
+    <link rel="alternate" href="https://jobs.smartrecruiters.com/Intuitive/744000158312151"/>
+    <id>urn:phd-intern-board:simplify:a3eba704-ea56-4226-a4d4-f13d668868f0</id>
+    <updated>2026-10-28T14:41:44+00:00</updated>
+    <summary>Sunnyvale, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Qualcomm &#8212; Formal Verification Engineering Intern - 6 months</title>
+    <link rel="alternate" href="https://qualcomm.eightfold.ai/careers/job/446721822125"/>
+    <id>urn:phd-intern-board:simplify:163fdc07-70e9-4d69-8015-d6034524908e</id>
+    <updated>2026-10-28T14:27:50+00:00</updated>
+    <summary>Cambridge, UK · Big tech · PhD</summary>
+  </entry>
   <entry>
     <title>Meta &#8212; Research Scientist Intern - Ads Recommendations</title>
     <link rel="alternate" href="https://www.metacareers.com/jobs/1691709792593561"/>
     <id>urn:phd-intern-board:simplify:3ca07823-9706-45cc-8542-c0aa2140bda4</id>
     <updated>2026-10-28T01:22:03+00:00</updated>
     <summary>Menlo Park, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>ABB &#8212; AI Robotics Intern</title>
+    <link rel="alternate" href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846"/>
+    <id>urn:phd-intern-board:simplify:545bd8c9-5b0a-4acd-9cd7-e53ef6f722b3</id>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <summary>San Jose, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Boston Dynamics &#8212; VLA Research Intern</title>
+    <link rel="alternate" href="https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Atlas-VLA-Research-Intern_R3317"/>
+    <id>urn:phd-intern-board:simplify:7543c6c1-0c66-4d80-8700-6c8fdda69ab7</id>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <summary>Waltham, MA · Startup · PhD</summary>
+  </entry>
+  <entry>
+    <title>Micron Technology &#8212; Data Scientist Intern</title>
+    <link rel="alternate" href="https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549"/>
+    <id>urn:phd-intern-board:simplify:919323ab-0bec-4059-9bad-aa2b7fad6c40</id>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <summary>San Jose, CA, Folsom, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; PhD Research Intern, Electronic Design Automation - 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026471</id>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
   </entry>
   <entry>
     <title>Mercor &#8212; Research Engineer, Intern – Benchmarking</title>
@@ -98,6 +217,13 @@
     <summary>United Kingdom · Big tech · PhD</summary>
   </entry>
   <entry>
+    <title>Microsoft / MSR &#8212; AI for Science Residency - Computational Chemistry</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557048142"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557048142</id>
+    <updated>2026-10-27T20:08:35+00:00</updated>
+    <summary>Germany, Berlin, Berlin, United Kingdom, Cambridgeshire, Cambridge +1 more · Big tech · PhD</summary>
+  </entry>
+  <entry>
     <title>Saviynt &#8212; Research Scientist Intern</title>
     <link rel="alternate" href="https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply"/>
     <id>urn:phd-intern-board:simplify:aa777b1a-9c23-48b4-8c56-23f0944caa64</id>
@@ -138,13 +264,6 @@
     <id>urn:phd-intern-board:simplify:a0647259-2f84-43f9-ab8c-0647746c4fe3</id>
     <updated>2026-10-27T00:00:00+00:00</updated>
     <summary>Atlanta, GA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Centific &#8212; Robotics Intern</title>
-    <link rel="alternate" href="https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Robotics-Intern_JR107981"/>
-    <id>urn:phd-intern-board:simplify:a5fd5222-6570-4e85-b109-2323b3abdff7</id>
-    <updated>2026-10-27T00:00:00+00:00</updated>
-    <summary>Palo Alto, CA, Redmond, WA · Other · PhD</summary>
   </entry>
   <entry>
     <title>Mass General Brigham &#8212; Pre-Doctoral Fellow</title>
@@ -301,129 +420,10 @@
     <summary>San Jose, CA · Other · PhD</summary>
   </entry>
   <entry>
-    <title>Meta &#8212; Research Scientist Intern - Policy Learning for Robotics - PhD</title>
-    <link rel="alternate" href="https://www.metacareers.com/jobs/2554989011673624"/>
-    <id>urn:phd-intern-board:simplify:a9be1606-3d61-455b-a156-8ad79d30f2a3</id>
-    <updated>2026-10-24T01:34:24+00:00</updated>
-    <summary>Redmond, WA · Big tech</summary>
-  </entry>
-  <entry>
     <title>NVIDIA &#8212; Research Intern, Robotics - 2027</title>
     <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499"/>
     <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028499</id>
     <updated>2026-10-24T00:00:00+00:00</updated>
     <summary>Singapore, Pasir Panjang · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; Research Intern, Robotics — NVIDIA Research</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---NVIDIA-Research_JR2028498"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028498</id>
-    <updated>2026-10-24T00:00:00+00:00</updated>
-    <summary>Singapore, Pasir Panjang · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Simbe Robotics &#8212; Computer Vision / Applied AI Intern</title>
-    <link rel="alternate" href="https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply"/>
-    <id>urn:phd-intern-board:simplify:b1897deb-37b0-4282-a948-8d6248118a62</id>
-    <updated>2026-10-23T22:11:10+00:00</updated>
-    <summary>Burlingame, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Meta &#8212; Research Scientist Intern - AI Core Machine Learning</title>
-    <link rel="alternate" href="https://www.metacareers.com/jobs/1648122343381284"/>
-    <id>urn:phd-intern-board:simplify:9ee09be0-74d4-4f17-be8c-6ee90eefdb45</id>
-    <updated>2026-10-23T22:05:30+00:00</updated>
-    <summary>Seattle, WA, Bellevue, WA, Sunnyvale, CA · Big tech</summary>
-  </entry>
-  <entry>
-    <title>Meta &#8212; Research Scientist Intern - Meta Recommendation Systems - PhD</title>
-    <link rel="alternate" href="https://www.metacareers.com/jobs/1416549056773684"/>
-    <id>urn:phd-intern-board:simplify:d8a2bb53-0733-45f9-96f0-7ef095d82520</id>
-    <updated>2026-10-23T22:05:17+00:00</updated>
-    <summary>Menlo Park, CA · Big tech</summary>
-  </entry>
-  <entry>
-    <title>Meta &#8212; Research Scientist Intern - Wearable Sensing &amp; Human Motion Analysis</title>
-    <link rel="alternate" href="https://www.metacareers.com/jobs/1137225375529389"/>
-    <id>urn:phd-intern-board:simplify:216cdc89-c91f-4158-90d5-5b927673a806</id>
-    <updated>2026-10-23T22:05:16+00:00</updated>
-    <summary>Redmond, WA · Big tech</summary>
-  </entry>
-  <entry>
-    <title>Meta &#8212; Research Scientist Intern - Meta Recommendation Systems - Core ML</title>
-    <link rel="alternate" href="https://www.metacareers.com/jobs/1023154190171838"/>
-    <id>urn:phd-intern-board:simplify:7d4bf842-2fbf-45b5-b64b-b5a0bd04af70</id>
-    <updated>2026-10-23T22:05:15+00:00</updated>
-    <summary>Seattle, WA, Menlo Park, CA, Bellevue, WA · Big tech</summary>
-  </entry>
-  <entry>
-    <title>Waymo &#8212; 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations</title>
-    <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8304574"/>
-    <id>urn:phd-intern-board:greenhouse:waymo:8304574</id>
-    <updated>2026-10-23T20:36:01-04:00</updated>
-    <summary>San Francisco, CA, USA, San Francisco (US-SFO-MKT555) · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - Algorithms Group: Theory</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557045963"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557045963</id>
-    <updated>2026-10-23T17:22:12+00:00</updated>
-    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Waymo &#8212; 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency</title>
-    <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8287385"/>
-    <id>urn:phd-intern-board:greenhouse:waymo:8287385</id>
-    <updated>2026-10-23T15:55:17-04:00</updated>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Robert Bosch Venture Capital &#8212; Agentic AI Intern</title>
-    <link rel="alternate" href="https://jobs.smartrecruiters.com/BoschGroup/744000157483412"/>
-    <id>urn:phd-intern-board:simplify:167db85e-f882-442a-a140-67ddb1c5b800</id>
-    <updated>2026-10-23T14:10:14+00:00</updated>
-    <summary>Sunnyvale, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Amazon &#8212; Applied Scientist Intern - Automated Reasoning</title>
-    <link rel="alternate" href="https://amazon.jobs/en/jobs/10552930/2027-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-automated-reasoning"/>
-    <id>urn:phd-intern-board:simplify:861bd1a8-4df0-4259-85d2-0630849ece34</id>
-    <updated>2026-10-23T01:45:46+00:00</updated>
-    <summary>Seattle, WA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Amazon &#8212; Applied Science Intern - Natural Language Processing and Speech Technologies</title>
-    <link rel="alternate" href="https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting"/>
-    <id>urn:phd-intern-board:simplify:31aa4212-6234-46f9-beb5-ae44f354acb6</id>
-    <updated>2026-10-23T01:45:44+00:00</updated>
-    <summary>Cambridge, MA, Boston, MA, Seattle, WA, Santa Clara, CA, NYC, Bellevue, WA, Sunnyvale, CA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Amazon &#8212; Applied Scientist Intern - Reinforcement Learning &amp; Optimization - Machine Learning</title>
-    <link rel="alternate" href="https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting"/>
-    <id>urn:phd-intern-board:simplify:1f204319-dfd9-4b7a-b098-c48f8a6c1435</id>
-    <updated>2026-10-23T01:45:44+00:00</updated>
-    <summary>Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, San Diego, CA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Amazon &#8212; Applied Science Intern - Computer Vision</title>
-    <link rel="alternate" href="https://amazon.jobs/en/jobs/10564601/2027-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting"/>
-    <id>urn:phd-intern-board:simplify:e4a79815-958c-4117-8e82-e122ebd1c81f</id>
-    <updated>2026-10-23T01:45:43+00:00</updated>
-    <summary>Seattle, WA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Amazon &#8212; Applied Science Intern - Frontier AI &amp; Robotics</title>
-    <link rel="alternate" href="https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics"/>
-    <id>urn:phd-intern-board:simplify:f1608d09-987a-492d-8dc1-3007fd0b3f0e</id>
-    <updated>2026-10-23T01:45:43+00:00</updated>
-    <summary>Seattle, WA, SF · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Amazon &#8212; Applied Science Intern - Gen AI &amp; Large Language Models</title>
-    <link rel="alternate" href="https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting"/>
-    <id>urn:phd-intern-board:simplify:58d142d9-2c57-4ca0-8836-120968205a60</id>
-    <updated>2026-10-23T01:45:43+00:00</updated>
-    <summary>Cambridge, MA, Boston, MA, Seattle, WA, Santa Clara, CA, Pittsburgh, PA, NYC, Bellevue, WA, Sunnyvale, CA · Big tech · PhD</summary>
   </entry>
 </feed>
