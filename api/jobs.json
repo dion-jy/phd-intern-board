@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-10-30T06:43:31.294510+00:00",
- "count": 260,
+ "generated_at": "2026-10-31T06:34:08.067907+00:00",
+ "count": 165,
  "jobs": [
+  {
+   "company": "Sierra",
+   "tier": "startup",
+   "ats": "ashby",
+   "domain": "sierra.ai",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081",
+   "posted_at": "2026-10-31T04:30:38.046+00:00",
+   "department": "Research",
+   "confidence": "high",
+   "match": [
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "ashby:sierra:ef896ee9-e903-4a1f-84c2-537373cb9081",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Office of Applied Research",
+   "location": "United States, Washington, Redmond; United States, New York, New York",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557051409",
+   "posted_at": "2026-10-30T21:13:00+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557051409",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Research Scientist Intern",
+   "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
+   "posted_at": "2026-10-30T16:19:59-04:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8337719",
+   "order": 11,
+   "regions": [
+    "US"
+   ]
+  },
   {
    "company": "Waymo",
    "tier": "bigtech",
@@ -20,76 +90,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8335511",
-   "order": 15,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Researcher Intern, World Foundation Models",
-   "location": "Korea, Seoul",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Korea-Seoul/PhD-Researcher-Intern--World-Foundation-Models_JR2028487",
-   "posted_at": "2026-10-29T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028487",
-   "order": 23,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Systems Software Engineering Intern – Summer 2027",
-   "location": "US, TX, Austin",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
-   "posted_at": "2026-10-29T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027170",
-   "order": 22,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
-   "posted_at": "2026-10-29T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026799",
-   "order": 25,
+   "order": 31,
    "regions": [
     "US"
    ]
@@ -112,7 +113,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050154",
-   "order": 30,
+   "order": 41,
    "regions": [
     "US"
    ]
@@ -135,9 +136,32 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557050150",
-   "order": 31,
+   "order": 42,
    "regions": [
     "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Cambridge Internship Program Azure Research, Security and Privacy",
+   "location": "United Kingdom, Cambridgeshire, Cambridge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050102",
+   "posted_at": "2026-10-28T19:05:39+00:00",
+   "department": "HR Group",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557050102",
+   "order": 43,
+   "regions": [
+    "UK"
    ]
   },
   {
@@ -158,7 +182,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050083",
-   "order": 32,
+   "order": 44,
    "regions": [
     "UK"
    ]
@@ -181,7 +205,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050039",
-   "order": 33,
+   "order": 45,
    "regions": [
     "US"
    ]
@@ -204,7 +228,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:anthropic:5439169008",
-   "order": 34,
+   "order": 47,
    "regions": [
     "UK"
    ]
@@ -227,7 +251,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:anthropic:5438311008",
-   "order": 35,
+   "order": 48,
    "regions": [
     "US",
     "Remote"
@@ -251,30 +275,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557049981",
-   "order": 36,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Electronic Design Automation - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
-   "posted_at": "2026-10-28T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026471",
-   "order": 45,
+   "order": 49,
    "regions": [
     "US"
    ]
@@ -298,7 +299,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
-   "order": 46,
+   "order": 58,
    "regions": [
     "US"
    ]
@@ -322,7 +323,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:049bd532-6fb7-4ae6-85a1-788dd31a14ca",
-   "order": 47,
+   "order": 59,
    "regions": [
     "US"
    ]
@@ -345,57 +346,10 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557048142",
-   "order": 59,
+   "order": 71,
    "regions": [
     "UK",
     "Europe"
-   ]
-  },
-  {
-   "company": "Sony (global)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "sony.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Engineer Intern (Ethical Creative and Protective AI Lab)",
-   "location": "Remote - New York; Remote - Connecticut; Remote - Michigan; Remote - Florida; Remote - Massachusetts; Remote - New Jersey; Remote - Virginia",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
-   "posted_at": "2026-10-27T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers:JR-119784",
-   "order": 69,
-   "regions": [
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
-   "posted_at": "2026-10-27T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026584",
-   "order": 68,
-   "regions": [
-    "US"
    ]
   },
   {
@@ -416,7 +370,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:moloco:8044892003",
-   "order": 83,
+   "order": 93,
    "regions": [
     "Asia"
    ]
@@ -439,78 +393,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8319350",
-   "order": 84,
+   "order": 94,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-   "location": "Switzerland, Zurich",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
-   "posted_at": "2026-10-26T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028597",
-   "order": 86,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern, Robotics - 2027",
-   "location": "Singapore, Pasir Panjang",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499",
-   "posted_at": "2026-10-24T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028499",
-   "order": 88,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern, Robotics — NVIDIA Research",
-   "location": "Singapore, Pasir Panjang",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---NVIDIA-Research_JR2028498",
-   "posted_at": "2026-10-24T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028498",
-   "order": 89,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -531,7 +416,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8304574",
-   "order": 95,
+   "order": 103,
    "regions": [
     "US"
    ]
@@ -554,7 +439,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557045963",
-   "order": 96,
+   "order": 104,
    "regions": [
     "US"
    ]
@@ -577,78 +462,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8287385",
-   "order": 97,
+   "order": 105,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "Sony (global)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "sony.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern – Self-evolving Multimodal Foundation Models",
-   "location": "Remote - Virginia",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804",
-   "posted_at": "2026-10-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers:JR-119804",
-   "order": 115,
-   "regions": [
-    "Remote"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Software Engineering Intern, AI Automation Infra - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205",
-   "posted_at": "2026-10-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028205",
-   "order": 112,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Deep Learning Model and System Optimization Engineering Intern – 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784",
-   "posted_at": "2026-10-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027784",
-   "order": 111,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -669,7 +485,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557045445",
-   "order": 130,
+   "order": 135,
    "regions": [
     "US"
    ]
@@ -692,7 +508,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306779",
-   "order": 131,
+   "order": 136,
    "regions": [
     "US"
    ]
@@ -715,7 +531,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306867",
-   "order": 132,
+   "order": 137,
    "regions": [
     "US"
    ]
@@ -738,32 +554,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306841",
-   "order": 133,
+   "order": 138,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Agent Engineer Intern, AI Enablement Process - 2027",
-   "location": "China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1",
-   "posted_at": "2026-10-22T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025834",
-   "order": 135,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -784,76 +577,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557044769",
-   "order": 137,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Robotic Perception and Learning - 2027",
-   "location": "US, WA, Redmond; US, CA, Santa Clara; US, WA, Seattle",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089",
-   "posted_at": "2026-10-21T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027089",
-   "order": 151,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
-   "posted_at": "2026-10-21T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026949",
-   "order": 150,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
-   "posted_at": "2026-10-21T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026962",
-   "order": 152,
+   "order": 141,
    "regions": [
     "US"
    ]
@@ -876,7 +600,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:graphcore:8894868002",
-   "order": 162,
+   "order": 163,
    "regions": [
     "UK"
    ]
@@ -899,148 +623,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:graphcore:8894738002",
-   "order": 163,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027",
-   "posted_at": "2026-10-20T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028027",
-   "order": 173,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Compiler Formal Verification Intern",
-   "location": "Switzerland, Zurich",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
-   "posted_at": "2026-10-20T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027025",
-   "order": 170,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-   "location": "Poland, Warsaw; Poland, Remote",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377",
-   "posted_at": "2026-10-20T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027377",
-   "order": 174,
-   "regions": [
-    "Europe",
-    "Remote"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Developer Technology Intern - 2027",
-   "location": "Germany, Munich",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
-   "posted_at": "2026-10-20T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027497",
-   "order": 171,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Systems Software Intern, Aerial PHY- Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
-   "posted_at": "2026-10-20T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "body-research-role"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026530",
-   "order": 176,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Adobe",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "adobe.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Intern - Applied and Research Scientist/Engineer",
-   "location": "San Jose; College Park; San Francisco; Seattle; Cambridge; New York",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064",
-   "posted_at": "2026-10-20T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172064",
    "order": 164,
    "regions": [
-    "US"
+    "UK"
    ]
   },
   {
@@ -1061,7 +646,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043754",
-   "order": 192,
+   "order": 186,
    "regions": [
     "US"
    ]
@@ -1084,7 +669,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043740",
-   "order": 193,
+   "order": 187,
    "regions": [
     "US"
    ]
@@ -1107,7 +692,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8301854",
-   "order": 194,
+   "order": 188,
    "regions": [
     "US"
    ]
@@ -1130,7 +715,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8301804",
-   "order": 195,
+   "order": 189,
    "regions": [
     "US"
    ]
@@ -1153,7 +738,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8283558",
-   "order": 196,
+   "order": 190,
    "regions": [
     "US"
    ]
@@ -1176,7 +761,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293641",
-   "order": 197,
+   "order": 191,
    "regions": [
     "US"
    ]
@@ -1199,7 +784,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293615",
-   "order": 198,
+   "order": 192,
    "regions": [
     "US"
    ]
@@ -1222,7 +807,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4735665005",
-   "order": 199,
+   "order": 193,
    "regions": [
     "US"
    ]
@@ -1245,7 +830,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043468",
-   "order": 200,
+   "order": 194,
    "regions": [
     "Europe"
    ]
@@ -1268,7 +853,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043465",
-   "order": 201,
+   "order": 195,
    "regions": [
     "Asia"
    ]
@@ -1291,7 +876,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557043457",
-   "order": 202,
+   "order": 196,
    "regions": [
     "Asia"
    ]
@@ -1314,7 +899,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8292367",
-   "order": 203,
+   "order": 197,
    "regions": [
     "US"
    ]
@@ -1337,7 +922,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8289816",
-   "order": 204,
+   "order": 198,
    "regions": [
     "US"
    ]
@@ -1360,147 +945,9 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557043380",
-   "order": 205,
+   "order": 199,
    "regions": [
     "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Developer Intern — Interconnect Hardware Frontend, 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468",
-   "posted_at": "2026-10-19T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027468",
-   "order": 210,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Software Engineer Intern, Robotics - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630",
-   "posted_at": "2026-10-19T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027630",
-   "order": 212,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Product Manager MBA Intern, Enterprise AI - Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
-   "posted_at": "2026-10-19T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026707",
-   "order": 211,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Adobe",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "adobe.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Intern - Research PhD Intern",
-   "location": "Bangalore",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016",
-   "posted_at": "2026-10-19T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R173016",
-   "order": 208,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "Adobe",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "adobe.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Intern - Experience Researcher",
-   "location": "San Jose",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996",
-   "posted_at": "2026-10-19T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172996",
-   "order": 207,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Adobe",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "adobe.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Intern - AI & Architecture",
-   "location": "San Jose",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
-   "posted_at": "2026-10-19T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172998",
-   "order": 206,
-   "regions": [
-    "US"
    ]
   },
   {
@@ -1521,7 +968,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557042488",
-   "order": 215,
+   "order": 203,
    "regions": [
     "Asia"
    ]
@@ -1544,7 +991,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557042487",
-   "order": 216,
+   "order": 204,
    "regions": [
     "UK"
    ]
@@ -1567,7 +1014,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5267197007",
-   "order": 221,
+   "order": 209,
    "regions": [
     "US"
    ]
@@ -1590,7 +1037,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5267198007",
-   "order": 222,
+   "order": 210,
    "regions": [
     "US"
    ]
@@ -1613,7 +1060,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557042156",
-   "order": 223,
+   "order": 211,
    "regions": [
     "US"
    ]
@@ -1636,7 +1083,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557042145",
-   "order": 224,
+   "order": 212,
    "regions": [
     "US"
    ]
@@ -1659,7 +1106,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4744402005",
-   "order": 225,
+   "order": 213,
    "regions": [
     "UK",
     "Canada",
@@ -1685,7 +1132,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557041731",
-   "order": 229,
+   "order": 217,
    "regions": [
     "US"
    ]
@@ -1708,33 +1155,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8244128",
-   "order": 235,
+   "order": 223,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
-   "location": "Germany, Remote; France, Remote",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
-   "posted_at": "2026-10-15T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027829",
-   "order": 241,
-   "regions": [
-    "Europe",
-    "Remote"
    ]
   },
   {
@@ -1755,7 +1178,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557041012",
-   "order": 247,
+   "order": 234,
    "regions": [
     "US"
    ]
@@ -1778,125 +1201,9 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040991",
-   "order": 248,
+   "order": 235,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "Sony AI (Japan)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "ai.sony",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern for Deep Generative Modeling",
-   "location": "Tokyo - Osaki",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/XMLNAME--Sony-Research-Research-Intern-for-Deep-Generative-Modeling-_JR-116761",
-   "posted_at": "2026-10-14T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": false,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116761",
-   "order": 267,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "Sony AI (Japan)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "ai.sony",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern on Generative and Protective AI for Content Creation",
-   "location": "Tokyo - Osaki",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/XMLNAME--Sony-Research-Research-Intern-on-Generative-AI-for-Content-Creation_JR-116768",
-   "posted_at": "2026-10-14T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116768",
-   "order": 268,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "Sony AI (Japan)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "ai.sony",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Internship on Audio Processing and Machine Learning",
-   "location": "Tokyo - Osaki",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/XMLNAME--Sony-Research-Internship-on-Audio-Processing-and-Machine-Learning-_JR-116760",
-   "posted_at": "2026-10-14T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116760",
-   "order": 266,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Security and Privacy - 2027",
-   "location": "US, CA, Santa Clara; US, MA, Westford",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096",
-   "posted_at": "2026-10-14T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025096",
-   "order": 264,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Data Processing Developer Technology Intern - 2027",
-   "location": "UK, Bristol; Switzerland, Zurich",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
-   "posted_at": "2026-10-14T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "body-research-role"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027948",
-   "order": 263,
-   "regions": [
-    "UK",
-    "Europe"
    ]
   },
   {
@@ -1917,7 +1224,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040502",
-   "order": 271,
+   "order": 253,
    "regions": [
     "US"
    ]
@@ -1940,7 +1247,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040344",
-   "order": 284,
+   "order": 266,
    "regions": [
     "US"
    ]
@@ -1963,7 +1270,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040333",
-   "order": 285,
+   "order": 267,
    "regions": [
     "US"
    ]
@@ -1986,7 +1293,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8279620",
-   "order": 286,
+   "order": 268,
    "regions": [
     "US"
    ]
@@ -2009,7 +1316,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8265868",
-   "order": 287,
+   "order": 269,
    "regions": [
     "UK"
    ]
@@ -2032,122 +1339,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040080",
-   "order": 288,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Applied Research Intern, Robotics - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Research-Intern--Robotics---2027_JR2027628",
-   "posted_at": "2026-10-13T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027628",
-   "order": 298,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Data Processing Developer Technology Intern - 2027",
-   "location": "Germany, Munich; France, Courbevoie; Germany, Wuerselen; Germany, Berlin",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
-   "posted_at": "2026-10-13T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "body-research-role"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024708",
-   "order": 299,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Planning and Control Adaptation Intern, Autonomous Driving - 2027",
-   "location": "China, Beijing; China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Planning-and-Control-Adaptation-Intern--Autonomous-Driving---2027_JR2027182",
-   "posted_at": "2026-10-13T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027182",
-   "order": 300,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Applied Deep Learning Algorithm Intern, Autonomous Driving - 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181",
-   "posted_at": "2026-10-13T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027181",
-   "order": 297,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Software Engineering Intern, Deep Learning - 2027",
-   "location": "China, Shanghai; China, Shenzhen",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596",
-   "posted_at": "2026-10-13T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027596",
-   "order": 301,
+   "order": 270,
    "regions": [
     "Asia"
    ]
@@ -2170,7 +1362,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557039243",
-   "order": 304,
+   "order": 281,
    "regions": [
     "US"
    ]
@@ -2193,656 +1385,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8248411",
-   "order": 305,
+   "order": 282,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Circuits - 2027",
-   "location": "US, CA, Santa Clara; US, NC, Durham",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024174",
-   "order": 324,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Architecture – 2027",
-   "location": "US, CA, Santa Clara; US, MA, Westford; US, WA, Seattle",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025395",
-   "order": 322,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Networking - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025098",
-   "order": 333,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Generative AI - 2026",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2016035",
-   "order": 330,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Robotics - Summer 2027",
-   "location": "US, WA, Seattle; US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025647",
-   "order": 338,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Programming Systems - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025379",
-   "order": 335,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern, Spatial Intelligence - Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027305",
-   "order": 339,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Differentiable Simulation Research Intern - Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027561",
-   "order": 318,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Generalist Embodied Agents Research - 2027",
-   "location": "US, CA, Santa Clara; US, Remote",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025103",
-   "order": 329,
-   "regions": [
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Fundamental Generative AI - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025406",
-   "order": 328,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Efficient Deep Learning - 2027",
-   "location": "US, CA, Santa Clara; US, CA, Remote",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025478",
-   "order": 326,
-   "regions": [
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, AI-Aided Engineering – 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026940",
-   "order": 321,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Physical AI - Foundation Models - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025025",
-   "order": 334,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Hardware and Systems Architecture - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025893",
-   "order": 331,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Quantum Simulation and AI - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026004",
-   "order": 337,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Embodied and Agentic AI - 2027",
-   "location": "US, CA, Santa Clara; US, CA, Remote",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025792",
-   "order": 327,
-   "regions": [
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024171",
-   "order": 323,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
-   "location": "Canada, Toronto",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024997",
-   "order": 336,
-   "regions": [
-    "Canada"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027",
-   "location": "US, CA, Santa Clara; US, MA, Westford; US, NC, Durham",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026499",
-   "order": 325,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025405",
-   "order": 332,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2012398",
-   "order": 314,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026839",
-   "order": 340,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "body-research-role"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023856",
-   "order": 320,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Robotics Software Intern, Humanoid Robotics - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Robotics-Software-Intern--Humanoid-Robotics---2027_JR2026758",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026758",
-   "order": 341,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "MLOps Physical AI Data Intern - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026544",
-   "order": 319,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Software Engineering Intern, AI CI/CD Infrastructure – 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026869",
-   "order": 342,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Deep Learning Performance Intern - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2026880",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026880",
-   "order": 315,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Deep Learning Performance Intern - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2027348",
-   "posted_at": "2026-10-12T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027348",
-   "order": 316,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -2863,7 +1408,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8258070",
-   "order": 349,
+   "order": 298,
    "regions": [
     "US"
    ]
@@ -2886,7 +1431,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257006",
-   "order": 350,
+   "order": 299,
    "regions": [
     "US"
    ]
@@ -2909,55 +1454,9 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557037649",
-   "order": 351,
+   "order": 300,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Robotics - Summer 2027",
-   "location": "Switzerland, Zurich",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294",
-   "posted_at": "2026-10-09T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027294",
-   "order": 361,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Robotics Simulation and Evaluation PhD Intern - Summer 2027",
-   "location": "Switzerland, Zurich",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531",
-   "posted_at": "2026-10-09T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027531",
-   "order": 363,
-   "regions": [
-    "Europe"
    ]
   },
   {
@@ -2978,7 +1477,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557027387",
-   "order": 369,
+   "order": 316,
    "regions": [
     "US"
    ]
@@ -3001,7 +1500,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557027378",
-   "order": 370,
+   "order": 317,
    "regions": [
     "US"
    ]
@@ -3024,7 +1523,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557027326",
-   "order": 371,
+   "order": 318,
    "regions": [
     "US"
    ]
@@ -3047,7 +1546,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8265173",
-   "order": 372,
+   "order": 319,
    "regions": [
     "US"
    ]
@@ -3070,7 +1569,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8262154",
-   "order": 373,
+   "order": 320,
    "regions": [
     "US"
    ]
@@ -3093,32 +1592,9 @@
    ],
    "phd": false,
    "job_id": "lever:woven-by-toyota:f6416c93-457d-45f1-b69a-92e3e780fad7",
-   "order": 374,
+   "order": 322,
    "regions": [
     "Other"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Research Intern, TAO Multi-Modal Model Development - 2026",
-   "location": "Vietnam, Hanoi; Vietnam, Ho Chi Minh City",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301",
-   "posted_at": "2026-10-08T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2021301",
-   "order": 381,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -3139,7 +1615,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227633",
-   "order": 384,
+   "order": 331,
    "regions": [
     "US"
    ]
@@ -3162,7 +1638,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257801",
-   "order": 387,
+   "order": 334,
    "regions": [
     "US"
    ]
@@ -3185,7 +1661,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8250220",
-   "order": 393,
+   "order": 340,
    "regions": [
     "US"
    ]
@@ -3209,7 +1685,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:e6502490-37c6-471a-9ffb-cf397764c518",
-   "order": 400,
+   "order": 347,
    "regions": [
     "US"
    ]
@@ -3232,32 +1708,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257159",
-   "order": 401,
+   "order": 348,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Agent Development Engineer (RDSS Intern)",
-   "location": "Taiwan, Taipei; Taiwan, Hsinchu",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
-   "posted_at": "2026-10-05T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026971",
-   "order": 404,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -3278,7 +1731,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243732",
-   "order": 409,
+   "order": 355,
    "regions": [
     "US"
    ]
@@ -3290,7 +1743,7 @@
    "domain": "waymo.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
+   "title": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern",
    "location": "Mountain View, CA, USA; Mountain View (US-MTV-EMF680)",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
    "posted_at": "2026-10-01T18:30:20-04:00",
@@ -3301,7 +1754,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8248060",
-   "order": 418,
+   "order": 365,
    "regions": [
     "US"
    ]
@@ -3324,7 +1777,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557022480",
-   "order": 419,
+   "order": 366,
    "regions": [
     "US"
    ]
@@ -3347,30 +1800,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243556",
-   "order": 420,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Adobe",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "adobe.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Intern - Machine Learning Engineer",
-   "location": "San Jose; Waltham; San Francisco; Austin; Seattle; Lehi; New York",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
-   "posted_at": "2026-10-01T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R171519",
-   "order": 422,
+   "order": 367,
    "regions": [
     "US"
    ]
@@ -3393,55 +1823,9 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557021663",
-   "order": 425,
+   "order": 371,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Deep Learning Performance Software Intern - 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025966",
-   "order": 429,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Software Engineer Intern, AI and DL Kernel Libraries - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307",
-   "posted_at": "2026-09-30T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026307",
-   "order": 431,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -3462,32 +1846,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8234876",
-   "order": 435,
+   "order": 379,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Computing Software Development Intern - 2027",
-   "location": "Taiwan, Taipei",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
-   "posted_at": "2026-09-29T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026298",
-   "order": 437,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -3508,7 +1869,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8237997",
-   "order": 440,
+   "order": 383,
    "regions": [
     "US"
    ]
@@ -3531,32 +1892,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8234670",
-   "order": 441,
+   "order": 384,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-   "location": "Switzerland, Zurich",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1",
-   "posted_at": "2026-09-28T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024606",
-   "order": 442,
-   "regions": [
-    "Europe"
    ]
   },
   {
@@ -3577,7 +1915,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227411",
-   "order": 448,
+   "order": 390,
    "regions": [
     "US"
    ]
@@ -3600,7 +1938,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8234262",
-   "order": 449,
+   "order": 391,
    "regions": [
     "US"
    ]
@@ -3623,7 +1961,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8233746",
-   "order": 450,
+   "order": 392,
    "regions": [
     "US"
    ]
@@ -3646,7 +1984,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557008574",
-   "order": 451,
+   "order": 393,
    "regions": [
     "US"
    ]
@@ -3669,7 +2007,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8231711",
-   "order": 452,
+   "order": 394,
    "regions": [
     "US"
    ]
@@ -3692,7 +2030,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227640",
-   "order": 457,
+   "order": 399,
    "regions": [
     "US"
    ]
@@ -3715,124 +2053,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8224746",
-   "order": 461,
+   "order": 403,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Computing Development Intern, TensorRT-LLM - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Development-Intern--TensorRT-LLM---2027_JR2026160",
-   "posted_at": "2026-09-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026160",
-   "order": 463,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Computing Software Development Intern, LLM Inference - 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173",
-   "posted_at": "2026-09-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026173",
-   "order": 465,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Computing Software Development Intern - 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164",
-   "posted_at": "2026-09-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026164",
-   "order": 464,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Computing Software Intern, GPU Kernel Libraries - 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
-   "posted_at": "2026-09-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026170",
-   "order": 466,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Performance Software Intern, Deep Learning Libraries - 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
-   "posted_at": "2026-09-23T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026171",
-   "order": 467,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -3853,7 +2076,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8214350",
-   "order": 472,
+   "order": 409,
    "regions": [
     "US"
    ]
@@ -3876,7 +2099,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221956",
-   "order": 473,
+   "order": 410,
    "regions": [
     "US"
    ]
@@ -3899,7 +2122,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8223735",
-   "order": 474,
+   "order": 411,
    "regions": [
     "US"
    ]
@@ -3922,7 +2145,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221851",
-   "order": 480,
+   "order": 417,
    "regions": [
     "US"
    ]
@@ -3945,7 +2168,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221795",
-   "order": 481,
+   "order": 418,
    "regions": [
     "US"
    ]
@@ -3968,7 +2191,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:ab076e26-adf1-414f-a006-7b1bdc9247c8",
-   "order": 489,
+   "order": 425,
    "regions": [
     "US"
    ]
@@ -3991,7 +2214,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8203191",
-   "order": 490,
+   "order": 426,
    "regions": [
     "US"
    ]
@@ -4014,7 +2237,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238468007",
-   "order": 491,
+   "order": 427,
    "regions": [
     "US"
    ]
@@ -4037,7 +2260,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8199365",
-   "order": 493,
+   "order": 429,
    "regions": [
     "US"
    ]
@@ -4060,7 +2283,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8205680",
-   "order": 494,
+   "order": 430,
    "regions": [
     "UK"
    ]
@@ -4083,7 +2306,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238467007",
-   "order": 495,
+   "order": 431,
    "regions": [
     "US"
    ]
@@ -4106,7 +2329,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:togetherai:5238411007",
-   "order": 496,
+   "order": 432,
    "regions": [
     "US"
    ]
@@ -4129,7 +2352,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:togetherai:5238460007",
-   "order": 497,
+   "order": 433,
    "regions": [
     "US"
    ]
@@ -4152,7 +2375,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238465007",
-   "order": 498,
+   "order": 434,
    "regions": [
     "Europe",
     "US"
@@ -4176,7 +2399,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238466007",
-   "order": 499,
+   "order": 435,
    "regions": [
     "Europe",
     "US"
@@ -4200,7 +2423,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238461007",
-   "order": 500,
+   "order": 436,
    "regions": [
     "US"
    ]
@@ -4223,32 +2446,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:togetherai:5238462007",
-   "order": 501,
+   "order": 437,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
-   "location": "China, Beijing; China, Shanghai; China, Shenzhen",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559",
-   "posted_at": "2026-09-18T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025559",
-   "order": 504,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -4269,7 +2469,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8208465",
-   "order": 506,
+   "order": 441,
    "regions": [
     "UK"
    ]
@@ -4292,32 +2492,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8202025",
-   "order": 520,
+   "order": 455,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
-   "location": "Taiwan, Taipei; Taiwan, Hsinchu",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
-   "posted_at": "2026-09-16T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025538",
-   "order": 524,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -4338,32 +2515,9 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556998782",
-   "order": 530,
+   "order": 464,
    "regions": [
     "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Humanoid Robot Learning Intern, Isaac Loco-Manipulation - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Humanoid-Robot-Learning-Intern--Isaac-Loco-Manipulation---2027_JR2025542",
-   "posted_at": "2026-09-15T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "body-research-role"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025542",
-   "order": 532,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -4384,7 +2538,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8197899",
-   "order": 544,
+   "order": 477,
    "regions": [
     "US"
    ]
@@ -4408,7 +2562,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mistral.ai:fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
-   "order": 545,
+   "order": 478,
    "regions": [
     "Europe"
    ]
@@ -4431,55 +2585,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8189848",
-   "order": 557,
+   "order": 490,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Compute System Arch AI Infra Intern - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889",
-   "posted_at": "2026-09-05T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023889",
-   "order": 563,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Developer Technology Engineering Intern - 2027",
-   "location": "China, Beijing; China, Shanghai; China, Shenzhen",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
-   "posted_at": "2026-09-04T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024818",
-   "order": 565,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -4500,7 +2608,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556986140",
-   "order": 568,
+   "order": 500,
    "regions": [
     "US"
    ]
@@ -4523,78 +2631,9 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:b9e1ff15-d52a-46d5-abf0-26460f2a116c",
-   "order": 569,
+   "order": 501,
    "regions": [
     "Europe"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
-   "location": "Taiwan, Taipei",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
-   "posted_at": "2026-09-01T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024509",
-   "order": 575,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Developer Technology Engineer Intern, AI - 2027",
-   "location": "China, Beijing; China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
-   "posted_at": "2026-08-31T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024002",
-   "order": 587,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
-   "location": "India, Bengaluru",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423",
-   "posted_at": "2026-08-31T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024423",
-   "order": 588,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -4615,7 +2654,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556982928",
-   "order": 590,
+   "order": 518,
    "regions": [
     "US"
    ]
@@ -4638,7 +2677,7 @@
    ],
    "phd": false,
    "job_id": "ashby:ami:0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2",
-   "order": 591,
+   "order": 519,
    "regions": [
     "Asia",
     "Europe",
@@ -4664,53 +2703,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556982268",
-   "order": 592,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Developer Technology Intern, Robotics - 2027",
-   "location": "China, Shanghai; China, Beijing",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
-   "posted_at": "2026-08-26T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024054",
-   "order": 595,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Developer Technology Engineering Intern, AI - 2027",
-   "location": "China, Beijing; China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
-   "posted_at": "2026-08-26T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024258",
-   "order": 596,
+   "order": 520,
    "regions": [
     "Asia"
    ]
@@ -4733,30 +2726,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556978904",
-   "order": 606,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "CUDA Full Stack & AI Test Dev Intern - 2027",
-   "location": "China, Shanghai",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1",
-   "posted_at": "2026-08-21T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023666",
-   "order": 607,
+   "order": 532,
    "regions": [
     "Asia"
    ]
@@ -4779,30 +2749,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556972877",
-   "order": 610,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "NVIDIA",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "nvidia.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Artificial Intelligence Research Intern - Deep Learning",
-   "location": "Taiwan, Taipei",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646",
-   "posted_at": "2026-08-19T00:00:00+00:00",
-   "department": "",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023646",
-   "order": 614,
+   "order": 535,
    "regions": [
     "Asia"
    ]
@@ -4825,53 +2772,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556972317",
-   "order": 623,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "Sony AI (Japan)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "ai.sony",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Internship - Audio-Visual AI Research Scientist",
-   "location": "Tokyo - Osaki",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---Audio-Visual-AI-Research-Scientist_JR-116503",
-   "posted_at": "2026-07-31T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116503",
-   "order": 701,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "Sony AI (Japan)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "ai.sony",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Internship - Researcher / Natural Language Processing (NLP) for Multimodal Machine Learning",
-   "location": "Tokyo - Osaki",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---Researcher---Natural-Language-Processing--NLP--for-Multimodal-Machine-Learning_JR-116491",
-   "posted_at": "2026-07-31T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116491",
-   "order": 702,
+   "order": 548,
    "regions": [
     "Asia"
    ]
@@ -4894,7 +2795,7 @@
    ],
    "phd": true,
    "job_id": "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-   "order": 705,
+   "order": 628,
    "regions": [
     "US"
    ]
@@ -4917,7 +2818,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8090222",
-   "order": 706,
+   "order": 629,
    "regions": [
     "US"
    ]
@@ -4940,7 +2841,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:gleanwork:4717716005",
-   "order": 709,
+   "order": 632,
    "regions": [
     "US",
     "Remote"
@@ -4965,7 +2866,7 @@
    ],
    "phd": true,
    "job_id": "ashby:pika:e135acb1-2a0b-47b4-81b2-3cb0f787657a",
-   "order": 728,
+   "order": 651,
    "regions": [
     "US"
    ]
@@ -4988,7 +2889,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8054878",
-   "order": 729,
+   "order": 652,
    "regions": [
     "US"
    ]
@@ -5011,7 +2912,7 @@
    ],
    "phd": true,
    "job_id": "ashby:baseten:58d7d8e6-86ee-43a1-baec-3dddcb661d51",
-   "order": 733,
+   "order": 656,
    "regions": [
     "US"
    ]
@@ -5035,7 +2936,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:de46ba8b-00cb-4618-83df-66e15a78434e",
-   "order": 736,
+   "order": 659,
    "regions": [
     "UK",
     "Europe"
@@ -5059,7 +2960,7 @@
    ],
    "phd": false,
    "job_id": "ashby:1x:5b2b4c73-13b5-46ca-8467-8024741a4b57",
-   "order": 744,
+   "order": 667,
    "regions": [
     "US"
    ]
@@ -5082,7 +2983,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:tenstorrent:5148052007",
-   "order": 777,
+   "order": 700,
    "regions": [
     "US"
    ]
@@ -5106,7 +3007,7 @@
    ],
    "phd": false,
    "job_id": "ashby:cohere:36d1f52f-8270-4652-adf5-5303a0ff341b",
-   "order": 786,
+   "order": 709,
    "regions": [
     "UK",
     "Europe",
@@ -5133,7 +3034,7 @@
    ],
    "phd": true,
    "job_id": "ashby:cohere:73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-   "order": 789,
+   "order": 712,
    "regions": [
     "UK",
     "Europe",
@@ -5159,7 +3060,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689954005",
-   "order": 790,
+   "order": 713,
    "regions": [
     "Canada",
     "Remote"
@@ -5183,7 +3084,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689950005",
-   "order": 791,
+   "order": 714,
    "regions": [
     "UK",
     "Remote"
@@ -5207,7 +3108,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689947005",
-   "order": 792,
+   "order": 715,
    "regions": [
     "US",
     "Remote"
@@ -5231,7 +3132,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183053008",
-   "order": 796,
+   "order": 719,
    "regions": [
     "UK",
     "US",
@@ -5256,7 +3157,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183051008",
-   "order": 809,
+   "order": 732,
    "regions": [
     "UK",
     "US",
@@ -5281,7 +3182,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183044008",
-   "order": 810,
+   "order": 733,
    "regions": [
     "UK",
     "US",
@@ -5306,7 +3207,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:71168628-1998-47d3-87a9-be7bc56a430d",
-   "order": 811,
+   "order": 734,
    "regions": [
     "UK"
    ]
@@ -5329,7 +3230,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556768751",
-   "order": 827,
+   "order": 750,
    "regions": [
     "Asia"
    ]
@@ -5353,7 +3254,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:edc2528d-6e6c-4a67-b871-bfe7d9c890b4",
-   "order": 828,
+   "order": 751,
    "regions": [
     "US"
    ]
@@ -5377,7 +3278,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:5bb0567a-8d07-4cc4-be7c-c06b31361883",
-   "order": 829,
+   "order": 752,
    "regions": [
     "US"
    ]
@@ -5401,7 +3302,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:bb953f29-0059-4a40-aa9e-3a8c88733902",
-   "order": 830,
+   "order": 753,
    "regions": [
     "US"
    ]
@@ -5425,7 +3326,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:91e0686e-272a-4780-b33d-d7860b94a7b4",
-   "order": 831,
+   "order": 754,
    "regions": [
     "US"
    ]
@@ -5448,7 +3349,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4661650005",
-   "order": 832,
+   "order": 755,
    "regions": [
     "Canada",
     "Remote"
@@ -5472,7 +3373,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4661647005",
-   "order": 833,
+   "order": 756,
    "regions": [
     "UK",
     "Remote"
@@ -5496,7 +3397,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4660340005",
-   "order": 834,
+   "order": 757,
    "regions": [
     "US",
     "Remote"
@@ -5520,7 +3421,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5106468008",
-   "order": 835,
+   "order": 758,
    "regions": [
     "Canada",
     "Remote"
@@ -5544,101 +3445,9 @@
    ],
    "phd": true,
    "job_id": "ashby:perplexity:9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-   "order": 836,
+   "order": 759,
    "regions": [
     "Europe"
-   ]
-  },
-  {
-   "company": "Sony AI (Japan)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "ai.sony",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Internship - Research Engineer for Speech/Audio Signal Processing",
-   "location": "Tokyo - Osaki",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---Research-Engineer-for-Speech-Audio-Signal-Processing_JR-116522",
-   "posted_at": "2025-12-29T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116522",
-   "order": 840,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "Sony AI (Japan)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "ai.sony",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Internship - Research Engineer for Natural Language Processing",
-   "location": "Tokyo - Osaki",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---Research-Engineer-for-Natural-Language-Processing_JR-116531",
-   "posted_at": "2025-12-29T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116531",
-   "order": 839,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "Sony AI (Japan)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "ai.sony",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Internship - Research engineer for data science and machine learning",
-   "location": "Tokyo - Osaki",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---Research-engineer-for-data-science-and-machine-learning-KDD_JR-116890",
-   "posted_at": "2025-12-29T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116890",
-   "order": 838,
-   "regions": [
-    "Asia"
-   ]
-  },
-  {
-   "company": "Sony AI (Japan)",
-   "tier": "bigtech",
-   "ats": "workday",
-   "domain": "ai.sony",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Internship - AI Application Engineer",
-   "location": "Tokyo - Osaki",
-   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---AI-Application-Engineer_JR-116529",
-   "posted_at": "2025-12-29T00:00:00+00:00",
-   "department": "",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": false,
-   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116529",
-   "order": 837,
-   "regions": [
-    "Asia"
    ]
   },
   {
@@ -5659,7 +3468,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5047247008",
-   "order": 841,
+   "order": 760,
    "regions": [
     "Canada"
    ]
@@ -5683,7 +3492,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:0fd4e30b-9bd1-4b53-9043-6088457363cb",
-   "order": 842,
+   "order": 761,
    "regions": [
     "Canada",
     "US",
@@ -5709,7 +3518,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:62700386-b9db-4c78-aec3-5ef59cbe841e",
-   "order": 843,
+   "order": 762,
    "regions": [
     "Canada",
     "US"
@@ -5733,7 +3542,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556641091",
-   "order": 844,
+   "order": 763,
    "regions": [
     "Asia"
    ]
@@ -5757,7 +3566,7 @@
    ],
    "phd": true,
    "job_id": "ashby:etched:6f23713f-5409-45b7-aae8-adb8710cdbc3",
-   "order": 845,
+   "order": 764,
    "regions": [
     "US"
    ]
@@ -5780,7 +3589,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:nuro:7351061",
-   "order": 846,
+   "order": 765,
    "regions": [
     "US"
    ]
@@ -5803,7 +3612,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4612329005",
-   "order": 847,
+   "order": 766,
    "regions": [
     "UK",
     "Remote"
@@ -5827,7 +3636,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4620719005",
-   "order": 848,
+   "order": 767,
    "regions": [
     "UK",
     "Remote"
@@ -5851,7 +3660,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4591782005",
-   "order": 852,
+   "order": 771,
    "regions": [
     "US",
     "Remote"
@@ -5875,7 +3684,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4574113005",
-   "order": 853,
+   "order": 772,
    "regions": [
     "US",
     "Remote"
@@ -5899,7 +3708,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:goodfire:4499053008",
-   "order": 855,
+   "order": 774,
    "regions": [
     "US"
    ]
@@ -5922,7 +3731,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4476000008",
-   "order": 856,
+   "order": 775,
    "regions": [
     "Canada"
    ]
@@ -5946,7 +3755,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:ce58d9fd-f22b-4336-80b5-ba1e8d764526",
-   "order": 857,
+   "order": 776,
    "regions": [
     "US"
    ]
@@ -5969,7 +3778,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4123863008",
-   "order": 858,
+   "order": 777,
    "regions": [
     "Canada",
     "Remote"
@@ -5994,7 +3803,7 @@
    ],
    "phd": false,
    "job_id": "ashby:physicalintelligence:f020ff1a-4b4c-4415-8434-2da5010a7076",
-   "order": 859,
+   "order": 778,
    "regions": [
     "US"
    ]
@@ -6017,7 +3826,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:databricks:7011263002",
-   "order": 863,
+   "order": 782,
    "regions": [
     "US"
    ]
@@ -6040,7 +3849,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:lgairesearch:4130830005",
-   "order": 865,
+   "order": 784,
    "regions": [
     "US"
    ]
