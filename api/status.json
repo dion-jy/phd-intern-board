@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-01T07:04:52.452913+00:00",
+ "generated_at": "2026-11-02T07:08:12.078683+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9413,
+ "scanned_jobs": 9415,
  "by_kind": {
-  "tracked": 262,
-  "blindspot": 329,
+  "tracked": 261,
+  "blindspot": 328,
   "discovery": 272,
   "evergreen": 23
  },
- "total_listings": 886,
- "matched": 262,
+ "total_listings": 884,
+ "matched": 261,
  "off_board_file": 6,
  "evergreen": 23,
  "xposts": 13,
- "discover": 601,
+ "discover": 600,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 5120 live",
+   "Summer2027: 5093 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 5120 live"
+   "Summer2026: 5093 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17476,
-  "active": 5119,
-  "phd": 1185,
-  "blindspot": 329,
+  "total": 17352,
+  "active": 5092,
+  "phd": 1180,
+  "blindspot": 328,
   "discovery": 367,
   "dropped_tracked": 95,
-  "dropped_category": 387,
+  "dropped_category": 383,
   "dropped_excluded": 7,
   "by_title": 95,
   "discovery_after_title_filter": 272
  },
- "new": 103,
+ "new": 0,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -60,7 +60,7 @@
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
    "postings": 73,
-   "matched": 43,
+   "matched": 42,
    "evergreen": 0,
    "error": null
   },
@@ -95,7 +95,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 675,
+   "postings": 674,
    "matched": 5,
    "evergreen": 1,
    "error": null
@@ -158,7 +158,7 @@
    "lab": "Moloco",
    "ats": "greenhouse",
    "slug": "moloco",
-   "postings": 46,
+   "postings": 45,
    "matched": 1,
    "evergreen": 2,
    "error": null
@@ -194,7 +194,7 @@
    "lab": "Cohere",
    "ats": "ashby",
    "slug": "cohere",
-   "postings": 122,
+   "postings": 121,
    "matched": 2,
    "evergreen": 0,
    "error": null
@@ -239,7 +239,7 @@
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 904,
+   "postings": 912,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -293,7 +293,7 @@
    "lab": "Baseten",
    "ats": "ashby",
    "slug": "baseten",
-   "postings": 105,
+   "postings": 104,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -347,7 +347,7 @@
    "lab": "LG AI Research",
    "ats": "greenhouse",
    "slug": "lgairesearch",
-   "postings": 41,
+   "postings": 40,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -446,7 +446,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 810,
+   "postings": 811,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -455,7 +455,7 @@
    "lab": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "postings": 381,
+   "postings": 377,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -491,7 +491,7 @@
    "lab": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "postings": 138,
+   "postings": 141,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -509,7 +509,7 @@
    "lab": "Cursor (Anysphere)",
    "ats": "ashby",
    "slug": "cursor",
-   "postings": 125,
+   "postings": 124,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -563,7 +563,7 @@
    "lab": "Spotify",
    "ats": "lever",
    "slug": "spotify",
-   "postings": 89,
+   "postings": 88,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -572,7 +572,7 @@
    "lab": "Faculty",
    "ats": "ashby",
    "slug": "faculty",
-   "postings": 84,
+   "postings": 85,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -614,19 +614,19 @@
    "error": null
   },
   {
-   "lab": "KRAFTON",
+   "lab": "FuriosaAI",
    "ats": "greenhouse",
-   "slug": "krafton",
-   "postings": 57,
+   "slug": "furiosaai",
+   "postings": 58,
    "matched": 0,
    "evergreen": 0,
    "error": null
   },
   {
-   "lab": "FuriosaAI",
+   "lab": "KRAFTON",
    "ats": "greenhouse",
-   "slug": "furiosaai",
-   "postings": 57,
+   "slug": "krafton",
+   "postings": 56,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -1048,8 +1048,8 @@
   "Agility Robotics",
   "SambaNova",
   "Suno",
-  "KRAFTON",
   "FuriosaAI",
+  "KRAFTON",
   "Thinking Machines Lab",
   "Writer",
   "Sarvam AI",
