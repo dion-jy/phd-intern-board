@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T07:30:07.175597+00:00",
+ "generated_at": "2026-11-04T00:14:52.612824+00:00",
  "count": 17,
  "jobs": [
   {
@@ -330,7 +330,7 @@
    ],
    "phd": false,
    "job_id": "ashby:lumaai:54903477-7bc2-43cd-a8a1-0b4ee22fa888",
-   "order": 724,
+   "order": 723,
    "regions": [
     "US"
    ]

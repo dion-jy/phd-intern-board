@@ -5,13 +5,69 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-11-03T02:03:19+00:00</updated>
+  <updated>2026-11-03T23:40:24+00:00</updated>
+  <entry>
+    <title>ByteDance &#8212; Research Scientist Intern - Video and Edge - Multimedia Lab</title>
+    <link rel="alternate" href="https://jobs.bytedance.com/en/position/7701477754169968901/detail"/>
+    <id>urn:phd-intern-board:simplify:fb9acb15-3d71-47bf-a454-59041cddff33</id>
+    <updated>2026-11-03T23:40:24+00:00</updated>
+    <summary>San Diego, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - Ads Quality - PhD</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1838454487574865"/>
+    <id>urn:phd-intern-board:simplify:a871d722-9d14-49a3-83dd-5709c50771fb</id>
+    <updated>2026-11-03T23:24:26+00:00</updated>
+    <summary>Menlo Park, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - GenAI Safety</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/993713283787464"/>
+    <id>urn:phd-intern-board:simplify:628318f8-ee8f-45d1-9737-0c3b6ca4a924</id>
+    <updated>2026-11-03T23:24:24+00:00</updated>
+    <summary>SF, Menlo Park, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>TikTok &#8212; Machine Learning Engineer Intern</title>
+    <link rel="alternate" href="https://lifeattiktok.com/search/7703899923206867205"/>
+    <id>urn:phd-intern-board:simplify:559f2104-6ca2-4331-8157-be28b1324602</id>
+    <updated>2026-11-03T23:24:16+00:00</updated>
+    <summary>San Jose, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Vatic Investments &#8212; AI Research Intern</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/vaticlabs/jobs/7205954"/>
+    <id>urn:phd-intern-board:simplify:f026f7ec-de3d-49c1-abe2-823d98909827</id>
+    <updated>2026-11-03T23:20:42+00:00</updated>
+    <summary>NYC · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - FM Quality ML</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1125383989877928"/>
+    <id>urn:phd-intern-board:simplify:e2bae655-ca7c-44a9-9d27-68eb9e0e23c6</id>
+    <updated>2026-11-03T15:08:36+00:00</updated>
+    <summary>Menlo Park, CA · Big tech</summary>
+  </entry>
   <entry>
     <title>Meta &#8212; Research Scientist Intern - PAR Safety Evals and Red Teaming</title>
     <link rel="alternate" href="https://www.metacareers.com/jobs/1903232531024141"/>
     <id>urn:phd-intern-board:simplify:94f5d650-2aac-40c3-bdbc-886bc1214826</id>
     <updated>2026-11-03T02:03:19+00:00</updated>
     <summary>Menlo Park, CA, NYC · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Mosaic &#8212; Artificial Intelligence Co-op Intern</title>
+    <link rel="alternate" href="https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420"/>
+    <id>urn:phd-intern-board:simplify:0fafd493-8e5a-4e86-87ae-617311283122</id>
+    <updated>2026-11-03T00:00:00+00:00</updated>
+    <summary>Lithia, FL · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA &#8212; AI Compiler Intern, CUDA Tile IR - Summer 2027</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069"/>
+    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2029069</id>
+    <updated>2026-11-03T00:00:00+00:00</updated>
+    <summary>Switzerland, Zurich · Big tech · PhD</summary>
   </entry>
   <entry>
     <title>Meta &#8212; Research Scientist Intern - FAIR - World Model Foundations</title>
@@ -119,6 +175,13 @@
     <summary>Milpitas, CA, Austin, TX · Other · PhD</summary>
   </entry>
   <entry>
+    <title>NVIDIA &#8212; AI Compiler and Kernel Intern</title>
+    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"/>
+    <id>urn:phd-intern-board:simplify:46fd3fa6-a273-49da-b7ac-7cb7fcf894a9</id>
+    <updated>2026-11-02T00:00:00+00:00</updated>
+    <summary>Austin, TX · Big tech · PhD</summary>
+  </entry>
+  <entry>
     <title>NVIDIA &#8212; AI Compiler and Kernel Intern – Summer 2027</title>
     <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"/>
     <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2029220</id>
@@ -152,20 +215,6 @@
     <id>urn:phd-intern-board:simplify:e985983d-927d-468b-9444-57275a4b4f73</id>
     <updated>2026-10-31T01:02:08+00:00</updated>
     <summary>Menlo Park, CA · Big tech</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; AI Developer Technology Intern - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027497</id>
-    <updated>2026-10-31T00:00:00+00:00</updated>
-    <summary>Germany, Munich · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; Data Processing Developer Technology Intern - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2024708</id>
-    <updated>2026-10-31T00:00:00+00:00</updated>
-    <summary>Germany, Munich, France, Courbevoie +2 more · Big tech · PhD</summary>
   </entry>
   <entry>
     <title>NVIDIA &#8212; GenAI Algorithms Intern – Model Optimization for Inference</title>
@@ -273,13 +322,6 @@
     <summary>Warren, MI · Other · PhD</summary>
   </entry>
   <entry>
-    <title>NVIDIA &#8212; AI Systems Software Engineering Intern – Summer 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2027170</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, TX, Austin · Big tech · PhD</summary>
-  </entry>
-  <entry>
     <title>NVIDIA &#8212; Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026</title>
     <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398"/>
     <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2012398</id>
@@ -383,47 +425,5 @@
     <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025103</id>
     <updated>2026-10-30T00:00:00+00:00</updated>
     <summary>US, CA, Santa Clara, US, Remote · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Generative AI - 2026</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2016035</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Hardware and Systems Architecture - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025893</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Learning Embodied Skills from Human Data - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025405</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Networking - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025098</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Physical AI - Foundation Models - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025025</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Programming Systems - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025379</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
   </entry>
 </feed>
