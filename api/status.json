@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T00:14:52.612824+00:00",
+ "generated_at": "2026-11-04T00:27:36.971971+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9398,
+ "scanned_jobs": 9395,
  "by_kind": {
   "blindspot": 337,
   "discovery": 270,
@@ -12,7 +12,7 @@
  "matched": 260,
  "off_board_file": 6,
  "evergreen": 23,
- "xposts": 14,
+ "xposts": 15,
  "discover": 607,
  "simplify": {
   "season": "Summer2027",
@@ -95,7 +95,7 @@
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 682,
+   "postings": 680,
    "matched": 5,
    "evergreen": 1,
    "error": null
@@ -473,7 +473,7 @@
    "lab": "xAI",
    "ats": "greenhouse",
    "slug": "xai",
-   "postings": 301,
+   "postings": 300,
    "matched": 0,
    "evergreen": 0,
    "error": null
