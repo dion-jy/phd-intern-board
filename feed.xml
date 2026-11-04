@@ -5,13 +5,34 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-11-03T23:40:24+00:00</updated>
+  <updated>2026-11-04T02:39:25.525+00:00</updated>
+  <entry>
+    <title>Etched &#8212; IA Research Engineer (Kernels) Intern</title>
+    <link rel="alternate" href="https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440"/>
+    <id>urn:phd-intern-board:ashby:etched:05d67dff-a7a4-4ece-a809-3200d95e7440</id>
+    <updated>2026-11-04T02:39:25.525+00:00</updated>
+    <summary>San Jose · Infra &amp; chips · PhD</summary>
+  </entry>
+  <entry>
+    <title>Adobe &#8212; 2027 Intern - Research Intern</title>
+    <link rel="alternate" href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-Intern_R172424"/>
+    <id>urn:phd-intern-board:workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172424</id>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <summary>Bangalore · Big tech</summary>
+  </entry>
   <entry>
     <title>ByteDance &#8212; Research Scientist Intern - Video and Edge - Multimedia Lab</title>
     <link rel="alternate" href="https://jobs.bytedance.com/en/position/7701477754169968901/detail"/>
     <id>urn:phd-intern-board:simplify:fb9acb15-3d71-47bf-a454-59041cddff33</id>
     <updated>2026-11-03T23:40:24+00:00</updated>
     <summary>San Diego, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Samsung Research America &#8212; Generative AI based Imaging and Video R&amp;D Intern</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002"/>
+    <id>urn:phd-intern-board:simplify:40229e74-e447-4509-b2ec-e081aea6b3ab</id>
+    <updated>2026-11-03T23:31:50+00:00</updated>
+    <summary>Plano, TX · Other · PhD</summary>
   </entry>
   <entry>
     <title>Meta &#8212; Research Scientist Intern - Ads Quality - PhD</title>
@@ -404,26 +425,5 @@
     <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026471</id>
     <updated>2026-10-30T00:00:00+00:00</updated>
     <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Embodied and Agentic AI - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025792</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara, US, CA, Remote · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Fundamental Generative AI - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025406</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; PhD Research Intern, Generalist Embodied Agents Research - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2025103</id>
-    <updated>2026-10-30T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara, US, Remote · Big tech · PhD</summary>
   </entry>
 </feed>

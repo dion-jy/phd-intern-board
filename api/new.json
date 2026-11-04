@@ -1,6 +1,108 @@
 {
- "generated_at": "2026-11-04T00:27:36.971971+00:00",
+ "generated_at": "2026-11-04T07:11:11.586188+00:00",
  "first_run": false,
- "count": 0,
- "jobs": []
+ "count": 4,
+ "jobs": [
+  {
+   "company": "Etched",
+   "tier": "infra",
+   "ats": "ashby",
+   "domain": "etched.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "IA Research Engineer (Kernels) Intern",
+   "location": "San Jose",
+   "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440",
+   "posted_at": "2026-11-04T02:39:25.525+00:00",
+   "department": "Software",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "ashby:etched:05d67dff-a7a4-4ece-a809-3200d95e7440",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Adobe",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "adobe.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Intern - Research Intern",
+   "location": "Bangalore",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-Intern_R172424",
+   "posted_at": "2026-11-04T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": false,
+   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172424",
+   "order": 1,
+   "regions": [
+    "Asia"
+   ]
+  },
+  {
+   "company": "Samsung Research America",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Generative AI based Imaging and Video R&D Intern",
+   "location": "Plano, TX",
+   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002",
+   "posted_at": "2026-11-03T23:31:50+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:40229e74-e447-4509-b2ec-e081aea6b3ab",
+   "order": 3,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Reinforcement Learning and World Model for Autonomous Simulation Intern - 2027",
+   "location": "China, Shanghai",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Reinforcement-Learning-and-World-Model-for-Autonomous-Simulation-Intern---2027_JR2028022",
+   "posted_at": "2026-10-23T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2028022",
+   "order": 183,
+   "regions": [
+    "Asia"
+   ]
+  }
+ ]
 }

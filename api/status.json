@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-04T00:27:36.971971+00:00",
+ "generated_at": "2026-11-04T07:11:11.586188+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9395,
+ "scanned_jobs": 9403,
  "by_kind": {
-  "blindspot": 337,
-  "discovery": 270,
-  "tracked": 260,
+  "tracked": 261,
+  "blindspot": 336,
+  "discovery": 271,
   "evergreen": 23
  },
- "total_listings": 890,
- "matched": 260,
+ "total_listings": 891,
+ "matched": 261,
  "off_board_file": 6,
  "evergreen": 23,
  "xposts": 15,
@@ -18,24 +18,24 @@
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 5148 live",
+   "Summer2027: 5139 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 5148 live"
+   "Summer2026: 5139 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17605,
-  "active": 5147,
-  "phd": 1191,
-  "blindspot": 337,
-  "discovery": 367,
+  "total": 17611,
+  "active": 5138,
+  "phd": 1188,
+  "blindspot": 336,
+  "discovery": 368,
   "dropped_tracked": 92,
-  "dropped_category": 389,
+  "dropped_category": 386,
   "dropped_excluded": 6,
   "by_title": 97,
-  "discovery_after_title_filter": 270
+  "discovery_after_title_filter": 271
  },
- "new": 0,
+ "new": 4,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -59,8 +59,8 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 79,
-   "matched": 44,
+   "postings": 76,
+   "matched": 43,
    "evergreen": 0,
    "error": null
   },
@@ -101,10 +101,19 @@
    "error": null
   },
   {
+   "lab": "Adobe",
+   "ats": "workday",
+   "slug": "adobe.wd5.myworkdayjobs.com/adobe/external_experienced",
+   "postings": 18,
+   "matched": 6,
+   "evergreen": 0,
+   "error": null
+  },
+  {
    "lab": "Allen Institute for AI (AI2)",
    "ats": "greenhouse",
    "slug": "thealleninstitute",
-   "postings": 16,
+   "postings": 15,
    "matched": 6,
    "evergreen": 0,
    "error": null
@@ -113,16 +122,7 @@
    "lab": "Applied Intuition",
    "ats": "ashby",
    "slug": "applied",
-   "postings": 325,
-   "matched": 5,
-   "evergreen": 0,
-   "error": null
-  },
-  {
-   "lab": "Adobe",
-   "ats": "workday",
-   "slug": "adobe.wd5.myworkdayjobs.com/adobe/external_experienced",
-   "postings": 17,
+   "postings": 324,
    "matched": 5,
    "evergreen": 0,
    "error": null
@@ -131,7 +131,7 @@
    "lab": "Perplexity",
    "ats": "ashby",
    "slug": "perplexity",
-   "postings": 136,
+   "postings": 137,
    "matched": 4,
    "evergreen": 0,
    "error": null
@@ -143,6 +143,15 @@
    "postings": 89,
    "matched": 4,
    "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "Etched",
+   "ats": "ashby",
+   "slug": "etched",
+   "postings": 121,
+   "matched": 2,
+   "evergreen": 1,
    "error": null
   },
   {
@@ -179,15 +188,6 @@
    "postings": 203,
    "matched": 2,
    "evergreen": 0,
-   "error": null
-  },
-  {
-   "lab": "Etched",
-   "ats": "ashby",
-   "slug": "etched",
-   "postings": 120,
-   "matched": 1,
-   "evergreen": 1,
    "error": null
   },
   {
@@ -239,7 +239,7 @@
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 914,
+   "postings": 917,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -248,7 +248,7 @@
    "lab": "Sierra",
    "ats": "ashby",
    "slug": "sierra",
-   "postings": 216,
+   "postings": 217,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -446,7 +446,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 810,
+   "postings": 813,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -455,7 +455,7 @@
    "lab": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "postings": 375,
+   "postings": 376,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -500,7 +500,7 @@
    "lab": "Decagon",
    "ats": "ashby",
    "slug": "decagon",
-   "postings": 133,
+   "postings": 132,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -527,7 +527,7 @@
    "lab": "LangChain",
    "ats": "ashby",
    "slug": "langchain",
-   "postings": 103,
+   "postings": 105,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -554,7 +554,7 @@
    "lab": "Fireworks AI",
    "ats": "ashby",
    "slug": "fireworks",
-   "postings": 90,
+   "postings": 91,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -635,7 +635,7 @@
    "lab": "Thinking Machines Lab",
    "ats": "ashby",
    "slug": "thinkingmachines",
-   "postings": 53,
+   "postings": 54,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -698,7 +698,7 @@
    "lab": "Cartesia",
    "ats": "ashby",
    "slug": "cartesia",
-   "postings": 24,
+   "postings": 23,
    "matched": 0,
    "evergreen": 0,
    "error": null
