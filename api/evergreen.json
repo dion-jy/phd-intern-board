@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T07:11:11.586188+00:00",
- "count": 17,
+ "generated_at": "2026-11-05T07:38:44.853670+00:00",
+ "count": 16,
  "jobs": [
   {
    "company": "AMI Labs",
@@ -20,7 +20,7 @@
    ],
    "phd": false,
    "job_id": "ashby:ami:34d3053f-381f-4350-9c9b-172e5d6a6b70",
-   "order": 844,
+   "order": 866,
    "regions": [
     "Asia",
     "Europe",
@@ -46,7 +46,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:4610158008",
-   "order": 872,
+   "order": 893,
    "regions": [
     "UK"
    ]
@@ -69,34 +69,10 @@
    ],
    "phd": false,
    "job_id": "ashby:hcompany:dd1fdec1-2943-456e-ac9a-517d19a58fd6",
-   "order": 869,
+   "order": 890,
    "regions": [
     "UK",
     "Europe",
-    "US",
-    "Remote"
-   ]
-  },
-  {
-   "company": "Prime Intellect",
-   "tier": "frontier",
-   "ats": "ashby",
-   "domain": "primeintellect.ai",
-   "source": "ats",
-   "kind": "evergreen",
-   "title": "Open Application for Unconventional Talent",
-   "location": "San Francisco; Remote",
-   "url": "https://jobs.ashbyhq.com/primeintellect/b9343f5d-326d-4b01-b6a7-acf56cffe3ac",
-   "posted_at": "2026-07-08T18:43:13.470+00:00",
-   "department": "Others",
-   "confidence": "evergreen",
-   "match": [
-    "always-open"
-   ],
-   "phd": false,
-   "job_id": "ashby:primeintellect:b9343f5d-326d-4b01-b6a7-acf56cffe3ac",
-   "order": 748,
-   "regions": [
     "US",
     "Remote"
    ]
@@ -119,7 +95,7 @@
    ],
    "phd": false,
    "job_id": "ashby:reflectionai:bb02e922-8df8-4641-9aab-910997f76392",
-   "order": 867,
+   "order": 888,
    "regions": [
     "UK",
     "US"
@@ -143,7 +119,7 @@
    ],
    "phd": false,
    "job_id": "ashby:etched:2021199f-221e-4a8c-aa66-210496cb38da",
-   "order": 759,
+   "order": 781,
    "regions": [
     "US"
    ]
@@ -166,7 +142,7 @@
    ],
    "phd": false,
    "job_id": "lever:epoch-ai:137cb0dc-03a6-4747-b9dc-8255194daee2",
-   "order": 868,
+   "order": 889,
    "regions": [
     "Remote"
    ]
@@ -189,7 +165,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:goodfire:4103718008",
-   "order": 878,
+   "order": 899,
    "regions": [
     "US"
    ]
@@ -212,7 +188,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:isomorphiclabs:4336321004",
-   "order": 884,
+   "order": 905,
    "regions": [
     "UK"
    ]
@@ -235,7 +211,7 @@
    ],
    "phd": false,
    "job_id": "lever:metr:f3a6db11-7fd1-48e4-af42-20aad1ded72d",
-   "order": 882,
+   "order": 903,
    "regions": [
     "US"
    ]
@@ -258,7 +234,7 @@
    ],
    "phd": false,
    "job_id": "ashby:cognition:4841bda0-057a-4471-801f-70309c3c02d5",
-   "order": 879,
+   "order": 900,
    "regions": [
     "US"
    ]
@@ -271,7 +247,7 @@
    "source": "ats",
    "kind": "evergreen",
    "title": "Join Corti's Talent Community",
-   "location": "Copenhagen, Denmark; Remote, US; Remote, Europe; New York, USA",
+   "location": "Copenhagen; Remote (US); Remote (EU); Brooklyn, NY",
    "url": "https://jobs.ashbyhq.com/corti/51db89f4-91e5-4f71-acf6-d2c743c61e17",
    "posted_at": "2026-10-02T08:33:43.592+00:00",
    "department": "Talent Community ",
@@ -281,7 +257,7 @@
    ],
    "phd": false,
    "job_id": "ashby:corti:51db89f4-91e5-4f71-acf6-d2c743c61e17",
-   "order": 430,
+   "order": 452,
    "regions": [
     "Europe",
     "US",
@@ -306,7 +282,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:humeai:4003656008",
-   "order": 880,
+   "order": 901,
    "regions": [
     "US",
     "Remote"
@@ -330,7 +306,7 @@
    ],
    "phd": false,
    "job_id": "ashby:lumaai:54903477-7bc2-43cd-a8a1-0b4ee22fa888",
-   "order": 724,
+   "order": 747,
    "regions": [
     "US"
    ]
@@ -353,7 +329,7 @@
    ],
    "phd": false,
    "job_id": "ashby:midjourney:2ef177d4-42a0-4756-9c11-0738b9bcbc87",
-   "order": 756,
+   "order": 778,
    "regions": [
     "US",
     "Remote"
@@ -377,7 +353,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:moloco:7655058003",
-   "order": 843,
+   "order": 865,
    "regions": [
     "US"
    ]
@@ -400,7 +376,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:moloco:7711666003",
-   "order": 816,
+   "order": 838,
    "regions": [
     "Asia"
    ]
