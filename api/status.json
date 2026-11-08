@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-07T06:47:32.777497+00:00",
+ "generated_at": "2026-11-08T06:53:35.876293+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9350,
+ "scanned_jobs": 9337,
  "by_kind": {
-  "blindspot": 356,
+  "blindspot": 355,
   "tracked": 261,
   "discovery": 298,
   "evergreen": 25
  },
- "total_listings": 940,
+ "total_listings": 939,
  "matched": 261,
  "off_board_file": 6,
  "evergreen": 25,
  "xposts": 16,
- "discover": 654,
+ "discover": 653,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 5374 live",
+   "Summer2027: 5378 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 5374 live"
+   "Summer2026: 5378 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17668,
-  "active": 5373,
-  "phd": 1251,
-  "blindspot": 356,
-  "discovery": 395,
-  "dropped_tracked": 95,
-  "dropped_category": 395,
+  "total": 17548,
+  "active": 5377,
+  "phd": 1256,
+  "blindspot": 355,
+  "discovery": 396,
+  "dropped_tracked": 94,
+  "dropped_category": 401,
   "dropped_excluded": 10,
-  "by_title": 105,
+  "by_title": 104,
   "discovery_after_title_filter": 298
  },
- "new": 0,
+ "new": 1,
  "by_lab": [
   {
    "lab": "NVIDIA",
@@ -59,7 +59,7 @@
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 72,
+   "postings": 70,
    "matched": 45,
    "evergreen": 0,
    "error": null
@@ -104,7 +104,7 @@
    "lab": "Applied Intuition",
    "ats": "ashby",
    "slug": "applied",
-   "postings": 326,
+   "postings": 322,
    "matched": 5,
    "evergreen": 0,
    "error": null
@@ -230,7 +230,7 @@
    "lab": "Databricks",
    "ats": "greenhouse",
    "slug": "databricks",
-   "postings": 923,
+   "postings": 920,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -455,7 +455,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 820,
+   "postings": 818,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -464,7 +464,7 @@
    "lab": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "postings": 371,
+   "postings": 373,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -491,7 +491,7 @@
    "lab": "Wayve",
    "ats": "ashby",
    "slug": "wayve",
-   "postings": 172,
+   "postings": 173,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -500,7 +500,7 @@
    "lab": "ElevenLabs",
    "ats": "ashby",
    "slug": "elevenlabs",
-   "postings": 139,
+   "postings": 137,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -509,7 +509,7 @@
    "lab": "Decagon",
    "ats": "ashby",
    "slug": "decagon",
-   "postings": 132,
+   "postings": 131,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -545,7 +545,7 @@
    "lab": "LangChain",
    "ats": "ashby",
    "slug": "langchain",
-   "postings": 99,
+   "postings": 100,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -785,15 +785,6 @@
    "error": null
   },
   {
-   "lab": "Twelve Labs",
-   "ats": "ashby",
-   "slug": "twelve-labs",
-   "postings": 12,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
    "lab": "Nabla",
    "ats": "ashby",
    "slug": "nabla",
@@ -806,6 +797,15 @@
    "lab": "Reka AI",
    "ats": "ashby",
    "slug": "reka",
+   "postings": 9,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "Twelve Labs",
+   "ats": "ashby",
+   "slug": "twelve-labs",
    "postings": 9,
    "matched": 0,
    "evergreen": 0,
@@ -1066,9 +1066,9 @@
   "Character.AI",
   "Dexterity",
   "Apollo Research",
-  "Twelve Labs",
   "Nabla",
   "Reka AI",
+  "Twelve Labs",
   "World Labs",
   "OpenEvidence",
   "DeepL",

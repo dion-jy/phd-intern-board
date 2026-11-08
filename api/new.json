@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-11-07T06:47:32.777497+00:00",
+ "generated_at": "2026-11-08T06:53:35.876293+00:00",
  "first_run": false,
- "count": 0,
- "jobs": []
+ "count": 1,
+ "jobs": [
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Security Research Internship Opportunities",
+   "location": "Israel, Tel Aviv, Herzliya",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042488",
+   "posted_at": "2026-10-17T13:38:16+00:00",
+   "department": "HR Group",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": false,
+   "job_id": "eightfold:microsoft.com:1970393557042488",
+   "order": 327,
+   "regions": [
+    "Asia"
+   ]
+  }
+ ]
 }
