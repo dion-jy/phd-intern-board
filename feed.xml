@@ -5,7 +5,14 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-11-07T02:15:15+00:00</updated>
+  <updated>2026-11-09T00:00:00+00:00</updated>
+  <entry>
+    <title>Sony (global) &#8212; PR &amp; Communication Intern</title>
+    <link rel="alternate" href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Roma/Research-Communication-and-Cultural-Projects-Intern_JR-119866-1"/>
+    <id>urn:phd-intern-board:workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers:JR-119866</id>
+    <updated>2026-11-09T00:00:00+00:00</updated>
+    <summary>Roma · Big tech</summary>
+  </entry>
   <entry>
     <title>TikTok &#8212; Research Engineer Intern</title>
     <link rel="alternate" href="https://lifeattiktok.com/search/7704981006856145205"/>
@@ -418,12 +425,5 @@
     <id>urn:phd-intern-board:simplify:cc38967c-108b-401b-9f3d-10d4b77e349d</id>
     <updated>2026-11-04T15:37:40+00:00</updated>
     <summary>Sunnyvale, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Etched &#8212; IA Research Engineer Intern</title>
-    <link rel="alternate" href="https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440"/>
-    <id>urn:phd-intern-board:ashby:etched:05d67dff-a7a4-4ece-a809-3200d95e7440</id>
-    <updated>2026-11-04T02:39:25.525+00:00</updated>
-    <summary>San Jose · Infra &amp; chips · PhD</summary>
   </entry>
 </feed>

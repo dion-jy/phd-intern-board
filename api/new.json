@@ -1,27 +1,50 @@
 {
- "generated_at": "2026-11-08T06:53:35.876293+00:00",
+ "generated_at": "2026-11-09T07:34:48.342823+00:00",
  "first_run": false,
- "count": 1,
+ "count": 2,
  "jobs": [
   {
-   "company": "Microsoft / MSR",
+   "company": "Sony (global)",
    "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
+   "ats": "workday",
+   "domain": "sony.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Security Research Internship Opportunities",
-   "location": "Israel, Tel Aviv, Herzliya",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042488",
-   "posted_at": "2026-10-17T13:38:16+00:00",
-   "department": "HR Group",
-   "confidence": "high",
+   "title": "PR & Communication Intern",
+   "location": "Roma",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Roma/Research-Communication-and-Cultural-Projects-Intern_JR-119866-1",
+   "posted_at": "2026-11-09T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
    "match": [
-    "title-strong"
+    "body-research-role"
    ],
    "phd": false,
-   "job_id": "eightfold:microsoft.com:1970393557042488",
-   "order": 327,
+   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers:JR-119866",
+   "order": 0,
+   "regions": [
+    "Other"
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "nvidia.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Compute System Arch AI Infra Intern - 2027",
+   "location": "China, Shanghai",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889",
+   "posted_at": "2026-09-05T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2023889",
+   "order": 627,
    "regions": [
     "Asia"
    ]
