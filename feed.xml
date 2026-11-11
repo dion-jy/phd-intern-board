@@ -5,7 +5,49 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-11-10T07:23:28+00:00</updated>
+  <updated>2026-11-10T23:19:18+00:00</updated>
+  <entry>
+    <title>Meta &#8212; Research Intern - Neural Network Training and Hardware-Software Co-Design</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1560905132724186"/>
+    <id>urn:phd-intern-board:simplify:b6640bbb-3cf3-4d86-9a7e-903895a5d6cb</id>
+    <updated>2026-11-10T23:19:18+00:00</updated>
+    <summary>Redmond, WA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - Audio Systems</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1100150399514897"/>
+    <id>urn:phd-intern-board:simplify:68aba6ff-9ce9-41ef-aa64-76db72db0379</id>
+    <updated>2026-11-10T23:19:17+00:00</updated>
+    <summary>Sunnyvale, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - Foundation Model Optimization</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/997597222780035"/>
+    <id>urn:phd-intern-board:simplify:626d4952-bced-472c-a267-7aaf06e5a54f</id>
+    <updated>2026-11-10T23:19:16+00:00</updated>
+    <summary>Burlingame, CA, Menlo Park, CA, Sunnyvale, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Apple &#8212; Machine Learning Engineer Intern - Personal Agentic Search</title>
+    <link rel="alternate" href="https://jobs.apple.com/en-us/details/200694037"/>
+    <id>urn:phd-intern-board:simplify:815dbdf8-22aa-4f2c-ba26-5251075c93a6</id>
+    <updated>2026-11-10T23:16:05+00:00</updated>
+    <summary>Cambridge, UK · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Apple &#8212; Virtualisation Software Engineer Intern - Core OS</title>
+    <link rel="alternate" href="https://jobs.apple.com/en-us/details/200694316"/>
+    <id>urn:phd-intern-board:simplify:f727e49c-2a54-4e9e-a7f9-f214482ed208</id>
+    <updated>2026-11-10T23:16:02+00:00</updated>
+    <summary>London, UK · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Toyota Research Institute &#8212; Human-Centered AI Research Intern - Causal Reasoning Models</title>
+    <link rel="alternate" href="https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply"/>
+    <id>urn:phd-intern-board:simplify:a33d39bf-29f5-4149-b0f8-c185401a2e9c</id>
+    <updated>2026-11-10T23:08:44+00:00</updated>
+    <summary>Los Altos, CA · Other · PhD</summary>
+  </entry>
   <entry>
     <title>Meta &#8212; Research Scientist Intern - AI Core Machine Learning</title>
     <link rel="alternate" href="https://www.metacareers.com/jobs/2432079507324778"/>
@@ -19,13 +61,6 @@
     <id>urn:phd-intern-board:simplify:ec753813-5b9a-4724-aa04-29e2d05da32a</id>
     <updated>2026-11-10T00:02:15+00:00</updated>
     <summary>Sunnyvale, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Adobe &#8212; 2027 Intern - Research Intern</title>
-    <link rel="alternate" href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-Intern_R172424"/>
-    <id>urn:phd-intern-board:workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172424</id>
-    <updated>2026-11-10T00:00:00+00:00</updated>
-    <summary>Bangalore · Big tech</summary>
   </entry>
   <entry>
     <title>Toyota Research Institute &#8212; Automated Driving Advanced Development Intern - Machine Learning Research</title>
@@ -245,7 +280,7 @@
     <summary>Pittsburgh, PA, NYC · Other · PhD</summary>
   </entry>
   <entry>
-    <title>Mistral AI &#8212; AI Scientist Intern - (Internship, Masters or Phd)</title>
+    <title>Mistral AI &#8212; AI Scientist - (Internship, Masters or Phd)</title>
     <link rel="alternate" href="https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97"/>
     <id>urn:phd-intern-board:ashby:mistral.ai:f7245b49-92a0-4111-bba1-343183de7d97</id>
     <updated>2026-11-06T17:49:16.367+00:00</updated>
@@ -390,40 +425,5 @@
     <id>urn:phd-intern-board:simplify:60ae9031-138a-419b-bd54-f4237a95f0ea</id>
     <updated>2026-11-05T02:43:53+00:00</updated>
     <summary>Los Altos, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Toyota Research Institute &#8212; Automated Driving Advanced Development Intern - Machine Learning Research</title>
-    <link rel="alternate" href="https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b/apply"/>
-    <id>urn:phd-intern-board:simplify:3aceb4c9-14ad-4757-a002-02295684f0ec</id>
-    <updated>2026-11-05T02:43:52+00:00</updated>
-    <summary>Los Altos, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Toyota Research Institute &#8212; Automated Driving Advanced Development Intern - Machine Learning Research</title>
-    <link rel="alternate" href="https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply"/>
-    <id>urn:phd-intern-board:simplify:b7daac34-0a43-4511-bd61-102463daf2e2</id>
-    <updated>2026-11-05T02:43:50+00:00</updated>
-    <summary>Los Altos, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>TikTok &#8212; Research Scientist Intern - Monetization Technology - Ads Core</title>
-    <link rel="alternate" href="https://lifeattiktok.com/search/7703777085291415813"/>
-    <id>urn:phd-intern-board:simplify:34d5b977-2661-420f-8b7b-cd912b8eecb7</id>
-    <updated>2026-11-05T02:37:06+00:00</updated>
-    <summary>San Jose, CA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>PayPal &#8212; Machine Learning Engineer PhD Intern</title>
-    <link rel="alternate" href="https://paypal.eightfold.ai/careers/job/274922983152"/>
-    <id>urn:phd-intern-board:simplify:29d1ca4c-8aae-42e9-8f47-ad9a51a8afe4</id>
-    <updated>2026-11-05T02:30:32+00:00</updated>
-    <summary>San Jose, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Meta &#8212; Research Scientist Intern - Humanoid Control &amp; Dexterous Manipulation</title>
-    <link rel="alternate" href="https://www.metacareers.com/jobs/1832390484751700"/>
-    <id>urn:phd-intern-board:simplify:7c1bbb4d-9914-41c7-a380-95de6cbc42b5</id>
-    <updated>2026-11-05T02:28:39+00:00</updated>
-    <summary>Redmond, WA · Big tech</summary>
   </entry>
 </feed>
