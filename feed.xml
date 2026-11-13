@@ -5,13 +5,62 @@
   <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
   <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
   <id>https://dion-jy.github.io/phd-intern-board/</id>
-  <updated>2026-11-12T02:18:59+00:00</updated>
+  <updated>2026-11-13T02:35:18+00:00</updated>
+  <entry>
+    <title>TikTok &#8212; Research Scientist Intern - Content Ecology - Local Services</title>
+    <link rel="alternate" href="https://lifeattiktok.com/search/7707222170826623285"/>
+    <id>urn:phd-intern-board:simplify:98dc807a-1c66-4aa7-be8a-e92415806904</id>
+    <updated>2026-11-13T02:35:18+00:00</updated>
+    <summary>San Jose, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>StackAV &#8212; Research Intern - Autonomy</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/stackav/jobs/5287594007"/>
+    <id>urn:phd-intern-board:simplify:b93c8f86-a564-4e72-9fa9-39d5a5329901</id>
+    <updated>2026-11-12T18:22:23+00:00</updated>
+    <summary>Remote in USA, Pittsburgh, PA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Robert Bosch Venture Capital &#8212; AI Research Intern - Time Series Foundation Models</title>
+    <link rel="alternate" href="https://jobs.smartrecruiters.com/BoschGroup/744000161339309"/>
+    <id>urn:phd-intern-board:simplify:c9cd8a2c-b2a1-4fdc-8da8-ac6280af7873</id>
+    <updated>2026-11-12T16:12:36+00:00</updated>
+    <summary>Sunnyvale, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - Audio</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1382697917119311"/>
+    <id>urn:phd-intern-board:simplify:d50c38a9-8cf4-4df0-a9d8-088884b64700</id>
+    <updated>2026-11-12T10:31:02+00:00</updated>
+    <summary>Cambridge, UK · Big tech</summary>
+  </entry>
   <entry>
     <title>Meta &#8212; Research Scientist Intern</title>
     <link rel="alternate" href="https://www.metacareers.com/jobs/2690374264750493"/>
     <id>urn:phd-intern-board:simplify:cfdccbd3-a69e-4b33-a025-344e263dac2d</id>
     <updated>2026-11-12T02:18:59+00:00</updated>
     <summary>Menlo Park, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>ASML &#8212; Data Scientist Intern</title>
+    <link rel="alternate" href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462"/>
+    <id>urn:phd-intern-board:simplify:234a1357-b370-4f07-aa8b-2eebcdcd4464</id>
+    <updated>2026-11-12T00:00:00+00:00</updated>
+    <summary>Wilton, CT · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>CoStar Group &#8212; Vision &amp; Learning Intern</title>
+    <link rel="alternate" href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196"/>
+    <id>urn:phd-intern-board:simplify:be6ad631-0dc1-427c-aaf1-88f8916fd4e9</id>
+    <updated>2026-11-12T00:00:00+00:00</updated>
+    <summary>Sunnyvale, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>National Laboratory of the Rockies &#8212; Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling</title>
+    <link rel="alternate" href="https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589"/>
+    <id>urn:phd-intern-board:simplify:1930aa1f-6b82-411d-88d7-1c42cdfa1597</id>
+    <updated>2026-11-12T00:00:00+00:00</updated>
+    <summary>Remote in USA · Other · PhD</summary>
   </entry>
   <entry>
     <title>Rhoda AI &#8212; Research Intern</title>
@@ -376,54 +425,5 @@
     <id>urn:phd-intern-board:simplify:64f0c82b-f660-4b18-87f3-9dcbb33d8a48</id>
     <updated>2026-11-06T15:44:20+00:00</updated>
     <summary>Boston, MA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Toyota Research Institute &#8212; Robotics Intern - World Action Models for Robot Policy</title>
-    <link rel="alternate" href="https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply"/>
-    <id>urn:phd-intern-board:simplify:9b71ea4e-4f93-4b31-ab20-fe6e359bba99</id>
-    <updated>2026-11-06T15:38:36+00:00</updated>
-    <summary>Cambridge, MA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Owkin &#8212; Spontaneous Application - Other Roles</title>
-    <link rel="alternate" href="https://jobs.ashbyhq.com/owkin/b2c73a65-59a9-4110-b3ab-eae6c39fb5ab"/>
-    <id>urn:phd-intern-board:ashby:owkin:b2c73a65-59a9-4110-b3ab-eae6c39fb5ab</id>
-    <updated>2026-11-06T15:34:09.221+00:00</updated>
-    <summary>Paris · Startup</summary>
-  </entry>
-  <entry>
-    <title>Qualcomm &#8212; RF/Analog Verification Engineer Intern</title>
-    <link rel="alternate" href="https://qualcomm.eightfold.ai/careers/job/446722001120"/>
-    <id>urn:phd-intern-board:simplify:59fde1fa-2b4d-435e-962e-25ae5aea3a40</id>
-    <updated>2026-11-06T15:34:02+00:00</updated>
-    <summary>Markham, ON, Canada · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Owkin &#8212; Spontaneous Application - Engineering</title>
-    <link rel="alternate" href="https://jobs.ashbyhq.com/owkin/5655e4da-b3a6-4566-bb84-cdf0052d26cd"/>
-    <id>urn:phd-intern-board:ashby:owkin:5655e4da-b3a6-4566-bb84-cdf0052d26cd</id>
-    <updated>2026-11-06T15:31:36.406+00:00</updated>
-    <summary>Paris, Germany +1 more · Startup</summary>
-  </entry>
-  <entry>
-    <title>Owkin &#8212; Spontaneous Application - Biomedical</title>
-    <link rel="alternate" href="https://jobs.ashbyhq.com/owkin/df61cb5d-97ed-45bf-8bd8-5bf4733edc52"/>
-    <id>urn:phd-intern-board:ashby:owkin:df61cb5d-97ed-45bf-8bd8-5bf4733edc52</id>
-    <updated>2026-11-06T15:26:51.687+00:00</updated>
-    <summary>Paris, France +2 more · Startup</summary>
-  </entry>
-  <entry>
-    <title>Tinder &#8212; Data Scientist Intern</title>
-    <link rel="alternate" href="https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply"/>
-    <id>urn:phd-intern-board:simplify:7116355b-7504-4a7e-bd3e-a2309d10544a</id>
-    <updated>2026-11-06T15:26:41+00:00</updated>
-    <summary>SF · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Robert Bosch Venture Capital &#8212; Vision-Language-Action Research Intern - Vision-Language-Action</title>
-    <link rel="alternate" href="https://jobs.smartrecruiters.com/BoschGroup/744000160212170"/>
-    <id>urn:phd-intern-board:simplify:28aebc28-8053-49a1-82cd-f57734a9e64d</id>
-    <updated>2026-11-06T14:13:22+00:00</updated>
-    <summary>Sunnyvale, CA · Other · PhD</summary>
   </entry>
 </feed>
