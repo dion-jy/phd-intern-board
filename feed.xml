@@ -77,13 +77,6 @@
     <summary>San Jose, CA · Big tech · PhD</summary>
   </entry>
   <entry>
-    <title>Adobe &#8212; 2027 Intern - Research Scientist</title>
-    <link rel="alternate" href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345"/>
-    <id>urn:phd-intern-board:workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R173345</id>
-    <updated>2026-11-13T00:00:00+00:00</updated>
-    <summary>London · Big tech · PhD</summary>
-  </entry>
-  <entry>
     <title>Adobe &#8212; Research Scientist Intern</title>
     <link rel="alternate" href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345"/>
     <id>urn:phd-intern-board:simplify:e97730e6-349e-4100-bc8c-7818046c2740</id>
@@ -208,13 +201,6 @@
     <id>urn:phd-intern-board:simplify:e6cc258e-e627-46e5-b6b9-cbb116089fc6</id>
     <updated>2026-11-11T00:00:00+00:00</updated>
     <summary>South SF · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; Technical Program Manager, Deep Learning Enterprise Server Software (RDSS Intern)</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Technical-Program-Manager--Deep-Learning-Enterprise-Server-Software--RDSS-Intern-_JR2029595"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2029595</id>
-    <updated>2026-11-11T00:00:00+00:00</updated>
-    <summary>Taiwan, Taipei · Big tech</summary>
   </entry>
   <entry>
     <title>Meta &#8212; Research Intern - Neural Network Training and Hardware-Software Co-Design</title>
@@ -378,13 +364,6 @@
     <summary>Canada, Santa Clara, CA, United States · Big tech · PhD</summary>
   </entry>
   <entry>
-    <title>NVIDIA &#8212; Systems Research Intern, Observability – Summer 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2026644</id>
-    <updated>2026-11-09T00:00:00+00:00</updated>
-    <summary>US, CA, Santa Clara · Big tech · PhD</summary>
-  </entry>
-  <entry>
     <title>Persona AI &#8212; Humanoid Robotics Software Intern</title>
     <link rel="alternate" href="https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb/application?embed=true"/>
     <id>urn:phd-intern-board:simplify:85e39c78-3214-458c-8c40-cb7cf34d83a1</id>
@@ -406,24 +385,45 @@
     <summary>San Jose, CA · Big tech · PhD</summary>
   </entry>
   <entry>
-    <title>NVIDIA &#8212; AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2029468</id>
-    <updated>2026-11-07T00:00:00+00:00</updated>
-    <summary>China, Shanghai · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; Reinforcement Learning Intern - 2027</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1"/>
-    <id>urn:phd-intern-board:workday:nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite:JR2029243</id>
-    <updated>2026-11-07T00:00:00+00:00</updated>
-    <summary>China, Shanghai, China, Beijing +1 more · Big tech · PhD</summary>
-  </entry>
-  <entry>
     <title>Meta &#8212; Research Scientist Intern - Synthetic Data for Computer Use Agents</title>
     <link rel="alternate" href="https://www.metacareers.com/jobs/1667187061776108"/>
     <id>urn:phd-intern-board:simplify:87e1f5e6-e654-4a3e-9613-a3d4a907216b</id>
     <updated>2026-11-06T23:28:08+00:00</updated>
     <summary>Menlo Park, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - AI Agents and Machine Learning</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1826604892017856"/>
+    <id>urn:phd-intern-board:simplify:96dafcaa-2476-4a84-96ac-a87e54927f0c</id>
+    <updated>2026-11-06T23:27:51+00:00</updated>
+    <summary>Menlo Park, CA, Sunnyvale, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - Robotics Foundation Models - Agentic RL</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1414987577372371"/>
+    <id>urn:phd-intern-board:simplify:d4373beb-9b94-4d3e-8145-7efff9fd8b79</id>
+    <updated>2026-11-06T23:27:48+00:00</updated>
+    <summary>Menlo Park, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - Generative AI &amp; 3D Generation</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1406087328180524"/>
+    <id>urn:phd-intern-board:simplify:91f8c203-61ee-41ea-9dfd-cb9d9f2a8e9b</id>
+    <updated>2026-11-06T23:27:46+00:00</updated>
+    <summary>Burlingame, CA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Parspec &#8212; Applied AI Engineer Intern</title>
+    <link rel="alternate" href="https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application?embed=true"/>
+    <id>urn:phd-intern-board:simplify:00ad2123-8026-401f-9d01-279e89a58797</id>
+    <updated>2026-11-06T23:25:40+00:00</updated>
+    <summary>San Mateo, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Cleveland Clinic &#8212; Postdoctoral Fellow</title>
+    <link rel="alternate" href="https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Postdoctoral-Fellow---Amani-Fawzi-Lab_352379"/>
+    <id>urn:phd-intern-board:simplify:57d5678c-2a24-4f4e-9fe3-bb69aece1303</id>
+    <updated>2026-11-06T23:23:16+00:00</updated>
+    <summary>Cleveland, OH · Other · PhD</summary>
   </entry>
 </feed>

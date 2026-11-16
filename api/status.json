@@ -1,56 +1,47 @@
 {
- "generated_at": "2026-11-15T07:28:31.725955+00:00",
+ "generated_at": "2026-11-16T07:34:34.813097+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9302,
+ "scanned_jobs": 9093,
  "by_kind": {
   "blindspot": 367,
-  "discovery": 307,
-  "tracked": 258,
+  "discovery": 305,
+  "tracked": 162,
   "evergreen": 25
  },
- "total_listings": 957,
- "matched": 258,
+ "total_listings": 859,
+ "matched": 162,
  "off_board_file": 6,
  "evergreen": 25,
  "xposts": 17,
- "discover": 674,
+ "discover": 672,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 5333 live",
+   "Summer2027: 5309 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 5333 live"
+   "Summer2026: 5309 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17584,
-  "active": 5332,
-  "phd": 1281,
+  "total": 17512,
+  "active": 5308,
+  "phd": 1275,
   "blindspot": 367,
-  "discovery": 403,
+  "discovery": 400,
   "dropped_tracked": 93,
-  "dropped_category": 404,
+  "dropped_category": 401,
   "dropped_excluded": 14,
   "by_title": 112,
-  "discovery_after_title_filter": 307
+  "discovery_after_title_filter": 305
  },
- "new": 107,
+ "new": 0,
  "by_lab": [
-  {
-   "lab": "NVIDIA",
-   "ats": "workday",
-   "slug": "nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite",
-   "postings": 150,
-   "matched": 80,
-   "evergreen": 0,
-   "error": null
-  },
   {
    "lab": "Microsoft / MSR",
    "ats": "eightfold",
    "slug": "apply.careers.microsoft.com/microsoft.com",
-   "postings": 79,
+   "postings": 78,
    "matched": 47,
    "evergreen": 0,
    "error": null
@@ -83,30 +74,12 @@
    "error": null
   },
   {
-   "lab": "Sony AI (Japan)",
-   "ats": "workday",
-   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers",
-   "postings": 8,
-   "matched": 8,
-   "evergreen": 0,
-   "error": null
-  },
-  {
    "lab": "Anthropic",
    "ats": "greenhouse",
    "slug": "anthropic",
-   "postings": 669,
+   "postings": 661,
    "matched": 5,
    "evergreen": 1,
-   "error": null
-  },
-  {
-   "lab": "Adobe",
-   "ats": "workday",
-   "slug": "adobe.wd5.myworkdayjobs.com/adobe/external_experienced",
-   "postings": 18,
-   "matched": 6,
-   "evergreen": 0,
    "error": null
   },
   {
@@ -230,16 +203,7 @@
    "lab": "Sierra",
    "ats": "ashby",
    "slug": "sierra",
-   "postings": 198,
-   "matched": 1,
-   "evergreen": 0,
-   "error": null
-  },
-  {
-   "lab": "Woven by Toyota",
-   "ats": "lever",
-   "slug": "woven-by-toyota",
-   "postings": 136,
+   "postings": 197,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -254,10 +218,19 @@
    "error": null
   },
   {
+   "lab": "Woven by Toyota",
+   "ats": "lever",
+   "slug": "woven-by-toyota",
+   "postings": 132,
+   "matched": 1,
+   "evergreen": 0,
+   "error": null
+  },
+  {
    "lab": "Glean",
    "ats": "greenhouse",
    "slug": "gleanwork",
-   "postings": 121,
+   "postings": 119,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -275,7 +248,7 @@
    "lab": "Baseten",
    "ats": "ashby",
    "slug": "baseten",
-   "postings": 102,
+   "postings": 103,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -407,30 +380,12 @@
    "error": null
   },
   {
-   "lab": "Samsung Research",
-   "ats": "workday",
-   "slug": "sec.wd3.myworkdayjobs.com/sec/Samsung_Careers",
-   "postings": 5,
-   "matched": 1,
-   "evergreen": 0,
-   "error": null
-  },
-  {
    "lab": "METR",
    "ats": "lever",
    "slug": "metr",
    "postings": 4,
    "matched": 0,
    "evergreen": 1,
-   "error": null
-  },
-  {
-   "lab": "Sony (global)",
-   "ats": "workday",
-   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers",
-   "postings": 4,
-   "matched": 1,
-   "evergreen": 0,
    "error": null
   },
   {
@@ -455,7 +410,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 840,
+   "postings": 838,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -464,7 +419,7 @@
    "lab": "Harvey",
    "ats": "ashby",
    "slug": "harvey",
-   "postings": 388,
+   "postings": 387,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -482,7 +437,7 @@
    "lab": "xAI",
    "ats": "greenhouse",
    "slug": "xai",
-   "postings": 296,
+   "postings": 298,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -497,19 +452,19 @@
    "error": null
   },
   {
-   "lab": "ElevenLabs",
+   "lab": "Cerebras",
    "ats": "ashby",
-   "slug": "elevenlabs",
-   "postings": 128,
+   "slug": "cerebras",
+   "postings": 125,
    "matched": 0,
    "evergreen": 0,
    "error": null
   },
   {
-   "lab": "Cerebras",
+   "lab": "ElevenLabs",
    "ats": "ashby",
-   "slug": "cerebras",
-   "postings": 125,
+   "slug": "elevenlabs",
+   "postings": 124,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -554,7 +509,7 @@
    "lab": "Cursor (Anysphere)",
    "ats": "ashby",
    "slug": "cursor",
-   "postings": 99,
+   "postings": 97,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -563,7 +518,7 @@
    "lab": "Faculty",
    "ats": "ashby",
    "slug": "faculty",
-   "postings": 97,
+   "postings": 96,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -635,7 +590,7 @@
    "lab": "FuriosaAI",
    "ats": "greenhouse",
    "slug": "furiosaai",
-   "postings": 63,
+   "postings": 61,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -680,7 +635,7 @@
    "lab": "Dust",
    "ats": "ashby",
    "slug": "dust",
-   "postings": 35,
+   "postings": 34,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -731,10 +686,19 @@
    "error": null
   },
   {
+   "lab": "Black Forest Labs",
+   "ats": "ashby",
+   "slug": "black-forest-labs",
+   "postings": 16,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
    "lab": "Sesame",
    "ats": "ashby",
    "slug": "sesame",
-   "postings": 17,
+   "postings": 16,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -744,15 +708,6 @@
    "ats": "ashby",
    "slug": "nousresearch",
    "postings": 15,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
-   "lab": "Black Forest Labs",
-   "ats": "ashby",
-   "slug": "black-forest-labs",
-   "postings": 13,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -1010,6 +965,24 @@
    "error": null
   },
   {
+   "lab": "NVIDIA",
+   "ats": "workday",
+   "slug": "nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite",
+   "postings": null,
+   "matched": 0,
+   "evergreen": 0,
+   "error": "ValueError: http 429 on 'research intern'"
+  },
+  {
+   "lab": "Adobe",
+   "ats": "workday",
+   "slug": "adobe.wd5.myworkdayjobs.com/adobe/external_experienced",
+   "postings": null,
+   "matched": 0,
+   "evergreen": 0,
+   "error": "ValueError: http 429 on 'research intern'"
+  },
+  {
    "lab": "Parloa",
    "ats": "greenhouse",
    "slug": "parloa",
@@ -1026,6 +999,33 @@
    "matched": 0,
    "evergreen": 0,
    "error": null
+  },
+  {
+   "lab": "Sony AI (Japan)",
+   "ats": "workday",
+   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers",
+   "postings": null,
+   "matched": 0,
+   "evergreen": 0,
+   "error": "ValueError: http 429 on 'research intern'"
+  },
+  {
+   "lab": "Sony (global)",
+   "ats": "workday",
+   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers",
+   "postings": null,
+   "matched": 0,
+   "evergreen": 0,
+   "error": "ValueError: http 429 on 'research intern'"
+  },
+  {
+   "lab": "Samsung Research",
+   "ats": "workday",
+   "slug": "sec.wd3.myworkdayjobs.com/sec/Samsung_Careers",
+   "postings": null,
+   "matched": 0,
+   "evergreen": 0,
+   "error": "ValueError: http 429 on 'research intern'"
   }
  ],
  "silent_labs": [
@@ -1035,8 +1035,8 @@
   "CoreWeave",
   "xAI",
   "Wayve",
-  "ElevenLabs",
   "Cerebras",
+  "ElevenLabs",
   "Decagon",
   "Figure AI",
   "LangChain",
@@ -1061,9 +1061,9 @@
   "Cartesia",
   "Anyscale",
   "HeyGen",
+  "Black Forest Labs",
   "Sesame",
   "Nous Research",
-  "Black Forest Labs",
   "Character.AI",
   "Dexterity",
   "Apollo Research",
@@ -1093,10 +1093,40 @@
  ],
  "errors": [
   {
+   "lab": "NVIDIA",
+   "ats": "workday",
+   "slug": "nvidia.wd5.myworkdayjobs.com/nvidia/NVIDIAExternalCareerSite",
+   "error": "ValueError: http 429 on 'research intern'"
+  },
+  {
+   "lab": "Adobe",
+   "ats": "workday",
+   "slug": "adobe.wd5.myworkdayjobs.com/adobe/external_experienced",
+   "error": "ValueError: http 429 on 'research intern'"
+  },
+  {
    "lab": "Parloa",
    "ats": "greenhouse",
    "slug": "parloa",
    "error": "ValueError: bad shape: {'status': 404, 'error': 'Job not found'}"
+  },
+  {
+   "lab": "Sony AI (Japan)",
+   "ats": "workday",
+   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers",
+   "error": "ValueError: http 429 on 'research intern'"
+  },
+  {
+   "lab": "Sony (global)",
+   "ats": "workday",
+   "slug": "sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers",
+   "error": "ValueError: http 429 on 'research intern'"
+  },
+  {
+   "lab": "Samsung Research",
+   "ats": "workday",
+   "slug": "sec.wd3.myworkdayjobs.com/sec/Samsung_Careers",
+   "error": "ValueError: http 429 on 'research intern'"
   }
  ]
 }
