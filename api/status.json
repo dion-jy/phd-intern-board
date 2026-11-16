@@ -1,34 +1,34 @@
 {
- "generated_at": "2026-11-16T07:34:34.813097+00:00",
+ "generated_at": "2026-11-16T10:31:13.868250+00:00",
  "scanned_labs": 110,
- "scanned_jobs": 9093,
+ "scanned_jobs": 9088,
  "by_kind": {
-  "blindspot": 367,
+  "blindspot": 366,
   "discovery": 305,
   "tracked": 162,
   "evergreen": 25
  },
- "total_listings": 859,
+ "total_listings": 858,
  "matched": 162,
  "off_board_file": 6,
  "evergreen": 25,
- "xposts": 17,
- "discover": 672,
+ "xposts": 18,
+ "discover": 671,
  "simplify": {
   "season": "Summer2027",
   "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
   "tried": [
-   "Summer2027: 5309 live",
+   "Summer2027: 5300 live",
    "Summer2028: HTTP 404",
-   "Summer2026: 5309 live"
+   "Summer2026: 5300 live"
   ],
   "newest_entry_age_days": 0,
   "stale": false,
-  "total": 17512,
-  "active": 5308,
-  "phd": 1275,
-  "blindspot": 367,
-  "discovery": 400,
+  "total": 17509,
+  "active": 5299,
+  "phd": 1273,
+  "blindspot": 366,
+  "discovery": 399,
   "dropped_tracked": 93,
   "dropped_category": 401,
   "dropped_excluded": 14,
@@ -104,7 +104,7 @@
    "lab": "Mistral AI",
    "ats": "ashby",
    "slug": "mistral.ai",
-   "postings": 252,
+   "postings": 251,
    "matched": 4,
    "evergreen": 0,
    "error": null
@@ -122,7 +122,7 @@
    "lab": "Perplexity",
    "ats": "ashby",
    "slug": "perplexity",
-   "postings": 141,
+   "postings": 142,
    "matched": 3,
    "evergreen": 0,
    "error": null
@@ -167,7 +167,7 @@
    "lab": "Graphcore",
    "ats": "greenhouse",
    "slug": "graphcore",
-   "postings": 196,
+   "postings": 197,
    "matched": 2,
    "evergreen": 0,
    "error": null
@@ -221,7 +221,7 @@
    "lab": "Woven by Toyota",
    "ats": "lever",
    "slug": "woven-by-toyota",
-   "postings": 132,
+   "postings": 131,
    "matched": 1,
    "evergreen": 0,
    "error": null
@@ -302,7 +302,7 @@
    "lab": "Isomorphic Labs",
    "ats": "greenhouse",
    "slug": "isomorphiclabs",
-   "postings": 40,
+   "postings": 39,
    "matched": 0,
    "evergreen": 1,
    "error": null
@@ -410,7 +410,7 @@
    "lab": "OpenAI",
    "ats": "ashby",
    "slug": "openai",
-   "postings": 838,
+   "postings": 839,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -446,7 +446,7 @@
    "lab": "Wayve",
    "ats": "ashby",
    "slug": "wayve",
-   "postings": 167,
+   "postings": 166,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -461,19 +461,19 @@
    "error": null
   },
   {
-   "lab": "ElevenLabs",
+   "lab": "Decagon",
    "ats": "ashby",
-   "slug": "elevenlabs",
+   "slug": "decagon",
    "postings": 124,
    "matched": 0,
    "evergreen": 0,
    "error": null
   },
   {
-   "lab": "Decagon",
+   "lab": "ElevenLabs",
    "ats": "ashby",
-   "slug": "decagon",
-   "postings": 124,
+   "slug": "elevenlabs",
+   "postings": 123,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -590,7 +590,7 @@
    "lab": "FuriosaAI",
    "ats": "greenhouse",
    "slug": "furiosaai",
-   "postings": 61,
+   "postings": 60,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -608,7 +608,7 @@
    "lab": "Sarvam AI",
    "ats": "ashby",
    "slug": "sarvam",
-   "postings": 50,
+   "postings": 49,
    "matched": 0,
    "evergreen": 0,
    "error": null
@@ -758,15 +758,6 @@
    "error": null
   },
   {
-   "lab": "Nabla",
-   "ats": "ashby",
-   "slug": "nabla",
-   "postings": 9,
-   "matched": 0,
-   "evergreen": 0,
-   "error": null
-  },
-  {
    "lab": "World Labs",
    "ats": "ashby",
    "slug": "worldlabs",
@@ -779,6 +770,15 @@
    "lab": "OpenEvidence",
    "ats": "ashby",
    "slug": "openevidence",
+   "postings": 8,
+   "matched": 0,
+   "evergreen": 0,
+   "error": null
+  },
+  {
+   "lab": "Nabla",
+   "ats": "ashby",
+   "slug": "nabla",
    "postings": 8,
    "matched": 0,
    "evergreen": 0,
@@ -1036,8 +1036,8 @@
   "xAI",
   "Wayve",
   "Cerebras",
-  "ElevenLabs",
   "Decagon",
+  "ElevenLabs",
   "Figure AI",
   "LangChain",
   "Fireworks AI",
@@ -1069,9 +1069,9 @@
   "Apollo Research",
   "Twelve Labs",
   "Reka AI",
-  "Nabla",
   "World Labs",
   "OpenEvidence",
+  "Nabla",
   "Sail Research",
   "DeepL",
   "Photoroom",
