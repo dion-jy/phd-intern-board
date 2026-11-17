@@ -1,6 +1,448 @@
 {
- "generated_at": "2026-11-16T10:31:13.868250+00:00",
+ "generated_at": "2026-11-17T08:45:21.657581+00:00",
  "first_run": false,
- "count": 0,
- "jobs": []
+ "count": 14,
+ "jobs": [
+  {
+   "company": "TikTok",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Scientist Intern - Privacy Innovation Lab",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7703923326767483141",
+   "posted_at": "2026-11-17T07:29:27+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "bytedance.com",
+   "job_id": "simplify:e9dbab50-28ba-4352-8794-b48f5a64b318",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Birdseye Security Solutions",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Systems Intern",
+   "location": "Dallas, TX",
+   "url": "https://birdseyeaccount.bamboohr.com/careers/288/",
+   "posted_at": "2026-11-17T07:13:54+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:05799004-d77a-4b48-b797-2b29a38c7087",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Birdseye Security Solutions",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Computer Vision Intern",
+   "location": "Dallas, TX",
+   "url": "https://birdseyeaccount.bamboohr.com/careers/290/",
+   "posted_at": "2026-11-17T07:13:54+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:a73d65d0-ef99-4368-9bb7-6e1a8095fa49",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Toyota Research Institute",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
+   "location": "Los Altos, CA",
+   "url": "https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476/apply",
+   "posted_at": "2026-11-16T23:53:44+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:168ba909-6064-4747-bdff-92fe004850cd",
+   "order": 3,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NeuroSpark",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Hardware Optimization Engineer Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3",
+   "posted_at": "2026-11-16T23:37:47+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:3cbca3ae-aa1c-41b7-81c8-5ecc4d2c1a55",
+   "order": 4,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "NeuroSpark",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Inference & Training Framework Engineer Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea",
+   "posted_at": "2026-11-16T23:37:47+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:4457a3bc-0ce3-4869-9d13-4e66ef313c3b",
+   "order": 5,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Meta",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Visiting Researcher Intern - AI Mentorship Program",
+   "location": "Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/4529244430625751",
+   "posted_at": "2026-11-16T23:17:19+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Fall 2027"
+   ],
+   "domain": "meta.com",
+   "job_id": "simplify:2f47adc5-27b6-4476-85f7-6dff444004b3",
+   "order": 6,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Meta",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Scientist Intern - Perception - Displays and Graphics",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1500136678656794",
+   "posted_at": "2026-11-16T23:17:18+00:00",
+   "department": "Hardware",
+   "confidence": "medium",
+   "match": [
+    "simplify-research-title"
+   ],
+   "phd": false,
+   "degrees": [],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "meta.com",
+   "job_id": "simplify:589a7388-e840-4761-93bd-fd0c1df06b38",
+   "order": 7,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Meta",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Scientist Intern - Intelligent Camera Systems",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/971210335715482",
+   "posted_at": "2026-11-16T23:17:17+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-research-title"
+   ],
+   "phd": false,
+   "degrees": [],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "meta.com",
+   "job_id": "simplify:8ce107ef-76f8-4eb0-8088-c8fbdc876812",
+   "order": 8,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "TikTok",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Client Security & Data Foundation Machine Learning Engineer Intern",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7708750900450134325",
+   "posted_at": "2026-11-16T23:08:58+00:00",
+   "department": "Software",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "bytedance.com",
+   "job_id": "simplify:411d0068-e3dc-4f32-ba5d-69e7b4649fb8",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Toyota Research Institute",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Research Intern - Spatial Intelligence for Robotics",
+   "location": "Cambridge, MA",
+   "url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply",
+   "posted_at": "2026-11-16T15:49:57+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:7773a702-7d45-44c7-b86b-0b8ad53a257b",
+   "order": 10,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Qualcomm",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "GPU Compiler Intern",
+   "location": "Cambridge, UK",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446722152489",
+   "posted_at": "2026-11-16T15:36:01+00:00",
+   "department": "Software",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "qualcomm.com",
+   "job_id": "simplify:9f33eb65-3c19-47fa-b0ca-d0101c113023",
+   "order": 11,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Robert Bosch Venture Capital",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Research Intern: Multimodal Foundation Models for Healthcare",
+   "location": "Pittsburgh, PA",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161844052",
+   "posted_at": "2026-11-16T15:29:09+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:5d8b5a71-c3cc-4f5f-b6ca-c6784175532c",
+   "order": 12,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Robert Bosch Venture Capital",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Research Intern: Multimodal Sensor Foundation Models",
+   "location": "Pittsburgh, PA",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161841434",
+   "posted_at": "2026-11-16T15:28:53+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:76493083-8144-4671-8730-436be1cbd186",
+   "order": 13,
+   "regions": [
+    "US"
+   ]
+  }
+ ]
 }
