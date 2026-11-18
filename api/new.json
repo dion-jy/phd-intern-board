@@ -1,18 +1,81 @@
 {
- "generated_at": "2026-11-17T08:45:21.657581+00:00",
+ "generated_at": "2026-11-18T08:09:46.922206+00:00",
  "first_run": false,
- "count": 14,
+ "count": 9,
  "jobs": [
   {
-   "company": "TikTok",
+   "company": "Microsoft",
    "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Research Scientist Intern - Privacy Innovation Lab",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7703923326767483141",
-   "posted_at": "2026-11-17T07:29:27+00:00",
+   "title": "Research Intern - Firmware Security",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+   "posted_at": "2026-11-18T02:33:14+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:9a47f7a1-f214-444d-99aa-90af3e2efe5c",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Bosch Home Comfort",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Robot Learning Research Intern",
+   "location": "Pittsburgh, PA",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162212029",
+   "posted_at": "2026-11-18T01:47:31+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:0a6bcf68-1dac-49d0-a6da-1adca0fd22c3",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern - Frontier Tuning",
+   "location": "Boston, MA, SF, Redmond, WA, NYC, Sunnyvale, CA, Mountain View, CA, Baltimore, MD",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
+   "posted_at": "2026-11-17T23:42:40+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -24,178 +87,11 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "N/A"
+    "Summer 2027"
    ],
-   "domain": "bytedance.com",
-   "job_id": "simplify:e9dbab50-28ba-4352-8794-b48f5a64b318",
-   "order": 0,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Birdseye Security Solutions",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI Systems Intern",
-   "location": "Dallas, TX",
-   "url": "https://birdseyeaccount.bamboohr.com/careers/288/",
-   "posted_at": "2026-11-17T07:13:54+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:05799004-d77a-4b48-b797-2b29a38c7087",
-   "order": 1,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Birdseye Security Solutions",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Computer Vision Intern",
-   "location": "Dallas, TX",
-   "url": "https://birdseyeaccount.bamboohr.com/careers/290/",
-   "posted_at": "2026-11-17T07:13:54+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:a73d65d0-ef99-4368-9bb7-6e1a8095fa49",
+   "domain": "microsoft.com",
+   "job_id": "simplify:b0a65ac1-33c7-4ae4-a6e5-f8891c8b8bb2",
    "order": 2,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Toyota Research Institute",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
-   "location": "Los Altos, CA",
-   "url": "https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476/apply",
-   "posted_at": "2026-11-16T23:53:44+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:168ba909-6064-4747-bdff-92fe004850cd",
-   "order": 3,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NeuroSpark",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI Hardware Optimization Engineer Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3",
-   "posted_at": "2026-11-16T23:37:47+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:3cbca3ae-aa1c-41b7-81c8-5ecc4d2c1a55",
-   "order": 4,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "NeuroSpark",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "AI Inference & Training Framework Engineer Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea",
-   "posted_at": "2026-11-16T23:37:47+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:4457a3bc-0ce3-4869-9d13-4e66ef313c3b",
-   "order": 5,
    "regions": [
     "US"
    ]
@@ -207,9 +103,9 @@
    "source": "simplify",
    "kind": "blindspot",
    "title": "Visiting Researcher Intern - AI Mentorship Program",
-   "location": "Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/4529244430625751",
-   "posted_at": "2026-11-16T23:17:19+00:00",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.metacareers.com/jobs/1110284504699535",
+   "posted_at": "2026-11-17T23:18:02+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -224,144 +120,74 @@
     "Fall 2027"
    ],
    "domain": "meta.com",
-   "job_id": "simplify:2f47adc5-27b6-4476-85f7-6dff444004b3",
-   "order": 6,
+   "job_id": "simplify:35b35e67-616d-4fb4-a15c-c0477b9c5670",
+   "order": 3,
    "regions": [
-    "US"
+    "Canada"
    ]
   },
   {
-   "company": "Meta",
+   "company": "Microsoft / MSR",
    "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Scientist Intern - Perception - Displays and Graphics",
-   "location": "Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/1500136678656794",
-   "posted_at": "2026-11-16T23:17:18+00:00",
-   "department": "Hardware",
-   "confidence": "medium",
-   "match": [
-    "simplify-research-title"
-   ],
-   "phd": false,
-   "degrees": [],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "meta.com",
-   "job_id": "simplify:589a7388-e840-4761-93bd-fd0c1df06b38",
-   "order": 7,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Meta",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Scientist Intern - Intelligent Camera Systems",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/971210335715482",
-   "posted_at": "2026-11-16T23:17:17+00:00",
-   "department": "AI/ML/Data",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Firmware Security",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+   "posted_at": "2026-11-17T23:10:32+00:00",
+   "department": "Cloud + AI",
    "confidence": "high",
    "match": [
-    "simplify-research-title"
-   ],
-   "phd": false,
-   "degrees": [],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "meta.com",
-   "job_id": "simplify:8ce107ef-76f8-4eb0-8088-c8fbdc876812",
-   "order": 8,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "TikTok",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Client Security & Data Foundation Machine Learning Engineer Intern",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7708750900450134325",
-   "posted_at": "2026-11-16T23:08:58+00:00",
-   "department": "Software",
-   "confidence": "medium",
-   "match": [
-    "simplify-degrees-phd"
+    "title-strong"
    ],
    "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "bytedance.com",
-   "job_id": "simplify:411d0068-e3dc-4f32-ba5d-69e7b4649fb8",
-   "order": 9,
+   "job_id": "eightfold:microsoft.com:1970393557075140",
+   "order": 4,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Toyota Research Institute",
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Frontier Tuning",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View; United States, California, San Francisco; United States, California, Sunnyvale; United States, Maryland, Baltimore; United States, New York, New York; United States, Massachusetts, Boston",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
+   "posted_at": "2026-11-17T20:35:28+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": false,
+   "job_id": "eightfold:microsoft.com:1970393557075074",
+   "order": 5,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Warp Sciences",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Research Intern - Spatial Intelligence for Robotics",
-   "location": "Cambridge, MA",
-   "url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply",
-   "posted_at": "2026-11-16T15:49:57+00:00",
+   "title": "Robot Learning Intern - Robotics Learning",
+   "location": "South SF",
+   "url": "https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true",
+   "posted_at": "2026-11-17T00:00:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
     "simplify-degrees-phd",
     "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:7773a702-7d45-44c7-b86b-0b8ad53a257b",
-   "order": 10,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Qualcomm",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "GPU Compiler Intern",
-   "location": "Cambridge, UK",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446722152489",
-   "posted_at": "2026-11-16T15:36:01+00:00",
-   "department": "Software",
-   "confidence": "medium",
-   "match": [
-    "simplify-degrees-phd"
+    "title-research"
    ],
    "phd": true,
    "degrees": [
@@ -373,55 +199,46 @@
    "terms": [
     "N/A"
    ],
-   "domain": "qualcomm.com",
-   "job_id": "simplify:9f33eb65-3c19-47fa-b0ca-d0101c113023",
-   "order": 11,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
-   "company": "Robert Bosch Venture Capital",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Research Intern: Multimodal Foundation Models for Healthcare",
-   "location": "Pittsburgh, PA",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161844052",
-   "posted_at": "2026-11-16T15:29:09+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-strong"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
    "domain": "",
-   "job_id": "simplify:5d8b5a71-c3cc-4f5f-b6ca-c6784175532c",
-   "order": 12,
+   "job_id": "simplify:14cf296e-5ae4-4ed9-af34-b633a9f68b7d",
+   "order": 9,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Robert Bosch Venture Capital",
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Security Research: PhD Internship Opportunities",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557074642",
+   "posted_at": "2026-11-16T23:55:41+00:00",
+   "department": "HR Group",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557074642",
+   "order": 10,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Peraton",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Research Intern: Multimodal Sensor Foundation Models",
-   "location": "Pittsburgh, PA",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161841434",
-   "posted_at": "2026-11-16T15:28:53+00:00",
+   "title": "Cyber Research Intern",
+   "location": "West Lafayette, IN, Basking Ridge, Bernards, NJ, Silver Spring, MD, Bedford, NH",
+   "url": "https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false",
+   "posted_at": "2026-11-05T07:09:19+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -431,15 +248,17 @@
    ],
    "phd": true,
    "degrees": [
+    "Bachelor's",
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "N/A"
+    "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:76493083-8144-4671-8730-436be1cbd186",
-   "order": 13,
+   "job_id": "simplify:c83bdc1d-5eb0-41f6-a236-0a2822d82b7b",
+   "order": 103,
    "regions": [
     "US"
    ]
