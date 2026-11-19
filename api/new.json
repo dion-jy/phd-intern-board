@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-18T08:09:46.922206+00:00",
+ "generated_at": "2026-11-19T02:38:57.846779+00:00",
  "first_run": false,
- "count": 9,
+ "count": 14,
  "jobs": [
   {
    "company": "Microsoft",
@@ -9,10 +9,100 @@
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Research Intern - Firmware Security",
+   "title": "Research Intern - Model Foundations for Knowledge & Reasoning",
+   "location": "Canada, Vancouver, BC, Canada",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075474",
+   "posted_at": "2026-11-18T23:33:49+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:1e9488b1-0c09-42c4-9c5d-c39460d806bc",
+   "order": 0,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern - Self-Improving & Secure AI Agents",
    "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-   "posted_at": "2026-11-18T02:33:14+00:00",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075136",
+   "posted_at": "2026-11-18T23:33:49+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:ba01acfc-f330-48b0-a332-bdd38db24456",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern - AI Software Systems",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+   "posted_at": "2026-11-18T23:33:46+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:eb52e15d-a3e3-4233-8b3c-d5b48aac5b3b",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern - Computer Vision and Deep Learning",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
+   "posted_at": "2026-11-18T23:33:45+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -28,22 +118,22 @@
     "N/A"
    ],
    "domain": "microsoft.com",
-   "job_id": "simplify:9a47f7a1-f214-444d-99aa-90af3e2efe5c",
-   "order": 0,
+   "job_id": "simplify:d16f4e61-d921-404b-a8b6-2ab3cdad885e",
+   "order": 3,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Bosch Home Comfort",
+   "company": "Samsung",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Robot Learning Research Intern",
-   "location": "Pittsburgh, PA",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162212029",
-   "posted_at": "2026-11-18T01:47:31+00:00",
+   "title": "Architecture Research Engineer Intern - Resilient Collective Communications",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003",
+   "posted_at": "2026-11-18T22:45:07+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -53,6 +143,7 @@
    ],
    "phd": true,
    "degrees": [
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
@@ -60,90 +151,7 @@
     "N/A"
    ],
    "domain": "",
-   "job_id": "simplify:0a6bcf68-1dac-49d0-a6da-1adca0fd22c3",
-   "order": 1,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Microsoft",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Intern - Frontier Tuning",
-   "location": "Boston, MA, SF, Redmond, WA, NYC, Sunnyvale, CA, Mountain View, CA, Baltimore, MD",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
-   "posted_at": "2026-11-17T23:42:40+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "microsoft.com",
-   "job_id": "simplify:b0a65ac1-33c7-4ae4-a6e5-f8891c8b8bb2",
-   "order": 2,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Meta",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "Visiting Researcher Intern - AI Mentorship Program",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.metacareers.com/jobs/1110284504699535",
-   "posted_at": "2026-11-17T23:18:02+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd"
-   ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Fall 2027"
-   ],
-   "domain": "meta.com",
-   "job_id": "simplify:35b35e67-616d-4fb4-a15c-c0477b9c5670",
-   "order": 3,
-   "regions": [
-    "Canada"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern - Firmware Security",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-   "posted_at": "2026-11-17T23:10:32+00:00",
-   "department": "Cloud + AI",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557075140",
+   "job_id": "simplify:8eb1a21e-c57a-44e4-a936-098c9e7c642a",
    "order": 4,
    "regions": [
     "US"
@@ -156,42 +164,41 @@
    "domain": "microsoft.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Research Intern - Frontier Tuning",
-   "location": "United States, Washington, Redmond; United States, California, Mountain View; United States, California, San Francisco; United States, California, Sunnyvale; United States, Maryland, Baltimore; United States, New York, New York; United States, Massachusetts, Boston",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
-   "posted_at": "2026-11-17T20:35:28+00:00",
+   "title": "Research Intern - AI Software Systems",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+   "posted_at": "2026-11-18T19:54:59+00:00",
    "department": "Cloud + AI",
    "confidence": "high",
    "match": [
     "title-strong"
    ],
-   "phd": false,
-   "job_id": "eightfold:microsoft.com:1970393557075074",
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557075527",
    "order": 5,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Warp Sciences",
+   "company": "Samsung",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Robot Learning Intern - Robotics Learning",
-   "location": "South SF",
-   "url": "https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true",
-   "posted_at": "2026-11-17T00:00:00+00:00",
+   "title": "Architecture Research Engineer Intern - MoE Placement for Serving at Scale",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003",
+   "posted_at": "2026-11-18T19:42:39+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
     "simplify-degrees-phd",
     "ats-intern-flag",
-    "title-research"
+    "title-strong"
    ],
    "phd": true,
    "degrees": [
-    "Bachelor's",
     "Master's",
     "PhD"
    ],
@@ -200,8 +207,8 @@
     "N/A"
    ],
    "domain": "",
-   "job_id": "simplify:14cf296e-5ae4-4ed9-af34-b633a9f68b7d",
-   "order": 9,
+   "job_id": "simplify:9471de0a-cf90-4c82-aa36-9f7cad855d2a",
+   "order": 6,
    "regions": [
     "US"
    ]
@@ -213,32 +220,78 @@
    "domain": "microsoft.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Security Research: PhD Internship Opportunities",
+   "title": "Research Intern - Computer Vision and Deep Learning",
    "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557074642",
-   "posted_at": "2026-11-16T23:55:41+00:00",
-   "department": "HR Group",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
+   "posted_at": "2026-11-18T19:13:19+00:00",
+   "department": "Cloud + AI",
    "confidence": "high",
    "match": [
     "title-strong"
    ],
    "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557074642",
-   "order": 10,
+   "job_id": "eightfold:microsoft.com:1970393557075490",
+   "order": 7,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Peraton",
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Model Foundations for Knowledge & Reasoning - Microsoft Research",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075474",
+   "posted_at": "2026-11-18T18:32:25+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557075474",
+   "order": 8,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Data Center and AI Networking",
+   "location": "United States, California, Mountain View; United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075457",
+   "posted_at": "2026-11-18T17:17:38+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557075457",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Crusoe",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Cyber Research Intern",
-   "location": "West Lafayette, IN, Basking Ridge, Bernards, NJ, Silver Spring, MD, Bedford, NH",
-   "url": "https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false",
-   "posted_at": "2026-11-05T07:09:19+00:00",
+   "title": "AI Applied Research PhD Intern",
+   "location": "SF, Sunnyvale, CA",
+   "url": "https://jobs.ashbyhq.com/crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b/application?embed=true",
+   "posted_at": "2026-11-18T00:00:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -248,8 +301,6 @@
    ],
    "phd": true,
    "degrees": [
-    "Bachelor's",
-    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
@@ -257,8 +308,94 @@
     "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:c83bdc1d-5eb0-41f6-a236-0a2822d82b7b",
-   "order": 103,
+   "job_id": "simplify:94d67853-2e95-463b-b69e-6982d75a3c27",
+   "order": 12,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075136",
+   "posted_at": "2026-11-17T22:51:43+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557075136",
+   "order": 16,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Faculte",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Data Science Fellow",
+   "location": "London, UK",
+   "url": "https://jobs.ashbyhq.com/faculty-fellowship/bedcedbc-334a-4e61-a864-cc3fc1ab544d/application?embed=true",
+   "posted_at": "2026-10-14T14:05:34+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "program-form"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Winter 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:e22ccf19-d6e8-4c19-8ad3-e0cd9dc5c79c",
+   "order": 366,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "Google",
+   "tier": "frontier",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "People Analytics Intern",
+   "location": "SF, Chicago, IL, NYC, Mountain View, CA, Atlanta, GA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246",
+   "posted_at": "2026-10-12T14:11:13+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "deepmind.google",
+   "job_id": "simplify:3c660071-514f-4ae0-933a-05082c35f633",
+   "order": 401,
    "regions": [
     "US"
    ]
