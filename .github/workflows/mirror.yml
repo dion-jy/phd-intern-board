@@ -1,0 +1,25 @@
+name: mirror feed and api
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          BASE=https://phd-intern-board.github.io
+          curl -fsS -o feed.xml $BASE/feed.xml
+          for f in api/*.json; do curl -fsS -o "$f" "$BASE/$f"; done
+          git config user.name  "phd-intern-board-bot"
+          git config user.email "actions@github.com"
+          git add -A feed.xml api
+          git diff --staged --quiet && exit 0
+          git commit -m "mirror feed and api"
+          git push

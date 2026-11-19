@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD Intern Board</title>
   <subtitle>AI research internships, updated every day</subtitle>
-  <link rel="alternate" href="https://dion-jy.github.io/phd-intern-board/"/>
-  <link rel="self" href="https://dion-jy.github.io/phd-intern-board/feed.xml"/>
-  <id>https://dion-jy.github.io/phd-intern-board/</id>
+  <link rel="alternate" href="https://phd-intern-board.github.io/"/>
+  <link rel="self" href="https://phd-intern-board.github.io/feed.xml"/>
+  <id>https://phd-intern-board.github.io/</id>
   <updated>2026-11-18T02:33:14+00:00</updated>
   <entry>
     <title>Microsoft &#8212; Research Intern - Firmware Security</title>
