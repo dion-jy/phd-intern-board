@@ -1,7 +1,146 @@
 {
- "generated_at": "2026-11-19T02:38:57.846779+00:00",
- "count": 158,
+ "generated_at": "2026-11-20T07:57:50.715182+00:00",
+ "count": 165,
  "jobs": [
+  {
+   "company": "Sarvam AI",
+   "tier": "frontier",
+   "ats": "ashby",
+   "domain": "sarvam.ai",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Product User Research, Intern",
+   "location": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+   "posted_at": "2026-11-20T06:58:20.714+00:00",
+   "department": "Product",
+   "confidence": "high",
+   "match": [
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+   "order": 0,
+   "regions": [
+    "Asia"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
+   "posted_at": "2026-11-19T23:24:40+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557076203",
+   "order": 13,
+   "regions": [
+    "Canada"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076159",
+   "posted_at": "2026-11-19T21:10:37+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557076159",
+   "order": 16,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - AI Safety, Alignment, and Post-Training",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076142",
+   "posted_at": "2026-11-19T20:18:08+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557076142",
+   "order": 17,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Deep Learning Group",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
+   "posted_at": "2026-11-19T18:32:45+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557076095",
+   "order": 19,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Agentic AI",
+   "location": "Mountain View, California, United States; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+   "posted_at": "2026-11-19T18:05:23-05:00",
+   "department": "Pipeline (N/A)",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:waymo:8401116",
+   "order": 20,
+   "regions": [
+    "US"
+   ]
+  },
   {
    "company": "Microsoft / MSR",
    "tier": "bigtech",
@@ -20,7 +159,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075527",
-   "order": 5,
+   "order": 31,
    "regions": [
     "US"
    ]
@@ -43,7 +182,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075490",
-   "order": 7,
+   "order": 33,
    "regions": [
     "US"
    ]
@@ -66,7 +205,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075474",
-   "order": 8,
+   "order": 34,
    "regions": [
     "Canada"
    ]
@@ -89,9 +228,32 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075457",
-   "order": 9,
+   "order": 35,
    "regions": [
     "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "location": "United Kingdom, Cambridgeshire, Cambridge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
+   "posted_at": "2026-11-18T16:48:25+00:00",
+   "department": "HR Group",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557075448",
+   "order": 36,
+   "regions": [
+    "UK"
    ]
   },
   {
@@ -112,7 +274,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075140",
-   "order": 15,
+   "order": 42,
    "regions": [
     "US"
    ]
@@ -135,7 +297,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075136",
-   "order": 16,
+   "order": 43,
    "regions": [
     "US"
    ]
@@ -158,7 +320,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557075074",
-   "order": 17,
+   "order": 44,
    "regions": [
     "US"
    ]
@@ -181,7 +343,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557074642",
-   "order": 20,
+   "order": 47,
    "regions": [
     "US"
    ]
@@ -204,7 +366,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557073455",
-   "order": 38,
+   "order": 65,
    "regions": [
     "US"
    ]
@@ -227,7 +389,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557073416",
-   "order": 39,
+   "order": 66,
    "regions": [
     "US"
    ]
@@ -250,7 +412,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293636",
-   "order": 40,
+   "order": 67,
    "regions": [
     "US"
    ]
@@ -273,7 +435,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557070382",
-   "order": 66,
+   "order": 92,
    "regions": [
     "UK"
    ]
@@ -296,7 +458,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557070079",
-   "order": 72,
+   "order": 98,
    "regions": [
     "US"
    ]
@@ -319,7 +481,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557056017",
-   "order": 92,
+   "order": 118,
    "regions": [
     "US"
    ]
@@ -343,7 +505,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:f7245b49-92a0-4111-bba1-343183de7d97",
-   "order": 96,
+   "order": 122,
    "regions": [
     "UK",
     "Europe"
@@ -367,7 +529,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8351210",
-   "order": 97,
+   "order": 123,
    "regions": [
     "US"
    ]
@@ -390,7 +552,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8358262",
-   "order": 98,
+   "order": 124,
    "regions": [
     "US"
    ]
@@ -413,7 +575,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8337364",
-   "order": 111,
+   "order": 137,
    "regions": [
     "US"
    ]
@@ -436,7 +598,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557054069",
-   "order": 133,
+   "order": 159,
    "regions": [
     "US"
    ]
@@ -460,7 +622,7 @@
    ],
    "phd": true,
    "job_id": "ashby:etched:05d67dff-a7a4-4ece-a809-3200d95e7440",
-   "order": 135,
+   "order": 161,
    "regions": [
     "US"
    ]
@@ -483,7 +645,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557053024",
-   "order": 158,
+   "order": 184,
    "regions": [
     "US"
    ]
@@ -506,7 +668,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557053016",
-   "order": 159,
+   "order": 185,
    "regions": [
     "US"
    ]
@@ -529,7 +691,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557052982",
-   "order": 160,
+   "order": 186,
    "regions": [
     "US"
    ]
@@ -553,7 +715,7 @@
    ],
    "phd": true,
    "job_id": "ashby:sierra:ef896ee9-e903-4a1f-84c2-537373cb9081",
-   "order": 165,
+   "order": 189,
    "regions": [
     "US"
    ]
@@ -576,7 +738,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557051409",
-   "order": 174,
+   "order": 198,
    "regions": [
     "US"
    ]
@@ -599,7 +761,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8337719",
-   "order": 176,
+   "order": 200,
    "regions": [
     "US"
    ]
@@ -622,7 +784,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050154",
-   "order": 202,
+   "order": 226,
    "regions": [
     "US"
    ]
@@ -645,7 +807,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557050150",
-   "order": 203,
+   "order": 227,
    "regions": [
     "US"
    ]
@@ -658,7 +820,7 @@
    "source": "ats",
    "kind": "tracked",
    "title": "Research Intern - Gray Systems Lab (GSL)",
-   "location": "Spain, Madrid, Madrid",
+   "location": "Spain, Barcelona, Barcelona",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557050112",
    "posted_at": "2026-10-28T19:11:39+00:00",
    "department": "HR Group",
@@ -668,7 +830,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050112",
-   "order": 204,
+   "order": 228,
    "regions": [
     "Europe"
    ]
@@ -691,7 +853,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050102",
-   "order": 205,
+   "order": 229,
    "regions": [
     "UK"
    ]
@@ -714,7 +876,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050039",
-   "order": 206,
+   "order": 230,
    "regions": [
     "US"
    ]
@@ -737,7 +899,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:anthropic:5439169008",
-   "order": 208,
+   "order": 232,
    "regions": [
     "UK"
    ]
@@ -760,7 +922,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:anthropic:5438311008",
-   "order": 209,
+   "order": 233,
    "regions": [
     "US",
     "Remote"
@@ -784,7 +946,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557049981",
-   "order": 210,
+   "order": 234,
    "regions": [
     "US"
    ]
@@ -808,7 +970,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
-   "order": 217,
+   "order": 241,
    "regions": [
     "US"
    ]
@@ -832,7 +994,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:049bd532-6fb7-4ae6-85a1-788dd31a14ca",
-   "order": 218,
+   "order": 242,
    "regions": [
     "US"
    ]
@@ -855,7 +1017,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:moloco:8044892003",
-   "order": 246,
+   "order": 269,
    "regions": [
     "Asia"
    ]
@@ -878,7 +1040,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8319350",
-   "order": 247,
+   "order": 270,
    "regions": [
     "US"
    ]
@@ -901,7 +1063,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8304574",
-   "order": 256,
+   "order": 279,
    "regions": [
     "US"
    ]
@@ -924,7 +1086,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557045963",
-   "order": 257,
+   "order": 280,
    "regions": [
     "US"
    ]
@@ -947,7 +1109,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8287385",
-   "order": 258,
+   "order": 281,
    "regions": [
     "US"
    ]
@@ -970,7 +1132,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557045445",
-   "order": 287,
+   "order": 310,
    "regions": [
     "US"
    ]
@@ -993,7 +1155,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306779",
-   "order": 288,
+   "order": 311,
    "regions": [
     "US"
    ]
@@ -1016,7 +1178,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306867",
-   "order": 289,
+   "order": 312,
    "regions": [
     "US"
    ]
@@ -1039,7 +1201,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306841",
-   "order": 290,
+   "order": 313,
    "regions": [
     "US"
    ]
@@ -1062,7 +1224,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:graphcore:8894738002",
-   "order": 309,
+   "order": 332,
    "regions": [
     "UK"
    ]
@@ -1085,7 +1247,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043754",
-   "order": 326,
+   "order": 349,
    "regions": [
     "US"
    ]
@@ -1108,7 +1270,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043740",
-   "order": 327,
+   "order": 350,
    "regions": [
     "US"
    ]
@@ -1131,7 +1293,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8301854",
-   "order": 328,
+   "order": 351,
    "regions": [
     "US"
    ]
@@ -1154,7 +1316,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8283558",
-   "order": 329,
+   "order": 352,
    "regions": [
     "US"
    ]
@@ -1177,7 +1339,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293641",
-   "order": 330,
+   "order": 353,
    "regions": [
     "US"
    ]
@@ -1200,7 +1362,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293615",
-   "order": 331,
+   "order": 354,
    "regions": [
     "US"
    ]
@@ -1223,7 +1385,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4735665005",
-   "order": 332,
+   "order": 355,
    "regions": [
     "US"
    ]
@@ -1246,7 +1408,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043468",
-   "order": 333,
+   "order": 356,
    "regions": [
     "Europe"
    ]
@@ -1269,7 +1431,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043465",
-   "order": 334,
+   "order": 357,
    "regions": [
     "Asia"
    ]
@@ -1292,7 +1454,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8292367",
-   "order": 335,
+   "order": 358,
    "regions": [
     "US"
    ]
@@ -1315,7 +1477,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8289816",
-   "order": 336,
+   "order": 359,
    "regions": [
     "US"
    ]
@@ -1338,7 +1500,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557043380",
-   "order": 337,
+   "order": 360,
    "regions": [
     "Asia"
    ]
@@ -1361,7 +1523,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557042488",
-   "order": 340,
+   "order": 363,
    "regions": [
     "Asia"
    ]
@@ -1384,7 +1546,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557042156",
-   "order": 344,
+   "order": 367,
    "regions": [
     "US"
    ]
@@ -1407,7 +1569,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557042145",
-   "order": 345,
+   "order": 368,
    "regions": [
     "US"
    ]
@@ -1430,7 +1592,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4744402005",
-   "order": 346,
+   "order": 369,
    "regions": [
     "UK",
     "Canada",
@@ -1456,7 +1618,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557041731",
-   "order": 350,
+   "order": 373,
    "regions": [
     "US"
    ]
@@ -1479,7 +1641,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8244128",
-   "order": 356,
+   "order": 379,
    "regions": [
     "US"
    ]
@@ -1502,7 +1664,30 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557041012",
-   "order": 364,
+   "order": 387,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Data Science - Forward Deployed Engineer: PhD Internship Opportunities",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
+   "posted_at": "2026-10-14T20:06:21+00:00",
+   "department": "MCAPS - Core",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557040991",
+   "order": 388,
    "regions": [
     "US"
    ]
@@ -1525,7 +1710,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040502",
-   "order": 381,
+   "order": 405,
    "regions": [
     "US"
    ]
@@ -1548,7 +1733,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040344",
-   "order": 391,
+   "order": 415,
    "regions": [
     "US"
    ]
@@ -1571,7 +1756,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040333",
-   "order": 392,
+   "order": 416,
    "regions": [
     "US"
    ]
@@ -1594,7 +1779,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8279620",
-   "order": 393,
+   "order": 417,
    "regions": [
     "US"
    ]
@@ -1617,7 +1802,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8265868",
-   "order": 394,
+   "order": 418,
    "regions": [
     "UK"
    ]
@@ -1640,7 +1825,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557039243",
-   "order": 400,
+   "order": 424,
    "regions": [
     "US"
    ]
@@ -1663,7 +1848,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8258070",
-   "order": 412,
+   "order": 436,
    "regions": [
     "US"
    ]
@@ -1686,7 +1871,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257006",
-   "order": 413,
+   "order": 437,
    "regions": [
     "US"
    ]
@@ -1709,7 +1894,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557037649",
-   "order": 414,
+   "order": 438,
    "regions": [
     "US"
    ]
@@ -1732,7 +1917,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557027378",
-   "order": 429,
+   "order": 453,
    "regions": [
     "US"
    ]
@@ -1755,7 +1940,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557027326",
-   "order": 430,
+   "order": 454,
    "regions": [
     "US"
    ]
@@ -1778,7 +1963,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8265173",
-   "order": 431,
+   "order": 455,
    "regions": [
     "US"
    ]
@@ -1801,7 +1986,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8262154",
-   "order": 432,
+   "order": 456,
    "regions": [
     "US"
    ]
@@ -1824,7 +2009,7 @@
    ],
    "phd": false,
    "job_id": "lever:woven-by-toyota:f6416c93-457d-45f1-b69a-92e3e780fad7",
-   "order": 434,
+   "order": 457,
    "regions": [
     "Other"
    ]
@@ -1847,7 +2032,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227633",
-   "order": 443,
+   "order": 466,
    "regions": [
     "US"
    ]
@@ -1870,7 +2055,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257801",
-   "order": 446,
+   "order": 469,
    "regions": [
     "US"
    ]
@@ -1894,7 +2079,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:e6502490-37c6-471a-9ffb-cf397764c518",
-   "order": 454,
+   "order": 476,
    "regions": [
     "US"
    ]
@@ -1917,7 +2102,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257159",
-   "order": 455,
+   "order": 477,
    "regions": [
     "US"
    ]
@@ -1940,7 +2125,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243732",
-   "order": 463,
+   "order": 485,
    "regions": [
     "US"
    ]
@@ -1963,7 +2148,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557022480",
-   "order": 471,
+   "order": 493,
    "regions": [
     "US"
    ]
@@ -1986,7 +2171,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243556",
-   "order": 473,
+   "order": 495,
    "regions": [
     "US"
    ]
@@ -2009,7 +2194,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557021663",
-   "order": 479,
+   "order": 501,
    "regions": [
     "US"
    ]
@@ -2032,7 +2217,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8234876",
-   "order": 487,
+   "order": 509,
    "regions": [
     "US"
    ]
@@ -2055,7 +2240,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8237997",
-   "order": 491,
+   "order": 513,
    "regions": [
     "US"
    ]
@@ -2078,7 +2263,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8234670",
-   "order": 492,
+   "order": 514,
    "regions": [
     "US"
    ]
@@ -2101,7 +2286,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227411",
-   "order": 498,
+   "order": 520,
    "regions": [
     "US"
    ]
@@ -2124,7 +2309,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8234262",
-   "order": 499,
+   "order": 521,
    "regions": [
     "US"
    ]
@@ -2147,7 +2332,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8233746",
-   "order": 500,
+   "order": 522,
    "regions": [
     "US"
    ]
@@ -2170,7 +2355,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557008574",
-   "order": 501,
+   "order": 523,
    "regions": [
     "US"
    ]
@@ -2193,7 +2378,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8231711",
-   "order": 502,
+   "order": 524,
    "regions": [
     "US"
    ]
@@ -2216,7 +2401,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227640",
-   "order": 505,
+   "order": 527,
    "regions": [
     "US"
    ]
@@ -2239,7 +2424,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8224746",
-   "order": 508,
+   "order": 530,
    "regions": [
     "US"
    ]
@@ -2262,7 +2447,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221956",
-   "order": 512,
+   "order": 534,
    "regions": [
     "US"
    ]
@@ -2285,7 +2470,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8223735",
-   "order": 513,
+   "order": 535,
    "regions": [
     "US"
    ]
@@ -2308,7 +2493,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221851",
-   "order": 518,
+   "order": 540,
    "regions": [
     "US"
    ]
@@ -2331,7 +2516,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221795",
-   "order": 519,
+   "order": 541,
    "regions": [
     "US"
    ]
@@ -2354,7 +2539,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:ab076e26-adf1-414f-a006-7b1bdc9247c8",
-   "order": 525,
+   "order": 547,
    "regions": [
     "US"
    ]
@@ -2377,53 +2562,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8203191",
-   "order": 527,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
-   "location": "London, England, United Kingdom; London (UK-LON-40BR)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
-   "posted_at": "2026-09-17T14:21:40-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8208465",
-   "order": 532,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-   "location": "Mountain View, California, United States; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
-   "posted_at": "2026-09-16T12:23:13-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8202025",
-   "order": 541,
+   "order": 549,
    "regions": [
     "US"
    ]
@@ -2446,7 +2585,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556998782",
-   "order": 549,
+   "order": 567,
    "regions": [
     "Europe"
    ]
@@ -2469,7 +2608,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8197899",
-   "order": 562,
+   "order": 580,
    "regions": [
     "US"
    ]
@@ -2493,7 +2632,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mistral.ai:fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
-   "order": 563,
+   "order": 581,
    "regions": [
     "Europe"
    ]
@@ -2516,7 +2655,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8189848",
-   "order": 576,
+   "order": 594,
    "regions": [
     "US"
    ]
@@ -2539,7 +2678,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556986148",
-   "order": 587,
+   "order": 604,
    "regions": [
     "US"
    ]
@@ -2562,7 +2701,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556986140",
-   "order": 588,
+   "order": 605,
    "regions": [
     "US"
    ]
@@ -2585,7 +2724,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556982928",
-   "order": 606,
+   "order": 623,
    "regions": [
     "US"
    ]
@@ -2608,7 +2747,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556982268",
-   "order": 607,
+   "order": 624,
    "regions": [
     "Asia"
    ]
@@ -2631,7 +2770,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556972877",
-   "order": 621,
+   "order": 638,
    "regions": [
     "Asia"
    ]
@@ -2654,7 +2793,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556972317",
-   "order": 633,
+   "order": 646,
    "regions": [
     "Asia"
    ]
@@ -2677,7 +2816,7 @@
    ],
    "phd": true,
    "job_id": "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-   "order": 710,
+   "order": 723,
    "regions": [
     "US"
    ]
@@ -2700,7 +2839,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8090222",
-   "order": 711,
+   "order": 724,
    "regions": [
     "US"
    ]
@@ -2723,7 +2862,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:gleanwork:4717716005",
-   "order": 714,
+   "order": 727,
    "regions": [
     "US",
     "Remote"
@@ -2748,7 +2887,7 @@
    ],
    "phd": true,
    "job_id": "ashby:pika:e135acb1-2a0b-47b4-81b2-3cb0f787657a",
-   "order": 730,
+   "order": 743,
    "regions": [
     "US"
    ]
@@ -2771,7 +2910,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8054878",
-   "order": 731,
+   "order": 744,
    "regions": [
     "US"
    ]
@@ -2794,7 +2933,7 @@
    ],
    "phd": true,
    "job_id": "ashby:baseten:58d7d8e6-86ee-43a1-baec-3dddcb661d51",
-   "order": 735,
+   "order": 748,
    "regions": [
     "US"
    ]
@@ -2818,7 +2957,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:de46ba8b-00cb-4618-83df-66e15a78434e",
-   "order": 738,
+   "order": 751,
    "regions": [
     "UK",
     "Europe"
@@ -2842,7 +2981,7 @@
    ],
    "phd": false,
    "job_id": "ashby:1x:5b2b4c73-13b5-46ca-8467-8024741a4b57",
-   "order": 746,
+   "order": 759,
    "regions": [
     "US"
    ]
@@ -2865,7 +3004,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:tenstorrent:5148052007",
-   "order": 777,
+   "order": 790,
    "regions": [
     "US"
    ]
@@ -2889,7 +3028,7 @@
    ],
    "phd": false,
    "job_id": "ashby:cohere:36d1f52f-8270-4652-adf5-5303a0ff341b",
-   "order": 786,
+   "order": 799,
    "regions": [
     "UK",
     "Europe",
@@ -2916,7 +3055,7 @@
    ],
    "phd": true,
    "job_id": "ashby:cohere:73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-   "order": 789,
+   "order": 801,
    "regions": [
     "UK",
     "Europe",
@@ -2942,7 +3081,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689954005",
-   "order": 791,
+   "order": 803,
    "regions": [
     "Canada",
     "Remote"
@@ -2966,7 +3105,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689950005",
-   "order": 792,
+   "order": 804,
    "regions": [
     "UK",
     "Remote"
@@ -2990,7 +3129,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689947005",
-   "order": 793,
+   "order": 805,
    "regions": [
     "US",
     "Remote"
@@ -3014,7 +3153,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183053008",
-   "order": 797,
+   "order": 809,
    "regions": [
     "UK",
     "US",
@@ -3039,7 +3178,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183051008",
-   "order": 812,
+   "order": 824,
    "regions": [
     "UK",
     "US",
@@ -3064,7 +3203,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183044008",
-   "order": 813,
+   "order": 825,
    "regions": [
     "UK",
     "US",
@@ -3089,7 +3228,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:71168628-1998-47d3-87a9-be7bc56a430d",
-   "order": 814,
+   "order": 826,
    "regions": [
     "UK"
    ]
@@ -3113,7 +3252,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:7c401bbf-ee63-4fcd-a44a-a16b9b787697",
-   "order": 827,
+   "order": 839,
    "regions": [
     "Canada",
     "US"
@@ -3138,7 +3277,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:edc2528d-6e6c-4a67-b871-bfe7d9c890b4",
-   "order": 829,
+   "order": 841,
    "regions": [
     "US"
    ]
@@ -3162,7 +3301,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:5bb0567a-8d07-4cc4-be7c-c06b31361883",
-   "order": 830,
+   "order": 842,
    "regions": [
     "US"
    ]
@@ -3186,7 +3325,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:bb953f29-0059-4a40-aa9e-3a8c88733902",
-   "order": 831,
+   "order": 843,
    "regions": [
     "US"
    ]
@@ -3210,7 +3349,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:91e0686e-272a-4780-b33d-d7860b94a7b4",
-   "order": 832,
+   "order": 844,
    "regions": [
     "US"
    ]
@@ -3233,7 +3372,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4661650005",
-   "order": 833,
+   "order": 845,
    "regions": [
     "Canada",
     "Remote"
@@ -3257,7 +3396,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4661647005",
-   "order": 834,
+   "order": 846,
    "regions": [
     "UK",
     "Remote"
@@ -3281,7 +3420,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4660340005",
-   "order": 835,
+   "order": 847,
    "regions": [
     "US",
     "Remote"
@@ -3305,7 +3444,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5106468008",
-   "order": 836,
+   "order": 848,
    "regions": [
     "Canada",
     "Remote"
@@ -3329,7 +3468,7 @@
    ],
    "phd": true,
    "job_id": "ashby:perplexity:9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-   "order": 837,
+   "order": 849,
    "regions": [
     "Europe"
    ]
@@ -3352,7 +3491,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5047247008",
-   "order": 838,
+   "order": 850,
    "regions": [
     "Canada"
    ]
@@ -3376,7 +3515,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:0fd4e30b-9bd1-4b53-9043-6088457363cb",
-   "order": 839,
+   "order": 851,
    "regions": [
     "Canada",
     "US",
@@ -3402,7 +3541,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:62700386-b9db-4c78-aec3-5ef59cbe841e",
-   "order": 840,
+   "order": 852,
    "regions": [
     "Canada",
     "US"
@@ -3427,7 +3566,7 @@
    ],
    "phd": true,
    "job_id": "ashby:etched:6f23713f-5409-45b7-aae8-adb8710cdbc3",
-   "order": 841,
+   "order": 853,
    "regions": [
     "US"
    ]
@@ -3450,7 +3589,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:nuro:7351061",
-   "order": 842,
+   "order": 854,
    "regions": [
     "US"
    ]
@@ -3473,7 +3612,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4612329005",
-   "order": 843,
+   "order": 855,
    "regions": [
     "UK",
     "Remote"
@@ -3497,7 +3636,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4620719005",
-   "order": 844,
+   "order": 856,
    "regions": [
     "UK",
     "Remote"
@@ -3521,7 +3660,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4591782005",
-   "order": 848,
+   "order": 860,
    "regions": [
     "US",
     "Remote"
@@ -3545,7 +3684,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4574113005",
-   "order": 849,
+   "order": 861,
    "regions": [
     "US",
     "Remote"
@@ -3569,7 +3708,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:goodfire:4499053008",
-   "order": 851,
+   "order": 863,
    "regions": [
     "US"
    ]
@@ -3592,7 +3731,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4476000008",
-   "order": 852,
+   "order": 864,
    "regions": [
     "Canada"
    ]
@@ -3616,7 +3755,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:ce58d9fd-f22b-4336-80b5-ba1e8d764526",
-   "order": 853,
+   "order": 865,
    "regions": [
     "US"
    ]
@@ -3639,7 +3778,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4123863008",
-   "order": 854,
+   "order": 866,
    "regions": [
     "Canada",
     "Remote"
@@ -3664,7 +3803,30 @@
    ],
    "phd": false,
    "job_id": "ashby:physicalintelligence:f020ff1a-4b4c-4415-8434-2da5010a7076",
-   "order": 855,
+   "order": 867,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Databricks",
+   "tier": "infra",
+   "ats": "greenhouse",
+   "domain": "databricks.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "PhD GenAI Research Scientist Intern",
+   "location": "San Francisco, California; Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+   "posted_at": "2023-11-07T16:36:32-05:00",
+   "department": "University Recruiting - Engineering",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:databricks:7011263002",
+   "order": 871,
    "regions": [
     "US"
    ]
@@ -3687,7 +3849,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:lgairesearch:4130830005",
-   "order": 860,
+   "order": 873,
    "regions": [
     "US"
    ]
