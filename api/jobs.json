@@ -1,7 +1,76 @@
 {
- "generated_at": "2026-11-20T07:57:50.715182+00:00",
- "count": 165,
+ "generated_at": "2026-11-21T07:55:09.390596+00:00",
+ "count": 179,
  "jobs": [
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - AI System Architecture Modeling and Performance",
+   "location": "United States, Oregon, Hillsboro",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
+   "posted_at": "2026-11-20T22:58:06+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557077583",
+   "order": 5,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Quantum Applications",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
+   "posted_at": "2026-11-20T20:58:20+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557076525",
+   "order": 6,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Allen Institute for AI (AI2)",
+   "tier": "frontier",
+   "ats": "greenhouse",
+   "domain": "allenai.org",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Internship, Climate Modeling",
+   "location": "Seattle, WA; Seattle",
+   "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052",
+   "posted_at": "2026-11-20T13:20:28-05:00",
+   "department": "Applied Science",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "greenhouse:thealleninstitute:8404052",
+   "order": 9,
+   "regions": [
+    "US"
+   ]
+  },
   {
    "company": "Sarvam AI",
    "tier": "frontier",
@@ -21,9 +90,32 @@
    ],
    "phd": false,
    "job_id": "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
-   "order": 0,
+   "order": 16,
    "regions": [
     "Asia"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+   "location": "United States, California, Mountain View; United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076215",
+   "posted_at": "2026-11-19T23:50:33+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557076215",
+   "order": 24,
+   "regions": [
+    "US"
    ]
   },
   {
@@ -44,7 +136,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076203",
-   "order": 13,
+   "order": 28,
    "regions": [
     "Canada"
    ]
@@ -67,7 +159,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076159",
-   "order": 16,
+   "order": 31,
    "regions": [
     "US"
    ]
@@ -90,7 +182,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076142",
-   "order": 17,
+   "order": 32,
    "regions": [
     "US"
    ]
@@ -113,7 +205,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076095",
-   "order": 19,
+   "order": 34,
    "regions": [
     "US"
    ]
@@ -136,7 +228,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8401116",
-   "order": 20,
+   "order": 35,
    "regions": [
     "US"
    ]
@@ -159,7 +251,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075527",
-   "order": 31,
+   "order": 46,
    "regions": [
     "US"
    ]
@@ -182,7 +274,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075490",
-   "order": 33,
+   "order": 48,
    "regions": [
     "US"
    ]
@@ -205,7 +297,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075474",
-   "order": 34,
+   "order": 49,
    "regions": [
     "Canada"
    ]
@@ -228,7 +320,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075457",
-   "order": 35,
+   "order": 50,
    "regions": [
     "US"
    ]
@@ -251,10 +343,34 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075448",
-   "order": 36,
+   "order": 51,
    "regions": [
     "UK"
    ]
+  },
+  {
+   "company": "Sony AI (Japan)",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "ai.sony",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Internship - Audio-Visual AI Research Scientist",
+   "location": "Tokyo - Osaki",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---Audio-Visual-AI-Research-Scientist_JR-116503",
+   "posted_at": "2026-11-18T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116503",
+   "order": 55,
+   "regions": [
+    "Asia"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Microsoft / MSR",
@@ -274,7 +390,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075140",
-   "order": 42,
+   "order": 58,
    "regions": [
     "US"
    ]
@@ -297,7 +413,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075136",
-   "order": 43,
+   "order": 59,
    "regions": [
     "US"
    ]
@@ -320,10 +436,34 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557075074",
-   "order": 44,
+   "order": 60,
    "regions": [
     "US"
    ]
+  },
+  {
+   "company": "Sony AI (Japan)",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "ai.sony",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Internship - Machine Learning Researcher (AI Agent)",
+   "location": "Tokyo - Osaki",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---Machine-Learning-Researcher--AI-Agent-_JR-119876",
+   "posted_at": "2026-11-17T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-119876",
+   "order": 62,
+   "regions": [
+    "Asia"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Microsoft / MSR",
@@ -343,7 +483,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557074642",
-   "order": 47,
+   "order": 64,
    "regions": [
     "US"
    ]
@@ -366,7 +506,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557073455",
-   "order": 65,
+   "order": 83,
    "regions": [
     "US"
    ]
@@ -389,7 +529,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557073416",
-   "order": 66,
+   "order": 84,
    "regions": [
     "US"
    ]
@@ -412,10 +552,34 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293636",
-   "order": 67,
+   "order": 85,
    "regions": [
     "US"
    ]
+  },
+  {
+   "company": "Adobe",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "adobe.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Intern - Research Scientist",
+   "location": "London",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345",
+   "posted_at": "2026-11-13T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R173345",
+   "order": 87,
+   "regions": [
+    "UK"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Microsoft / MSR",
@@ -435,7 +599,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557070382",
-   "order": 92,
+   "order": 110,
    "regions": [
     "UK"
    ]
@@ -458,7 +622,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557070079",
-   "order": 98,
+   "order": 116,
    "regions": [
     "US"
    ]
@@ -481,7 +645,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557056017",
-   "order": 118,
+   "order": 136,
    "regions": [
     "US"
    ]
@@ -505,7 +669,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:f7245b49-92a0-4111-bba1-343183de7d97",
-   "order": 122,
+   "order": 140,
    "regions": [
     "UK",
     "Europe"
@@ -529,7 +693,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8351210",
-   "order": 123,
+   "order": 141,
    "regions": [
     "US"
    ]
@@ -552,10 +716,34 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8358262",
-   "order": 124,
+   "order": 142,
    "regions": [
     "US"
    ]
+  },
+  {
+   "company": "Samsung Research",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "research.samsung.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Samsung Care AI Data Analytic Intern",
+   "location": "6625 Excellence Way, Plano, TX, USA",
+   "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "workday:sec.wd3.myworkdayjobs.com/sec/Samsung_Careers:R121971",
+   "order": 152,
+   "regions": [
+    "US"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Allen Institute for AI (AI2)",
@@ -575,7 +763,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8337364",
-   "order": 137,
+   "order": 156,
    "regions": [
     "US"
    ]
@@ -598,7 +786,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557054069",
-   "order": 159,
+   "order": 177,
    "regions": [
     "US"
    ]
@@ -622,7 +810,7 @@
    ],
    "phd": true,
    "job_id": "ashby:etched:05d67dff-a7a4-4ece-a809-3200d95e7440",
-   "order": 161,
+   "order": 179,
    "regions": [
     "US"
    ]
@@ -645,7 +833,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557053024",
-   "order": 184,
+   "order": 202,
    "regions": [
     "US"
    ]
@@ -668,7 +856,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557053016",
-   "order": 185,
+   "order": 203,
    "regions": [
     "US"
    ]
@@ -691,7 +879,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557052982",
-   "order": 186,
+   "order": 204,
    "regions": [
     "US"
    ]
@@ -715,7 +903,7 @@
    ],
    "phd": true,
    "job_id": "ashby:sierra:ef896ee9-e903-4a1f-84c2-537373cb9081",
-   "order": 189,
+   "order": 207,
    "regions": [
     "US"
    ]
@@ -738,7 +926,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557051409",
-   "order": 198,
+   "order": 216,
    "regions": [
     "US"
    ]
@@ -761,7 +949,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8337719",
-   "order": 200,
+   "order": 218,
    "regions": [
     "US"
    ]
@@ -784,7 +972,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050154",
-   "order": 226,
+   "order": 242,
    "regions": [
     "US"
    ]
@@ -807,7 +995,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557050150",
-   "order": 227,
+   "order": 243,
    "regions": [
     "US"
    ]
@@ -830,7 +1018,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050112",
-   "order": 228,
+   "order": 244,
    "regions": [
     "Europe"
    ]
@@ -853,7 +1041,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050102",
-   "order": 229,
+   "order": 245,
    "regions": [
     "UK"
    ]
@@ -876,7 +1064,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050039",
-   "order": 230,
+   "order": 246,
    "regions": [
     "US"
    ]
@@ -899,7 +1087,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:anthropic:5439169008",
-   "order": 232,
+   "order": 248,
    "regions": [
     "UK"
    ]
@@ -922,7 +1110,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:anthropic:5438311008",
-   "order": 233,
+   "order": 249,
    "regions": [
     "US",
     "Remote"
@@ -946,7 +1134,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557049981",
-   "order": 234,
+   "order": 250,
    "regions": [
     "US"
    ]
@@ -970,7 +1158,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
-   "order": 241,
+   "order": 256,
    "regions": [
     "US"
    ]
@@ -994,10 +1182,35 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:049bd532-6fb7-4ae6-85a1-788dd31a14ca",
-   "order": 242,
+   "order": 257,
    "regions": [
     "US"
    ]
+  },
+  {
+   "company": "Sony (global)",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "sony.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Engineer Intern (Ethical Creative and Protective AI Lab)",
+   "location": "Remote - New York; Remote - Connecticut; Remote - Michigan; Remote - Florida; Remote - Massachusetts; Remote - New Jersey; Remote - Virginia",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
+   "posted_at": "2026-10-27T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers:JR-119784",
+   "order": 274,
+   "regions": [
+    "US",
+    "Remote"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Moloco",
@@ -1017,7 +1230,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:moloco:8044892003",
-   "order": 269,
+   "order": 285,
    "regions": [
     "Asia"
    ]
@@ -1040,7 +1253,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8319350",
-   "order": 270,
+   "order": 286,
    "regions": [
     "US"
    ]
@@ -1063,7 +1276,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8304574",
-   "order": 279,
+   "order": 295,
    "regions": [
     "US"
    ]
@@ -1086,7 +1299,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557045963",
-   "order": 280,
+   "order": 296,
    "regions": [
     "US"
    ]
@@ -1109,7 +1322,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8287385",
-   "order": 281,
+   "order": 297,
    "regions": [
     "US"
    ]
@@ -1132,7 +1345,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557045445",
-   "order": 310,
+   "order": 326,
    "regions": [
     "US"
    ]
@@ -1155,7 +1368,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306779",
-   "order": 311,
+   "order": 327,
    "regions": [
     "US"
    ]
@@ -1178,7 +1391,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306867",
-   "order": 312,
+   "order": 328,
    "regions": [
     "US"
    ]
@@ -1201,7 +1414,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306841",
-   "order": 313,
+   "order": 329,
    "regions": [
     "US"
    ]
@@ -1224,10 +1437,34 @@
    ],
    "phd": true,
    "job_id": "greenhouse:graphcore:8894738002",
-   "order": 332,
+   "order": 348,
    "regions": [
     "UK"
    ]
+  },
+  {
+   "company": "Adobe",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "adobe.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Intern - Applied and Research Scientist/Engineer",
+   "location": "San Jose; College Park; San Francisco; Seattle; Cambridge; New York",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064",
+   "posted_at": "2026-10-20T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172064",
+   "order": 349,
+   "regions": [
+    "US"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Microsoft / MSR",
@@ -1247,7 +1484,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043754",
-   "order": 349,
+   "order": 366,
    "regions": [
     "US"
    ]
@@ -1270,7 +1507,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043740",
-   "order": 350,
+   "order": 367,
    "regions": [
     "US"
    ]
@@ -1293,7 +1530,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8301854",
-   "order": 351,
+   "order": 368,
    "regions": [
     "US"
    ]
@@ -1316,7 +1553,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8283558",
-   "order": 352,
+   "order": 369,
    "regions": [
     "US"
    ]
@@ -1339,7 +1576,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293641",
-   "order": 353,
+   "order": 370,
    "regions": [
     "US"
    ]
@@ -1362,7 +1599,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293615",
-   "order": 354,
+   "order": 371,
    "regions": [
     "US"
    ]
@@ -1385,32 +1622,9 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4735665005",
-   "order": 355,
+   "order": 372,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern: Audio and Speech Processing",
-   "location": "Germany, Bavaria, Munich",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043468",
-   "posted_at": "2026-10-19T13:30:41+00:00",
-   "department": "Windows and Devices Group",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557043468",
-   "order": 356,
-   "regions": [
-    "Europe"
    ]
   },
   {
@@ -1431,7 +1645,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043465",
-   "order": 357,
+   "order": 373,
    "regions": [
     "Asia"
    ]
@@ -1454,7 +1668,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8292367",
-   "order": 358,
+   "order": 374,
    "regions": [
     "US"
    ]
@@ -1477,7 +1691,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8289816",
-   "order": 359,
+   "order": 375,
    "regions": [
     "US"
    ]
@@ -1500,10 +1714,82 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557043380",
-   "order": 360,
+   "order": 376,
    "regions": [
     "Asia"
    ]
+  },
+  {
+   "company": "Adobe",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "adobe.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Intern - Research PhD Intern",
+   "location": "Bangalore",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016",
+   "posted_at": "2026-10-19T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R173016",
+   "order": 379,
+   "regions": [
+    "Asia"
+   ],
+   "stale_since": "2026-11-21"
+  },
+  {
+   "company": "Adobe",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "adobe.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Intern - Experience Researcher",
+   "location": "San Jose",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996",
+   "posted_at": "2026-10-19T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172996",
+   "order": 378,
+   "regions": [
+    "US"
+   ],
+   "stale_since": "2026-11-21"
+  },
+  {
+   "company": "Adobe",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "adobe.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Intern - AI & Architecture",
+   "location": "San Jose",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
+   "posted_at": "2026-10-19T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172998",
+   "order": 377,
+   "regions": [
+    "US"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Microsoft / MSR",
@@ -1523,7 +1809,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557042488",
-   "order": 363,
+   "order": 382,
    "regions": [
     "Asia"
    ]
@@ -1546,7 +1832,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557042156",
-   "order": 367,
+   "order": 386,
    "regions": [
     "US"
    ]
@@ -1569,7 +1855,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557042145",
-   "order": 368,
+   "order": 387,
    "regions": [
     "US"
    ]
@@ -1592,7 +1878,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4744402005",
-   "order": 369,
+   "order": 388,
    "regions": [
     "UK",
     "Canada",
@@ -1618,7 +1904,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557041731",
-   "order": 373,
+   "order": 392,
    "regions": [
     "US"
    ]
@@ -1641,7 +1927,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8244128",
-   "order": 379,
+   "order": 398,
    "regions": [
     "US"
    ]
@@ -1664,7 +1950,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557041012",
-   "order": 387,
+   "order": 406,
    "regions": [
     "US"
    ]
@@ -1687,10 +1973,34 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040991",
-   "order": 388,
+   "order": 407,
    "regions": [
     "US"
    ]
+  },
+  {
+   "company": "Sony AI (Japan)",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "ai.sony",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern on Generative and Protective AI for Content Creation",
+   "location": "Tokyo - Osaki",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/XMLNAME--Sony-Research-Research-Intern-on-Generative-AI-for-Content-Creation_JR-116768",
+   "posted_at": "2026-10-14T00:00:00+00:00",
+   "department": "",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116768",
+   "order": 420,
+   "regions": [
+    "Asia"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Microsoft / MSR",
@@ -1710,7 +2020,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040502",
-   "order": 405,
+   "order": 423,
    "regions": [
     "US"
    ]
@@ -1733,7 +2043,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040344",
-   "order": 415,
+   "order": 433,
    "regions": [
     "US"
    ]
@@ -1756,7 +2066,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040333",
-   "order": 416,
+   "order": 434,
    "regions": [
     "US"
    ]
@@ -1779,7 +2089,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8279620",
-   "order": 417,
+   "order": 435,
    "regions": [
     "US"
    ]
@@ -1802,7 +2112,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8265868",
-   "order": 418,
+   "order": 436,
    "regions": [
     "UK"
    ]
@@ -1825,7 +2135,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557039243",
-   "order": 424,
+   "order": 442,
    "regions": [
     "US"
    ]
@@ -1848,7 +2158,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8258070",
-   "order": 436,
+   "order": 454,
    "regions": [
     "US"
    ]
@@ -1871,7 +2181,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257006",
-   "order": 437,
+   "order": 455,
    "regions": [
     "US"
    ]
@@ -1894,7 +2204,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557037649",
-   "order": 438,
+   "order": 456,
    "regions": [
     "US"
    ]
@@ -1917,7 +2227,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557027378",
-   "order": 453,
+   "order": 471,
    "regions": [
     "US"
    ]
@@ -1940,7 +2250,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557027326",
-   "order": 454,
+   "order": 472,
    "regions": [
     "US"
    ]
@@ -1963,7 +2273,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8265173",
-   "order": 455,
+   "order": 473,
    "regions": [
     "US"
    ]
@@ -1986,7 +2296,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8262154",
-   "order": 456,
+   "order": 474,
    "regions": [
     "US"
    ]
@@ -2009,7 +2319,7 @@
    ],
    "phd": false,
    "job_id": "lever:woven-by-toyota:f6416c93-457d-45f1-b69a-92e3e780fad7",
-   "order": 457,
+   "order": 475,
    "regions": [
     "Other"
    ]
@@ -2032,7 +2342,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227633",
-   "order": 466,
+   "order": 484,
    "regions": [
     "US"
    ]
@@ -2055,7 +2365,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257801",
-   "order": 469,
+   "order": 487,
    "regions": [
     "US"
    ]
@@ -2079,7 +2389,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:e6502490-37c6-471a-9ffb-cf397764c518",
-   "order": 476,
+   "order": 494,
    "regions": [
     "US"
    ]
@@ -2102,7 +2412,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257159",
-   "order": 477,
+   "order": 495,
    "regions": [
     "US"
    ]
@@ -2125,7 +2435,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243732",
-   "order": 485,
+   "order": 503,
    "regions": [
     "US"
    ]
@@ -2148,7 +2458,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557022480",
-   "order": 493,
+   "order": 511,
    "regions": [
     "US"
    ]
@@ -2171,10 +2481,34 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243556",
-   "order": 495,
+   "order": 513,
    "regions": [
     "US"
    ]
+  },
+  {
+   "company": "Adobe",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "adobe.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Intern - Machine Learning Engineer",
+   "location": "San Jose; Waltham; San Francisco; Austin; Seattle; Lehi; New York",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+   "posted_at": "2026-10-01T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R171519",
+   "order": 515,
+   "regions": [
+    "US"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Microsoft / MSR",
@@ -2194,7 +2528,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557021663",
-   "order": 501,
+   "order": 520,
    "regions": [
     "US"
    ]
@@ -2217,7 +2551,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8234876",
-   "order": 509,
+   "order": 528,
    "regions": [
     "US"
    ]
@@ -2240,30 +2574,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8237997",
-   "order": 513,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, MS/PhD, Perception Systems Engineering: Pedestrian Detection Precision",
-   "location": "San Francisco, California; San Francisco (US-SFO-MKT555)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
-   "posted_at": "2026-09-28T15:34:51-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "medium",
-   "match": [
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8234670",
-   "order": 514,
+   "order": 532,
    "regions": [
     "US"
    ]
@@ -2286,7 +2597,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227411",
-   "order": 520,
+   "order": 538,
    "regions": [
     "US"
    ]
@@ -2309,7 +2620,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8234262",
-   "order": 521,
+   "order": 539,
    "regions": [
     "US"
    ]
@@ -2332,7 +2643,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8233746",
-   "order": 522,
+   "order": 540,
    "regions": [
     "US"
    ]
@@ -2355,7 +2666,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557008574",
-   "order": 523,
+   "order": 541,
    "regions": [
     "US"
    ]
@@ -2378,7 +2689,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8231711",
-   "order": 524,
+   "order": 542,
    "regions": [
     "US"
    ]
@@ -2401,30 +2712,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227640",
-   "order": 527,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
-   "location": "Mountain View, California; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
-   "posted_at": "2026-09-23T15:28:48-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8224746",
-   "order": 530,
+   "order": 545,
    "regions": [
     "US"
    ]
@@ -2447,7 +2735,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221956",
-   "order": 534,
+   "order": 550,
    "regions": [
     "US"
    ]
@@ -2470,7 +2758,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8223735",
-   "order": 535,
+   "order": 551,
    "regions": [
     "US"
    ]
@@ -2493,7 +2781,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221851",
-   "order": 540,
+   "order": 556,
    "regions": [
     "US"
    ]
@@ -2516,7 +2804,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221795",
-   "order": 541,
+   "order": 557,
    "regions": [
     "US"
    ]
@@ -2539,7 +2827,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:ab076e26-adf1-414f-a006-7b1bdc9247c8",
-   "order": 547,
+   "order": 563,
    "regions": [
     "US"
    ]
@@ -2562,7 +2850,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8203191",
-   "order": 549,
+   "order": 565,
    "regions": [
     "US"
    ]
@@ -2585,7 +2873,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556998782",
-   "order": 567,
+   "order": 584,
    "regions": [
     "Europe"
    ]
@@ -2608,7 +2896,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8197899",
-   "order": 580,
+   "order": 597,
    "regions": [
     "US"
    ]
@@ -2632,32 +2920,9 @@
    ],
    "phd": false,
    "job_id": "ashby:mistral.ai:fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
-   "order": 581,
+   "order": 598,
    "regions": [
     "Europe"
-   ]
-  },
-  {
-   "company": "Waymo",
-   "tier": "bigtech",
-   "ats": "greenhouse",
-   "domain": "waymo.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "2027 Summer Intern, PhD, Vehicle Intent and Prediction",
-   "location": "Mountain View, California; Mountain View (US-MTV-EMF680)",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8189848",
-   "posted_at": "2026-09-10T16:09:47-04:00",
-   "department": "Pipeline (N/A)",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:waymo:8189848",
-   "order": 594,
-   "regions": [
-    "US"
    ]
   },
   {
@@ -2678,7 +2943,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556986148",
-   "order": 604,
+   "order": 620,
    "regions": [
     "US"
    ]
@@ -2701,7 +2966,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556986140",
-   "order": 605,
+   "order": 621,
    "regions": [
     "US"
    ]
@@ -2724,7 +2989,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556982928",
-   "order": 623,
+   "order": 638,
    "regions": [
     "US"
    ]
@@ -2747,7 +3012,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556982268",
-   "order": 624,
+   "order": 639,
    "regions": [
     "Asia"
    ]
@@ -2770,7 +3035,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556972877",
-   "order": 638,
+   "order": 653,
    "regions": [
     "Asia"
    ]
@@ -2793,10 +3058,34 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556972317",
-   "order": 646,
+   "order": 661,
    "regions": [
     "Asia"
    ]
+  },
+  {
+   "company": "Sony AI (Japan)",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "ai.sony",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Internship - Researcher / Natural Language Processing (NLP) for Multimodal Machine Learning",
+   "location": "Tokyo - Osaki",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---Researcher---Natural-Language-Processing--NLP--for-Multimodal-Machine-Learning_JR-116491",
+   "posted_at": "2026-07-31T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116491",
+   "order": 737,
+   "regions": [
+    "Asia"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Modal",
@@ -2816,7 +3105,7 @@
    ],
    "phd": true,
    "job_id": "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-   "order": 723,
+   "order": 739,
    "regions": [
     "US"
    ]
@@ -2839,7 +3128,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8090222",
-   "order": 724,
+   "order": 740,
    "regions": [
     "US"
    ]
@@ -2862,7 +3151,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:gleanwork:4717716005",
-   "order": 727,
+   "order": 743,
    "regions": [
     "US",
     "Remote"
@@ -2887,7 +3176,7 @@
    ],
    "phd": true,
    "job_id": "ashby:pika:e135acb1-2a0b-47b4-81b2-3cb0f787657a",
-   "order": 743,
+   "order": 759,
    "regions": [
     "US"
    ]
@@ -2910,7 +3199,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8054878",
-   "order": 744,
+   "order": 760,
    "regions": [
     "US"
    ]
@@ -2933,7 +3222,7 @@
    ],
    "phd": true,
    "job_id": "ashby:baseten:58d7d8e6-86ee-43a1-baec-3dddcb661d51",
-   "order": 748,
+   "order": 764,
    "regions": [
     "US"
    ]
@@ -2957,7 +3246,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:de46ba8b-00cb-4618-83df-66e15a78434e",
-   "order": 751,
+   "order": 767,
    "regions": [
     "UK",
     "Europe"
@@ -2981,7 +3270,7 @@
    ],
    "phd": false,
    "job_id": "ashby:1x:5b2b4c73-13b5-46ca-8467-8024741a4b57",
-   "order": 759,
+   "order": 775,
    "regions": [
     "US"
    ]
@@ -3004,7 +3293,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:tenstorrent:5148052007",
-   "order": 790,
+   "order": 805,
    "regions": [
     "US"
    ]
@@ -3028,7 +3317,7 @@
    ],
    "phd": false,
    "job_id": "ashby:cohere:36d1f52f-8270-4652-adf5-5303a0ff341b",
-   "order": 799,
+   "order": 814,
    "regions": [
     "UK",
     "Europe",
@@ -3055,7 +3344,7 @@
    ],
    "phd": true,
    "job_id": "ashby:cohere:73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-   "order": 801,
+   "order": 816,
    "regions": [
     "UK",
     "Europe",
@@ -3081,7 +3370,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689954005",
-   "order": 803,
+   "order": 818,
    "regions": [
     "Canada",
     "Remote"
@@ -3105,7 +3394,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689950005",
-   "order": 804,
+   "order": 819,
    "regions": [
     "UK",
     "Remote"
@@ -3129,7 +3418,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689947005",
-   "order": 805,
+   "order": 820,
    "regions": [
     "US",
     "Remote"
@@ -3153,7 +3442,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183053008",
-   "order": 809,
+   "order": 824,
    "regions": [
     "UK",
     "US",
@@ -3178,7 +3467,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183051008",
-   "order": 824,
+   "order": 839,
    "regions": [
     "UK",
     "US",
@@ -3203,7 +3492,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183044008",
-   "order": 825,
+   "order": 840,
    "regions": [
     "UK",
     "US",
@@ -3228,7 +3517,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:71168628-1998-47d3-87a9-be7bc56a430d",
-   "order": 826,
+   "order": 841,
    "regions": [
     "UK"
    ]
@@ -3252,7 +3541,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:7c401bbf-ee63-4fcd-a44a-a16b9b787697",
-   "order": 839,
+   "order": 853,
    "regions": [
     "Canada",
     "US"
@@ -3277,7 +3566,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:edc2528d-6e6c-4a67-b871-bfe7d9c890b4",
-   "order": 841,
+   "order": 855,
    "regions": [
     "US"
    ]
@@ -3301,7 +3590,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:5bb0567a-8d07-4cc4-be7c-c06b31361883",
-   "order": 842,
+   "order": 856,
    "regions": [
     "US"
    ]
@@ -3325,7 +3614,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:bb953f29-0059-4a40-aa9e-3a8c88733902",
-   "order": 843,
+   "order": 857,
    "regions": [
     "US"
    ]
@@ -3349,7 +3638,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:91e0686e-272a-4780-b33d-d7860b94a7b4",
-   "order": 844,
+   "order": 858,
    "regions": [
     "US"
    ]
@@ -3372,7 +3661,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4661650005",
-   "order": 845,
+   "order": 859,
    "regions": [
     "Canada",
     "Remote"
@@ -3396,7 +3685,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4661647005",
-   "order": 846,
+   "order": 860,
    "regions": [
     "UK",
     "Remote"
@@ -3420,7 +3709,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4660340005",
-   "order": 847,
+   "order": 861,
    "regions": [
     "US",
     "Remote"
@@ -3444,7 +3733,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5106468008",
-   "order": 848,
+   "order": 862,
    "regions": [
     "Canada",
     "Remote"
@@ -3468,10 +3757,58 @@
    ],
    "phd": true,
    "job_id": "ashby:perplexity:9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-   "order": 849,
+   "order": 863,
    "regions": [
     "Europe"
    ]
+  },
+  {
+   "company": "Sony AI (Japan)",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "ai.sony",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Internship - Research Engineer for Natural Language Processing",
+   "location": "Tokyo - Osaki",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---Research-Engineer-for-Natural-Language-Processing_JR-116531",
+   "posted_at": "2025-12-29T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116531",
+   "order": 865,
+   "regions": [
+    "Asia"
+   ],
+   "stale_since": "2026-11-21"
+  },
+  {
+   "company": "Sony AI (Japan)",
+   "tier": "bigtech",
+   "ats": "workday",
+   "domain": "ai.sony",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Internship - AI Application Engineer",
+   "location": "Tokyo - Osaki",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyJapanCareers/job/Tokyo---Osaki/Internship---AI-Application-Engineer_JR-116529",
+   "posted_at": "2025-12-29T00:00:00+00:00",
+   "department": "",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": false,
+   "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116529",
+   "order": 864,
+   "regions": [
+    "Asia"
+   ],
+   "stale_since": "2026-11-21"
   },
   {
    "company": "Cresta",
@@ -3491,7 +3828,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5047247008",
-   "order": 850,
+   "order": 866,
    "regions": [
     "Canada"
    ]
@@ -3515,7 +3852,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:0fd4e30b-9bd1-4b53-9043-6088457363cb",
-   "order": 851,
+   "order": 867,
    "regions": [
     "Canada",
     "US",
@@ -3541,7 +3878,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:62700386-b9db-4c78-aec3-5ef59cbe841e",
-   "order": 852,
+   "order": 868,
    "regions": [
     "Canada",
     "US"
@@ -3566,7 +3903,7 @@
    ],
    "phd": true,
    "job_id": "ashby:etched:6f23713f-5409-45b7-aae8-adb8710cdbc3",
-   "order": 853,
+   "order": 869,
    "regions": [
     "US"
    ]
@@ -3589,7 +3926,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:nuro:7351061",
-   "order": 854,
+   "order": 870,
    "regions": [
     "US"
    ]
@@ -3612,7 +3949,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4612329005",
-   "order": 855,
+   "order": 871,
    "regions": [
     "UK",
     "Remote"
@@ -3636,7 +3973,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4620719005",
-   "order": 856,
+   "order": 872,
    "regions": [
     "UK",
     "Remote"
@@ -3660,7 +3997,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4591782005",
-   "order": 860,
+   "order": 876,
    "regions": [
     "US",
     "Remote"
@@ -3684,7 +4021,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4574113005",
-   "order": 861,
+   "order": 877,
    "regions": [
     "US",
     "Remote"
@@ -3708,7 +4045,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:goodfire:4499053008",
-   "order": 863,
+   "order": 879,
    "regions": [
     "US"
    ]
@@ -3731,7 +4068,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4476000008",
-   "order": 864,
+   "order": 880,
    "regions": [
     "Canada"
    ]
@@ -3755,7 +4092,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:ce58d9fd-f22b-4336-80b5-ba1e8d764526",
-   "order": 865,
+   "order": 881,
    "regions": [
     "US"
    ]
@@ -3778,7 +4115,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4123863008",
-   "order": 866,
+   "order": 882,
    "regions": [
     "Canada",
     "Remote"
@@ -3803,7 +4140,7 @@
    ],
    "phd": false,
    "job_id": "ashby:physicalintelligence:f020ff1a-4b4c-4415-8434-2da5010a7076",
-   "order": 867,
+   "order": 883,
    "regions": [
     "US"
    ]
@@ -3826,7 +4163,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:databricks:7011263002",
-   "order": 871,
+   "order": 887,
    "regions": [
     "US"
    ]
@@ -3849,7 +4186,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:lgairesearch:4130830005",
-   "order": 873,
+   "order": 889,
    "regions": [
     "US"
    ]
