@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:55:09.390596+00:00",
+ "generated_at": "2026-11-22T07:40:34.540199+00:00",
  "active": 110,
  "excluded": 29,
  "unresolved": 51,
@@ -1313,11 +1313,11 @@
   },
   {
    "name": "Parloa",
-   "ats": "greenhouse",
+   "ats": "ashby",
    "slug": "parloa",
    "tier": "startup",
-   "verified_at": "2026-08-26",
-   "job_count": 51,
+   "verified_at": "2026-11-21",
+   "job_count": 46,
    "active": true,
    "domain": "parloa.com",
    "note": "ashby/parloa is the same company but an empty board; greenhouse is the live one"
