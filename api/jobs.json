@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T08:29:55.134681+00:00",
- "count": 172,
+ "generated_at": "2026-11-24T10:37:24.766131+00:00",
+ "count": 171,
  "jobs": [
   {
    "company": "Microsoft / MSR",
@@ -20,7 +20,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557077583",
-   "order": 5,
+   "order": 12,
    "regions": [
     "US"
    ]
@@ -43,7 +43,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076525",
-   "order": 6,
+   "order": 13,
    "regions": [
     "US"
    ]
@@ -66,7 +66,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8404052",
-   "order": 9,
+   "order": 16,
    "regions": [
     "US"
    ]
@@ -90,7 +90,7 @@
    ],
    "phd": false,
    "job_id": "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
-   "order": 16,
+   "order": 23,
    "regions": [
     "Asia"
    ]
@@ -113,7 +113,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076215",
-   "order": 26,
+   "order": 33,
    "regions": [
     "US"
    ]
@@ -136,7 +136,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076203",
-   "order": 30,
+   "order": 37,
    "regions": [
     "Canada"
    ]
@@ -159,7 +159,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076159",
-   "order": 33,
+   "order": 40,
    "regions": [
     "US"
    ]
@@ -182,7 +182,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076142",
-   "order": 34,
+   "order": 41,
    "regions": [
     "US"
    ]
@@ -205,7 +205,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557076095",
-   "order": 36,
+   "order": 43,
    "regions": [
     "US"
    ]
@@ -228,7 +228,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8401116",
-   "order": 37,
+   "order": 44,
    "regions": [
     "US"
    ]
@@ -251,7 +251,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075527",
-   "order": 51,
+   "order": 58,
    "regions": [
     "US"
    ]
@@ -274,7 +274,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075490",
-   "order": 53,
+   "order": 60,
    "regions": [
     "US"
    ]
@@ -297,7 +297,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075474",
-   "order": 54,
+   "order": 61,
    "regions": [
     "Canada"
    ]
@@ -320,7 +320,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075457",
-   "order": 55,
+   "order": 62,
    "regions": [
     "US"
    ]
@@ -343,7 +343,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075448",
-   "order": 56,
+   "order": 63,
    "regions": [
     "UK"
    ]
@@ -366,7 +366,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116503",
-   "order": 60,
+   "order": 67,
    "regions": [
     "Asia"
    ],
@@ -390,7 +390,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075140",
-   "order": 63,
+   "order": 70,
    "regions": [
     "US"
    ]
@@ -413,7 +413,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557075136",
-   "order": 64,
+   "order": 71,
    "regions": [
     "US"
    ]
@@ -436,7 +436,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557075074",
-   "order": 65,
+   "order": 72,
    "regions": [
     "US"
    ]
@@ -459,7 +459,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-119876",
-   "order": 68,
+   "order": 75,
    "regions": [
     "Asia"
    ],
@@ -483,7 +483,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557074642",
-   "order": 70,
+   "order": 77,
    "regions": [
     "US"
    ]
@@ -506,7 +506,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557073455",
-   "order": 90,
+   "order": 96,
    "regions": [
     "US"
    ]
@@ -529,7 +529,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557073416",
-   "order": 91,
+   "order": 97,
    "regions": [
     "US"
    ]
@@ -552,7 +552,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293636",
-   "order": 92,
+   "order": 98,
    "regions": [
     "US"
    ]
@@ -575,7 +575,7 @@
    ],
    "phd": true,
    "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R173345",
-   "order": 94,
+   "order": 100,
    "regions": [
     "UK"
    ],
@@ -599,7 +599,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557070382",
-   "order": 117,
+   "order": 123,
    "regions": [
     "UK"
    ]
@@ -622,7 +622,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557070079",
-   "order": 123,
+   "order": 129,
    "regions": [
     "US"
    ]
@@ -645,7 +645,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557056017",
-   "order": 143,
+   "order": 149,
    "regions": [
     "US"
    ]
@@ -669,7 +669,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:f7245b49-92a0-4111-bba1-343183de7d97",
-   "order": 147,
+   "order": 153,
    "regions": [
     "UK",
     "Europe"
@@ -693,7 +693,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8351210",
-   "order": 148,
+   "order": 154,
    "regions": [
     "US"
    ]
@@ -716,7 +716,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8358262",
-   "order": 149,
+   "order": 155,
    "regions": [
     "US"
    ]
@@ -739,7 +739,7 @@
    ],
    "phd": false,
    "job_id": "workday:sec.wd3.myworkdayjobs.com/sec/Samsung_Careers:R121971",
-   "order": 159,
+   "order": 165,
    "regions": [
     "US"
    ],
@@ -763,7 +763,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8337364",
-   "order": 163,
+   "order": 169,
    "regions": [
     "US"
    ]
@@ -786,7 +786,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557054069",
-   "order": 184,
+   "order": 190,
    "regions": [
     "US"
    ]
@@ -810,7 +810,7 @@
    ],
    "phd": true,
    "job_id": "ashby:etched:05d67dff-a7a4-4ece-a809-3200d95e7440",
-   "order": 186,
+   "order": 192,
    "regions": [
     "US"
    ]
@@ -833,7 +833,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557053024",
-   "order": 209,
+   "order": 215,
    "regions": [
     "US"
    ]
@@ -856,7 +856,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557053016",
-   "order": 210,
+   "order": 216,
    "regions": [
     "US"
    ]
@@ -879,7 +879,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557052982",
-   "order": 211,
+   "order": 217,
    "regions": [
     "US"
    ]
@@ -903,7 +903,7 @@
    ],
    "phd": true,
    "job_id": "ashby:sierra:ef896ee9-e903-4a1f-84c2-537373cb9081",
-   "order": 214,
+   "order": 220,
    "regions": [
     "US"
    ]
@@ -926,7 +926,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557051409",
-   "order": 223,
+   "order": 229,
    "regions": [
     "US"
    ]
@@ -949,7 +949,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8337719",
-   "order": 225,
+   "order": 231,
    "regions": [
     "US"
    ]
@@ -972,7 +972,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050154",
-   "order": 249,
+   "order": 255,
    "regions": [
     "US"
    ]
@@ -995,7 +995,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557050150",
-   "order": 250,
+   "order": 256,
    "regions": [
     "US"
    ]
@@ -1018,7 +1018,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050112",
-   "order": 251,
+   "order": 257,
    "regions": [
     "Europe"
    ]
@@ -1041,7 +1041,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050102",
-   "order": 252,
+   "order": 258,
    "regions": [
     "UK"
    ]
@@ -1064,56 +1064,9 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557050039",
-   "order": 253,
+   "order": 259,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "company": "Anthropic",
-   "tier": "frontier",
-   "ats": "greenhouse",
-   "domain": "anthropic.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Anthropic Research Resident",
-   "location": "London, UK",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
-   "posted_at": "2026-10-28T15:09:02-04:00",
-   "department": "AI Research & Engineering",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:anthropic:5439169008",
-   "order": 255,
-   "regions": [
-    "UK"
-   ]
-  },
-  {
-   "company": "Anthropic",
-   "tier": "frontier",
-   "ats": "greenhouse",
-   "domain": "anthropic.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Anthropic Research Resident",
-   "location": "San Francisco, CA; New York City, NY; Remote-Friendly US (Travel Required)",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-   "posted_at": "2026-10-28T15:09:00-04:00",
-   "department": "AI Research & Engineering",
-   "confidence": "high",
-   "match": [
-    "title-strong"
-   ],
-   "phd": true,
-   "job_id": "greenhouse:anthropic:5438311008",
-   "order": 256,
-   "regions": [
-    "US",
-    "Remote"
    ]
   },
   {
@@ -1134,7 +1087,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557049981",
-   "order": 257,
+   "order": 261,
    "regions": [
     "US"
    ]
@@ -1158,7 +1111,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
-   "order": 263,
+   "order": 266,
    "regions": [
     "US"
    ]
@@ -1182,7 +1135,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:049bd532-6fb7-4ae6-85a1-788dd31a14ca",
-   "order": 264,
+   "order": 267,
    "regions": [
     "US"
    ]
@@ -1205,7 +1158,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyGlobalCareers:JR-119784",
-   "order": 280,
+   "order": 283,
    "regions": [
     "US",
     "Remote"
@@ -1230,7 +1183,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:moloco:8044892003",
-   "order": 291,
+   "order": 294,
    "regions": [
     "Asia"
    ]
@@ -1253,7 +1206,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8319350",
-   "order": 292,
+   "order": 295,
    "regions": [
     "US"
    ]
@@ -1276,7 +1229,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8304574",
-   "order": 301,
+   "order": 304,
    "regions": [
     "US"
    ]
@@ -1299,7 +1252,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557045963",
-   "order": 302,
+   "order": 305,
    "regions": [
     "US"
    ]
@@ -1322,7 +1275,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8287385",
-   "order": 303,
+   "order": 306,
    "regions": [
     "US"
    ]
@@ -1345,7 +1298,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557045445",
-   "order": 332,
+   "order": 334,
    "regions": [
     "US"
    ]
@@ -1368,7 +1321,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306779",
-   "order": 333,
+   "order": 335,
    "regions": [
     "US"
    ]
@@ -1391,7 +1344,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306867",
-   "order": 334,
+   "order": 336,
    "regions": [
     "US"
    ]
@@ -1414,7 +1367,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8306841",
-   "order": 335,
+   "order": 337,
    "regions": [
     "US"
    ]
@@ -1437,7 +1390,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:graphcore:8894738002",
-   "order": 355,
+   "order": 358,
    "regions": [
     "UK"
    ]
@@ -1460,7 +1413,7 @@
    ],
    "phd": true,
    "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172064",
-   "order": 356,
+   "order": 359,
    "regions": [
     "US"
    ],
@@ -1484,7 +1437,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043754",
-   "order": 373,
+   "order": 376,
    "regions": [
     "US"
    ]
@@ -1507,7 +1460,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043740",
-   "order": 374,
+   "order": 377,
    "regions": [
     "US"
    ]
@@ -1530,7 +1483,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8301854",
-   "order": 375,
+   "order": 378,
    "regions": [
     "US"
    ]
@@ -1553,7 +1506,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8283558",
-   "order": 376,
+   "order": 379,
    "regions": [
     "US"
    ]
@@ -1576,7 +1529,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293641",
-   "order": 377,
+   "order": 380,
    "regions": [
     "US"
    ]
@@ -1599,7 +1552,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8293615",
-   "order": 378,
+   "order": 381,
    "regions": [
     "US"
    ]
@@ -1622,7 +1575,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4735665005",
-   "order": 379,
+   "order": 382,
    "regions": [
     "US"
    ]
@@ -1645,7 +1598,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557043465",
-   "order": 380,
+   "order": 383,
    "regions": [
     "Asia"
    ]
@@ -1668,7 +1621,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8292367",
-   "order": 381,
+   "order": 384,
    "regions": [
     "US"
    ]
@@ -1691,7 +1644,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8289816",
-   "order": 382,
+   "order": 385,
    "regions": [
     "US"
    ]
@@ -1714,7 +1667,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557043380",
-   "order": 383,
+   "order": 386,
    "regions": [
     "Asia"
    ]
@@ -1737,7 +1690,7 @@
    ],
    "phd": true,
    "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R173016",
-   "order": 386,
+   "order": 389,
    "regions": [
     "Asia"
    ],
@@ -1761,7 +1714,7 @@
    ],
    "phd": false,
    "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172996",
-   "order": 385,
+   "order": 388,
    "regions": [
     "US"
    ],
@@ -1785,7 +1738,7 @@
    ],
    "phd": false,
    "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R172998",
-   "order": 384,
+   "order": 387,
    "regions": [
     "US"
    ],
@@ -1809,7 +1762,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393557042488",
-   "order": 389,
+   "order": 392,
    "regions": [
     "Asia"
    ]
@@ -1832,7 +1785,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557042156",
-   "order": 393,
+   "order": 396,
    "regions": [
     "US"
    ]
@@ -1855,7 +1808,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557042145",
-   "order": 394,
+   "order": 397,
    "regions": [
     "US"
    ]
@@ -1868,7 +1821,7 @@
    "source": "ats",
    "kind": "tracked",
    "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
-   "location": "Canada; United Kingdom; United States; Remote (Growth only)",
+   "location": "United States; Remote (Growth only)",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005",
    "posted_at": "2026-10-16T14:44:43-04:00",
    "department": "Human Frontier Collective",
@@ -1878,10 +1831,8 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4744402005",
-   "order": 395,
+   "order": 398,
    "regions": [
-    "UK",
-    "Canada",
     "US",
     "Remote"
    ]
@@ -1904,7 +1855,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557041731",
-   "order": 399,
+   "order": 402,
    "regions": [
     "US"
    ]
@@ -1927,7 +1878,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8244128",
-   "order": 405,
+   "order": 408,
    "regions": [
     "US"
    ]
@@ -1950,7 +1901,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557041012",
-   "order": 413,
+   "order": 417,
    "regions": [
     "US"
    ]
@@ -1973,7 +1924,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040991",
-   "order": 414,
+   "order": 418,
    "regions": [
     "US"
    ]
@@ -1996,7 +1947,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116768",
-   "order": 427,
+   "order": 430,
    "regions": [
     "Asia"
    ],
@@ -2020,7 +1971,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040502",
-   "order": 430,
+   "order": 433,
    "regions": [
     "US"
    ]
@@ -2043,7 +1994,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040344",
-   "order": 440,
+   "order": 443,
    "regions": [
     "US"
    ]
@@ -2066,7 +2017,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557040333",
-   "order": 441,
+   "order": 444,
    "regions": [
     "US"
    ]
@@ -2089,7 +2040,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8279620",
-   "order": 442,
+   "order": 445,
    "regions": [
     "US"
    ]
@@ -2112,7 +2063,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8265868",
-   "order": 443,
+   "order": 446,
    "regions": [
     "UK"
    ]
@@ -2135,7 +2086,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557039243",
-   "order": 449,
+   "order": 452,
    "regions": [
     "US"
    ]
@@ -2158,7 +2109,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8258070",
-   "order": 461,
+   "order": 464,
    "regions": [
     "US"
    ]
@@ -2181,7 +2132,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257006",
-   "order": 462,
+   "order": 465,
    "regions": [
     "US"
    ]
@@ -2204,7 +2155,30 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557037649",
-   "order": 463,
+   "order": 466,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Researcher Intern, CoreAI",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+   "posted_at": "2026-10-08T17:47:43+00:00",
+   "department": "HR Group",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557027387",
+   "order": 481,
    "regions": [
     "US"
    ]
@@ -2227,7 +2201,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557027378",
-   "order": 478,
+   "order": 482,
    "regions": [
     "US"
    ]
@@ -2250,7 +2224,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557027326",
-   "order": 479,
+   "order": 483,
    "regions": [
     "US"
    ]
@@ -2273,7 +2247,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8265173",
-   "order": 480,
+   "order": 484,
    "regions": [
     "US"
    ]
@@ -2296,7 +2270,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8262154",
-   "order": 481,
+   "order": 485,
    "regions": [
     "US"
    ]
@@ -2319,7 +2293,7 @@
    ],
    "phd": false,
    "job_id": "lever:woven-by-toyota:f6416c93-457d-45f1-b69a-92e3e780fad7",
-   "order": 482,
+   "order": 486,
    "regions": [
     "Other"
    ]
@@ -2342,7 +2316,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227633",
-   "order": 491,
+   "order": 495,
    "regions": [
     "US"
    ]
@@ -2365,7 +2339,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257801",
-   "order": 494,
+   "order": 498,
    "regions": [
     "US"
    ]
@@ -2389,7 +2363,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mercor:e6502490-37c6-471a-9ffb-cf397764c518",
-   "order": 501,
+   "order": 505,
    "regions": [
     "US"
    ]
@@ -2412,7 +2386,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8257159",
-   "order": 502,
+   "order": 506,
    "regions": [
     "US"
    ]
@@ -2435,7 +2409,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243732",
-   "order": 510,
+   "order": 514,
    "regions": [
     "US"
    ]
@@ -2458,7 +2432,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557022480",
-   "order": 518,
+   "order": 522,
    "regions": [
     "US"
    ]
@@ -2481,7 +2455,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8243556",
-   "order": 520,
+   "order": 524,
    "regions": [
     "US"
    ]
@@ -2504,7 +2478,7 @@
    ],
    "phd": true,
    "job_id": "workday:adobe.wd5.myworkdayjobs.com/adobe/external_experienced:R171519",
-   "order": 522,
+   "order": 526,
    "regions": [
     "US"
    ],
@@ -2528,7 +2502,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557021663",
-   "order": 527,
+   "order": 531,
    "regions": [
     "US"
    ]
@@ -2551,7 +2525,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8234876",
-   "order": 535,
+   "order": 538,
    "regions": [
     "US"
    ]
@@ -2574,7 +2548,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8237997",
-   "order": 539,
+   "order": 542,
    "regions": [
     "US"
    ]
@@ -2597,7 +2571,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227411",
-   "order": 545,
+   "order": 548,
    "regions": [
     "US"
    ]
@@ -2620,7 +2594,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8234262",
-   "order": 546,
+   "order": 549,
    "regions": [
     "US"
    ]
@@ -2643,7 +2617,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8233746",
-   "order": 547,
+   "order": 550,
    "regions": [
     "US"
    ]
@@ -2666,7 +2640,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393557008574",
-   "order": 548,
+   "order": 551,
    "regions": [
     "US"
    ]
@@ -2689,7 +2663,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8231711",
-   "order": 549,
+   "order": 552,
    "regions": [
     "US"
    ]
@@ -2712,7 +2686,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8227640",
-   "order": 552,
+   "order": 555,
    "regions": [
     "US"
    ]
@@ -2735,7 +2709,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221956",
-   "order": 557,
+   "order": 560,
    "regions": [
     "US"
    ]
@@ -2758,7 +2732,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8223735",
-   "order": 558,
+   "order": 561,
    "regions": [
     "US"
    ]
@@ -2781,7 +2755,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221851",
-   "order": 563,
+   "order": 566,
    "regions": [
     "US"
    ]
@@ -2804,7 +2778,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8221795",
-   "order": 564,
+   "order": 567,
    "regions": [
     "US"
    ]
@@ -2827,7 +2801,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:ab076e26-adf1-414f-a006-7b1bdc9247c8",
-   "order": 570,
+   "order": 573,
    "regions": [
     "US"
    ]
@@ -2850,7 +2824,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8203191",
-   "order": 572,
+   "order": 575,
    "regions": [
     "US"
    ]
@@ -2873,7 +2847,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556998782",
-   "order": 591,
+   "order": 594,
    "regions": [
     "Europe"
    ]
@@ -2896,7 +2870,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:waymo:8197899",
-   "order": 604,
+   "order": 607,
    "regions": [
     "US"
    ]
@@ -2920,7 +2894,7 @@
    ],
    "phd": false,
    "job_id": "ashby:mistral.ai:fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
-   "order": 605,
+   "order": 608,
    "regions": [
     "Europe"
    ]
@@ -2943,7 +2917,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556986148",
-   "order": 627,
+   "order": 630,
    "regions": [
     "US"
    ]
@@ -2966,7 +2940,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556986140",
-   "order": 628,
+   "order": 631,
    "regions": [
     "US"
    ]
@@ -2989,7 +2963,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556982268",
-   "order": 645,
+   "order": 648,
    "regions": [
     "Asia"
    ]
@@ -3012,7 +2986,7 @@
    ],
    "phd": true,
    "job_id": "eightfold:microsoft.com:1970393556972877",
-   "order": 659,
+   "order": 662,
    "regions": [
     "Asia"
    ]
@@ -3035,7 +3009,7 @@
    ],
    "phd": false,
    "job_id": "eightfold:microsoft.com:1970393556972317",
-   "order": 668,
+   "order": 671,
    "regions": [
     "Asia"
    ]
@@ -3058,7 +3032,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116491",
-   "order": 744,
+   "order": 745,
    "regions": [
     "Asia"
    ],
@@ -3082,7 +3056,7 @@
    ],
    "phd": true,
    "job_id": "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-   "order": 746,
+   "order": 747,
    "regions": [
     "US"
    ]
@@ -3105,7 +3079,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:thealleninstitute:8090222",
-   "order": 747,
+   "order": 748,
    "regions": [
     "US"
    ]
@@ -3128,7 +3102,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:gleanwork:4717716005",
-   "order": 750,
+   "order": 751,
    "regions": [
     "US",
     "Remote"
@@ -3153,7 +3127,7 @@
    ],
    "phd": true,
    "job_id": "ashby:pika:e135acb1-2a0b-47b4-81b2-3cb0f787657a",
-   "order": 766,
+   "order": 767,
    "regions": [
     "US"
    ]
@@ -3176,7 +3150,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:thealleninstitute:8054878",
-   "order": 767,
+   "order": 768,
    "regions": [
     "US"
    ]
@@ -3199,7 +3173,7 @@
    ],
    "phd": true,
    "job_id": "ashby:baseten:58d7d8e6-86ee-43a1-baec-3dddcb661d51",
-   "order": 771,
+   "order": 772,
    "regions": [
     "US"
    ]
@@ -3223,7 +3197,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:de46ba8b-00cb-4618-83df-66e15a78434e",
-   "order": 774,
+   "order": 775,
    "regions": [
     "UK",
     "Europe"
@@ -3247,7 +3221,7 @@
    ],
    "phd": false,
    "job_id": "ashby:1x:5b2b4c73-13b5-46ca-8467-8024741a4b57",
-   "order": 782,
+   "order": 783,
    "regions": [
     "US"
    ]
@@ -3270,7 +3244,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:tenstorrent:5148052007",
-   "order": 812,
+   "order": 813,
    "regions": [
     "US"
    ]
@@ -3294,7 +3268,7 @@
    ],
    "phd": false,
    "job_id": "ashby:cohere:36d1f52f-8270-4652-adf5-5303a0ff341b",
-   "order": 821,
+   "order": 822,
    "regions": [
     "UK",
     "Europe",
@@ -3321,7 +3295,7 @@
    ],
    "phd": true,
    "job_id": "ashby:cohere:73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-   "order": 823,
+   "order": 824,
    "regions": [
     "UK",
     "Europe",
@@ -3336,8 +3310,8 @@
    "domain": "scale.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "SWE Fellow - Human Frontier Collective (US, UK, & Canada)",
-   "location": "United States; Remote (Growth only)",
+   "title": "SWE Fellow - Human Frontier Collective",
+   "location": "Canada; United Kingdom; United States; Remote (Growth only)",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689947005",
    "posted_at": "2026-04-29T14:02:21-04:00",
    "department": "Human Frontier Collective",
@@ -3347,8 +3321,10 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4689947005",
-   "order": 825,
+   "order": 826,
    "regions": [
+    "UK",
+    "Canada",
     "US",
     "Remote"
    ]
@@ -3371,7 +3347,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183053008",
-   "order": 829,
+   "order": 830,
    "regions": [
     "UK",
     "US",
@@ -3396,7 +3372,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183051008",
-   "order": 844,
+   "order": 845,
    "regions": [
     "UK",
     "US",
@@ -3421,7 +3397,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:anthropic:5183044008",
-   "order": 845,
+   "order": 846,
    "regions": [
     "UK",
     "US",
@@ -3446,7 +3422,7 @@
    ],
    "phd": false,
    "job_id": "ashby:perplexity:71168628-1998-47d3-87a9-be7bc56a430d",
-   "order": 846,
+   "order": 847,
    "regions": [
     "UK"
    ]
@@ -3470,7 +3446,7 @@
    ],
    "phd": true,
    "job_id": "ashby:mistral.ai:7c401bbf-ee63-4fcd-a44a-a16b9b787697",
-   "order": 858,
+   "order": 859,
    "regions": [
     "Canada",
     "US"
@@ -3495,7 +3471,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:edc2528d-6e6c-4a67-b871-bfe7d9c890b4",
-   "order": 860,
+   "order": 861,
    "regions": [
     "US"
    ]
@@ -3519,7 +3495,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:5bb0567a-8d07-4cc4-be7c-c06b31361883",
-   "order": 861,
+   "order": 862,
    "regions": [
     "US"
    ]
@@ -3543,7 +3519,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:bb953f29-0059-4a40-aa9e-3a8c88733902",
-   "order": 862,
+   "order": 863,
    "regions": [
     "US"
    ]
@@ -3567,7 +3543,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:91e0686e-272a-4780-b33d-d7860b94a7b4",
-   "order": 863,
+   "order": 864,
    "regions": [
     "US"
    ]
@@ -3579,8 +3555,8 @@
    "domain": "scale.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada)",
-   "location": "United States; Remote (Growth only)",
+   "title": "Machine Learning Fellow - Human Frontier Collective",
+   "location": "Canada; United Kingdom; United States; Remote (Growth only)",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
    "posted_at": "2026-02-12T18:42:31-05:00",
    "department": "Human Frontier Collective",
@@ -3590,8 +3566,10 @@
    ],
    "phd": true,
    "job_id": "greenhouse:scaleai:4660340005",
-   "order": 864,
+   "order": 865,
    "regions": [
+    "UK",
+    "Canada",
     "US",
     "Remote"
    ]
@@ -3614,7 +3592,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5106468008",
-   "order": 865,
+   "order": 866,
    "regions": [
     "Canada",
     "Remote"
@@ -3638,7 +3616,7 @@
    ],
    "phd": true,
    "job_id": "ashby:perplexity:9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-   "order": 866,
+   "order": 867,
    "regions": [
     "Europe"
    ]
@@ -3661,7 +3639,7 @@
    ],
    "phd": true,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116531",
-   "order": 868,
+   "order": 869,
    "regions": [
     "Asia"
    ],
@@ -3685,7 +3663,7 @@
    ],
    "phd": false,
    "job_id": "workday:sonyglobal.wd1.myworkdayjobs.com/sonyglobal/SonyJapanCareers:JR-116529",
-   "order": 867,
+   "order": 868,
    "regions": [
     "Asia"
    ],
@@ -3709,7 +3687,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:5047247008",
-   "order": 869,
+   "order": 870,
    "regions": [
     "Canada"
    ]
@@ -3733,7 +3711,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:0fd4e30b-9bd1-4b53-9043-6088457363cb",
-   "order": 870,
+   "order": 871,
    "regions": [
     "Canada",
     "US",
@@ -3759,7 +3737,7 @@
    ],
    "phd": true,
    "job_id": "lever:waabi:62700386-b9db-4c78-aec3-5ef59cbe841e",
-   "order": 871,
+   "order": 872,
    "regions": [
     "Canada",
     "US"
@@ -3784,7 +3762,7 @@
    ],
    "phd": true,
    "job_id": "ashby:etched:6f23713f-5409-45b7-aae8-adb8710cdbc3",
-   "order": 872,
+   "order": 873,
    "regions": [
     "US"
    ]
@@ -3807,7 +3785,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:nuro:7351061",
-   "order": 873,
+   "order": 874,
    "regions": [
     "US"
    ]
@@ -3819,8 +3797,8 @@
    "domain": "scale.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Medical Fellow - Human Frontier Collective (US, UK, & Canada)",
-   "location": "United States; Remote (Growth only)",
+   "title": "Medical Fellow - Human Frontier Collective",
+   "location": "Canada; United Kingdom; United States; Remote (Growth only)",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4591782005",
    "posted_at": "2025-07-30T15:15:34-04:00",
    "department": "Human Frontier Collective",
@@ -3830,8 +3808,10 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4591782005",
-   "order": 877,
+   "order": 878,
    "regions": [
+    "UK",
+    "Canada",
     "US",
     "Remote"
    ]
@@ -3843,8 +3823,8 @@
    "domain": "scale.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "STEM Fellow - Human Frontier Collective (US, UK, & Canada)",
-   "location": "United States; Remote (Growth only)",
+   "title": "STEM Fellow - Human Frontier Collective",
+   "location": "Canada; United Kingdom; United States; Remote (Growth only)",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4574113005",
    "posted_at": "2025-06-06T19:02:38-04:00",
    "department": "Human Frontier Collective",
@@ -3854,8 +3834,10 @@
    ],
    "phd": false,
    "job_id": "greenhouse:scaleai:4574113005",
-   "order": 878,
+   "order": 879,
    "regions": [
+    "UK",
+    "Canada",
     "US",
     "Remote"
    ]
@@ -3878,7 +3860,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:goodfire:4499053008",
-   "order": 880,
+   "order": 881,
    "regions": [
     "US"
    ]
@@ -3901,7 +3883,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4476000008",
-   "order": 881,
+   "order": 882,
    "regions": [
     "Canada"
    ]
@@ -3925,7 +3907,7 @@
    ],
    "phd": false,
    "job_id": "ashby:applied:ce58d9fd-f22b-4336-80b5-ba1e8d764526",
-   "order": 882,
+   "order": 883,
    "regions": [
     "US"
    ]
@@ -3948,7 +3930,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:cresta:4123863008",
-   "order": 883,
+   "order": 884,
    "regions": [
     "Canada",
     "Remote"
@@ -3973,7 +3955,7 @@
    ],
    "phd": false,
    "job_id": "ashby:physicalintelligence:f020ff1a-4b4c-4415-8434-2da5010a7076",
-   "order": 884,
+   "order": 885,
    "regions": [
     "US"
    ]
@@ -3996,7 +3978,7 @@
    ],
    "phd": true,
    "job_id": "greenhouse:databricks:7011263002",
-   "order": 888,
+   "order": 889,
    "regions": [
     "US"
    ]
@@ -4019,7 +4001,7 @@
    ],
    "phd": false,
    "job_id": "greenhouse:lgairesearch:4130830005",
-   "order": 890,
+   "order": 891,
    "regions": [
     "US"
    ]

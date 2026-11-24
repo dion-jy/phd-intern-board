@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-23T08:29:55.134681+00:00",
+ "generated_at": "2026-11-24T10:37:24.766131+00:00",
  "first_run": false,
- "count": 2,
+ "count": 10,
  "jobs": [
   {
-   "company": "Genentech",
+   "company": "JP Morgan Chase",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "AI for Drug Discovery Intern - AI for Drug Discovery - AIDD",
+   "title": "Applied AI Intern - HR CDAO",
    "location": "NYC",
-   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1",
-   "posted_at": "2026-11-19T00:00:00+00:00",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+   "posted_at": "2026-11-23T23:24:08+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -22,7 +22,6 @@
    ],
    "phd": true,
    "degrees": [
-    "Bachelor's",
     "Master's",
     "PhD"
    ],
@@ -31,22 +30,183 @@
     "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:32c50724-f6fc-4017-90f7-6d760a94adec",
-   "order": 41,
+   "job_id": "simplify:3b853022-5629-46f0-9410-31a4e4d1518e",
+   "order": 0,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Carnegie Mellon University",
+   "company": "Honeywell",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "AI Engineer Intern - Mission Innovation Lab",
-   "location": "Pittsburgh, PA",
-   "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364",
-   "posted_at": "2026-11-16T00:00:00+00:00",
+   "title": "Energy and Utilities Software Product Design and AI Development Intern",
+   "location": "Raleigh, NC",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367",
+   "posted_at": "2026-11-23T23:15:01+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "",
+   "job_id": "simplify:e0b870a8-3315-455a-b57d-f0c00c8a8e8a",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Meta",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Scientist Intern - Spatial-temporal Consistent 4D Generation",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2357948038329505",
+   "posted_at": "2026-11-23T23:08:30+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "N/A"
+   ],
+   "domain": "meta.com",
+   "job_id": "simplify:29b21ac0-b37f-4d26-b196-d238a0c90ce2",
+   "order": 2,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Samsung Research America",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Computer Vision Intern",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002",
+   "posted_at": "2026-11-23T20:12:36+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:95a334fe-a4fa-4bb9-8388-e02bf718a1d7",
+   "order": 3,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Samsung Research America",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "PhD Intern - AI Research",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955762002",
+   "posted_at": "2026-11-23T20:12:11+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:60e1861c-5482-429c-9640-4477f978fa1d",
+   "order": 4,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "JP Morgan Chase",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Machine Learning Intern - Time Series and Reinforcement Learning",
+   "location": "London, UK",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
+   "posted_at": "2026-11-23T15:27:04+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "",
+   "job_id": "simplify:5d0d0eae-1321-4bd4-adaf-c4a3ea617d41",
+   "order": 5,
+   "regions": [
+    "UK"
+   ]
+  },
+  {
+   "company": "GrayMatter Robotics",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Robotics Engineering Intern: Systems & Applications",
+   "location": "Carson, CA",
+   "url": "https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true",
+   "posted_at": "2026-11-23T00:00:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -62,11 +222,96 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2027"
+    "Winter 2027"
    ],
    "domain": "",
-   "job_id": "simplify:5bae4845-5184-45f3-9b22-7b63401aa678",
-   "order": 83,
+   "job_id": "simplify:542449da-e7d7-4289-a17e-c344f121c66a",
+   "order": 6,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "ISO New England",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "AI Assisted Modeling of Energy Storage Intern",
+   "location": "Holyoke, MA",
+   "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4456494009",
+   "posted_at": "2026-10-20T14:41:16+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:3c8c3856-7047-4705-ade0-3ea8d8c50c86",
+   "order": 355,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Researcher Intern - Coreai",
+   "location": "Redmond, WA, Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+   "posted_at": "2026-10-15T09:04:24+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2027"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:2f809092-b7fc-460f-a4e3-0bb90bdac60b",
+   "order": 410,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Researcher Intern, CoreAI",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+   "posted_at": "2026-10-08T17:47:43+00:00",
+   "department": "HR Group",
+   "confidence": "medium",
+   "match": [
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557027387",
+   "order": 481,
    "regions": [
     "US"
    ]

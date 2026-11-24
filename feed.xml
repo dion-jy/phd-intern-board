@@ -5,7 +5,56 @@
   <link rel="alternate" href="https://phd-intern-board.github.io/"/>
   <link rel="self" href="https://phd-intern-board.github.io/feed.xml"/>
   <id>https://phd-intern-board.github.io/</id>
-  <updated>2026-11-21T02:04:43+00:00</updated>
+  <updated>2026-11-23T23:24:08+00:00</updated>
+  <entry>
+    <title>JP Morgan Chase &#8212; Applied AI Intern - HR CDAO</title>
+    <link rel="alternate" href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549"/>
+    <id>urn:phd-intern-board:simplify:3b853022-5629-46f0-9410-31a4e4d1518e</id>
+    <updated>2026-11-23T23:24:08+00:00</updated>
+    <summary>NYC · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Honeywell &#8212; Energy and Utilities Software Product Design and AI Development Intern</title>
+    <link rel="alternate" href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367"/>
+    <id>urn:phd-intern-board:simplify:e0b870a8-3315-455a-b57d-f0c00c8a8e8a</id>
+    <updated>2026-11-23T23:15:01+00:00</updated>
+    <summary>Raleigh, NC · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - Spatial-temporal Consistent 4D Generation</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/2357948038329505"/>
+    <id>urn:phd-intern-board:simplify:29b21ac0-b37f-4d26-b196-d238a0c90ce2</id>
+    <updated>2026-11-23T23:08:30+00:00</updated>
+    <summary>Redmond, WA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Samsung Research America &#8212; Computer Vision Intern</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002"/>
+    <id>urn:phd-intern-board:simplify:95a334fe-a4fa-4bb9-8388-e02bf718a1d7</id>
+    <updated>2026-11-23T20:12:36+00:00</updated>
+    <summary>Mountain View, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Samsung Research America &#8212; PhD Intern - AI Research</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955762002"/>
+    <id>urn:phd-intern-board:simplify:60e1861c-5482-429c-9640-4477f978fa1d</id>
+    <updated>2026-11-23T20:12:11+00:00</updated>
+    <summary>Mountain View, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>JP Morgan Chase &#8212; Machine Learning Intern - Time Series and Reinforcement Learning</title>
+    <link rel="alternate" href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784"/>
+    <id>urn:phd-intern-board:simplify:5d0d0eae-1321-4bd4-adaf-c4a3ea617d41</id>
+    <updated>2026-11-23T15:27:04+00:00</updated>
+    <summary>London, UK · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>GrayMatter Robotics &#8212; Robotics Engineering Intern: Systems &amp; Applications</title>
+    <link rel="alternate" href="https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true"/>
+    <id>urn:phd-intern-board:simplify:542449da-e7d7-4289-a17e-c344f121c66a</id>
+    <updated>2026-11-23T00:00:00+00:00</updated>
+    <summary>Carson, CA · Other · PhD</summary>
+  </entry>
   <entry>
     <title>Microsoft &#8212; Research Intern - AI System Architecture Modeling and Performance</title>
     <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557077583"/>
@@ -376,54 +425,5 @@
     <id>urn:phd-intern-board:simplify:9471de0a-cf90-4c82-aa36-9f7cad855d2a</id>
     <updated>2026-11-18T19:42:39+00:00</updated>
     <summary>San Jose, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - Computer Vision and Deep Learning</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075490"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557075490</id>
-    <updated>2026-11-18T19:13:19+00:00</updated>
-    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - Model Foundations for Knowledge &amp; Reasoning - Microsoft Research</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075474"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557075474</id>
-    <updated>2026-11-18T18:32:25+00:00</updated>
-    <summary>Canada, British Columbia, Vancouver · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - Data Center and AI Networking</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075457"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557075457</id>
-    <updated>2026-11-18T17:17:38+00:00</updated>
-    <summary>United States, California, Mountain View, United States, Washington, Redmond · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - Machine Learning for Biology and Healthcare</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075448"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557075448</id>
-    <updated>2026-11-18T16:48:25+00:00</updated>
-    <summary>United Kingdom, Cambridgeshire, Cambridge · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft &#8212; Research Intern - Firmware Security</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075140"/>
-    <id>urn:phd-intern-board:simplify:9a47f7a1-f214-444d-99aa-90af3e2efe5c</id>
-    <updated>2026-11-18T02:33:14+00:00</updated>
-    <summary>Redmond, WA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Bosch Home Comfort &#8212; Robot Learning Research Intern</title>
-    <link rel="alternate" href="https://jobs.smartrecruiters.com/BoschGroup/744000162212029"/>
-    <id>urn:phd-intern-board:simplify:0a6bcf68-1dac-49d0-a6da-1adca0fd22c3</id>
-    <updated>2026-11-18T01:47:31+00:00</updated>
-    <summary>Pittsburgh, PA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Crusoe &#8212; AI Applied Research PhD Intern</title>
-    <link rel="alternate" href="https://jobs.ashbyhq.com/crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b/application?embed=true"/>
-    <id>urn:phd-intern-board:simplify:94d67853-2e95-463b-b69e-6982d75a3c27</id>
-    <updated>2026-11-18T00:00:00+00:00</updated>
-    <summary>SF, Sunnyvale, CA · Other · PhD</summary>
   </entry>
 </feed>
