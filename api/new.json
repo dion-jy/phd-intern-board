@@ -1,84 +1,18 @@
 {
- "generated_at": "2026-11-24T10:37:24.766131+00:00",
+ "generated_at": "2026-11-25T09:27:23.250405+00:00",
  "first_run": false,
- "count": 10,
+ "count": 13,
  "jobs": [
   {
-   "company": "JP Morgan Chase",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Applied AI Intern - HR CDAO",
-   "location": "NYC",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
-   "posted_at": "2026-11-23T23:24:08+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:3b853022-5629-46f0-9410-31a4e4d1518e",
-   "order": 0,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Honeywell",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Energy and Utilities Software Product Design and AI Development Intern",
-   "location": "Raleigh, NC",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367",
-   "posted_at": "2026-11-23T23:15:01+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
-   "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:e0b870a8-3315-455a-b57d-f0c00c8a8e8a",
-   "order": 1,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "company": "Meta",
+   "company": "Microsoft",
    "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Research Scientist Intern - Spatial-temporal Consistent 4D Generation",
+   "title": "Research Intern - AI Systems Architecture - Efficient LLM Inference",
    "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/2357948038329505",
-   "posted_at": "2026-11-23T23:08:30+00:00",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
+   "posted_at": "2026-11-25T01:21:22+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -90,25 +24,85 @@
    ],
    "sponsorship": "Other",
    "terms": [
+    "Summer 2026"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:8b4b2bce-20ad-45a0-bf4e-a27a396c5f72",
+   "order": 0,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern - CXL Memory",
+   "location": "Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
+   "posted_at": "2026-11-25T01:21:22+00:00",
+   "department": "Hardware",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
     "N/A"
    ],
-   "domain": "meta.com",
-   "job_id": "simplify:29b21ac0-b37f-4d26-b196-d238a0c90ce2",
+   "domain": "microsoft.com",
+   "job_id": "simplify:a25c6fcf-1b2b-4b7f-be99-31a8e0e14608",
+   "order": 1,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "tier": "bigtech",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "blindspot",
+   "title": "Research Intern - Memory Pathfinding",
+   "location": "Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079448",
+   "posted_at": "2026-11-25T01:21:22+00:00",
+   "department": "Software",
+   "confidence": "medium",
+   "match": [
+    "simplify-degrees-phd"
+   ],
+   "phd": true,
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2026"
+   ],
+   "domain": "microsoft.com",
+   "job_id": "simplify:e5e856c3-4982-40e5-92e4-b5dae10efbab",
    "order": 2,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Samsung Research America",
+   "company": "Samsung",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Computer Vision Intern",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002",
-   "posted_at": "2026-11-23T20:12:36+00:00",
+   "title": "LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
+   "posted_at": "2026-11-25T00:13:19+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -118,95 +112,104 @@
    ],
    "phd": true,
    "degrees": [
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Spring 2027",
-    "Summer 2027"
+    "N/A"
    ],
    "domain": "",
-   "job_id": "simplify:95a334fe-a4fa-4bb9-8388-e02bf718a1d7",
+   "job_id": "simplify:0a1029c2-aaef-48e1-9dac-d3e082d6683e",
    "order": 3,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Samsung Research America",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "PhD Intern - AI Research",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955762002",
-   "posted_at": "2026-11-23T20:12:11+00:00",
-   "department": "AI/ML/Data",
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - CXL Memory",
+   "location": "United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
+   "posted_at": "2026-11-25T00:09:29+00:00",
+   "department": "Cloud + AI",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
     "title-strong"
    ],
    "phd": true,
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:60e1861c-5482-429c-9640-4477f978fa1d",
+   "job_id": "eightfold:microsoft.com:1970393557079445",
    "order": 4,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "JP Morgan Chase",
-   "tier": "other",
+   "company": "Meta",
+   "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
-   "kind": "discovery",
-   "title": "Machine Learning Intern - Time Series and Reinforcement Learning",
-   "location": "London, UK",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
-   "posted_at": "2026-11-23T15:27:04+00:00",
+   "kind": "blindspot",
+   "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1482835147112669",
+   "posted_at": "2026-11-24T23:36:21+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
+    "simplify-research-title"
    ],
-   "phd": true,
-   "degrees": [
-    "PhD"
-   ],
+   "phd": false,
+   "degrees": [],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2027"
+    "N/A"
    ],
-   "domain": "",
-   "job_id": "simplify:5d0d0eae-1321-4bd4-adaf-c4a3ea617d41",
+   "domain": "meta.com",
+   "job_id": "simplify:347de250-7760-4abd-a7c2-f89f2b261f3c",
    "order": 5,
    "regions": [
-    "UK"
+    "US"
    ]
   },
   {
-   "company": "GrayMatter Robotics",
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - AI Systems Architecture and Efficient LLM Inference",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
+   "posted_at": "2026-11-24T23:06:48+00:00",
+   "department": "Cloud + AI",
+   "confidence": "high",
+   "match": [
+    "title-strong"
+   ],
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557079428",
+   "order": 6,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "company": "Johns Hopkins Applied Physics Laboratory",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "Robotics Engineering Intern: Systems & Applications",
-   "location": "Carson, CA",
-   "url": "https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true",
-   "posted_at": "2026-11-23T00:00:00+00:00",
+   "title": "Artificial Intelligence and Complex Systems Intern",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
+   "posted_at": "2026-11-24T20:29:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -222,25 +225,25 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Winter 2027"
+    "Summer 2027"
    ],
    "domain": "",
-   "job_id": "simplify:542449da-e7d7-4289-a17e-c344f121c66a",
-   "order": 6,
+   "job_id": "simplify:ccee3e39-6a88-4c3c-b913-c7af244fc90c",
+   "order": 7,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "ISO New England",
+   "company": "Johns Hopkins Applied Physics Laboratory",
    "tier": "other",
    "ats": "simplify",
    "source": "simplify",
    "kind": "discovery",
-   "title": "AI Assisted Modeling of Energy Storage Intern",
-   "location": "Holyoke, MA",
-   "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4456494009",
-   "posted_at": "2026-10-20T14:41:16+00:00",
+   "title": "Robotics Intern",
+   "location": "Laurel, MD",
+   "url": "https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us",
+   "posted_at": "2026-11-24T20:28:00+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -250,47 +253,99 @@
    ],
    "phd": true,
    "degrees": [
+    "Bachelor's",
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2026"
+    "N/A"
    ],
    "domain": "",
-   "job_id": "simplify:3c8c3856-7047-4705-ade0-3ea8d8c50c86",
-   "order": 355,
+   "job_id": "simplify:5c4ff4e4-2ba8-4244-9b38-08135d57623f",
+   "order": 8,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Microsoft",
+   "company": "Mistral AI",
+   "tier": "frontier",
+   "ats": "ashby",
+   "domain": "mistral.ai",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "AI Scientist - Agentic Engineering - AI4Engineering - (Internship, Masters or PhD)",
+   "location": "Paris",
+   "url": "https://jobs.ashbyhq.com/mistral.ai/f2443351-6105-44fb-8024-f31b9ba60d0b",
+   "posted_at": "2026-11-24T12:51:44.962+00:00",
+   "department": "Science",
+   "confidence": "high",
+   "match": [
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "ashby:mistral.ai:f2443351-6105-44fb-8024-f31b9ba60d0b",
+   "order": 10,
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
+   "company": "Mistral AI",
+   "tier": "frontier",
+   "ats": "ashby",
+   "domain": "mistral.ai",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "AI Scientist - Physics Models (Internship, Masters or Phd)",
+   "location": "Paris",
+   "url": "https://jobs.ashbyhq.com/mistral.ai/36f5f453-92c1-4f55-ac2a-bcfad5ffe2d2",
+   "posted_at": "2026-11-24T12:47:53.134+00:00",
+   "department": "Science",
+   "confidence": "high",
+   "match": [
+    "ats-intern-flag",
+    "title-research"
+   ],
+   "phd": true,
+   "job_id": "ashby:mistral.ai:36f5f453-92c1-4f55-ac2a-bcfad5ffe2d2",
+   "order": 11,
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
+   "company": "Qualcomm",
    "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Researcher Intern - Coreai",
-   "location": "Redmond, WA, Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-   "posted_at": "2026-10-15T09:04:24+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
+   "title": "GPU Compiler Intern",
+   "location": "Cambridge, UK",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446722152489",
+   "posted_at": "2026-11-16T15:36:01+00:00",
+   "department": "Software",
+   "confidence": "medium",
    "match": [
     "simplify-degrees-phd"
    ],
    "phd": true,
    "degrees": [
+    "Bachelor's",
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2027"
+    "N/A"
    ],
-   "domain": "microsoft.com",
-   "job_id": "simplify:2f809092-b7fc-460f-a4e3-0bb90bdac60b",
-   "order": 410,
+   "domain": "qualcomm.com",
+   "job_id": "simplify:9f33eb65-3c19-47fa-b0ca-d0101c113023",
+   "order": 97,
    "regions": [
-    "US"
+    "UK"
    ]
   },
   {
@@ -300,20 +355,20 @@
    "domain": "microsoft.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Researcher Intern, CoreAI",
-   "location": "United States, Washington, Redmond; United States, California, Mountain View",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-   "posted_at": "2026-10-08T17:47:43+00:00",
+   "title": "Research Intern",
+   "location": "China, Beijing, Beijing; China, Shanghai, Shanghai",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556978909",
+   "posted_at": "2026-08-21T10:55:14+00:00",
    "department": "HR Group",
-   "confidence": "medium",
+   "confidence": "high",
    "match": [
-    "title-research"
+    "title-strong"
    ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557027387",
-   "order": 481,
+   "phd": false,
+   "job_id": "eightfold:microsoft.com:1970393556978909",
+   "order": 664,
    "regions": [
-    "US"
+    "Asia"
    ]
   }
  ]

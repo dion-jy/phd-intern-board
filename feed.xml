@@ -5,13 +5,90 @@
   <link rel="alternate" href="https://phd-intern-board.github.io/"/>
   <link rel="self" href="https://phd-intern-board.github.io/feed.xml"/>
   <id>https://phd-intern-board.github.io/</id>
-  <updated>2026-11-23T23:24:08+00:00</updated>
+  <updated>2026-11-25T01:21:22+00:00</updated>
   <entry>
-    <title>JP Morgan Chase &#8212; Applied AI Intern - HR CDAO</title>
-    <link rel="alternate" href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549"/>
-    <id>urn:phd-intern-board:simplify:3b853022-5629-46f0-9410-31a4e4d1518e</id>
-    <updated>2026-11-23T23:24:08+00:00</updated>
-    <summary>NYC · Other · PhD</summary>
+    <title>Microsoft &#8212; Research Intern - AI Systems Architecture - Efficient LLM Inference</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557079428"/>
+    <id>urn:phd-intern-board:simplify:8b4b2bce-20ad-45a0-bf4e-a27a396c5f72</id>
+    <updated>2026-11-25T01:21:22+00:00</updated>
+    <summary>Redmond, WA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft &#8212; Research Intern - CXL Memory</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557079445"/>
+    <id>urn:phd-intern-board:simplify:a25c6fcf-1b2b-4b7f-be99-31a8e0e14608</id>
+    <updated>2026-11-25T01:21:22+00:00</updated>
+    <summary>Mountain View, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft &#8212; Research Intern - Memory Pathfinding</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557079448"/>
+    <id>urn:phd-intern-board:simplify:e5e856c3-4982-40e5-92e4-b5dae10efbab</id>
+    <updated>2026-11-25T01:21:22+00:00</updated>
+    <summary>Mountain View, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Samsung &#8212; LLM Inference Acceleration Architecture Intern - Moe &amp; Attention-FFN Disaggregation</title>
+    <link rel="alternate" href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003"/>
+    <id>urn:phd-intern-board:simplify:0a1029c2-aaef-48e1-9dac-d3e082d6683e</id>
+    <updated>2026-11-25T00:13:19+00:00</updated>
+    <summary>San Jose, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Research Intern - CXL Memory</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557079445"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557079445</id>
+    <updated>2026-11-25T00:09:29+00:00</updated>
+    <summary>United States, California, Mountain View · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Meta &#8212; Research Scientist Intern - Machine Learning for Robust 3D Perception</title>
+    <link rel="alternate" href="https://www.metacareers.com/jobs/1482835147112669"/>
+    <id>urn:phd-intern-board:simplify:347de250-7760-4abd-a7c2-f89f2b261f3c</id>
+    <updated>2026-11-24T23:36:21+00:00</updated>
+    <summary>Redmond, WA · Big tech</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Research Intern - AI Systems Architecture and Efficient LLM Inference</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557079428"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557079428</id>
+    <updated>2026-11-24T23:06:48+00:00</updated>
+    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Johns Hopkins Applied Physics Laboratory &#8212; Artificial Intelligence and Complex Systems Intern</title>
+    <link rel="alternate" href="https://careers.jhuapl.edu/jobs/60935?icims=1&amp;lang=en-us"/>
+    <id>urn:phd-intern-board:simplify:ccee3e39-6a88-4c3c-b913-c7af244fc90c</id>
+    <updated>2026-11-24T20:29:00+00:00</updated>
+    <summary>Laurel, MD · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Johns Hopkins Applied Physics Laboratory &#8212; Robotics Intern</title>
+    <link rel="alternate" href="https://careers.jhuapl.edu/jobs/61013?icims=1&amp;lang=en-us"/>
+    <id>urn:phd-intern-board:simplify:5c4ff4e4-2ba8-4244-9b38-08135d57623f</id>
+    <updated>2026-11-24T20:28:00+00:00</updated>
+    <summary>Laurel, MD · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Mistral AI &#8212; Applied AI, Forward Deployed Machine Learning Engineer - (Internship)</title>
+    <link rel="alternate" href="https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b"/>
+    <id>urn:phd-intern-board:ashby:mistral.ai:fcdb8407-20b9-4179-81b6-f2ca2c79a39b</id>
+    <updated>2026-11-24T13:09:34.922+00:00</updated>
+    <summary>Paris · Frontier lab</summary>
+  </entry>
+  <entry>
+    <title>Mistral AI &#8212; AI Scientist - Agentic Engineering - AI4Engineering - (Internship, Masters or PhD)</title>
+    <link rel="alternate" href="https://jobs.ashbyhq.com/mistral.ai/f2443351-6105-44fb-8024-f31b9ba60d0b"/>
+    <id>urn:phd-intern-board:ashby:mistral.ai:f2443351-6105-44fb-8024-f31b9ba60d0b</id>
+    <updated>2026-11-24T12:51:44.962+00:00</updated>
+    <summary>Paris · Frontier lab · PhD</summary>
+  </entry>
+  <entry>
+    <title>Mistral AI &#8212; AI Scientist - Physics Models (Internship, Masters or Phd)</title>
+    <link rel="alternate" href="https://jobs.ashbyhq.com/mistral.ai/36f5f453-92c1-4f55-ac2a-bcfad5ffe2d2"/>
+    <id>urn:phd-intern-board:ashby:mistral.ai:36f5f453-92c1-4f55-ac2a-bcfad5ffe2d2</id>
+    <updated>2026-11-24T12:47:53.134+00:00</updated>
+    <summary>Paris · Frontier lab · PhD</summary>
   </entry>
   <entry>
     <title>Honeywell &#8212; Energy and Utilities Software Product Design and AI Development Intern</title>
@@ -348,82 +425,5 @@
     <id>urn:phd-intern-board:simplify:32c50724-f6fc-4017-90f7-6d760a94adec</id>
     <updated>2026-11-19T00:00:00+00:00</updated>
     <summary>NYC · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Georgian Partners Growth &#8212; Physical AI and Robotics Intern</title>
-    <link rel="alternate" href="https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true"/>
-    <id>urn:phd-intern-board:simplify:724d8d28-ef8b-46f7-ba87-c388f6f3c296</id>
-    <updated>2026-11-19T00:00:00+00:00</updated>
-    <summary>Toronto, ON, Canada · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>HERE Technologies &#8212; Applied AI Research Intern</title>
-    <link rel="alternate" href="https://careers-here.icims.com/jobs/85084/job?mobile=true&amp;needsRedirect=false"/>
-    <id>urn:phd-intern-board:simplify:5d5eab3c-e51f-4838-9594-8b80a78973ba</id>
-    <updated>2026-11-19T00:00:00+00:00</updated>
-    <summary>Chicago, IL · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA &#8212; Applied Research Scientist Intern - Agentic Biology</title>
-    <link rel="alternate" href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307"/>
-    <id>urn:phd-intern-board:simplify:572a3070-6f92-4edc-be94-f839a0986464</id>
-    <updated>2026-11-19T00:00:00+00:00</updated>
-    <summary>United States · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Schnucks &#8212; Data Science Generative AI Intern</title>
-    <link rel="alternate" href="https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971"/>
-    <id>urn:phd-intern-board:simplify:0f52b6f8-706e-404f-8ce4-13343631217f</id>
-    <updated>2026-11-19T00:00:00+00:00</updated>
-    <summary>St. Louis, MO, Missouri, Indiana, Illinois · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft &#8212; Research Intern - Model Foundations for Knowledge &amp; Reasoning</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075474"/>
-    <id>urn:phd-intern-board:simplify:1e9488b1-0c09-42c4-9c5d-c39460d806bc</id>
-    <updated>2026-11-18T23:33:49+00:00</updated>
-    <summary>Canada, Vancouver, BC, Canada · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft &#8212; Research Intern - Self-Improving &amp; Secure AI Agents</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075136"/>
-    <id>urn:phd-intern-board:simplify:ba01acfc-f330-48b0-a332-bdd38db24456</id>
-    <updated>2026-11-18T23:33:49+00:00</updated>
-    <summary>Redmond, WA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft &#8212; Research Intern - AI Software Systems</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075527"/>
-    <id>urn:phd-intern-board:simplify:eb52e15d-a3e3-4233-8b3c-d5b48aac5b3b</id>
-    <updated>2026-11-18T23:33:46+00:00</updated>
-    <summary>Redmond, WA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft &#8212; Research Intern - Computer Vision and Deep Learning</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075490"/>
-    <id>urn:phd-intern-board:simplify:d16f4e61-d921-404b-a8b6-2ab3cdad885e</id>
-    <updated>2026-11-18T23:33:45+00:00</updated>
-    <summary>Redmond, WA · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Samsung &#8212; Architecture Research Engineer Intern - Resilient Collective Communications</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003"/>
-    <id>urn:phd-intern-board:simplify:8eb1a21e-c57a-44e4-a936-098c9e7c642a</id>
-    <updated>2026-11-18T22:45:07+00:00</updated>
-    <summary>San Jose, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - AI Software Systems</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075527"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557075527</id>
-    <updated>2026-11-18T19:54:59+00:00</updated>
-    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Samsung &#8212; Architecture Research Engineer Intern - MoE Placement for Serving at Scale</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003"/>
-    <id>urn:phd-intern-board:simplify:9471de0a-cf90-4c82-aa36-9f7cad855d2a</id>
-    <updated>2026-11-18T19:42:39+00:00</updated>
-    <summary>San Jose, CA · Other · PhD</summary>
   </entry>
 </feed>
