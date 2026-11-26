@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-25T09:27:23.250405+00:00",
+ "generated_at": "2026-11-26T09:05:48.832519+00:00",
  "first_run": false,
- "count": 13,
+ "count": 11,
  "jobs": [
   {
-   "company": "Microsoft",
+   "company": "TikTok",
    "tier": "bigtech",
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Research Intern - AI Systems Architecture - Efficient LLM Inference",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
-   "posted_at": "2026-11-25T01:21:22+00:00",
+   "title": "Machine Learning Engineer Intern - PhD",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7712192759532357893",
+   "posted_at": "2026-11-26T02:25:39+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
@@ -24,10 +24,10 @@
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2026"
+    "Summer 2027"
    ],
-   "domain": "microsoft.com",
-   "job_id": "simplify:8b4b2bce-20ad-45a0-bf4e-a27a396c5f72",
+   "domain": "bytedance.com",
+   "job_id": "simplify:fbf4266e-b848-473e-8302-c9828621276d",
    "order": 0,
    "regions": [
     "US"
@@ -39,12 +39,12 @@
    "ats": "simplify",
    "source": "simplify",
    "kind": "blindspot",
-   "title": "Research Intern - CXL Memory",
-   "location": "Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
-   "posted_at": "2026-11-25T01:21:22+00:00",
-   "department": "Hardware",
-   "confidence": "medium",
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557097217",
+   "posted_at": "2026-11-26T00:00:28+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
    "match": [
     "simplify-degrees-phd"
    ],
@@ -57,295 +57,226 @@
     "N/A"
    ],
    "domain": "microsoft.com",
-   "job_id": "simplify:a25c6fcf-1b2b-4b7f-be99-31a8e0e14608",
+   "job_id": "simplify:18d68763-3c47-4ab5-b01f-6be06b7897f9",
    "order": 1,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Microsoft",
-   "tier": "bigtech",
+   "company": "Mayo Clinic",
+   "tier": "other",
    "ats": "simplify",
    "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Intern - Memory Pathfinding",
-   "location": "Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079448",
-   "posted_at": "2026-11-25T01:21:22+00:00",
-   "department": "Software",
-   "confidence": "medium",
+   "kind": "discovery",
+   "title": "Research Fellow - Radiology - Bagci lab",
+   "location": "Jacksonville, FL",
+   "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396473",
+   "posted_at": "2026-11-25T23:20:27+00:00",
+   "department": "AI/ML/Data",
+   "confidence": "high",
    "match": [
-    "simplify-degrees-phd"
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-strong"
    ],
    "phd": true,
    "degrees": [
-    "PhD"
+    "PhD",
+    "MD"
    ],
    "sponsorship": "Other",
    "terms": [
-    "Summer 2026"
+    "N/A"
    ],
-   "domain": "microsoft.com",
-   "job_id": "simplify:e5e856c3-4982-40e5-92e4-b5dae10efbab",
+   "domain": "",
+   "job_id": "simplify:4840fe64-410d-4200-bdf4-4fe127006106",
    "order": 2,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Samsung",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
-   "posted_at": "2026-11-25T00:13:19+00:00",
-   "department": "AI/ML/Data",
+   "company": "Microsoft / MSR",
+   "tier": "bigtech",
+   "ats": "eightfold",
+   "domain": "microsoft.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557097217",
+   "posted_at": "2026-11-25T22:07:04+00:00",
+   "department": "Cloud + AI",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
+    "title-strong"
    ],
    "phd": true,
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:0a1029c2-aaef-48e1-9dac-d3e082d6683e",
+   "job_id": "eightfold:microsoft.com:1970393557097217",
    "order": 3,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "Research Intern - CXL Memory",
-   "location": "United States, California, Mountain View",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
-   "posted_at": "2026-11-25T00:09:29+00:00",
-   "department": "Cloud + AI",
+   "company": "SambaNova Systems",
+   "tier": "other",
+   "ats": "simplify",
+   "source": "simplify",
+   "kind": "discovery",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Austin, TX, San Jose, CA",
+   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004",
+   "posted_at": "2026-11-25T18:24:13+00:00",
+   "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
-    "title-strong"
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
    ],
    "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557079445",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "terms": [
+    "Summer 2026"
+   ],
+   "domain": "",
+   "job_id": "simplify:f4341e5f-56b8-4f46-9743-f31471747414",
    "order": 4,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Meta",
-   "tier": "bigtech",
+   "company": "SambaNova Systems",
+   "tier": "other",
    "ats": "simplify",
    "source": "simplify",
-   "kind": "blindspot",
-   "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1482835147112669",
-   "posted_at": "2026-11-24T23:36:21+00:00",
+   "kind": "discovery",
+   "title": "AI Performance Engineer Intern",
+   "location": "Austin, TX, San Jose, CA",
+   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004",
+   "posted_at": "2026-11-25T16:32:08+00:00",
    "department": "AI/ML/Data",
    "confidence": "high",
    "match": [
-    "simplify-research-title"
+    "simplify-degrees-phd",
+    "ats-intern-flag",
+    "title-research"
    ],
-   "phd": false,
-   "degrees": [],
+   "phd": true,
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
    "sponsorship": "Other",
    "terms": [
-    "N/A"
+    "Summer 2026"
    ],
-   "domain": "meta.com",
-   "job_id": "simplify:347de250-7760-4abd-a7c2-f89f2b261f3c",
+   "domain": "",
+   "job_id": "simplify:a0d0bb39-5469-44b9-b60c-35ff95656ea4",
    "order": 5,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Microsoft / MSR",
-   "tier": "bigtech",
-   "ats": "eightfold",
-   "domain": "microsoft.com",
+   "company": "SambaNova",
+   "tier": "infra",
+   "ats": "greenhouse",
+   "domain": "sambanova.ai",
    "source": "ats",
    "kind": "tracked",
-   "title": "Research Intern - AI Systems Architecture and Efficient LLM Inference",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
-   "posted_at": "2026-11-24T23:06:48+00:00",
-   "department": "Cloud + AI",
-   "confidence": "high",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Austin, Texas, United States; San Jose, California, United States; Austin, TX; San Jose, CA",
+   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004",
+   "posted_at": "2026-11-25T13:24:13-05:00",
+   "department": "Software",
+   "confidence": "medium",
    "match": [
-    "title-strong"
+    "title-research"
    ],
-   "phd": true,
-   "job_id": "eightfold:microsoft.com:1970393557079428",
+   "phd": false,
+   "job_id": "greenhouse:sambanovasystems:6271395004",
    "order": 6,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Artificial Intelligence and Complex Systems Intern",
-   "location": "Laurel, MD",
-   "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
-   "posted_at": "2026-11-24T20:29:00+00:00",
-   "department": "AI/ML/Data",
+   "company": "Waymo",
+   "tier": "bigtech",
+   "ats": "greenhouse",
+   "domain": "waymo.com",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "2027 Summer Intern, PhD, Driver Understanding and Evaluation, Large Model Evaluation",
+   "location": "Mountain View, California, USA; Mountain View (US-MTV-EMF680)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8415223",
+   "posted_at": "2026-11-25T12:25:05-05:00",
+   "department": "Pipeline (N/A)",
    "confidence": "high",
    "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
-    "title-research"
+    "title-strong"
    ],
    "phd": true,
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "Summer 2027"
-   ],
-   "domain": "",
-   "job_id": "simplify:ccee3e39-6a88-4c3c-b913-c7af244fc90c",
+   "job_id": "greenhouse:waymo:8415223",
    "order": 7,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "tier": "other",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "discovery",
-   "title": "Robotics Intern",
-   "location": "Laurel, MD",
-   "url": "https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us",
-   "posted_at": "2026-11-24T20:28:00+00:00",
-   "department": "AI/ML/Data",
-   "confidence": "high",
+   "company": "SambaNova",
+   "tier": "infra",
+   "ats": "greenhouse",
+   "domain": "sambanova.ai",
+   "source": "ats",
+   "kind": "tracked",
+   "title": "ML Infrastructure Engineer Intern",
+   "location": "Austin, Texas, United States; San Jose, California, United States; Austin, TX; San Jose, CA",
+   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004",
+   "posted_at": "2026-11-25T12:04:03-05:00",
+   "department": "Software",
+   "confidence": "medium",
    "match": [
-    "simplify-degrees-phd",
-    "ats-intern-flag",
     "title-research"
    ],
-   "phd": true,
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "",
-   "job_id": "simplify:5c4ff4e4-2ba8-4244-9b38-08135d57623f",
+   "phd": false,
+   "job_id": "greenhouse:sambanovasystems:6271289004",
    "order": 8,
    "regions": [
     "US"
    ]
   },
   {
-   "company": "Mistral AI",
-   "tier": "frontier",
-   "ats": "ashby",
-   "domain": "mistral.ai",
+   "company": "SambaNova",
+   "tier": "infra",
+   "ats": "greenhouse",
+   "domain": "sambanova.ai",
    "source": "ats",
    "kind": "tracked",
-   "title": "AI Scientist - Agentic Engineering - AI4Engineering - (Internship, Masters or PhD)",
-   "location": "Paris",
-   "url": "https://jobs.ashbyhq.com/mistral.ai/f2443351-6105-44fb-8024-f31b9ba60d0b",
-   "posted_at": "2026-11-24T12:51:44.962+00:00",
-   "department": "Science",
-   "confidence": "high",
-   "match": [
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "ashby:mistral.ai:f2443351-6105-44fb-8024-f31b9ba60d0b",
-   "order": 10,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "Mistral AI",
-   "tier": "frontier",
-   "ats": "ashby",
-   "domain": "mistral.ai",
-   "source": "ats",
-   "kind": "tracked",
-   "title": "AI Scientist - Physics Models (Internship, Masters or Phd)",
-   "location": "Paris",
-   "url": "https://jobs.ashbyhq.com/mistral.ai/36f5f453-92c1-4f55-ac2a-bcfad5ffe2d2",
-   "posted_at": "2026-11-24T12:47:53.134+00:00",
-   "department": "Science",
-   "confidence": "high",
-   "match": [
-    "ats-intern-flag",
-    "title-research"
-   ],
-   "phd": true,
-   "job_id": "ashby:mistral.ai:36f5f453-92c1-4f55-ac2a-bcfad5ffe2d2",
-   "order": 11,
-   "regions": [
-    "Europe"
-   ]
-  },
-  {
-   "company": "Qualcomm",
-   "tier": "bigtech",
-   "ats": "simplify",
-   "source": "simplify",
-   "kind": "blindspot",
-   "title": "GPU Compiler Intern",
-   "location": "Cambridge, UK",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446722152489",
-   "posted_at": "2026-11-16T15:36:01+00:00",
+   "title": "AI Performance Engineer Intern",
+   "location": "Austin, Texas, United States; San Jose, California, United States; Austin, TX; San Jose, CA",
+   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004",
+   "posted_at": "2026-11-25T11:32:08-05:00",
    "department": "Software",
    "confidence": "medium",
    "match": [
-    "simplify-degrees-phd"
+    "title-research"
    ],
-   "phd": true,
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "terms": [
-    "N/A"
-   ],
-   "domain": "qualcomm.com",
-   "job_id": "simplify:9f33eb65-3c19-47fa-b0ca-d0101c113023",
-   "order": 97,
+   "phd": false,
+   "job_id": "greenhouse:sambanovasystems:6271183004",
+   "order": 9,
    "regions": [
-    "UK"
+    "US"
    ]
   },
   {
@@ -355,20 +286,20 @@
    "domain": "microsoft.com",
    "source": "ats",
    "kind": "tracked",
-   "title": "Research Intern",
-   "location": "China, Beijing, Beijing; China, Shanghai, Shanghai",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556978909",
-   "posted_at": "2026-08-21T10:55:14+00:00",
-   "department": "HR Group",
+   "title": "Research Intern - Memory Pathfinding",
+   "location": "United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079448",
+   "posted_at": "2026-11-25T00:24:41+00:00",
+   "department": "Cloud + AI",
    "confidence": "high",
    "match": [
     "title-strong"
    ],
-   "phd": false,
-   "job_id": "eightfold:microsoft.com:1970393556978909",
-   "order": 664,
+   "phd": true,
+   "job_id": "eightfold:microsoft.com:1970393557079448",
+   "order": 13,
    "regions": [
-    "Asia"
+    "US"
    ]
   }
  ]

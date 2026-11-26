@@ -5,7 +5,77 @@
   <link rel="alternate" href="https://phd-intern-board.github.io/"/>
   <link rel="self" href="https://phd-intern-board.github.io/feed.xml"/>
   <id>https://phd-intern-board.github.io/</id>
-  <updated>2026-11-25T01:21:22+00:00</updated>
+  <updated>2026-11-26T02:25:39+00:00</updated>
+  <entry>
+    <title>TikTok &#8212; Machine Learning Engineer Intern - PhD</title>
+    <link rel="alternate" href="https://lifeattiktok.com/search/7712192759532357893"/>
+    <id>urn:phd-intern-board:simplify:fbf4266e-b848-473e-8302-c9828621276d</id>
+    <updated>2026-11-26T02:25:39+00:00</updated>
+    <summary>Seattle, WA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft &#8212; Research Intern - Machine Learning for Biology and Healthcare</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557097217"/>
+    <id>urn:phd-intern-board:simplify:18d68763-3c47-4ab5-b01f-6be06b7897f9</id>
+    <updated>2026-11-26T00:00:28+00:00</updated>
+    <summary>Redmond, WA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Mayo Clinic &#8212; Research Fellow - Radiology - Bagci lab</title>
+    <link rel="alternate" href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396473"/>
+    <id>urn:phd-intern-board:simplify:4840fe64-410d-4200-bdf4-4fe127006106</id>
+    <updated>2026-11-25T23:20:27+00:00</updated>
+    <summary>Jacksonville, FL · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Research Intern - Machine Learning for Biology and Healthcare</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557097217"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557097217</id>
+    <updated>2026-11-25T22:07:04+00:00</updated>
+    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>SambaNova Systems &#8212; Machine Learning Engineer Intern</title>
+    <link rel="alternate" href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004"/>
+    <id>urn:phd-intern-board:simplify:f4341e5f-56b8-4f46-9743-f31471747414</id>
+    <updated>2026-11-25T18:24:13+00:00</updated>
+    <summary>Austin, TX, San Jose, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>SambaNova Systems &#8212; AI Performance Engineer Intern</title>
+    <link rel="alternate" href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004"/>
+    <id>urn:phd-intern-board:simplify:a0d0bb39-5469-44b9-b60c-35ff95656ea4</id>
+    <updated>2026-11-25T16:32:08+00:00</updated>
+    <summary>Austin, TX, San Jose, CA · Other · PhD</summary>
+  </entry>
+  <entry>
+    <title>SambaNova &#8212; Machine Learning Engineer Intern</title>
+    <link rel="alternate" href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004"/>
+    <id>urn:phd-intern-board:greenhouse:sambanovasystems:6271395004</id>
+    <updated>2026-11-25T13:24:13-05:00</updated>
+    <summary>Austin, Texas, United States, San Jose, California, United States +2 more · Infra &amp; chips</summary>
+  </entry>
+  <entry>
+    <title>Waymo &#8212; 2027 Summer Intern, PhD, Driver Understanding and Evaluation, Large Model Evaluation</title>
+    <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8415223"/>
+    <id>urn:phd-intern-board:greenhouse:waymo:8415223</id>
+    <updated>2026-11-25T12:25:05-05:00</updated>
+    <summary>Mountain View, California, USA, Mountain View (US-MTV-EMF680) · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>SambaNova &#8212; ML Infrastructure Engineer Intern</title>
+    <link rel="alternate" href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004"/>
+    <id>urn:phd-intern-board:greenhouse:sambanovasystems:6271289004</id>
+    <updated>2026-11-25T12:04:03-05:00</updated>
+    <summary>Austin, Texas, United States, San Jose, California, United States +2 more · Infra &amp; chips</summary>
+  </entry>
+  <entry>
+    <title>SambaNova &#8212; AI Performance Engineer Intern</title>
+    <link rel="alternate" href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004"/>
+    <id>urn:phd-intern-board:greenhouse:sambanovasystems:6271183004</id>
+    <updated>2026-11-25T11:32:08-05:00</updated>
+    <summary>Austin, Texas, United States, San Jose, California, United States +2 more · Infra &amp; chips</summary>
+  </entry>
   <entry>
     <title>Microsoft &#8212; Research Intern - AI Systems Architecture - Efficient LLM Inference</title>
     <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557079428"/>
@@ -26,6 +96,13 @@
     <id>urn:phd-intern-board:simplify:e5e856c3-4982-40e5-92e4-b5dae10efbab</id>
     <updated>2026-11-25T01:21:22+00:00</updated>
     <summary>Mountain View, CA · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Microsoft / MSR &#8212; Research Intern - Memory Pathfinding</title>
+    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557079448"/>
+    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557079448</id>
+    <updated>2026-11-25T00:24:41+00:00</updated>
+    <summary>United States, California, Mountain View · Big tech · PhD</summary>
   </entry>
   <entry>
     <title>Samsung &#8212; LLM Inference Acceleration Architecture Intern - Moe &amp; Attention-FFN Disaggregation</title>
@@ -348,82 +425,5 @@
     <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557076203</id>
     <updated>2026-11-19T23:24:40+00:00</updated>
     <summary>Canada, British Columbia, Vancouver · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Texas Instruments &#8212; Synthetic Data for Edge AI System Engineer Intern</title>
-    <link rel="alternate" href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016339"/>
-    <id>urn:phd-intern-board:simplify:46be2a82-673e-48b7-8b08-1d960420d797</id>
-    <updated>2026-11-19T23:07:21+00:00</updated>
-    <summary>Dallas, TX · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Texas Instruments &#8212; Systems Engineer Intern - Robotics and AI</title>
-    <link rel="alternate" href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016336"/>
-    <id>urn:phd-intern-board:simplify:609409a7-5528-4f31-8e68-37da1dc2bd2e</id>
-    <updated>2026-11-19T23:07:20+00:00</updated>
-    <summary>Dallas, TX · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - AI /Machine Learning Numerics &amp; Efficiency</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557076159"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557076159</id>
-    <updated>2026-11-19T21:10:37+00:00</updated>
-    <summary>United States, Washington, Redmond, United States, California, Mountain View · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - AI Safety, Alignment, and Post-Training</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557076142"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557076142</id>
-    <updated>2026-11-19T20:18:08+00:00</updated>
-    <summary>United States, Washington, Redmond, United States, California, Mountain View · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Cartesian Systems &#8212; Applied ML/CS PhD Intern</title>
-    <link rel="alternate" href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4515322009"/>
-    <id>urn:phd-intern-board:simplify:8e3d3b72-2402-4196-badd-1a8e2e39f38a</id>
-    <updated>2026-11-19T20:17:24+00:00</updated>
-    <summary>Cambridge, MA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft / MSR &#8212; Research Intern - Deep Learning Group</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557076095"/>
-    <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557076095</id>
-    <updated>2026-11-19T18:32:45+00:00</updated>
-    <summary>United States, Washington, Redmond · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Waymo &#8212; 2027 Summer Intern, PhD, Agentic AI</title>
-    <link rel="alternate" href="https://careers.withwaymo.com/jobs?gh_jid=8401116"/>
-    <id>urn:phd-intern-board:greenhouse:waymo:8401116</id>
-    <updated>2026-11-19T18:05:23-05:00</updated>
-    <summary>Mountain View, California, United States, Mountain View (US-MTV-EMF680) · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Microsoft &#8212; Research Intern - Machine Learning for Biology and Healthcare</title>
-    <link rel="alternate" href="https://apply.careers.microsoft.com/careers/job/1970393557075448"/>
-    <id>urn:phd-intern-board:simplify:1f1efbc4-df6d-40b0-b90d-8831e116d0ca</id>
-    <updated>2026-11-19T15:09:31+00:00</updated>
-    <summary>Cambridge, UK · Big tech · PhD</summary>
-  </entry>
-  <entry>
-    <title>Meta &#8212; Research Scientist Intern - Physics-Grounded Multimodal Robot Learning</title>
-    <link rel="alternate" href="https://www.metacareers.com/jobs/994911809842621"/>
-    <id>urn:phd-intern-board:simplify:e8bbf313-db80-4a1b-b1fd-6c7cb8eb3583</id>
-    <updated>2026-11-19T02:39:41+00:00</updated>
-    <summary>Redmond, WA · Big tech</summary>
-  </entry>
-  <entry>
-    <title>Toyota Research Institute &#8212; Robotics Intern - Generalist Robot Learning</title>
-    <link rel="alternate" href="https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply"/>
-    <id>urn:phd-intern-board:simplify:b0ce7f24-559f-4b1c-bed2-b832cc9c2944</id>
-    <updated>2026-11-19T02:27:43+00:00</updated>
-    <summary>Los Altos, CA · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Genentech &#8212; AI for Drug Discovery Intern - AI for Drug Discovery - AIDD</title>
-    <link rel="alternate" href="https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1"/>
-    <id>urn:phd-intern-board:simplify:32c50724-f6fc-4017-90f7-6d760a94adec</id>
-    <updated>2026-11-19T00:00:00+00:00</updated>
-    <summary>NYC · Other · PhD</summary>
   </entry>
 </feed>
