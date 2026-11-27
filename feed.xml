@@ -133,20 +133,6 @@
     <summary>United States, Washington, Redmond · Big tech · PhD</summary>
   </entry>
   <entry>
-    <title>Johns Hopkins Applied Physics Laboratory &#8212; Artificial Intelligence and Complex Systems Intern</title>
-    <link rel="alternate" href="https://careers.jhuapl.edu/jobs/60935?icims=1&amp;lang=en-us"/>
-    <id>urn:phd-intern-board:simplify:ccee3e39-6a88-4c3c-b913-c7af244fc90c</id>
-    <updated>2026-11-24T20:29:00+00:00</updated>
-    <summary>Laurel, MD · Other · PhD</summary>
-  </entry>
-  <entry>
-    <title>Johns Hopkins Applied Physics Laboratory &#8212; Robotics Intern</title>
-    <link rel="alternate" href="https://careers.jhuapl.edu/jobs/61013?icims=1&amp;lang=en-us"/>
-    <id>urn:phd-intern-board:simplify:5c4ff4e4-2ba8-4244-9b38-08135d57623f</id>
-    <updated>2026-11-24T20:28:00+00:00</updated>
-    <summary>Laurel, MD · Other · PhD</summary>
-  </entry>
-  <entry>
     <title>Mistral AI &#8212; Applied AI, Forward Deployed Machine Learning Engineer - (Internship)</title>
     <link rel="alternate" href="https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b"/>
     <id>urn:phd-intern-board:ashby:mistral.ai:fcdb8407-20b9-4179-81b6-f2ca2c79a39b</id>
@@ -166,6 +152,13 @@
     <id>urn:phd-intern-board:ashby:mistral.ai:36f5f453-92c1-4f55-ac2a-bcfad5ffe2d2</id>
     <updated>2026-11-24T12:47:53.134+00:00</updated>
     <summary>Paris · Frontier lab · PhD</summary>
+  </entry>
+  <entry>
+    <title>JP Morgan Chase &#8212; Applied AI Intern - HR CDAO</title>
+    <link rel="alternate" href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549"/>
+    <id>urn:phd-intern-board:simplify:3b853022-5629-46f0-9410-31a4e4d1518e</id>
+    <updated>2026-11-23T23:24:08+00:00</updated>
+    <summary>NYC · Other · PhD</summary>
   </entry>
   <entry>
     <title>Honeywell &#8212; Energy and Utilities Software Product Design and AI Development Intern</title>
@@ -425,5 +418,12 @@
     <id>urn:phd-intern-board:eightfold:microsoft.com:1970393557076203</id>
     <updated>2026-11-19T23:24:40+00:00</updated>
     <summary>Canada, British Columbia, Vancouver · Big tech · PhD</summary>
+  </entry>
+  <entry>
+    <title>Texas Instruments &#8212; Synthetic Data for Edge AI System Engineer Intern</title>
+    <link rel="alternate" href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016339"/>
+    <id>urn:phd-intern-board:simplify:46be2a82-673e-48b7-8b08-1d960420d797</id>
+    <updated>2026-11-19T23:07:21+00:00</updated>
+    <summary>Dallas, TX · Other · PhD</summary>
   </entry>
 </feed>
